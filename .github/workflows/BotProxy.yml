@@ -1,0 +1,37 @@
+name: Proxy Parse Json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+    name: Install Os
+
+    steps:
+    - name: 📂 Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GIT_TOKEN }}  # Pastikan ini punya izin push, atau ganti dengan GITHUB_TOKEN
+
+    - name: 🐍 Set Up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: 📦 Install Dependencies
+      run: |
+        pip install requests
+
+    - name: 🚀 Jalankan CF Proxy Scan
+      run: |
+        python3 ./SC/main.py
+
+    - name: 📤 Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add Data/Alive.json
+        git diff --cached --quiet || (git commit -m "🔁 Update proxyip" && git push)
