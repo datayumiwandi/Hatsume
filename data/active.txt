@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,CV Rumahweb Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+43.218.77.16,443,ID,Amazoncom Inc
+172.232.239.151,587,ID,Linode
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
-203.194.112.119,8443,ID,CV Rumahweb Indonesia
-51.79.158.126,443,SG,OVH Singapore PTE LTD
-8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
-138.2.77.179,30018,SG,Oracle Corporation
-202.84.53.85,19999,JP,Azumino Network Community TV
-192.243.122.226,8443,JP,IT7 Networks Inc
-104.245.12.121,1443,US,xTom
-149.248.21.85,11146,US,Vultr Holdings LLC
-107.172.100.104,8898,US,RackNerd LLC
+152.69.220.136,53076,SG,Oracle Corporation
+139.162.51.138,2053,SG,1391620016
+139.180.191.96,31001,SG,SGPVULTRCUST
+8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
+122.210.19.25,20087,JP,UCOM Corporation
+91.149.239.122,443,US,BGNETWORK
+24.199.104.112,8443,US,DigitalOcean LLC
+45.135.229.93,2053,US,GCore Labs Customer assignment
