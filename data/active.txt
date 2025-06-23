@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 43.218.77.16,443,ID,Amazoncom Inc
-172.232.239.151,587,ID,Linode
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
-152.69.220.136,53076,SG,Oracle Corporation
-139.162.51.138,2053,SG,1391620016
-139.180.191.96,31001,SG,SGPVULTRCUST
-8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
-122.210.19.25,20087,JP,UCOM Corporation
-91.149.239.122,443,US,BGNETWORK
-24.199.104.112,8443,US,DigitalOcean LLC
-45.135.229.93,2053,US,GCore Labs Customer assignment
+138.2.95.61,1111,SG,Oracle Corporation
+8.219.126.137,491,SG,Alibaba Cloud Singapore Private Limited
+213.35.100.31,47112,SG,Oracle Svenska AB
+45.89.109.80,8443,JP,WorkTitans BV
+47.79.33.117,11101,JP,Alibaba Cloud LLC
+47.251.74.98,49200,US,Alibaba Cloud  US
+184.169.181.217,443,US,Amazoncom Inc
+104.234.50.150,2053,US,Private Customer
