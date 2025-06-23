@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,Amazoncom Inc
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
+203.194.112.119,2053,ID,CV Rumahweb Indonesia
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
-43.218.77.16,1443,ID,Amazoncom Inc
-194.127.193.124,24467,SG,Greencloud LLC
-129.150.49.58,18650,SG,Oracle Corporation
-8.222.159.134,12483,SG,Alibaba Cloud Singapore Private Limited
-185.184.223.47,443,JP,365 Group LLC
-140.83.57.183,22735,JP,imported inetnum object for OCPL1
-45.77.4.176,36983,US,Vultr Holdings LLC
-64.64.240.179,22023,US,Cluster Logic Inc
-152.70.155.147,443,US,Oracle Corporation
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
+51.79.158.126,443,SG,OVH Singapore PTE LTD
+8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
+138.2.77.179,30018,SG,Oracle Corporation
+202.84.53.85,19999,JP,Azumino Network Community TV
+192.243.122.226,8443,JP,IT7 Networks Inc
+104.245.12.121,1443,US,xTom
+149.248.21.85,11146,US,Vultr Holdings LLC
+107.172.100.104,8898,US,RackNerd LLC
