@@ -1,0 +1,12 @@
+43.218.77.16,443,ID,Amazoncom Inc
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
+43.218.77.16,1443,ID,Amazoncom Inc
+194.127.193.124,24467,SG,Greencloud LLC
+129.150.49.58,18650,SG,Oracle Corporation
+8.222.159.134,12483,SG,Alibaba Cloud Singapore Private Limited
+185.184.223.47,443,JP,365 Group LLC
+140.83.57.183,22735,JP,imported inetnum object for OCPL1
+45.77.4.176,36983,US,Vultr Holdings LLC
+64.64.240.179,22023,US,Cluster Logic Inc
+152.70.155.147,443,US,Oracle Corporation
