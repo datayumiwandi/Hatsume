@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
-149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 172.232.239.151,587,ID,Linode
-139.162.51.138,8443,SG,1391620016
-97.74.82.87,45837,SG,GoDaddycom LLC
-51.79.158.126,443,SG,OVH Singapore PTE LTD
-45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
-198.13.42.58,32954,JP,Vultr Holdings LLC
-134.209.166.201,8443,US,DigitalOcean LLC
-149.248.7.208,443,US,Vultr Holdings LLC
-50.228.203.26,443,US,Comcast Cable Communications LLC
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
+52.221.189.27,443,SG,Amazon Data Services Singapore
+152.69.220.136,53076,SG,Oracle Corporation
+8.222.159.134,12314,SG,Alibaba Cloud Singapore Private Limited
+45.89.109.86,2053,JP,WorkTitans BV
+192.243.122.226,8443,JP,IT7 Networks Inc
+216.24.181.49,49151,US,Cluster Logic Inc
+193.233.87.67,2053,US,VDSKANET
+64.69.37.83,9999,US,MULTACOM CORPORATION
