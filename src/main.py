@@ -13,27 +13,26 @@ target_per_country = {
     "US": 3,
 }
 
-# File output
+# Output path
 output_path = "data/active.txt"
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-# Kata-kata blacklist (huruf kecil semua)
+# Kata blacklist
 blacklist_words = {
     "pt", "lpp", "llc", "shpk", "ta", "city", "bv", "am", "retn",
     "company", "sm", "hk", "private", "customer", "ab", "limited", "a", "in", "169", "162"
 }
 
-# Fungsi membersihkan dan mengambil 2 kata bersih
+# Fungsi membersihkan org dan ambil 2 kata saja
 def simplify_org(org):
     words = org.lower().split()
     filtered = [w for w in words if w not in blacklist_words]
     return ' '.join(filtered[:2]) if filtered else 'unknown'
 
-# Ambil data proxy dari URL
+# Ambil data dari URL
 response = requests.get(URL)
 lines = response.text.strip().splitlines()
 
-# Kelompokkan proxy berdasarkan negara
 proxies_by_country = {}
 
 for line in lines:
@@ -42,19 +41,25 @@ for line in lines:
         ip, port, cc, org = parts
         if cc in target_per_country:
             org_clean = simplify_org(org)
-            cleaned_line = f"{ip},{port},{cc},{org_clean}"
-            proxies_by_country.setdefault(cc, []).append(cleaned_line)
+            proxies_by_country.setdefault(cc, []).append((ip, port, cc, org_clean))
 
-# Pilih proxy acak
+# Pilih proxy acak dan beri nomor duplikat
 selected_proxies = []
+org_counter = {}
 
 for cc, count in target_per_country.items():
     proxies = proxies_by_country.get(cc, [])
     if len(proxies) >= count:
-        selected_proxies.extend(random.sample(proxies, count))
+        picked = random.sample(proxies, count)
     else:
         print(f"[⚠️] {cc}: hanya tersedia {len(proxies)} dari {count} yang diminta.")
-        selected_proxies.extend(proxies)
+        picked = proxies
+
+    for ip, port, cc, org in picked:
+        # Tambahkan angka jika nama org sudah pernah muncul
+        org_counter[org] = org_counter.get(org, 0) + 1
+        final_org = f"{org} {org_counter[org]}" if org_counter[org] > 1 else org
+        selected_proxies.append(f"{ip},{port},{cc},{final_org}")
 
 # Simpan hasil
 with open(output_path, "w") as f:
