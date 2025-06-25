@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-139.180.215.77,57878,SG,sgpvultrcust
-129.150.61.72,443,SG,oracle corporation
-8.222.131.225,443,SG,alibaba cloud
-168.138.201.217,59217,JP,cloudflare inc
-122.210.19.25,21807,JP,ucom corporation
-154.38.181.110,2053,US,contabo inc
-139.144.202.90,587,US,linode
-45.135.229.93,2053,US,gcore labs
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+129.150.36.188,53435,SG,oracle corporation
+206.206.76.208,8443,SG,regxa
+213.35.100.31,47112,SG,oracle svenska
+149.28.30.146,44243,JP,vultr holdings
+158.101.152.6,2919,JP,oracle public
+89.116.44.170,2053,US,ethernet servers
+38.58.63.150,51646,US,netlab
+107.175.69.166,2053,US,racknerd
