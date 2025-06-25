@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
-203.194.112.119,8443,ID,CV Rumahweb Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+203.194.112.119,2053,ID,CV Rumahweb Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
-13.250.131.37,443,SG,Amazon Data Services Singapore
-164.52.2.99,443,SG,UCULSG
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-152.70.82.70,1450,JP,Oracle Corporation
-153.121.40.119,443,JP,SAKURA Internet Inc
-148.135.5.55,34215,US,MULTACOM CORPORATION
-45.12.88.150,443,US,Hostsymbol Pte Ltd
-107.173.241.242,44250,US,HostPapa
+149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
+168.138.171.70,23280,SG,Oracle Public Cloud
+31.192.238.71,8443,SG,PDK LLC
+8.222.132.249,10036,SG,Alibaba Cloud Singapore Private Limited
+8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
+45.89.109.86,8443,JP,WorkTitans BV
+150.230.168.70,50479,US,Oracle Corporation
+172.245.156.220,443,US,RackNerd LLC
+104.234.50.58,2053,US,Private Customer
