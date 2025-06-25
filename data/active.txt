@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-178.128.80.43,443,SG,digitalocean
-64.49.14.41,2053,SG,internet utilities
-129.150.50.21,44009,SG,oracle corporation
-147.45.49.11,8443,JP,global connectivity
-64.176.40.224,3533,JP,the constant
-172.245.118.118,10177,US,racknerd
-34.68.95.24,5000,US,google
-104.234.50.183,2053,US,unknown
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+8.222.237.72,443,SG,alibaba cloud
+194.36.179.5,2053,SG,first server
+38.54.16.95,2053,SG,kaopu cloud
+138.2.49.197,587,JP,oracle corporation
+217.142.243.226,443,JP,oracle svenska
+89.116.170.222,2053,US,uab bite
+107.172.103.195,16072,US,racknerd
+23.94.213.132,27149,US,hostpapa
