@@ -1,12 +1,12 @@
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-31.192.238.71,2053,SG,pdk
-8.222.243.73,26385,SG,alibaba cloud
-194.127.193.240,50791,SG,greencloud
-131.186.63.89,11655,JP,oracle public
-45.76.192.129,24434,JP,vultr holdings
-154.12.59.51,12567,US,cogent communications
-104.234.50.221,2053,US,unknown
-107.148.28.125,20936,US,peg tech
+5.223.49.4,2053,SG,hetzner online
+161.117.249.114,2025,SG,1 raffles
+167.253.158.63,8443,SG,365 group
+45.89.109.88,2053,JP,worktitans
+45.89.109.86,8443,JP,worktitans
+38.22.233.110,443,US,netlab
+184.169.181.217,443,US,amazoncom inc
+138.124.180.151,443,US,worktitans
