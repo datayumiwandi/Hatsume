@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-43.128.95.110,40029,SG,6 collyer
-8.219.58.164,57373,SG,alibaba cloud
-51.79.158.126,443,SG,ovh singapore
-217.142.250.28,443,JP,oracle svenska
-158.101.85.23,41092,JP,oracle public
-185.106.96.203,11338,US,sriyaan technology
-80.209.242.177,8443,US,hostkey
-173.249.201.109,54443,US,tzulodjc
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb
+139.180.215.77,57878,SG,sgpvultrcust
+129.150.61.72,443,SG,oracle corporation
+8.222.131.225,443,SG,alibaba cloud
+168.138.201.217,59217,JP,cloudflare inc
+122.210.19.25,21807,JP,ucom corporation
+154.38.181.110,2053,US,contabo inc
+139.144.202.90,587,US,linode
+45.135.229.93,2053,US,gcore labs
