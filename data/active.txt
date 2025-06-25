@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.130.35.116,8888,SG,amazon data
-139.180.215.77,57878,SG,sgpvultrcust
-168.138.181.188,61731,SG,oracle public
-45.89.109.85,2053,JP,worktitans
-154.31.113.72,443,JP,dmit cloud
-34.16.182.230,50651,US,google
-158.101.39.0,42979,US,oracle public
-207.60.50.153,443,US,kurun cloud
+203.194.112.119,8443,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
+164.52.2.99,443,SG,uculsg
+146.235.18.248,45137,SG,oracle corporation
+8.222.220.81,25435,SG,alibaba cloud
+45.89.109.81,8443,JP,worktitans
+141.147.162.125,443,JP,oracle corporation
+173.242.121.61,54321,US,cluster logic
+129.153.112.108,3966,US,oracle corporation
+144.126.147.42,443,US,contabo inc
