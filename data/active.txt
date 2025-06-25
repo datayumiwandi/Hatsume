@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb 2
 103.6.207.108,8080,ID,pusat media
-206.206.76.208,2053,SG,regxa
-158.178.243.152,61731,SG,oracle corporation
-15.235.199.103,8443,SG,ovh singapore
-122.210.19.25,36167,JP,ucom corporation
-152.70.82.70,1450,JP,oracle corporation 2
-104.194.72.33,443,US,it7 networks
-198.144.183.24,443,US,racknerd
-142.171.94.70,27149,US,multacom corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
+5.223.49.4,2053,SG,hetzner online
+192.53.113.156,587,SG,akamai connected
+194.36.178.36,2053,SG,first server
+158.101.77.33,443,JP,oracle public
+64.176.37.22,443,JP,vultr holdings
+64.112.41.196,42714,US,cloudcone
+107.172.102.212,20700,US,racknerd
+172.245.232.173,443,US,brainstorm network
