@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-164.52.2.99,443,SG,uculsg
-146.235.18.248,45137,SG,oracle corporation
-8.222.220.81,25435,SG,alibaba cloud
-45.89.109.81,8443,JP,worktitans
-141.147.162.125,443,JP,oracle corporation
-173.242.121.61,54321,US,cluster logic
-129.153.112.108,3966,US,oracle corporation
-144.126.147.42,443,US,contabo inc
+149.129.250.8,443,ID,21f ciputra
+47.130.35.116,8888,SG,amazon data
+83.142.30.5,2096,SG,zappie host
+8.222.237.72,443,SG,alibaba cloud
+45.89.109.80,2053,JP,worktitans
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+129.146.114.239,44039,US,oracle corporation
+198.23.175.231,2096,US,racknerd
+107.172.103.195,16089,US,racknerd
