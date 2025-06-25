@@ -1,12 +1,12 @@
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-129.150.36.188,53435,SG,oracle corporation
-206.206.76.208,8443,SG,regxa
-213.35.100.31,47112,SG,oracle svenska
-149.28.30.146,44243,JP,vultr holdings
-158.101.152.6,2919,JP,oracle public
-89.116.44.170,2053,US,ethernet servers
-38.58.63.150,51646,US,netlab
-107.175.69.166,2053,US,racknerd
+178.128.80.43,443,SG,digitalocean
+64.49.14.41,2053,SG,internet utilities
+129.150.50.21,44009,SG,oracle corporation
+147.45.49.11,8443,JP,global connectivity
+64.176.40.224,3533,JP,the constant
+172.245.118.118,10177,US,racknerd
+34.68.95.24,5000,US,google
+104.234.50.183,2053,US,unknown
