@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.127.193.124,24467,SG,greencloud
-160.22.79.166,443,SG,onidel pty
-152.69.220.136,53076,SG,oracle corporation
-138.2.12.103,14453,JP,cloudflare london
-141.147.182.141,443,JP,oracle corporation
-104.234.50.183,2053,US,unknown
-43.135.166.95,11030,US,16 collyer
-158.101.39.0,42979,US,oracle public
+13.250.131.37,443,SG,amazon data
+167.99.73.22,443,SG,digitalocean
+43.156.107.236,12131,SG,6 collyer
+45.89.109.86,8443,JP,worktitans
+152.69.199.70,8443,JP,oracle corporation
+104.160.47.72,18888,US,it7 networks
+144.34.184.181,33741,US,cluster logic
+67.226.220.10,443,US,securly inc
