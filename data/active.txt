@@ -1,12 +1,12 @@
 203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
 149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
 103.6.207.108,8080,ID,pusat media
 206.206.76.208,2053,SG,regxa
-185.81.28.95,30503,SG,akile ltd
-138.2.89.64,32962,SG,oracle corporation
-198.13.42.58,32954,JP,vultr holdings
-219.117.2.190,48401,JP,jupiter telecommunications
-77.91.126.60,8443,US,365partners inc
-104.234.50.92,2053,US,unknown
-193.43.72.253,8443,US,cgi global
+158.178.243.152,61731,SG,oracle corporation
+15.235.199.103,8443,SG,ovh singapore
+122.210.19.25,36167,JP,ucom corporation
+152.70.82.70,1450,JP,oracle corporation 2
+104.194.72.33,443,US,it7 networks
+198.144.183.24,443,US,racknerd
+142.171.94.70,27149,US,multacom corporation
