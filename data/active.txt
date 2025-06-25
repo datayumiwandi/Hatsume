@@ -1,12 +1,11 @@
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
-203.194.112.119,2053,ID,CV Rumahweb Indonesia
-36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
+203.194.112.119,2053,ID,CV Rumahweb Indonesia
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
 168.138.171.70,23280,SG,Oracle Public Cloud
-31.192.238.71,8443,SG,PDK LLC
-8.222.132.249,10036,SG,Alibaba Cloud Singapore Private Limited
-8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
-45.89.109.86,8443,JP,WorkTitans BV
-150.230.168.70,50479,US,Oracle Corporation
-172.245.156.220,443,US,RackNerd LLC
-104.234.50.58,2053,US,Private Customer
+43.156.107.236,12131,SG,6 COLLYER QUAY
+138.2.89.238,43254,SG,Oracle Corporation
+140.83.57.86,54322,JP,imported inetnum object for OCPL1
+45.77.25.6,48828,JP,Vultr Holdings LLC
+104.194.86.150,443,US,IT7 Networks Inc
+107.172.103.195,16035,US,RackNerd LLC
+104.194.82.170,443,US,IT7 Networks Inc
