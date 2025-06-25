@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb 2
-83.142.30.4,2096,SG,zappie host
-8.222.243.73,26385,SG,alibaba cloud
-194.36.179.17,2053,SG,first server
-139.162.102.152,7002,JP,akamai connected
-20.243.85.49,10443,JP,microsoft corporation
-34.194.76.43,443,US,amazon data
-5.161.176.159,50000,US,hetzner online
-107.174.158.114,15505,US,racknerd
+103.6.207.108,8080,ID,pusat media
+167.253.158.63,8443,SG,365 group
+129.150.61.72,443,SG,oracle corporation
+129.150.35.29,587,SG,oracle corporation 2
+45.89.109.82,2053,JP,worktitans
+158.101.80.84,443,JP,oracle public
+173.249.203.187,13071,US,tzulo inc
+35.209.104.104,8090,US,google
+104.234.50.19,2053,US,unknown
