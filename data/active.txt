@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-138.2.81.243,45319,SG,oracle corporation
-138.2.69.236,23334,SG,oracle corporation 2
-168.138.171.70,23280,SG,oracle public
-138.3.222.33,443,JP,oracle network
-45.89.109.80,2053,JP,worktitans
-107.172.103.195,16031,US,racknerd
-52.32.90.142,80,US,amazoncom inc
-15.204.10.80,46332,US,ovh us
+36.95.152.58,12137,ID,telekomunikasi indonesia
+138.2.69.236,23334,SG,oracle corporation
+64.49.14.41,2053,SG,internet utilities
+178.128.80.43,443,SG,digitalocean
+103.160.100.205,29844,JP,ipxo
+3.112.21.102,443,JP,amazon data
+104.168.114.123,443,US,racknerd
+45.150.65.39,8443,US,worktitans
+47.253.87.21,52315,US,alibaba cloud
