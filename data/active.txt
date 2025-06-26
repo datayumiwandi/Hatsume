@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-143.42.66.91,443,SG,m1 ltd
-139.162.51.138,8443,SG,1391620016
-192.53.113.156,587,SG,akamai connected
-64.176.42.125,10001,JP,vultr holdings
-150.230.97.136,12502,JP,oracle corporation
-107.182.17.246,27116,US,cluster logic
-107.182.179.27,2443,US,it7 networks
-98.142.141.124,49322,US,cluster logic 2
+194.36.179.17,8443,SG,first server
+51.79.158.126,443,SG,ovh singapore
+138.2.81.243,45319,SG,oracle corporation
+8.209.220.50,21273,JP,shiodome sumitomo
+141.147.182.141,443,JP,oracle corporation 2
+23.184.48.47,2053,US,incognet
+74.48.46.35,443,US,multacom corporation
+205.185.127.56,18888,US,frantech solutions
