@@ -2,11 +2,11 @@
 149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb 2
-138.2.77.179,30018,SG,oracle corporation
-8.222.237.72,443,SG,alibaba cloud
-185.81.28.95,30503,SG,akile ltd
-85.208.110.52,2053,JP,worktitans
-140.83.60.81,18443,JP,imported inetnum
-64.112.41.196,42714,US,cloudcone
-69.30.212.5,6643,US,wholesale internet
-107.172.103.195,16030,US,racknerd
+13.250.14.76,443,SG,amazon data
+5.223.49.4,2053,SG,hetzner online
+167.253.158.63,8443,SG,365 group
+45.89.109.88,8443,JP,worktitans
+147.45.49.80,2053,JP,global connectivity
+66.103.211.203,10096,US,multacom corporation
+104.194.82.170,443,US,it7 networks
+104.168.102.163,443,US,cloudflare london
