@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb 2
+203.194.112.119,8443,ID,cv rumahweb 2
 149.129.250.8,443,ID,21f ciputra
-194.36.178.36,8443,SG,first server
-129.150.61.72,443,SG,oracle corporation
-47.236.119.190,51342,SG,alibaba cloud
-45.89.109.83,8443,JP,worktitans
-149.28.30.146,44243,JP,vultr holdings
-46.8.227.58,2053,US,cgi global
-193.233.87.9,8443,US,vdskanet
-66.112.212.21,818,US,it7 networks
+178.128.80.43,443,SG,digitalocean
+38.54.16.95,2053,SG,kaopu cloud
+185.81.28.95,30503,SG,akile ltd
+150.230.204.21,10243,JP,oracle corporation
+150.230.5.34,45681,JP,oracle corporation 2
+89.116.44.170,8443,US,ethernet servers
+107.173.147.41,35398,US,racknerd
+209.94.59.221,443,US,upcloud usa
