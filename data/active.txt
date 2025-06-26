@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-8.219.126.137,491,SG,alibaba cloud
-143.198.196.196,2053,SG,digitalocean
-161.117.249.114,2025,SG,1 raffles
-122.210.19.25,36167,JP,ucom corporation
-152.70.82.101,18650,JP,oracle corporation
-104.152.187.165,443,US,centrilogic inc
-104.234.50.97,2053,US,unknown
-107.172.103.195,16040,US,racknerd
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+104.248.145.216,443,SG,digitalocean
+64.235.45.131,443,SG,singapore sg
+206.206.76.208,8443,SG,regxa
+140.83.56.110,56417,JP,imported inetnum
+147.45.49.211,443,JP,global connectivity
+46.233.44.164,443,US,virtual machine
+72.18.83.132,16232,US,cloudcone
+44.224.24.91,443,US,amazoncom inc
