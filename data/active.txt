@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.178.36,8443,SG,first server
-31.192.238.71,2053,SG,pdk
-43.134.167.135,9950,SG,6 collyer
-103.238.129.215,42734,JP,ipx
-47.79.33.117,11101,JP,alibaba cloud
-144.202.28.122,8443,US,vultr holdings
-45.8.146.42,8443,US,worktitans
-66.112.215.181,34521,US,it7 networks
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+43.128.95.84,38091,SG,6 collyer
+51.79.254.182,443,SG,ovh singapore
+31.192.238.71,8443,SG,pdk
+140.83.37.134,46478,JP,imported inetnum
+121.85.55.59,19842,JP,optage inc
+107.172.103.195,16098,US,racknerd
+142.171.137.37,8443,US,multacom corporation
+47.90.140.40,44203,US,alibaba cloud
