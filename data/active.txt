@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.128.95.110,40029,SG,6 collyer
-3.1.116.161,2053,SG,amazon data
+103.6.207.108,8080,ID,pusat media
 192.53.113.156,587,SG,akamai connected
-141.147.182.141,443,JP,oracle corporation
-160.16.76.226,443,JP,sakura internet
-52.41.218.4,443,US,amazon technologies
-107.172.103.195,16057,US,racknerd
-193.23.55.254,8443,US,it outsourcing
+8.222.159.134,12314,SG,alibaba cloud
+128.199.134.152,443,SG,digitalocean
+140.83.59.158,15805,JP,imported inetnum
+140.83.60.81,18443,JP,imported inetnum 2
+45.145.7.107,2053,US,beget
+66.98.121.205,10796,US,cluster logic
+107.173.87.79,8443,US,racknerd
