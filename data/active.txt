@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-160.22.79.179,443,SG,onidel pty
-104.248.145.216,443,SG,digitalocean
-91.192.81.154,2053,SG,melbikomas uab
-140.83.57.183,22735,JP,imported inetnum
-217.142.250.28,443,JP,oracle svenska
-107.172.21.223,8443,US,racknerd
-193.233.87.67,8443,US,vdskanet
-74.48.179.37,36460,US,cloudflare london
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+8.219.155.21,443,SG,alibaba cloud
+168.138.171.70,23280,SG,oracle public
+15.235.199.103,8443,SG,ovh singapore
+122.210.19.25,36167,JP,ucom corporation
+54.248.121.219,443,JP,amazon technologies
+154.17.29.80,50235,US,dmit cloud
+173.242.121.61,54321,US,cluster logic
+45.83.140.133,8443,US,worktitans
