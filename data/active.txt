@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
 203.194.112.119,2053,ID,cv rumahweb 2
-149.129.250.8,443,ID,21f ciputra
-158.178.246.142,61731,SG,oracle corporation
-51.79.158.126,443,SG,ovh singapore
-129.150.61.72,443,SG,oracle corporation 2
-45.89.109.83,8443,JP,worktitans
-152.70.82.70,1450,JP,oracle corporation 3
-193.32.177.101,443,US,baykov ilya
-204.110.223.100,80,US,securly inc
-154.9.241.153,10276,US,netlab
+160.22.79.179,443,SG,onidel pty
+104.248.145.216,443,SG,digitalocean
+91.192.81.154,2053,SG,melbikomas uab
+140.83.57.183,22735,JP,imported inetnum
+217.142.250.28,443,JP,oracle svenska
+107.172.21.223,8443,US,racknerd
+193.233.87.67,8443,US,vdskanet
+74.48.179.37,36460,US,cloudflare london
