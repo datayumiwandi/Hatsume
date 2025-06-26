@@ -1,12 +1,12 @@
 203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.179.17,8443,SG,first server
-51.79.158.126,443,SG,ovh singapore
-138.2.81.243,45319,SG,oracle corporation
-8.209.220.50,21273,JP,shiodome sumitomo
-141.147.182.141,443,JP,oracle corporation 2
-23.184.48.47,2053,US,incognet
-74.48.46.35,443,US,multacom corporation
-205.185.127.56,18888,US,frantech solutions
+138.2.89.238,43254,SG,oracle corporation
+13.229.159.215,443,SG,amazon technologies
+51.79.134.207,443,SG,ovh sas
+103.232.213.117,8080,JP,kvmcloud network
+49.212.133.94,443,JP,sakura internet
+142.171.16.28,39518,US,cloudflare london
+173.249.210.53,17750,US,tzulodjc
+104.194.86.189,443,US,it7 networks
