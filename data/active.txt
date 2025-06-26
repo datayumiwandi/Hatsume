@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-8.219.59.132,48130,SG,alibaba cloud
-164.52.2.98,443,SG,uculsg
-3.1.116.161,8443,SG,amazon data
-45.89.109.84,8443,JP,worktitans
-217.142.236.93,443,JP,oracle svenska
-193.124.24.85,24275,US,baxet group
-74.48.4.205,12525,US,multacom corporation
-142.171.192.140,10001,US,multacom corporation 2
+203.194.112.119,2053,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+158.178.246.142,61731,SG,oracle corporation
+51.79.158.126,443,SG,ovh singapore
+129.150.61.72,443,SG,oracle corporation 2
+45.89.109.83,8443,JP,worktitans
+152.70.82.70,1450,JP,oracle corporation 3
+193.32.177.101,443,US,baykov ilya
+204.110.223.100,80,US,securly inc
+154.9.241.153,10276,US,netlab
