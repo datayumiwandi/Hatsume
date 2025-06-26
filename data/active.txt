@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-138.2.81.243,45319,SG,oracle corporation
-185.114.78.230,443,SG,aryaka networks
-164.52.2.98,443,SG,uculsg
-158.101.77.33,443,JP,oracle public
-202.60.191.6,29192,JP,ztv co
-104.168.102.163,443,US,cloudflare london
-148.135.106.248,18454,US,brander group
-104.234.50.97,2053,US,unknown
+36.95.152.58,12137,ID,telekomunikasi indonesia
+143.42.66.91,443,SG,m1 ltd
+139.162.51.138,8443,SG,1391620016
+192.53.113.156,587,SG,akamai connected
+64.176.42.125,10001,JP,vultr holdings
+150.230.97.136,12502,JP,oracle corporation
+107.182.17.246,27116,US,cluster logic
+107.182.179.27,2443,US,it7 networks
+98.142.141.124,49322,US,cluster logic 2
