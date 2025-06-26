@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-138.2.89.64,32962,SG,oracle corporation
-31.192.238.71,8443,SG,pdk
-47.130.35.116,8888,SG,amazon data
-147.45.49.164,24443,JP,global connectivity
-158.101.77.33,443,JP,oracle public
-142.171.221.31,2053,US,multacom corporation
-15.204.10.80,39268,US,ovh us
-38.180.40.64,2053,US,3nt solutions
+103.6.207.108,8080,ID,pusat media
+8.219.126.137,491,SG,alibaba cloud
+143.198.196.196,2053,SG,digitalocean
+161.117.249.114,2025,SG,1 raffles
+122.210.19.25,36167,JP,ucom corporation
+152.70.82.101,18650,JP,oracle corporation
+104.152.187.165,443,US,centrilogic inc
+104.234.50.97,2053,US,unknown
+107.172.103.195,16040,US,racknerd
