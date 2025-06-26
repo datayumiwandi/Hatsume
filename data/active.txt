@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb 2
-8.219.155.21,443,SG,alibaba cloud
-77.221.133.147,443,SG,ihc network
-143.198.196.196,2053,SG,digitalocean
-103.106.228.126,2053,JP,oneprovidercom tokyo
-45.89.109.85,8443,JP,worktitans
-142.171.202.202,21425,US,multacom corporation
-144.34.231.211,443,US,cluster logic
-45.152.84.197,8443,US,beget
+168.138.171.70,23280,SG,oracle public
+178.128.80.43,443,SG,digitalocean
+64.49.14.41,2053,SG,internet utilities
+64.110.104.30,443,JP,oracle corporation
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+209.146.102.45,23763,US,netlab
+80.209.242.156,8443,US,hostkey
+89.36.163.29,8443,US,melbikomas uab
