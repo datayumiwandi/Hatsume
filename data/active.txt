@@ -1,6 +1,6 @@
 160.22.79.179,443,SG,onidel pty
-139.162.127.39,18836,JP,akamai connected
 154.31.113.72,443,JP,dmit cloud
-195.123.241.122,50008,US,total server
-148.135.111.27,56585,US,multacom corporation
-204.110.223.105,443,US,securly inc
+139.162.127.39,18836,JP,akamai connected
+63.205.203.251,443,US,att enterprises
+172.96.209.184,53849,US,cluster logic
+23.95.61.179,15160,US,racknerd
