@@ -1,3 +1,3 @@
-142.171.76.55,8898,US,multacom corporation
-172.96.192.109,22503,US,cluster logic
-74.48.85.50,443,US,multacom corporation 2
+47.90.140.40,44203,US,alibaba cloud
+193.43.72.253,2053,US,cgi global
+138.124.183.112,2053,US,worktitans
