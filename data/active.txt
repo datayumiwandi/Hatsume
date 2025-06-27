@@ -1,3 +1,3 @@
-107.172.102.212,20700,US,racknerd
-199.119.137.41,2053,US,extravm
-147.182.246.69,58017,US,digitalocean
+142.171.76.55,8898,US,multacom corporation
+172.96.192.109,22503,US,cluster logic
+74.48.85.50,443,US,multacom corporation 2
