@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-129.150.35.29,587,SG,oracle corporation
-194.36.179.17,8443,SG,first server
-47.236.119.190,51342,SG,alibaba cloud
-152.70.82.70,1450,JP,oracle corporation 2
-140.83.57.183,22735,JP,imported inetnum
-64.181.243.47,8443,US,oracle corporation 3
-107.173.147.41,27170,US,racknerd
-107.172.103.195,16087,US,racknerd 2
+203.194.112.119,8443,ID,cv rumahweb 2
+51.79.134.207,443,SG,ovh sas
+51.79.254.182,443,SG,ovh singapore
+213.35.107.73,443,SG,oracle svenska
+147.45.49.80,2053,JP,global connectivity
+45.89.109.84,2053,JP,worktitans
+216.24.184.171,95,US,chinanet anhui
+67.226.221.104,443,US,securly inc
+148.135.94.110,2053,US,brander group
