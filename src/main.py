@@ -3,14 +3,15 @@ import random
 import os
 
 # URL sumber proxy
-URL = "https://raw.githubusercontent.com/datayumiwandi/Emilia/refs/heads/main/Data/alive.txt"
+URL = "https://raw.githubusercontent.com/Mayumiwandi/Emilia/refs/heads/main/Data/alive.txt"
 
 # Jumlah target proxy per country code
 target_per_country = {
     "ID": 4,
     "SG": 3,
     "JP": 2,
-    "US": 3,
+    "US": 2,
+    "MY": 1,
 }
 
 # Output path
