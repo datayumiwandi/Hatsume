@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.81.243,45319,SG,oracle corporation
-8.222.159.134,12483,SG,alibaba cloud
-168.138.165.174,443,SG,oracle public
-139.162.84.132,18836,JP,akamai connected
-219.117.2.190,48401,JP,jupiter telecommunications
-202.91.32.252,15377,US,hostsymbol pte
-45.142.159.9,9991,US,spartan host
-38.60.193.247,13300,MY,kaopu cloud
+3.1.116.161,8443,SG,amazon data
+38.54.16.95,2053,SG,kaopu cloud
+167.253.158.63,8443,SG,365 group
+141.147.161.249,51037,JP,oracle corporation
+8.216.121.234,51922,JP,alibaba cloud
+142.171.30.213,995,US,multacom corporation
+209.94.59.221,443,US,upcloud usa
+38.60.193.247,13300,MY,kaopu cloud 2
