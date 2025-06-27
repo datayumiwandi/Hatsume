@@ -1,6 +1,3 @@
-160.22.79.179,443,SG,onidel pty
-154.31.113.72,443,JP,dmit cloud
-139.162.127.39,18836,JP,akamai connected
-63.205.203.251,443,US,att enterprises
-172.96.209.184,53849,US,cluster logic
-23.95.61.179,15160,US,racknerd
+107.172.102.212,20700,US,racknerd
+199.119.137.41,2053,US,extravm
+147.182.246.69,58017,US,digitalocean
