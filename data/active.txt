@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-8.222.132.249,10036,SG,alibaba cloud
-128.199.134.152,443,SG,digitalocean
-129.150.35.29,587,SG,oracle corporation
-109.123.231.212,2053,JP,contabo gmbh
-217.142.236.93,443,JP,oracle svenska
-3.138.59.154,443,US,amazon technologies
-156.229.166.4,41690,US,akile ltd
-107.172.103.195,16091,US,racknerd
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+64.49.14.41,8443,SG,internet utilities
+43.156.107.236,12131,SG,6 collyer
+3.1.116.161,2053,SG,amazon data
+64.110.104.30,443,JP,oracle corporation
+139.162.127.55,18836,JP,akamai connected
+216.24.184.171,95,US,chinanet anhui
+44.224.24.91,443,US,amazoncom inc
+103.124.105.222,443,US,hosteonscom vps
