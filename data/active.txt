@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-45.76.179.81,443,SG,vultr holdings
-52.221.189.27,443,SG,amazon data
-194.36.179.17,2053,SG,first server
-185.184.223.47,443,JP,365 group
-131.186.33.175,443,JP,oracle public
-74.48.4.29,37731,US,multacom corporation
-204.110.220.213,80,US,securly inc
+167.253.158.63,2053,SG,365 group
+47.236.119.190,51342,SG,alibaba cloud
+178.128.80.43,443,SG,digitalocean
+38.180.29.115,443,JP,3nt solutions
+132.226.8.109,43257,JP,oracle public
+67.226.222.2,80,US,securly inc
+142.171.75.222,17628,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
