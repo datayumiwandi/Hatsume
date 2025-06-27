@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb
 203.194.112.119,2053,ID,cv rumahweb 2
-172.252.8.168,443,ID,mitra visioner
-129.150.36.188,53435,SG,oracle corporation
-158.178.243.152,61731,SG,oracle corporation 2
 139.162.33.248,587,SG,akamai connected
-138.2.49.197,587,JP,oracle corporation 3
-217.142.230.253,587,JP,oracle corporation 4
-104.234.50.138,2053,US,unknown
-64.69.37.83,9999,US,multacom corporation
+206.206.76.208,2053,SG,regxa
+138.2.69.236,23334,SG,oracle corporation
+91.194.160.45,8443,JP,worktitans
+47.79.43.147,443,JP,alibaba cloud
+162.248.227.118,2053,US,hosting solution
+204.110.223.105,443,US,securly inc
 183.171.200.162,443,MY,celcom axiata
