@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.222.159.134,12483,SG,alibaba cloud
-158.178.246.142,61731,SG,oracle corporation
-8.222.243.73,26385,SG,alibaba cloud 2
-47.79.33.117,52311,JP,alibaba cloud 3
-132.226.8.109,43257,JP,oracle public
-129.153.127.204,20756,US,oracle corporation 2
-35.171.204.134,443,US,amazon technologies
+64.235.45.131,443,SG,singapore sg
+13.250.14.76,443,SG,amazon data
+167.253.158.63,2053,SG,365 group
+141.147.182.141,443,JP,oracle corporation
+45.89.109.29,8443,JP,worktitans
+134.209.166.201,2053,US,digitalocean
+64.64.240.179,22023,US,cluster logic
 183.171.200.162,443,MY,celcom axiata
