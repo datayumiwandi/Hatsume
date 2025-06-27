@@ -1,6 +1,6 @@
 160.22.79.179,443,SG,onidel pty
-154.31.113.72,443,JP,dmit cloud
 139.162.127.39,18836,JP,akamai connected
-67.226.221.102,80,US,securly inc
-173.242.112.192,443,US,cluster logic
-95.163.203.38,2053,US,cluster logic 2
+154.31.113.72,443,JP,dmit cloud
+97.64.26.150,443,US,it7 networks
+43.135.166.95,11030,US,16 collyer
+129.146.247.212,443,US,oracle corporation
