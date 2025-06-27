@@ -1,6 +1,6 @@
 160.22.79.179,443,SG,onidel pty
 139.162.127.39,18836,JP,akamai connected
 154.31.113.72,443,JP,dmit cloud
-97.64.26.150,443,US,it7 networks
-43.135.166.95,11030,US,16 collyer
-129.146.247.212,443,US,oracle corporation
+195.123.241.122,50008,US,total server
+148.135.111.27,56585,US,multacom corporation
+204.110.223.105,443,US,securly inc
