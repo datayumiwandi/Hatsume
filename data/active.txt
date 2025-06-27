@@ -1,3 +1,12 @@
-23.94.56.111,20338,US,racknerd
-45.150.65.39,8443,US,worktitans
-5.161.241.58,8443,US,hetzner online
+203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+45.76.179.81,443,SG,vultr holdings
+160.22.79.179,443,SG,onidel pty
+129.150.58.86,57621,SG,oracle corporation
+8.216.121.234,51922,JP,alibaba cloud
+217.142.243.226,443,JP,oracle svenska
+192.3.166.78,41095,US,racknerd
+107.173.84.99,45630,US,racknerd 2
+38.60.193.247,13300,MY,kaopu cloud
