@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-13.250.131.37,443,SG,amazon data
-143.198.92.220,443,SG,digitalocean
-158.178.236.14,61731,SG,oracle corporation
-103.106.228.126,2053,JP,oneprovidercom tokyo
-172.104.127.132,443,JP,linode
-44.209.255.249,443,US,amazon technologies
-170.130.40.244,8443,US,eonix corporation
-183.171.200.162,443,MY,celcom axiata
+91.192.81.154,2053,SG,melbikomas uab
+168.138.181.188,61731,SG,oracle public
+64.235.45.131,443,SG,singapore sg
+141.147.185.15,443,JP,oracle corporation
+154.31.113.72,443,JP,dmit cloud
+107.173.187.157,8443,US,racknerd
+107.172.94.35,443,US,racknerd 2
+38.60.193.247,13300,MY,kaopu cloud
