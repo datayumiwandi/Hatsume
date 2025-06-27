@@ -1,3 +1,3 @@
-47.90.140.40,44203,US,alibaba cloud
-193.43.72.253,2053,US,cgi global
-138.124.183.112,2053,US,worktitans
+23.94.56.111,20338,US,racknerd
+45.150.65.39,8443,US,worktitans
+5.161.241.58,8443,US,hetzner online
