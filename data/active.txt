@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-51.79.158.58,8443,SG,ovh singapore
-47.245.95.160,1443,SG,alibaba cloud
-104.248.145.216,443,SG,digitalocean
-168.138.46.115,43138,JP,oracle public
-138.2.10.217,27446,JP,oracle corporation
-148.135.106.200,443,US,brander group
-107.175.35.49,443,US,racknerd
-183.171.200.162,443,MY,celcom axiata
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+129.150.50.21,44009,SG,oracle corporation
+47.236.119.190,51342,SG,alibaba cloud
+194.36.179.17,2053,SG,first server
+54.248.121.219,443,JP,amazoncom inc 2
+103.106.228.126,2053,JP,oneprovidercom tokyo
+54.167.43.59,443,US,amazon technologies
+104.168.176.241,24264,US,hostwinds
+38.60.193.247,13300,MY,kaopu cloud
