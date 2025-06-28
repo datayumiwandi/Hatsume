@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.179.17,2053,SG,first server
-31.192.238.71,8443,SG,pdk
-110.34.164.39,28758,SG,vpls sin1
-158.101.146.3,44872,JP,oracle public
-64.176.37.22,443,JP,vultr holdings
-173.249.207.155,443,US,tzulo inc
-193.43.72.253,2053,US,cgi global
-183.171.200.162,443,MY,celcom axiata
+149.129.250.8,443,ID,21f ciputra
+52.221.189.27,443,SG,amazon data
+129.150.36.188,53435,SG,oracle corporation
+206.206.77.53,443,SG,regxa
+138.2.10.149,45638,JP,oracle corporation 2
+47.79.90.37,49153,JP,alibaba cloud
+96.45.184.78,10911,US,cluster logic
+152.67.235.3,88,US,oracle public
+38.60.193.247,13300,MY,kaopu cloud
