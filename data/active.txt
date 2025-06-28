@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 172.252.8.168,443,ID,mitra visioner
-158.178.243.152,61731,SG,oracle corporation
-83.142.30.4,2096,SG,zappie host
-47.236.119.190,51342,SG,alibaba cloud
-64.176.40.224,3533,JP,vultr holdings
-141.147.161.249,51037,JP,oracle corporation 2
-148.135.111.27,56585,US,multacom corporation
-47.90.216.208,47493,US,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+149.129.250.8,443,ID,21f ciputra
+168.138.181.188,61731,SG,oracle public
+167.99.73.22,443,SG,digitalocean
+194.36.179.5,2053,SG,first server
+45.89.109.29,8443,JP,worktitans
+138.3.222.33,443,JP,oracle network
+172.233.195.154,80,US,linode
+45.79.168.17,443,US,linode 2
+183.171.200.162,443,MY,celcom axiata
