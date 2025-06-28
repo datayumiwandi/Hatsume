@@ -1,12 +1,12 @@
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-8.219.155.21,443,SG,alibaba cloud
-15.235.199.103,8443,SG,ovh singapore
-168.138.170.211,53702,SG,oracle public
-139.162.102.152,7002,JP,akamai connected
-64.110.104.30,443,JP,oracle corporation
-45.158.127.31,2053,US,serva one
-38.180.135.97,2053,US,3nt solutions
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+62.72.46.14,8443,SG,contabo gmbh
+43.156.116.194,443,SG,6 collyer
+194.36.178.36,2053,SG,first server
+138.3.222.33,443,JP,oracle network
+46.3.101.59,8443,JP,dom tehniki
+46.17.107.199,443,US,first server 2
+45.145.75.43,10712,US,spartan host
 38.60.193.247,13300,MY,kaopu cloud
