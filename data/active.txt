@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-91.192.81.154,2053,SG,melbikomas uab
-168.138.181.188,61731,SG,oracle public
-64.235.45.131,443,SG,singapore sg
-141.147.185.15,443,JP,oracle corporation
-154.31.113.72,443,JP,dmit cloud
-107.173.187.157,8443,US,racknerd
-107.172.94.35,443,US,racknerd 2
+8.219.237.57,31523,SG,alibaba cloud
+167.99.73.22,443,SG,digitalocean
+138.2.69.236,23334,SG,oracle corporation
+113.37.149.36,12553,JP,arteria networks
+38.180.28.163,2053,JP,3nt solutions
+46.17.107.199,443,US,first server
+43.130.134.123,65001,US,6 collyer
 38.60.193.247,13300,MY,kaopu cloud
