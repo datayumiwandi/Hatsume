@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-213.35.107.73,443,SG,oracle svenska
-139.162.33.248,587,SG,akamai connected
-164.52.2.100,443,SG,uculsg
-139.162.127.55,18836,JP,akamai connected 2
-140.83.57.20,13118,JP,imported inetnum
-107.172.167.194,443,US,hostpapa
-107.172.159.182,443,US,racknerd
+203.194.112.119,2053,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+8.219.155.21,443,SG,alibaba cloud
+15.235.199.103,8443,SG,ovh singapore
+168.138.170.211,53702,SG,oracle public
+139.162.102.152,7002,JP,akamai connected
+64.110.104.30,443,JP,oracle corporation
+45.158.127.31,2053,US,serva one
+38.180.135.97,2053,US,3nt solutions
 38.60.193.247,13300,MY,kaopu cloud
