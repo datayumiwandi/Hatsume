@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb 2
-8.219.58.164,57373,SG,alibaba cloud
-168.138.171.70,23280,SG,oracle public
-8.219.1.169,443,SG,alibaba cloud 2
-64.176.40.224,3533,JP,the constant
-45.89.109.81,2053,JP,worktitans
-47.89.150.45,28626,US,alibaba cloud 3
-199.119.137.109,2053,US,extravm
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+194.36.179.17,2053,SG,first server
+31.192.238.71,8443,SG,pdk
+110.34.164.39,28758,SG,vpls sin1
+158.101.146.3,44872,JP,oracle public
+64.176.37.22,443,JP,vultr holdings
+173.249.207.155,443,US,tzulo inc
+193.43.72.253,2053,US,cgi global
 183.171.200.162,443,MY,celcom axiata
