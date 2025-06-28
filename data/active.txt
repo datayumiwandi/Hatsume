@@ -2,11 +2,11 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-52.221.189.27,443,SG,amazon data
-129.150.36.188,53435,SG,oracle corporation
+138.2.77.179,30018,SG,oracle corporation
+64.49.14.41,8443,SG,internet utilities
 206.206.77.53,443,SG,regxa
-138.2.10.149,45638,JP,oracle corporation 2
-47.79.90.37,49153,JP,alibaba cloud
-96.45.184.78,10911,US,cluster logic
-152.67.235.3,88,US,oracle public
+150.230.214.172,16957,JP,oracle corporation 2
+82.163.16.69,8080,JP,akile ltd
+148.135.76.112,443,US,brander group
+107.172.159.182,443,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
