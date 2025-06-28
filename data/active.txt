@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-51.79.158.58,8443,SG,ovh singapore
-8.219.237.57,31523,SG,alibaba cloud
-129.150.50.21,44009,SG,oracle corporation
-45.89.109.29,2053,JP,worktitans
-185.18.222.208,2053,JP,jurgita jurgaitiene
-104.168.114.123,443,US,racknerd
-172.83.159.4,16478,US,spartan host
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+194.36.178.36,8443,SG,first server
+143.198.196.196,2053,SG,digitalocean
+77.221.133.147,443,SG,ihc network
+45.89.109.81,2053,JP,worktitans
+103.106.228.126,2053,JP,oneprovidercom tokyo
+206.223.84.247,443,US,atlantic cellular
+45.8.146.221,23352,US,worktitans 2
 38.60.193.247,13300,MY,kaopu cloud
