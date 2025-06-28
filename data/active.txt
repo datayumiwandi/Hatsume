@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-83.142.30.5,2096,SG,zappie host
-167.253.158.63,2053,SG,365 group
-47.74.254.191,8900,SG,alibaba cloud
-147.45.49.164,24443,JP,global connectivity
-45.89.109.86,2053,JP,worktitans
-142.171.94.70,27149,US,multacom corporation
-62.146.172.119,443,US,contabo gmbh
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+47.236.119.190,51342,SG,alibaba cloud
+43.128.95.110,40029,SG,6 collyer
+77.221.133.147,443,SG,ihc network
+91.194.160.64,443,JP,worktitans
+217.142.243.98,51321,JP,oracle corporation
+47.88.15.127,443,US,alibaba cloud 2
+74.48.179.37,10725,US,cloudflare inc
 38.60.193.247,13300,MY,kaopu cloud
