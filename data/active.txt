@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-143.198.92.220,443,SG,digitalocean
-13.229.159.215,443,SG,amazon technologies
-8.219.59.132,48964,SG,alibaba cloud
-138.3.222.33,443,JP,oracle network
-49.212.133.94,443,JP,sakura internet
-193.32.177.79,443,US,baykov ilya
-142.171.221.31,2053,US,multacom corporation
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+51.79.158.58,8443,SG,ovh singapore
+47.245.95.160,1443,SG,alibaba cloud
+104.248.145.216,443,SG,digitalocean
+168.138.46.115,43138,JP,oracle public
+138.2.10.217,27446,JP,oracle corporation
+148.135.106.200,443,US,brander group
+107.175.35.49,443,US,racknerd
+183.171.200.162,443,MY,celcom axiata
