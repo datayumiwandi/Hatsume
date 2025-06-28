@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-138.2.77.179,30018,SG,oracle corporation
-64.49.14.41,8443,SG,internet utilities
-206.206.77.53,443,SG,regxa
-150.230.214.172,16957,JP,oracle corporation 2
-82.163.16.69,8080,JP,akile ltd
-148.135.76.112,443,US,brander group
-107.172.159.182,443,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
+54.255.217.120,8192,SG,amazon data
+164.52.2.98,443,SG,uculsg
+38.181.70.7,16240,SG,eons data
+141.147.144.15,13357,JP,oracle corporation
+103.232.213.117,8080,JP,kvmcloud network
+173.249.209.140,32037,US,tzulo inc
+3.216.234.194,443,US,amazon data 2
+183.171.200.162,443,MY,celcom axiata
