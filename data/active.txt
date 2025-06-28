@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb 2
-64.49.14.41,2053,SG,internet utilities
-15.235.199.103,8443,SG,ovh singapore
-43.156.107.236,12131,SG,6 collyer
-141.147.152.229,23333,JP,oracle corporation
-140.83.57.20,13118,JP,imported inetnum
-148.135.67.18,2053,US,brander group
-107.173.111.232,20202,US,racknerd
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.252.8.168,443,ID,mitra visioner
+3.1.116.161,2053,SG,amazon data
+194.36.179.17,2053,SG,first server
+149.28.158.103,10030,SG,vultr holdings
+64.110.101.90,55007,JP,oracle corporation
+45.89.109.29,8443,JP,worktitans
+193.43.72.253,2053,US,cgi global
+152.67.251.232,443,US,oracle public
 183.171.200.162,443,MY,celcom axiata
