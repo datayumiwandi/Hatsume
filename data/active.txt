@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-164.52.2.98,443,SG,uculsg
-8.222.159.134,12314,SG,alibaba cloud
-3.1.116.161,8443,SG,amazon data
-140.238.62.82,1443,JP,oracle public
-217.142.250.28,443,JP,oracle svenska
-38.180.60.136,2053,US,3nt solutions
-107.172.103.195,16020,US,racknerd
+43.218.77.16,443,ID,amazoncom inc
+8.219.59.132,48964,SG,alibaba cloud
+110.34.164.39,28758,SG,vpls sin1
+83.142.30.4,2096,SG,zappie host
+168.138.193.174,11959,JP,oracle public
+219.117.2.190,48401,JP,jupiter telecommunications
+104.234.50.27,2053,US,unknown
+152.67.250.9,59910,US,oracle public 2
 38.60.193.247,13300,MY,kaopu cloud
