@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-138.2.77.179,30018,SG,oracle corporation
-160.22.79.179,443,SG,onidel pty
-138.2.69.236,23334,SG,oracle corporation 2
-138.2.48.109,26412,JP,oracle corporation 3
-45.89.109.83,8443,JP,worktitans
-107.173.187.157,8443,US,racknerd
-152.70.113.150,52125,US,oracle corporation 4
-183.171.200.162,443,MY,celcom axiata
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+206.206.77.53,443,SG,regxa
+213.35.107.73,443,SG,oracle svenska
+185.81.28.95,30503,SG,akile ltd
+140.238.37.103,14782,JP,oracle public
+8.216.81.183,3939,JP,alibaba cloud
+173.249.201.109,54443,US,tzulodjc
+4.227.113.189,4443,US,microsoft corporation
+38.60.193.247,13300,MY,kaopu cloud
