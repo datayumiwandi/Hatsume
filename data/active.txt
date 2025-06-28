@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-139.180.191.96,31001,SG,sgpvultrcust
-5.34.176.119,81,SG,green floid
-51.79.158.126,443,SG,ovh singapore
-158.101.85.23,41092,JP,oracle public
-140.245.88.197,443,JP,oracle corporation
-142.171.75.222,17628,US,multacom corporation
-104.234.50.69,2053,US,unknown
-183.171.200.162,443,MY,celcom axiata
+47.74.254.191,8900,SG,alibaba cloud
+64.49.14.41,2053,SG,internet utilities
+8.219.126.137,491,SG,alibaba cloud 2
+45.89.109.83,2053,JP,worktitans
+132.226.8.109,43257,JP,oracle public
+154.9.206.198,443,US,techavenue international
+156.232.11.16,10029,US,yisu cloud
+38.60.193.247,13300,MY,kaopu cloud
