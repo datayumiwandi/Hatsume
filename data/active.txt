@@ -1,12 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-161.117.249.114,2025,SG,1 raffles
-213.35.107.73,443,SG,oracle svenska
-3.1.116.161,8443,SG,amazon data
-198.13.42.58,32954,JP,vultr holdings
-45.77.25.6,27854,JP,vultr holdings 2
-74.48.179.37,10725,US,cloudflare inc
-34.69.150.180,443,US,google
-38.60.193.247,13300,MY,kaopu cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+13.229.159.215,443,SG,amazon technologies
+158.178.243.152,61731,SG,oracle corporation
+91.192.81.154,8443,SG,melbikomas uab
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+152.69.192.40,57005,JP,oracle corporation 2
+35.185.54.229,27271,US,google
+64.112.42.10,10317,US,multacom corporation
+183.171.200.162,443,MY,celcom axiata
