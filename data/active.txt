@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+51.79.158.58,8443,SG,ovh singapore
+8.219.237.57,31523,SG,alibaba cloud
 129.150.50.21,44009,SG,oracle corporation
-47.236.119.190,51342,SG,alibaba cloud
-194.36.179.17,2053,SG,first server
-54.248.121.219,443,JP,amazoncom inc 2
-103.106.228.126,2053,JP,oneprovidercom tokyo
-54.167.43.59,443,US,amazon technologies
-104.168.176.241,24264,US,hostwinds
+45.89.109.29,2053,JP,worktitans
+185.18.222.208,2053,JP,jurgita jurgaitiene
+104.168.114.123,443,US,racknerd
+172.83.159.4,16478,US,spartan host
 38.60.193.247,13300,MY,kaopu cloud
