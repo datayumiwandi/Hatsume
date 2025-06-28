@@ -1,11 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.237.57,31523,SG,alibaba cloud
-167.99.73.22,443,SG,digitalocean
-138.2.69.236,23334,SG,oracle corporation
-113.37.149.36,12553,JP,arteria networks
-38.180.28.163,2053,JP,3nt solutions
-46.17.107.199,443,US,first server
-43.130.134.123,65001,US,6 collyer
-38.60.193.247,13300,MY,kaopu cloud
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+185.81.28.95,30503,SG,akile ltd
+129.150.50.21,44009,SG,oracle corporation
+8.222.243.73,26385,SG,alibaba cloud
+217.142.226.116,443,JP,oracle svenska
+147.45.49.80,2053,JP,global connectivity
+104.194.82.170,443,US,it7 networks
+155.248.193.100,33189,US,oracle public
+183.171.200.162,443,MY,celcom axiata
