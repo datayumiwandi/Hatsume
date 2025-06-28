@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-64.235.45.131,443,SG,singapore sg
-43.134.167.135,9950,SG,6 collyer
-158.178.236.14,61731,SG,oracle corporation
-219.117.2.190,48401,JP,jupiter telecommunications
-139.162.127.39,18836,JP,akamai connected
-107.172.103.195,16028,US,racknerd
-66.85.139.204,443,US,secured servers
-38.60.193.247,13300,MY,kaopu cloud
+139.180.191.96,31001,SG,sgpvultrcust
+5.34.176.119,81,SG,green floid
+51.79.158.126,443,SG,ovh singapore
+158.101.85.23,41092,JP,oracle public
+140.245.88.197,443,JP,oracle corporation
+142.171.75.222,17628,US,multacom corporation
+104.234.50.69,2053,US,unknown
+183.171.200.162,443,MY,celcom axiata
