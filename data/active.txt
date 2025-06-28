@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 172.252.8.168,443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-54.255.217.120,8192,SG,amazon data
-164.52.2.98,443,SG,uculsg
-38.181.70.7,16240,SG,eons data
-141.147.144.15,13357,JP,oracle corporation
-103.232.213.117,8080,JP,kvmcloud network
-173.249.209.140,32037,US,tzulo inc
-3.216.234.194,443,US,amazon data 2
-183.171.200.162,443,MY,celcom axiata
+64.235.45.131,443,SG,singapore sg
+43.134.167.135,9950,SG,6 collyer
+158.178.236.14,61731,SG,oracle corporation
+219.117.2.190,48401,JP,jupiter telecommunications
+139.162.127.39,18836,JP,akamai connected
+107.172.103.195,16028,US,racknerd
+66.85.139.204,443,US,secured servers
+38.60.193.247,13300,MY,kaopu cloud
