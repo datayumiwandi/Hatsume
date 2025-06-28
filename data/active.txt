@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-194.36.178.36,8443,SG,first server
-143.198.196.196,2053,SG,digitalocean
-77.221.133.147,443,SG,ihc network
-45.89.109.81,2053,JP,worktitans
-103.106.228.126,2053,JP,oneprovidercom tokyo
-206.223.84.247,443,US,atlantic cellular
-45.8.146.221,23352,US,worktitans 2
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+139.162.33.248,587,SG,akamai connected
+8.219.126.137,491,SG,alibaba cloud
+158.178.246.142,61731,SG,oracle corporation
+217.142.243.226,443,JP,oracle svenska
+140.83.57.20,13118,JP,imported inetnum
+38.105.26.109,36875,US,cogent communications
+20.232.193.43,27076,US,microsoft corporation
 38.60.193.247,13300,MY,kaopu cloud
