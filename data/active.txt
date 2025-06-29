@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
 172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+138.2.77.179,30018,SG,oracle corporation
+138.2.107.107,443,SG,oracle corporation 2
 8.219.126.137,491,SG,alibaba cloud
-158.178.246.142,61731,SG,oracle corporation
-192.53.113.156,587,SG,akamai connected
-153.121.45.101,443,JP,sakura internet
-152.69.199.70,8443,JP,oracle corporation 2
-34.194.76.43,443,US,amazon data
-204.110.222.106,80,US,securly inc
+140.83.59.158,15805,JP,imported inetnum
+64.176.40.224,3533,JP,vultr holdings
+64.64.241.54,20003,US,cluster logic
+74.48.179.37,36460,US,cloudflare inc
 38.60.193.247,13300,MY,kaopu cloud
