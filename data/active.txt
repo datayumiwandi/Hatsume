@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-15.235.199.103,2053,SG,ovh singapore
-164.52.2.99,443,SG,uculsg
-194.127.193.240,50791,SG,greencloud
-168.138.197.147,12345,JP,oracle public
-152.70.82.101,18650,JP,oracle corporation
-172.235.49.135,17973,US,linode
-23.83.233.179,35825,US,cluster logic
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+143.198.196.196,8443,SG,digitalocean
+47.130.35.116,8888,SG,amazon data
+5.223.49.4,2053,SG,hetzner online
+64.176.37.22,443,JP,vultr holdings
+150.230.97.136,12508,JP,oracle corporation
+47.252.46.156,40082,US,alibaba cloud
+3.88.110.210,2053,US,amazon data 2
 38.60.193.247,13300,MY,kaopu cloud
