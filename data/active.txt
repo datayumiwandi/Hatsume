@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-13.250.131.37,443,SG,amazon data
-213.35.108.135,12596,SG,oracle svenska
-38.54.16.95,2053,SG,kaopu cloud
-45.66.218.194,12959,JP,virtual machine
-91.194.160.45,8443,JP,worktitans
-107.172.103.195,16086,US,racknerd
-72.18.80.229,7676,US,cloudcone
-38.60.193.247,13300,MY,kaopu cloud 2
+45.76.179.81,443,SG,vultr holdings
+54.255.217.120,8192,SG,amazon data
+3.1.116.161,2053,SG,amazon data 2
+64.176.40.224,3533,JP,the constant
+158.101.80.84,443,JP,oracle public
+5.8.18.55,8443,US,petersburg internet
+199.119.137.77,2053,US,extravm
+38.60.193.247,13300,MY,kaopu cloud
