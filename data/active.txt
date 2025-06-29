@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-51.79.134.207,443,SG,ovh sas
-5.34.176.119,81,SG,green floid
-185.114.78.230,443,SG,aryaka networks
-5.180.76.44,443,JP,cegrgodigitalvm
-138.3.222.33,443,JP,oracle network
-103.54.57.236,10019,US,cloud web
-216.128.140.253,26376,US,the constant
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+13.228.155.72,443,SG,amazon technologies
+146.235.18.248,45137,SG,oracle corporation
+52.221.189.27,443,SG,amazon data
+198.13.42.58,32954,JP,vultr holdings
+185.18.222.208,2053,JP,jurgita jurgaitiene
+54.176.205.20,80,US,amazoncom inc 2
+148.135.111.27,47104,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
