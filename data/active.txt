@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-38.54.16.95,2053,SG,kaopu cloud
-129.150.49.58,18650,SG,oracle corporation
-8.219.58.164,57373,SG,alibaba cloud
-140.83.57.183,22735,JP,imported inetnum
-140.83.59.158,15805,JP,imported inetnum 2
-23.94.5.177,443,US,racknerd
-104.168.59.6,18914,US,racknerd 2
-38.60.193.247,13300,MY,kaopu cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+168.138.165.174,443,SG,oracle public
+8.222.159.134,12483,SG,alibaba cloud
+194.127.193.124,24467,SG,greencloud
+154.31.113.72,443,JP,dmit cloud
+139.162.102.152,7002,JP,akamai connected
+74.48.221.141,26255,US,multacom corporation
+23.95.18.12,18443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
