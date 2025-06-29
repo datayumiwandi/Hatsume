@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
-194.127.193.124,24467,SG,greencloud
-8.219.126.137,491,SG,alibaba cloud
-51.79.158.58,8443,SG,ovh singapore
-158.101.154.245,47001,JP,oracle public
-140.83.57.86,54322,JP,imported inetnum
-198.200.41.16,12520,US,peg tech
-206.223.84.247,443,US,atlantic cellular
+43.156.181.203,443,SG,16 collyer
+164.52.2.100,443,SG,uculsg
+51.79.134.207,443,SG,ovh sas
+45.89.109.85,8443,JP,worktitans
+139.162.84.132,18836,JP,akamai connected
+148.135.111.27,26364,US,brander group
+5.180.24.56,2053,US,worktitans 2
 38.60.193.247,13300,MY,kaopu cloud
