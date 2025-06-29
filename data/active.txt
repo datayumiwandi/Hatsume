@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-45.76.179.81,443,SG,vultr holdings
-54.255.217.120,8192,SG,amazon data
-3.1.116.161,2053,SG,amazon data 2
-64.176.40.224,3533,JP,the constant
-158.101.80.84,443,JP,oracle public
-5.8.18.55,8443,US,petersburg internet
-199.119.137.77,2053,US,extravm
+172.252.8.168,443,ID,mitra visioner
+8.222.220.81,25435,SG,alibaba cloud
+168.138.170.211,53702,SG,oracle public
+38.181.70.7,16240,SG,eons data
+141.147.183.49,29876,JP,oracle corporation
+149.28.21.106,443,JP,vultr holdings
+195.149.87.10,2053,US,weiss hosting
+45.83.140.133,2053,US,worktitans
 38.60.193.247,13300,MY,kaopu cloud
