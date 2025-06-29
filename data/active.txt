@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-31.192.238.71,8443,SG,pdk
-45.76.183.217,49292,SG,vultr holdings
-168.138.171.70,23280,SG,oracle public
-113.37.149.36,12553,JP,arteria networks
-202.60.191.6,29192,JP,ztv co
-35.171.204.134,443,US,amazon technologies
-23.94.44.126,16573,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
+38.54.16.95,2053,SG,kaopu cloud
+129.150.49.58,18650,SG,oracle corporation
+8.219.58.164,57373,SG,alibaba cloud
+140.83.57.183,22735,JP,imported inetnum
+140.83.59.158,15805,JP,imported inetnum 2
+23.94.5.177,443,US,racknerd
+104.168.59.6,18914,US,racknerd 2
+38.60.193.247,13300,MY,kaopu cloud 2
