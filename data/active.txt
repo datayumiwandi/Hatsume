@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-13.228.155.72,443,SG,amazon technologies
-146.235.18.248,45137,SG,oracle corporation
-52.221.189.27,443,SG,amazon data
-198.13.42.58,32954,JP,vultr holdings
-185.18.222.208,2053,JP,jurgita jurgaitiene
-54.176.205.20,80,US,amazoncom inc 2
-148.135.111.27,47104,US,multacom corporation
-38.60.193.247,13300,MY,kaopu cloud
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+54.255.217.120,8192,SG,amazon data
+185.81.28.95,30503,SG,akile ltd
+38.54.16.95,2053,SG,kaopu cloud
+82.163.16.69,8080,JP,akile ltd 2
+108.160.139.154,8443,JP,vultr holdings
+5.181.3.16,8443,US,global connectivity
+150.230.168.70,50479,US,oracle corporation
+38.60.193.247,13300,MY,kaopu cloud 2
