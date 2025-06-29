@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
 172.252.8.168,443,ID,mitra visioner
-213.35.107.73,443,SG,oracle svenska
-129.150.61.72,443,SG,oracle corporation
-51.79.158.58,2053,SG,ovh singapore
-45.89.109.80,2053,JP,worktitans
-158.101.146.3,44872,JP,oracle public
-34.105.49.234,443,US,google
-104.234.50.10,2053,US,unknown
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+54.169.229.188,443,SG,amazoncom inc 2
+129.150.50.21,44009,SG,oracle corporation
+15.235.199.103,2053,SG,ovh singapore
+158.101.80.84,443,JP,oracle public
+150.230.5.34,45681,JP,oracle corporation 2
+157.245.139.136,1443,US,digitalocean
+152.67.252.119,8080,US,oracle public 2
 38.60.193.247,13300,MY,kaopu cloud
