@@ -1,12 +1,12 @@
 43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc 2
-8.219.170.224,443,SG,alibaba cloud
-164.52.2.99,443,SG,uculsg
-194.36.179.17,2053,SG,first server
-5.180.76.44,443,JP,cegrgodigitalvm
-45.89.109.80,8443,JP,worktitans
-144.168.62.18,51204,US,it7 networks
-148.135.17.203,23469,US,multacom corporation
+5.223.49.4,2053,SG,hetzner online
+54.255.217.120,8192,SG,amazon data
+139.162.33.248,587,SG,akamai connected
+138.2.32.76,15821,JP,oracle corporation
+141.147.147.180,443,JP,oracle corporation 2
+104.160.47.72,18888,US,it7 networks
+138.124.183.112,2053,US,worktitans
 38.60.193.247,13300,MY,kaopu cloud
