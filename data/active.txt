@@ -1,12 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-47.245.95.160,1443,SG,alibaba cloud
-213.35.108.135,12596,SG,oracle svenska
-158.178.246.142,61731,SG,oracle corporation
-141.147.152.229,23333,JP,oracle corporation 2
-85.208.110.52,2053,JP,worktitans
-148.135.111.27,26123,US,multacom corporation
-104.194.84.243,443,US,it7 networks
+36.95.152.58,12137,ID,telekomunikasi indonesia
+13.228.155.72,443,SG,amazon technologies
+149.28.158.103,10030,SG,vultr holdings
+43.156.116.194,443,SG,6 collyer
+141.147.183.49,29876,JP,oracle corporation
+20.243.85.49,10443,JP,microsoft corporation
+98.142.141.124,49322,US,cluster logic
+103.170.72.129,25122,US,corenet inc
 38.60.193.247,13300,MY,kaopu cloud
