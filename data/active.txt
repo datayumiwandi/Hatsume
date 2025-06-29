@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc 2
-138.2.77.179,30018,SG,oracle corporation
-138.2.107.107,443,SG,oracle corporation 2
-8.219.126.137,491,SG,alibaba cloud
-140.83.59.158,15805,JP,imported inetnum
-64.176.40.224,3533,JP,vultr holdings
-64.64.241.54,20003,US,cluster logic
-74.48.179.37,36460,US,cloudflare inc
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+139.162.51.138,2053,SG,1391620016
+31.192.238.71,8443,SG,pdk
+164.52.2.98,443,SG,uculsg
+139.162.79.162,587,JP,akamai connected
+158.101.154.245,47001,JP,oracle public
+65.49.216.153,2443,US,it7 networks
+141.148.164.46,57239,US,oracle corporation
 38.60.193.247,13300,MY,kaopu cloud
