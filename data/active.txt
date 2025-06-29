@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-139.162.51.138,2053,SG,1391620016
-31.192.238.71,8443,SG,pdk
-164.52.2.98,443,SG,uculsg
-139.162.79.162,587,JP,akamai connected
-158.101.154.245,47001,JP,oracle public
-65.49.216.153,2443,US,it7 networks
-141.148.164.46,57239,US,oracle corporation
+203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+91.192.81.154,2053,SG,melbikomas uab
+8.222.131.225,443,SG,alibaba cloud
+138.2.107.107,443,SG,oracle corporation
+160.16.56.195,443,JP,sakura internet
+64.176.40.224,3533,JP,the constant
+107.172.103.195,16087,US,racknerd
+92.118.10.102,2053,US,first server
 38.60.193.247,13300,MY,kaopu cloud
