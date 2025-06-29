@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.89.64,32962,SG,oracle corporation
-194.36.179.17,2053,SG,first server
-164.52.2.99,443,SG,uculsg
-45.89.109.88,2053,JP,worktitans
-217.142.230.253,587,JP,oracle corporation 2
-38.46.3.168,53361,US,cogent communications
-5.161.176.159,50000,US,hetzner online
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+129.150.35.29,587,SG,oracle corporation
+51.79.158.58,2053,SG,ovh singapore
+129.150.58.86,57621,SG,oracle corporation 2
+91.194.160.64,443,JP,worktitans
+160.16.76.226,443,JP,sakura internet
+129.153.203.73,443,US,oracle corporation 3
+45.8.157.110,8443,US,nktelecom inc
 38.60.193.247,13300,MY,kaopu cloud
