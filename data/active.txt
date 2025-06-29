@@ -1,12 +1,12 @@
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-47.236.119.190,51342,SG,alibaba cloud
-139.162.33.248,587,SG,akamai connected
-129.150.49.58,18650,SG,oracle corporation
-141.98.197.101,11665,JP,xtom japan
-121.85.55.59,19842,JP,optage inc
-104.234.50.12,2053,US,unknown
-38.244.8.232,443,US,netlab
+192.53.113.156,587,SG,akamai connected
+91.192.81.154,2053,SG,melbikomas uab
+64.49.14.41,2053,SG,internet utilities
+152.69.199.70,8443,JP,oracle corporation
+103.232.213.117,8080,JP,kvmcloud network
+45.145.7.107,2053,US,as56971 network
+129.153.91.86,3701,US,oracle corporation 2
 38.60.193.247,13300,MY,kaopu cloud
