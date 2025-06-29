@@ -1,12 +1,12 @@
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-143.198.196.196,8443,SG,digitalocean
-47.130.35.116,8888,SG,amazon data
-5.223.49.4,2053,SG,hetzner online
-64.176.37.22,443,JP,vultr holdings
-150.230.97.136,12508,JP,oracle corporation
-47.252.46.156,40082,US,alibaba cloud
-3.88.110.210,2053,US,amazon data 2
+194.36.178.36,8443,SG,first server
+31.192.238.71,2053,SG,pdk
+167.99.73.22,443,SG,digitalocean
+141.147.152.229,23333,JP,oracle corporation
+103.238.129.215,42734,JP,ipx
+23.106.158.243,55434,US,it7 networks
+174.137.52.235,50971,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
