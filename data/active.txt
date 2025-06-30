@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-146.235.18.248,45137,SG,oracle corporation
-8.222.243.73,26385,SG,alibaba cloud
-8.222.159.134,12483,SG,alibaba cloud 2
-132.145.126.40,32498,JP,oracle public
-38.180.28.163,2053,JP,3nt solutions
-103.54.57.236,10019,US,cloud web
-104.234.50.226,2053,US,unknown
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+213.35.100.31,47112,SG,oracle svenska
+146.235.19.79,28983,SG,oracle corporation
+168.138.170.211,53702,SG,oracle public
+121.85.55.59,19842,JP,optage inc
+152.69.199.70,8443,JP,oracle corporation 2
+45.83.140.133,8443,US,worktitans
+149.248.21.85,11146,US,vultr holdings
 38.60.193.247,13300,MY,kaopu cloud
