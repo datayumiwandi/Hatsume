@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-149.129.250.8,443,ID,21f ciputra
-51.79.158.58,8443,SG,ovh singapore
-43.128.95.110,40029,SG,6 collyer
-158.178.243.152,61731,SG,oracle corporation
-3.112.21.102,443,JP,amazon data
-45.89.109.84,8443,JP,worktitans
-45.156.24.61,8443,US,as56971 network
-45.152.86.150,2053,US,as56971 network 2
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb 2
+43.218.77.16,443,ID,amazoncom inc
+31.192.238.71,2053,SG,pdk
+51.79.134.207,443,SG,ovh sas
+51.79.254.182,443,SG,ovh singapore
+168.138.192.16,54584,JP,oracle public
+131.186.63.89,11655,JP,oracle public 2
+129.153.193.161,42510,US,oracle corporation
+66.103.216.214,37357,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
