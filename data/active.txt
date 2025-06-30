@@ -1,12 +1,12 @@
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-45.76.183.217,49292,SG,vultr holdings
-51.79.254.182,443,SG,ovh singapore
-83.142.30.4,2096,SG,zappie host
-172.105.233.112,18836,JP,akamai connected
-140.83.59.158,15805,JP,imported inetnum
-107.172.103.195,16012,US,racknerd
-193.233.87.67,8443,US,vdskanet
+203.194.112.119,8443,ID,cv rumahweb
+164.52.2.99,443,SG,uculsg
+52.221.189.27,443,SG,amazon data
+38.181.70.7,16240,SG,eons data
+45.89.109.88,2053,JP,worktitans
+131.186.33.175,443,JP,oracle public
+142.171.94.70,27149,US,multacom corporation
+66.112.215.227,18819,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
