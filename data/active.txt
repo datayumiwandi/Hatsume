@@ -1,12 +1,12 @@
+43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-164.52.2.98,443,SG,uculsg
-128.199.134.152,443,SG,digitalocean
-192.53.113.156,587,SG,akamai connected
-84.247.152.46,10045,JP,contabo gmbh
-132.226.8.109,43257,JP,oracle public
-148.135.101.29,28990,US,brander group
-199.119.137.95,2053,US,extravm
+203.194.112.119,2053,ID,cv rumahweb
+8.222.131.225,443,SG,alibaba cloud
+8.219.170.224,443,SG,alibaba cloud 2
+129.150.61.72,443,SG,oracle corporation
+168.138.46.67,443,JP,oracle public
+109.123.231.212,2053,JP,contabo gmbh
+193.233.87.9,2053,US,vdskanet
+45.74.81.2,443,US,hotwire fision
 38.60.193.247,13300,MY,kaopu cloud
