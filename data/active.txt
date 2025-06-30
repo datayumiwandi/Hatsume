@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-164.52.2.100,443,SG,uculsg
-194.36.178.36,8443,SG,first server
-51.79.158.58,2053,SG,ovh singapore
-140.83.59.158,15805,JP,imported inetnum
-113.37.149.36,12553,JP,arteria networks
-107.172.103.195,16079,US,racknerd
-144.34.230.128,443,US,cluster logic
+43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.156.181.203,443,SG,16 collyer
+194.127.193.124,24467,SG,greencloud
+8.222.220.81,25435,SG,alibaba cloud
+158.101.158.239,8080,JP,oracle public
+85.208.110.52,8443,JP,worktitans
+107.174.93.186,52995,US,racknerd
+198.12.121.169,24863,US,cloudflare london
 38.60.193.247,13300,MY,kaopu cloud
