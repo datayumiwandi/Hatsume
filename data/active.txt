@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-45.32.100.46,13802,SG,vultr holdings
-8.222.243.73,26385,SG,alibaba cloud
-168.138.181.188,61731,SG,oracle public
-64.176.40.224,3533,JP,vultr holdings 2
-85.208.110.52,2053,JP,worktitans
-107.173.111.232,20202,US,racknerd
-5.161.217.101,2053,US,hetzner online
+172.252.8.168,443,ID,mitra visioner
+8.222.159.134,12314,SG,alibaba cloud
+129.150.58.86,57621,SG,oracle corporation
+13.250.131.37,443,SG,amazon data
+108.61.247.158,8443,JP,vultr holdings
+141.98.197.101,11665,JP,xtom japan
+74.121.150.129,8443,US,it7 networks
+142.171.38.53,2095,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
