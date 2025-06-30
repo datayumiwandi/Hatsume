@@ -1,12 +1,12 @@
 172.252.8.168,443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-213.35.100.31,47112,SG,oracle svenska
-146.235.19.79,28983,SG,oracle corporation
-168.138.170.211,53702,SG,oracle public
-121.85.55.59,19842,JP,optage inc
-152.69.199.70,8443,JP,oracle corporation 2
-45.83.140.133,8443,US,worktitans
-149.248.21.85,11146,US,vultr holdings
+43.218.77.16,1443,ID,amazoncom inc
+164.52.2.98,443,SG,uculsg
+128.199.134.152,443,SG,digitalocean
+192.53.113.156,587,SG,akamai connected
+84.247.152.46,10045,JP,contabo gmbh
+132.226.8.109,43257,JP,oracle public
+148.135.101.29,28990,US,brander group
+199.119.137.95,2053,US,extravm
 38.60.193.247,13300,MY,kaopu cloud
