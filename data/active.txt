@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-38.54.16.95,2053,SG,kaopu cloud
-8.219.126.137,491,SG,alibaba cloud
-54.255.217.120,8192,SG,amazon data
-113.37.149.36,12553,JP,arteria networks
-140.83.37.134,46478,JP,imported inetnum
-45.150.65.38,443,US,worktitans
-107.173.147.41,36082,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud 2
+43.218.77.16,1443,ID,amazoncom inc 2
+83.142.30.5,2096,SG,zappie host
+31.192.238.71,8443,SG,pdk
+138.2.89.238,43254,SG,oracle corporation
+139.162.127.55,18836,JP,akamai connected
+3.112.21.102,443,JP,amazon data
+192.3.44.158,38613,US,racknerd
+148.135.67.18,2053,US,brander group
+38.60.193.247,13300,MY,kaopu cloud
