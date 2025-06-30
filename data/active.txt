@@ -1,12 +1,12 @@
 203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb 2
 43.218.77.16,443,ID,amazoncom inc
-51.79.158.126,443,SG,ovh singapore
-8.222.159.134,12483,SG,alibaba cloud
-167.99.73.22,443,SG,digitalocean
-141.147.185.63,443,JP,oracle corporation
-103.106.228.126,2053,JP,oneprovidercom tokyo
-205.185.116.48,17008,US,frantech solutions
-107.172.103.195,16015,US,racknerd
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+158.178.243.152,61731,SG,oracle corporation
+167.253.158.63,8443,SG,365 group
+13.228.142.218,443,SG,amazon technologies
+132.226.8.109,43257,JP,oracle public
+45.89.109.83,8443,JP,worktitans
+107.172.103.195,16044,US,racknerd
+209.38.137.229,2053,US,digitalocean
 38.60.193.247,13300,MY,kaopu cloud
