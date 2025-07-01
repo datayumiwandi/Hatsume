@@ -1,12 +1,12 @@
 203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb 2
-172.252.8.168,443,ID,mitra visioner
-158.178.243.152,61731,SG,oracle corporation
-47.130.35.116,8888,SG,amazon data
-13.228.142.218,443,SG,amazon technologies
-20.243.85.49,10443,JP,microsoft corporation
-45.77.25.6,27854,JP,vultr holdings
-204.13.153.239,59060,US,multacom corporation
-67.220.72.231,443,US,gthost
+36.95.152.58,12137,ID,telekomunikasi indonesia
+129.150.49.58,18650,SG,oracle corporation
+64.49.14.41,8443,SG,internet utilities
+139.162.51.138,8443,SG,1391620016
+141.147.147.180,443,JP,oracle corporation 2
+49.212.133.94,443,JP,sakura internet
+107.172.190.130,2053,US,racknerd
+107.172.103.195,16052,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
