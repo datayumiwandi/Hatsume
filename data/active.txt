@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-13.229.159.215,443,SG,amazon technologies
-129.150.35.29,587,SG,oracle corporation
-139.180.191.96,31001,SG,sgpvultrcust
-103.20.199.118,12999,JP,onenextnetnrt
-45.89.109.88,8443,JP,worktitans
-54.203.85.46,443,US,amazoncom inc 2
-155.138.238.22,8443,US,vultr holdings
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+138.2.89.238,43254,SG,oracle corporation
+213.35.108.135,12596,SG,oracle svenska
+52.221.189.27,443,SG,amazon data
+45.89.109.86,2053,JP,worktitans
+168.138.197.147,12345,JP,oracle public
+216.146.25.224,2053,US,extravm
+47.252.46.156,40082,US,alibaba cloud
 38.60.193.247,13300,MY,kaopu cloud
