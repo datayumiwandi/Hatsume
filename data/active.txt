@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-138.2.89.64,32962,SG,oracle corporation
-139.162.51.138,8443,SG,1391620016
-138.2.81.243,45319,SG,oracle corporation 2
-47.79.33.117,11101,JP,alibaba cloud
-219.117.2.190,48401,JP,jupiter telecommunications
-204.110.222.106,80,US,securly inc
-34.68.95.24,5001,US,google
+168.138.165.174,443,SG,oracle public
+138.2.89.238,43254,SG,oracle corporation
+5.223.49.4,2053,SG,hetzner online
+141.147.161.249,51037,JP,oracle corporation 2
+45.89.109.29,2053,JP,worktitans
+172.232.187.222,2053,US,linode
+192.3.208.125,59184,US,cloudflare inc
 38.60.193.247,13300,MY,kaopu cloud
