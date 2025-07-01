@@ -1,12 +1,12 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-139.180.191.96,31001,SG,sgpvultrcust
-168.138.170.211,53702,SG,oracle public
-158.178.236.14,61731,SG,oracle corporation
-45.66.218.194,12965,JP,virtual machine
-140.83.37.134,46478,JP,imported inetnum
-194.36.171.219,2053,US,as56971 network
-34.168.95.100,12388,US,google
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+51.79.158.58,8443,SG,ovh singapore
+64.49.14.41,2053,SG,internet utilities
+161.117.249.114,2025,SG,1 raffles
+217.142.236.93,443,JP,oracle svenska
+147.45.49.164,24443,JP,global connectivity
+74.211.96.225,8443,US,cluster logic
+198.200.41.16,12520,US,peg tech
 38.60.193.247,13300,MY,kaopu cloud
