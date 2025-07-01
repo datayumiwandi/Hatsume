@@ -1,12 +1,12 @@
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb 2
-129.150.61.72,443,SG,oracle corporation
-77.221.133.147,443,SG,ihc network
-192.53.113.156,587,SG,akamai connected
-185.18.222.208,2053,JP,jurgita jurgaitiene
-138.3.222.33,443,JP,oracle network
-185.144.159.156,10019,US,omc computers
-172.245.64.141,443,US,racknerd
+13.228.155.72,443,SG,amazon technologies
+129.150.49.58,18650,SG,oracle corporation
+143.198.196.196,8443,SG,digitalocean
+140.83.57.20,13118,JP,imported inetnum
+150.230.5.34,45681,JP,oracle corporation 2
+34.218.130.79,443,US,amazon technologies 2
+212.50.229.197,443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
