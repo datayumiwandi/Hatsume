@@ -1,12 +1,12 @@
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-168.138.171.70,23280,SG,oracle public
-138.2.81.243,45319,SG,oracle corporation
-51.79.158.58,8443,SG,ovh singapore
-64.176.39.147,16387,JP,the constant
-172.105.233.112,18836,JP,akamai connected
-107.172.87.159,12354,US,racknerd
-35.185.54.229,27205,US,google
+213.35.108.135,12596,SG,oracle svenska
+129.150.50.21,44009,SG,oracle corporation
+143.42.66.91,443,SG,viewqwest pte
+158.101.146.3,44872,JP,oracle public
+139.162.84.132,18836,JP,akamai connected
+192.74.226.42,443,US,anxin
+5.161.241.58,8443,US,hetzner online
 38.60.193.247,13300,MY,kaopu cloud
