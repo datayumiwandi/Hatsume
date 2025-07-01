@@ -1,12 +1,12 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-54.255.217.120,8192,SG,amazon data
-158.178.236.14,61731,SG,oracle corporation
-164.52.2.98,443,SG,uculsg
-141.98.197.101,11665,JP,xtom japan
-5.180.76.44,443,JP,cegrgodigitalvm
-185.106.96.203,11338,US,sriyaan technology
-107.172.103.195,16051,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+129.150.58.86,57621,SG,oracle corporation
+139.162.51.138,2053,SG,1391620016
+138.2.89.238,43254,SG,oracle corporation 2
+45.89.109.81,2053,JP,worktitans
+108.61.247.158,8443,JP,vultr holdings
+34.16.182.230,50651,US,google
+107.172.103.195,16024,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
