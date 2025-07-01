@@ -1,12 +1,12 @@
 43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc 2
-77.221.133.147,443,SG,ihc network
-213.35.100.31,47112,SG,oracle svenska
-192.53.113.156,587,SG,akamai connected
-84.247.152.46,10045,JP,contabo gmbh
-217.142.243.226,443,JP,oracle svenska 2
-192.227.178.102,8443,US,racknerd
-192.3.105.206,443,US,racknerd 2
+194.36.178.36,8443,SG,first server
+43.156.181.203,443,SG,16 collyer
+160.22.79.179,443,SG,onidel pty
+45.89.109.84,2053,JP,worktitans
+54.248.121.219,443,JP,amazoncom inc 3
+107.172.6.51,443,US,cloudflare inc
+23.94.122.243,29500,US,hostpapa
 38.60.193.247,13300,MY,kaopu cloud
