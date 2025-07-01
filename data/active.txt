@@ -1,12 +1,12 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.89.238,43254,SG,oracle corporation
-213.35.108.135,12596,SG,oracle svenska
-52.221.189.27,443,SG,amazon data
-45.89.109.86,2053,JP,worktitans
-168.138.197.147,12345,JP,oracle public
-216.146.25.224,2053,US,extravm
-47.252.46.156,40082,US,alibaba cloud
+5.223.49.4,2053,SG,hetzner online
+167.99.73.22,443,SG,digitalocean
+178.128.80.43,443,SG,digitalocean 2
+45.89.109.29,2053,JP,worktitans
+168.138.201.35,36637,JP,cloudflare london
+44.227.22.10,443,US,amazon technologies
+18.189.94.250,443,US,amazon technologies 2
 38.60.193.247,13300,MY,kaopu cloud
