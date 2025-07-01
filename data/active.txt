@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-168.138.171.70,23280,SG,oracle public
-15.235.199.103,2053,SG,ovh singapore
-13.229.159.215,443,SG,amazon technologies
-140.238.62.82,1443,JP,oracle public 2
-147.45.49.211,443,JP,global connectivity
-91.149.239.122,443,US,bgnetwork
-15.204.10.80,57023,US,ovh us
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+51.79.158.126,443,SG,ovh singapore
+167.99.73.22,443,SG,digitalocean
+8.222.237.72,443,SG,alibaba cloud
+64.110.104.30,443,JP,oracle corporation
+45.76.192.129,24434,JP,vultr holdings
+38.180.40.69,2053,US,3nt solutions
+107.172.103.195,16100,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
