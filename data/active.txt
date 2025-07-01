@@ -1,12 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-91.192.81.154,8443,SG,melbikomas uab
-8.222.159.134,12483,SG,alibaba cloud
-158.178.243.152,61731,SG,oracle corporation
-141.147.185.63,443,JP,oracle corporation 2
-138.2.48.109,26412,JP,oracle corporation 3
-142.171.30.213,993,US,multacom corporation
-23.94.213.132,27149,US,hostpapa
+203.194.112.119,2053,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+129.150.35.29,587,SG,oracle corporation
+178.128.80.43,443,SG,digitalocean
+8.219.59.132,48130,SG,alibaba cloud
+45.89.109.29,8443,JP,worktitans
+85.208.110.52,2053,JP,worktitans 2
+154.17.30.43,443,US,unknown
+47.252.4.59,15023,US,alibaba cloud 2
 38.60.193.247,13300,MY,kaopu cloud
