@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
-64.49.14.41,2053,SG,internet utilities
-160.22.79.166,443,SG,onidel pty
-167.253.158.63,8443,SG,365 group
-152.69.192.40,57005,JP,oracle corporation
-140.238.62.82,1443,JP,oracle public
-205.185.116.48,17008,US,frantech solutions
-45.145.7.107,2053,US,as56971 network
+43.218.77.16,1443,ID,amazoncom inc 2
+77.221.133.147,443,SG,ihc network
+45.76.183.217,49292,SG,vultr holdings
+31.192.238.71,8443,SG,pdk
+84.247.152.46,10045,JP,contabo gmbh
+45.76.192.129,24434,JP,vultr holdings 2
+35.167.93.200,80,US,amazon technologies
+192.3.208.125,59184,US,cloudflare inc
 38.60.193.247,13300,MY,kaopu cloud
