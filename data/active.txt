@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-45.32.100.46,13802,SG,vultr holdings
-138.2.77.179,30018,SG,oracle corporation
-13.250.14.76,443,SG,amazon data
-45.89.109.29,8443,JP,worktitans
-140.245.88.197,443,JP,oracle corporation 2
-142.171.31.155,27865,US,multacom corporation
-144.34.230.128,443,US,cluster logic
+51.79.158.126,443,SG,ovh singapore
+146.235.19.79,28983,SG,oracle corporation
+168.138.165.174,443,SG,oracle public
+158.101.154.245,47001,JP,oracle public 2
+64.176.42.125,10001,JP,vultr holdings
+199.119.137.77,2053,US,extravm
+54.189.161.131,48850,US,amazoncom inc 2
