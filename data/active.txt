@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-5.34.176.119,81,SG,green floid
-139.180.191.96,31001,SG,sgpvultrcust
-91.192.81.154,8443,SG,melbikomas uab
-8.221.143.218,587,JP,alibaba cloud
-38.180.29.115,443,JP,3nt solutions
-172.245.55.114,443,US,racknerd
-54.200.244.93,443,US,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+45.32.100.46,13802,SG,vultr holdings
+138.2.77.179,30018,SG,oracle corporation
+13.250.14.76,443,SG,amazon data
+45.89.109.29,8443,JP,worktitans
+140.245.88.197,443,JP,oracle corporation 2
+142.171.31.155,27865,US,multacom corporation
+144.34.230.128,443,US,cluster logic
