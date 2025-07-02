@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
-47.130.35.116,8888,SG,amazon data
-139.162.33.248,587,SG,akamai connected
-138.2.95.61,1111,SG,oracle corporation
-109.123.231.212,2053,JP,contabo gmbh
-158.101.80.84,443,JP,oracle public
-107.172.103.195,16027,US,racknerd
-154.17.30.43,443,US,unknown
+168.138.181.188,61731,SG,oracle public
+138.2.77.179,30018,SG,oracle corporation
+45.76.183.217,49292,SG,vultr holdings
+132.145.116.185,443,JP,oracle public 2
+38.180.29.115,443,JP,3nt solutions
+45.154.214.190,12321,US,spartan host
+96.126.112.12,38298,US,linode
 38.60.193.247,13300,MY,kaopu cloud
