@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-47.236.119.190,51342,SG,alibaba cloud
-5.223.49.4,2053,SG,hetzner online
-8.222.220.81,25435,SG,alibaba cloud 2
-54.248.121.219,443,JP,amazoncom inc
-198.13.42.58,32954,JP,vultr holdings
-38.180.135.97,2053,US,3nt solutions
-47.90.181.148,443,US,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+129.150.61.72,443,SG,oracle corporation
+164.52.2.98,443,SG,uculsg
+64.49.14.41,2053,SG,internet utilities
+108.160.139.154,8443,JP,vultr holdings
+147.45.49.193,2053,JP,global connectivity
+104.234.50.10,2053,US,unknown
+107.172.103.195,16087,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
