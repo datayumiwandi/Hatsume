@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc 2
-128.199.134.152,443,SG,digitalocean
-91.192.81.154,8443,SG,melbikomas uab
-146.235.19.79,28983,SG,oracle corporation
-45.77.25.6,48828,JP,vultr holdings
-138.2.18.82,8880,JP,oracle corporation 2
-107.174.253.75,443,US,racknerd
-107.172.103.195,16030,US,racknerd 2
+43.218.77.16,443,ID,amazoncom inc 2
+64.49.14.41,2053,SG,internet utilities
+160.22.79.166,443,SG,onidel pty
+167.253.158.63,8443,SG,365 group
+152.69.192.40,57005,JP,oracle corporation
+140.238.62.82,1443,JP,oracle public
+205.185.116.48,17008,US,frantech solutions
+45.145.7.107,2053,US,as56971 network
 38.60.193.247,13300,MY,kaopu cloud
