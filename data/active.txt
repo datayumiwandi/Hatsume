@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-129.150.61.72,443,SG,oracle corporation
-164.52.2.98,443,SG,uculsg
-64.49.14.41,2053,SG,internet utilities
-108.160.139.154,8443,JP,vultr holdings
-147.45.49.193,2053,JP,global connectivity
-104.234.50.10,2053,US,unknown
-107.172.103.195,16087,US,racknerd
+36.95.152.58,12137,ID,telekomunikasi indonesia
+129.150.58.86,57621,SG,oracle corporation
+158.178.246.142,61731,SG,oracle corporation 2
+138.2.89.64,32962,SG,oracle corporation 3
+140.83.59.158,15805,JP,imported inetnum
+45.89.109.83,2053,JP,worktitans
+31.172.79.112,443,US,wwwfornexcom fornex
+74.120.172.114,443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
