@@ -1,12 +1,12 @@
 43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-139.162.51.138,2053,SG,1391620016
-3.1.116.161,8443,SG,amazon data
-110.34.164.39,28758,SG,vpls sin1
-103.75.118.144,2053,JP,oneprovidercom japan
-217.142.250.28,443,JP,oracle svenska
-54.203.85.46,80,US,amazoncom inc 3
-80.251.219.120,14105,US,cluster logic
+8.219.126.137,491,SG,alibaba cloud
+45.76.183.217,49292,SG,vultr holdings
+31.192.238.71,2053,SG,pdk
+8.216.121.234,51922,JP,alibaba cloud 2
+118.27.12.40,38443,JP,gmo internet
+107.172.201.15,8443,US,racknerd
+38.180.137.75,443,US,3nt solutions
 38.60.193.247,13300,MY,kaopu cloud
