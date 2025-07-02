@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-164.52.2.98,443,SG,uculsg
-3.1.116.161,8443,SG,amazon data
-43.156.107.236,12131,SG,6 collyer
-47.79.90.37,49153,JP,alibaba cloud
-152.70.82.101,18650,JP,oracle corporation
-74.48.204.74,443,US,multacom corporation
-74.48.85.50,443,US,multacom corporation 2
+83.142.30.4,2096,SG,zappie host
+194.36.178.36,2053,SG,first server
+138.2.107.107,443,SG,oracle corporation
+138.2.59.96,10129,JP,oracle corporation 2
+138.3.222.124,46209,JP,oracle network
+107.173.187.157,8443,US,racknerd
+23.154.136.160,2055,US,2290008 ontario
 38.60.193.247,13300,MY,kaopu cloud
