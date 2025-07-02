@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-51.79.158.58,2053,SG,ovh singapore
-143.198.196.196,2053,SG,digitalocean
-47.236.119.190,51342,SG,alibaba cloud
-217.142.236.93,443,JP,oracle svenska
-153.121.40.119,443,JP,sakura internet
-66.112.215.181,34521,US,it7 networks
-173.249.209.140,42207,US,tzulo inc
+194.127.193.124,24467,SG,greencloud
+5.34.176.119,81,SG,green floid
+13.229.159.215,443,SG,amazon technologies
+168.138.197.147,12345,JP,oracle public
+109.123.231.212,2053,JP,contabo gmbh
+129.146.198.253,28443,US,oracle corporation
+103.35.190.104,8443,US,worktitans
 38.60.193.247,13300,MY,kaopu cloud
