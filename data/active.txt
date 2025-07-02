@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-31.192.238.71,2053,SG,pdk
-13.250.14.76,443,SG,amazon data
-64.49.14.41,8443,SG,internet utilities
-147.45.49.80,2053,JP,global connectivity
-45.89.109.85,2053,JP,worktitans
-35.230.79.26,443,US,google
-38.180.40.64,8443,US,3nt solutions
+43.156.107.236,12131,SG,6 collyer
+8.219.170.224,443,SG,alibaba cloud
+160.22.79.179,443,SG,onidel pty
+103.238.129.215,42734,JP,ipx
+217.142.230.253,587,JP,oracle corporation
+45.150.65.39,8443,US,worktitans
+107.172.103.195,16096,US,racknerd
