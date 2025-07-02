@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-138.2.95.61,1111,SG,oracle corporation
-146.235.19.79,28983,SG,oracle corporation 2
-43.134.167.135,9950,SG,6 collyer
-140.83.57.183,22735,JP,imported inetnum
-138.2.49.197,587,JP,oracle corporation 3
-209.141.33.79,2053,US,buyvm services
-193.23.55.51,8443,US,as56971 network
+51.79.254.182,443,SG,ovh singapore
+161.117.249.114,2025,SG,1 raffles
+45.76.179.81,443,SG,vultr holdings
+103.232.213.117,8080,JP,kvmcloud network
+131.186.63.89,11655,JP,oracle public
+5.181.3.119,8443,US,global connectivity
+107.182.187.11,57050,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
