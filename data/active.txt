@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-194.36.178.36,2053,SG,first server
-15.235.199.103,8443,SG,ovh singapore
-8.219.126.137,491,SG,alibaba cloud
-140.245.88.197,443,JP,oracle corporation
-45.89.109.85,2053,JP,worktitans
-107.174.158.114,15505,US,racknerd
-107.174.242.151,34561,US,racknerd 2
+43.218.77.16,443,ID,amazoncom inc
+5.223.49.4,2053,SG,hetzner online
+143.198.92.220,443,SG,digitalocean
+138.2.95.33,17465,SG,oracle corporation
+45.89.109.29,8443,JP,worktitans
+158.101.146.3,44872,JP,oracle public
+148.135.59.174,54824,US,brander group
+107.148.20.127,29500,US,peg tech
 38.60.193.247,13300,MY,kaopu cloud
