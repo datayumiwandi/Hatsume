@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-138.2.95.61,1111,SG,oracle corporation
-194.36.179.17,2053,SG,first server
-194.36.179.17,8443,SG,first server 2
-138.3.217.167,587,JP,oracle network
-140.83.57.183,22735,JP,imported inetnum
-194.36.171.219,2053,US,as56971 network
-80.209.242.177,2053,US,hostkey
+43.128.95.110,40029,SG,6 collyer
+8.219.126.137,491,SG,alibaba cloud
+168.138.184.172,443,SG,oracle public
+109.123.231.212,2053,JP,contabo gmbh
+147.45.49.164,24443,JP,global connectivity
+103.170.72.129,27054,US,corenet inc
+77.91.126.60,2053,US,365partners inc
