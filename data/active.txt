@@ -1,12 +1,12 @@
 43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
-194.36.179.17,8443,SG,first server
-138.2.107.107,443,SG,oracle corporation
-47.130.35.116,8888,SG,amazon data
-45.89.109.80,2053,JP,worktitans
-150.230.97.136,12502,JP,oracle corporation 2
-23.95.61.179,15160,US,racknerd
-174.137.59.73,443,US,cluster logic
+167.253.158.63,8443,SG,365 group
+83.142.30.5,2096,SG,zappie host
+15.235.199.103,8443,SG,ovh singapore
+91.194.160.121,2053,JP,worktitans
+64.110.104.30,443,JP,oracle corporation
+18.236.13.188,80,US,amazon technologies
+155.138.217.97,8443,US,vultr holdings
 38.60.193.247,13300,MY,kaopu cloud
