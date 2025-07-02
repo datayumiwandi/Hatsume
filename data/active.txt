@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-51.79.158.126,443,SG,ovh singapore
-146.235.19.79,28983,SG,oracle corporation
-168.138.165.174,443,SG,oracle public
-158.101.154.245,47001,JP,oracle public 2
-64.176.42.125,10001,JP,vultr holdings
-199.119.137.77,2053,US,extravm
-54.189.161.131,48850,US,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+146.235.18.248,45137,SG,oracle corporation
+8.219.126.137,491,SG,alibaba cloud
+129.150.49.58,18650,SG,oracle corporation 2
+8.216.81.183,3939,JP,alibaba cloud 2
+140.238.37.103,14782,JP,oracle public
+107.172.103.195,16051,US,racknerd
+193.23.55.51,2053,US,as56971 network
