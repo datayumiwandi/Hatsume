@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-51.79.158.126,443,SG,ovh singapore
-194.36.178.36,8443,SG,first server
-138.2.81.243,45319,SG,oracle corporation
-193.246.161.65,54310,JP,akile ltd
-140.83.57.20,13118,JP,imported inetnum
-141.11.95.10,18443,US,virtual machine
-54.203.85.46,80,US,amazon technologies
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc 2
+104.248.145.216,443,SG,digitalocean
+47.236.119.190,51342,SG,alibaba cloud
+138.2.77.179,30018,SG,oracle corporation
+147.45.49.11,2053,JP,global connectivity
+138.3.222.33,443,JP,oracle network
+37.123.192.147,443,US,kirino
+5.161.217.101,2053,US,hetzner online
