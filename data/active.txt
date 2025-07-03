@@ -1,11 +1,11 @@
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-164.52.2.100,443,SG,uculsg
-47.245.85.72,443,SG,alibaba cloud
-51.79.158.58,2053,SG,ovh singapore
-168.138.201.35,36637,JP,cloudflare london
-45.89.109.84,2053,JP,worktitans
-144.34.179.158,57244,US,cluster logic
-193.233.87.9,8443,US,vdskanet
+158.178.243.152,61731,SG,oracle corporation
+8.222.159.134,12483,SG,alibaba cloud
+13.250.14.76,443,SG,amazon data
+45.77.25.6,27854,JP,vultr holdings
+147.45.49.193,2053,JP,global connectivity
+103.35.190.104,8443,US,worktitans
+23.105.197.36,443,US,it7 networks
