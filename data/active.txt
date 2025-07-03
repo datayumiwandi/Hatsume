@@ -1,12 +1,11 @@
 172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-138.2.89.64,32962,SG,oracle corporation
-138.2.95.61,1111,SG,oracle corporation 2
-139.180.215.77,57878,SG,sgpvultrcust
-150.230.204.21,10243,JP,oracle corporation 3
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-107.172.103.195,16020,US,racknerd
-54.172.226.111,2053,US,amazon technologies
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+164.52.2.100,443,SG,uculsg
+47.245.85.72,443,SG,alibaba cloud
+51.79.158.58,2053,SG,ovh singapore
+168.138.201.35,36637,JP,cloudflare london
+45.89.109.84,2053,JP,worktitans
+144.34.179.158,57244,US,cluster logic
+193.233.87.9,8443,US,vdskanet
