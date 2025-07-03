@@ -1,12 +1,11 @@
-103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-8.222.220.81,25435,SG,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+194.36.179.17,8443,SG,first server
 45.32.100.46,13802,SG,vultr holdings
-138.2.81.243,45319,SG,oracle corporation
-158.101.154.245,47001,JP,oracle public
-158.101.152.6,2919,JP,oracle public 2
-107.172.103.195,16089,US,racknerd
-173.44.141.156,8443,US,winnebell network
-38.60.193.247,13300,MY,kaopu cloud
+51.79.158.126,443,SG,ovh singapore
+217.142.230.253,587,JP,oracle corporation
+147.45.49.211,443,JP,global connectivity
+172.245.156.126,8443,US,racknerd
+15.204.67.30,2083,US,ovh us
