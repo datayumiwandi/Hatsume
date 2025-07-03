@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.74.254.191,8900,SG,alibaba cloud
-158.178.236.14,61731,SG,oracle corporation
-129.150.58.86,57621,SG,oracle corporation 2
-45.89.109.80,2053,JP,worktitans
-140.238.37.103,14782,JP,oracle public
-13.92.27.195,18443,US,microsoft corporation
-5.181.3.119,8443,US,global connectivity
+110.34.164.39,28758,SG,vpls sin1
+139.162.51.138,8443,SG,1391620016
+129.150.36.188,53435,SG,oracle corporation
+168.138.46.115,43138,JP,oracle public
+147.45.49.164,24443,JP,global connectivity
+172.232.187.222,2053,US,linode
+167.234.216.84,65501,US,oracle corporation 2
