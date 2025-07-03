@@ -1,12 +1,12 @@
 172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-168.138.181.188,61731,SG,oracle public
-178.128.80.43,443,SG,digitalocean
-64.49.14.41,2053,SG,internet utilities
-168.138.198.7,27560,JP,oracle public 2
-147.45.49.11,8443,JP,global connectivity
-142.171.85.230,28034,US,multacom corporation
-47.251.95.178,443,US,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+138.2.89.64,32962,SG,oracle corporation
+138.2.95.61,1111,SG,oracle corporation 2
+139.180.215.77,57878,SG,sgpvultrcust
+150.230.204.21,10243,JP,oracle corporation 3
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+107.172.103.195,16020,US,racknerd
+54.172.226.111,2053,US,amazon technologies
 38.60.193.247,13300,MY,kaopu cloud
