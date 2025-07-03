@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-43.156.107.236,12131,SG,6 collyer
-38.54.16.95,2053,SG,kaopu cloud
-8.219.170.224,443,SG,alibaba cloud
-138.2.59.96,10129,JP,oracle corporation
-219.117.2.190,57517,JP,jupiter telecommunications
-142.171.147.201,20274,US,multacom corporation
-173.249.203.187,51368,US,tzulo inc
-38.60.193.247,13300,MY,kaopu cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+8.222.132.249,10036,SG,alibaba cloud
+8.222.243.73,26385,SG,alibaba cloud 2
+138.2.77.179,30018,SG,oracle corporation
+138.3.222.124,46209,JP,oracle network
+47.79.90.37,49153,JP,alibaba cloud 3
+45.42.214.153,443,US,royalehosting
+174.137.59.73,443,US,cluster logic
+38.60.193.247,13300,MY,kaopu cloud
