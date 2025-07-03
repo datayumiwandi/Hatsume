@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-185.81.28.95,30503,SG,akile ltd
-139.162.51.138,2053,SG,1391620016
-77.221.133.147,443,SG,ihc network
-64.176.42.125,10001,JP,vultr holdings
-150.230.97.136,12502,JP,oracle corporation
-172.235.49.135,17973,US,linode
-142.171.123.125,443,US,multacom corporation
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb 2
+138.2.95.33,17465,SG,oracle corporation
+178.128.80.43,443,SG,digitalocean
+31.192.238.71,2053,SG,pdk
+168.138.213.1,50003,JP,oracle public
+45.77.25.6,27854,JP,vultr holdings
+38.180.135.97,8443,US,3nt solutions
+38.180.40.64,2053,US,3nt solutions 2
