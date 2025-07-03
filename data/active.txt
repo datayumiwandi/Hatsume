@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-139.162.51.138,2053,SG,1391620016
-146.235.19.79,28983,SG,oracle corporation
-104.248.145.216,443,SG,digitalocean
-140.83.57.86,54322,JP,imported inetnum
-45.89.109.29,2053,JP,worktitans
-158.101.39.0,42979,US,oracle public
-104.167.197.130,8443,US,3hcloud
+172.252.8.168,443,ID,mitra visioner
+139.180.215.77,57878,SG,sgpvultrcust
+161.117.249.114,2025,SG,1 raffles
+143.42.66.91,443,SG,m1 ltd
+192.243.122.226,8443,JP,it7 networks
+45.89.109.88,8443,JP,worktitans
+107.172.103.195,16036,US,racknerd
+107.174.228.38,23234,US,racknerd 2
