@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-139.180.215.77,57878,SG,sgpvultrcust
-161.117.249.114,2025,SG,1 raffles
-143.42.66.91,443,SG,m1 ltd
-192.243.122.226,8443,JP,it7 networks
-45.89.109.88,8443,JP,worktitans
-107.172.103.195,16036,US,racknerd
-107.174.228.38,23234,US,racknerd 2
+8.219.170.224,443,SG,alibaba cloud
+47.74.254.191,8900,SG,alibaba cloud 2
+43.134.167.135,9950,SG,6 collyer
+141.147.183.49,29876,JP,oracle corporation
+212.52.0.61,1846,JP,prinode
+15.204.10.80,36683,US,ovh us
+45.151.133.125,16478,US,spartan host
