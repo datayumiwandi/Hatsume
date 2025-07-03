@@ -1,11 +1,11 @@
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc 2
-194.36.179.17,8443,SG,first server
-45.32.100.46,13802,SG,vultr holdings
-51.79.158.126,443,SG,ovh singapore
-217.142.230.253,587,JP,oracle corporation
-147.45.49.211,443,JP,global connectivity
-172.245.156.126,8443,US,racknerd
-15.204.67.30,2083,US,ovh us
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+185.81.28.95,30503,SG,akile ltd
+139.162.51.138,2053,SG,1391620016
+77.221.133.147,443,SG,ihc network
+64.176.42.125,10001,JP,vultr holdings
+150.230.97.136,12502,JP,oracle corporation
+172.235.49.135,17973,US,linode
+142.171.123.125,443,US,multacom corporation
