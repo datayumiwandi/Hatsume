@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-51.79.158.126,443,SG,ovh singapore
-62.72.46.14,8443,SG,contabo gmbh
-194.127.193.240,50791,SG,greencloud
-38.180.28.163,8443,JP,3nt solutions
-84.247.152.46,10045,JP,contabo gmbh 2
-107.172.103.195,16014,US,racknerd
-89.36.163.29,8443,US,melbikomas uab
+167.253.158.63,8443,SG,365 group
+158.178.246.142,61731,SG,oracle corporation
+168.138.171.70,23280,SG,oracle public
+140.238.62.82,1443,JP,oracle public 2
+149.28.30.146,44243,JP,vultr holdings
+45.45.218.183,443,US,hosthatch
+65.87.7.163,443,US,unknown
