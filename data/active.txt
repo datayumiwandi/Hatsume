@@ -1,12 +1,12 @@
 43.218.77.16,443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-168.138.165.174,443,SG,oracle public
-51.79.254.182,443,SG,ovh singapore
-213.35.100.31,47112,SG,oracle svenska
-158.101.146.3,54516,JP,oracle public 2
-141.147.162.125,443,JP,oracle corporation
-45.32.131.28,31001,US,the constant
-35.175.188.144,9000,US,amazon technologies
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+91.192.81.154,8443,SG,melbikomas uab
+43.156.116.194,443,SG,6 collyer
+194.36.179.17,8443,SG,first server
+140.83.57.20,13118,JP,imported inetnum
+45.89.109.87,8443,JP,worktitans
+45.83.140.205,443,US,worktitans 2
+204.110.223.105,443,US,securly inc
 38.60.193.247,13300,MY,kaopu cloud
