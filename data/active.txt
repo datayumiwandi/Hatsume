@@ -1,11 +1,11 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-194.36.179.17,8443,SG,first server
-138.2.81.243,45319,SG,oracle corporation
-138.2.69.236,23334,SG,oracle corporation 2
-3.112.21.102,443,JP,amazon data
-154.31.113.72,443,JP,dmit cloud
-3.138.59.154,443,US,amazon technologies
-107.174.202.20,443,US,hostpapa
+149.129.250.8,443,ID,21f ciputra
+139.162.51.138,2053,SG,1391620016
+146.235.19.79,28983,SG,oracle corporation
+104.248.145.216,443,SG,digitalocean
+140.83.57.86,54322,JP,imported inetnum
+45.89.109.29,2053,JP,worktitans
+158.101.39.0,42979,US,oracle public
+104.167.197.130,8443,US,3hcloud
