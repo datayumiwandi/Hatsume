@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-83.142.30.5,2096,SG,zappie host
-164.52.2.99,443,SG,uculsg
-51.79.158.58,8443,SG,ovh singapore
-217.142.226.116,443,JP,oracle svenska
-147.45.49.193,2053,JP,global connectivity
-23.94.5.177,4433,US,racknerd
-64.69.37.83,9999,US,multacom corporation
+172.252.8.168,443,ID,mitra visioner
+194.36.179.17,8443,SG,first server
+138.2.81.243,45319,SG,oracle corporation
+138.2.69.236,23334,SG,oracle corporation 2
+3.112.21.102,443,JP,amazon data
+154.31.113.72,443,JP,dmit cloud
+3.138.59.154,443,US,amazon technologies
+107.174.202.20,443,US,hostpapa
