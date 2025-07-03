@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
-104.248.145.216,443,SG,digitalocean
-47.236.119.190,51342,SG,alibaba cloud
-138.2.77.179,30018,SG,oracle corporation
-147.45.49.11,2053,JP,global connectivity
-138.3.222.33,443,JP,oracle network
-37.123.192.147,443,US,kirino
-5.161.217.101,2053,US,hetzner online
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
+38.181.70.7,16240,SG,eons data
+31.192.238.71,2053,SG,pdk
+167.253.158.63,8443,SG,365 group
+131.186.33.175,443,JP,oracle public
+45.89.109.80,2053,JP,worktitans
+107.172.103.195,16033,US,racknerd
+107.172.103.195,16021,US,racknerd 2
