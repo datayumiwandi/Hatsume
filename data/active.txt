@@ -1,12 +1,12 @@
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-168.138.171.70,23280,SG,oracle public
-143.198.196.196,2053,SG,digitalocean
-164.52.2.99,443,SG,uculsg
-64.176.39.147,16387,JP,the constant
-45.77.25.6,48828,JP,vultr holdings
-199.119.137.78,2053,US,extravm
-5.180.24.56,2053,US,worktitans
+146.235.18.248,45137,SG,oracle corporation
+5.223.49.4,2053,SG,hetzner online
+167.253.158.63,2053,SG,365 group
+185.18.222.208,2053,JP,jurgita jurgaitiene
+217.142.250.195,587,JP,oracle corporation 2
+173.249.203.187,13071,US,tzulo inc
+52.89.138.13,443,US,amazon technologies
 38.60.193.247,13300,MY,kaopu cloud
