@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-43.156.116.194,443,SG,6 collyer
-91.192.81.154,2053,SG,melbikomas uab
-13.229.159.215,443,SG,amazon technologies
-45.89.109.85,8443,JP,worktitans
-13.230.34.30,443,JP,amazon data
-95.169.26.188,38557,US,cluster logic
-207.211.176.65,13425,US,oracle corporation
+172.252.8.168,443,ID,mitra visioner
+8.222.132.249,10036,SG,alibaba cloud
+168.138.181.188,61731,SG,oracle public
+5.34.176.119,81,SG,green floid
+85.208.110.52,8443,JP,worktitans
+5.253.41.94,443,JP,worktitans 2
+164.152.17.14,443,US,oracle corporation
+216.146.25.224,8443,US,extravm
