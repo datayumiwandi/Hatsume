@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-8.219.170.224,443,SG,alibaba cloud
-47.74.254.191,8900,SG,alibaba cloud 2
-43.134.167.135,9950,SG,6 collyer
-141.147.183.49,29876,JP,oracle corporation
-212.52.0.61,1846,JP,prinode
-15.204.10.80,36683,US,ovh us
-45.151.133.125,16478,US,spartan host
+43.218.77.16,443,ID,amazoncom inc 2
+64.49.14.41,2053,SG,internet utilities
+213.35.108.135,12596,SG,oracle svenska
+8.222.159.134,12483,SG,alibaba cloud
+160.16.56.195,443,JP,sakura internet
+140.83.56.110,56417,JP,imported inetnum
+91.149.239.198,443,US,bgnetwork
+193.32.177.101,443,US,baykov ilya
