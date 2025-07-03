@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-167.253.158.63,8443,SG,365 group
-158.178.246.142,61731,SG,oracle corporation
-168.138.171.70,23280,SG,oracle public
-140.238.62.82,1443,JP,oracle public 2
-149.28.30.146,44243,JP,vultr holdings
-45.45.218.183,443,US,hosthatch
-65.87.7.163,443,US,unknown
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+91.192.81.154,8443,SG,melbikomas uab
+43.128.95.84,38091,SG,6 collyer
+43.128.95.110,40029,SG,6 collyer 2
+140.245.88.197,443,JP,oracle corporation
+45.89.109.82,8443,JP,worktitans
+45.83.140.133,2053,US,worktitans 2
+107.172.43.162,443,US,racknerd
