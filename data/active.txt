@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
-64.49.14.41,2053,SG,internet utilities
-213.35.108.135,12596,SG,oracle svenska
-8.222.159.134,12483,SG,alibaba cloud
-160.16.56.195,443,JP,sakura internet
-140.83.56.110,56417,JP,imported inetnum
-91.149.239.198,443,US,bgnetwork
-193.32.177.101,443,US,baykov ilya
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+168.138.165.174,443,SG,oracle public
+47.74.254.191,8900,SG,alibaba cloud
+164.52.2.98,443,SG,uculsg
+103.20.199.118,12999,JP,onenextnetnrt
+140.238.62.82,1443,JP,oracle public 2
+206.223.84.247,443,US,atlantic cellular
+198.57.46.6,443,US,secure dragon
