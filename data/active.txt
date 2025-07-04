@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-5.223.49.4,2053,SG,hetzner online
-8.219.1.169,443,SG,alibaba cloud
-47.74.254.191,8900,SG,alibaba cloud 2
-64.110.104.30,443,JP,oracle corporation
-147.45.49.80,2053,JP,global connectivity
-92.118.10.102,8443,US,first server
-43.130.35.177,6161,US,6 collyer
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+8.222.243.73,26385,SG,alibaba cloud
+129.150.36.188,53435,SG,oracle corporation
+143.198.92.220,443,SG,digitalocean
+131.186.63.89,11655,JP,oracle public
+91.194.160.64,443,JP,worktitans
+107.172.103.195,16061,US,racknerd
+172.232.187.222,8443,US,linode
