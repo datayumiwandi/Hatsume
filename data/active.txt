@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-38.181.70.7,16240,SG,eons data
-13.228.155.72,443,SG,amazon technologies
-146.235.19.79,28983,SG,oracle corporation
-202.144.194.31,9998,JP,techavenue international
-45.89.109.83,2053,JP,worktitans
-154.17.29.80,50235,US,dmit cloud
-138.2.232.156,28163,US,oracle corporation 2
+43.218.77.16,443,ID,amazoncom inc 2
+168.138.165.174,443,SG,oracle public
+64.49.14.41,8443,SG,internet utilities
+51.79.134.207,443,SG,ovh sas
+45.89.109.82,2053,JP,worktitans
+140.83.56.110,56417,JP,imported inetnum
+134.209.166.201,8443,US,digitalocean
+89.185.80.59,443,US,global connectivity
 38.60.193.247,13300,MY,kaopu cloud
