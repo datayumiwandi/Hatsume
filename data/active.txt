@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-5.34.176.119,81,SG,green floid
-38.181.70.7,16240,SG,eons data
-45.76.183.217,49292,SG,vultr holdings
-217.142.236.93,443,JP,oracle svenska
-108.61.247.158,8443,JP,vultr holdings 2
-176.122.187.16,51121,US,cluster logic
-193.43.72.253,2053,US,cgi global
+154.90.48.27,56362,ID,lightnode
+149.28.158.103,10030,SG,vultr holdings
+51.79.158.126,443,SG,ovh singapore
+185.114.78.230,443,SG,aryaka networks
+158.101.80.84,443,JP,oracle public
+108.160.139.154,8443,JP,vultr holdings 2
+45.152.84.197,8443,US,as56971 network
+64.181.243.47,8443,US,oracle corporation
 38.60.193.247,13300,MY,kaopu cloud
