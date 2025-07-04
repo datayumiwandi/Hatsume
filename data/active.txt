@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-13.250.131.37,443,SG,amazon data
-213.35.108.135,12596,SG,oracle svenska
-83.142.30.4,2096,SG,zappie host
-168.138.193.174,11959,JP,oracle public
-103.20.199.118,12999,JP,onenextnetnrt
-66.98.121.132,8443,US,cluster logic
-142.171.202.202,33538,US,multacom corporation
+43.134.167.135,9950,SG,6 collyer
+8.222.243.73,26385,SG,alibaba cloud
+77.221.133.147,443,SG,ihc network
+147.45.49.211,443,JP,global connectivity
+152.69.199.70,8443,JP,oracle corporation
+45.152.86.150,2053,US,as56971 network
+91.149.239.198,443,US,bgnetwork
