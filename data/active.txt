@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-128.199.134.152,443,SG,digitalocean
-158.178.243.152,61731,SG,oracle corporation
-47.130.35.116,8888,SG,amazon data
-147.45.49.11,8443,JP,global connectivity
-113.37.149.36,12553,JP,arteria networks
-52.89.138.13,443,US,amazon technologies
-172.206.209.177,443,US,microsoft
+43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+168.138.171.70,23280,SG,oracle public
+143.42.66.91,443,SG,m1 ltd
+43.128.95.110,40029,SG,6 collyer
+147.45.49.164,24443,JP,global connectivity
+45.89.109.84,2053,JP,worktitans
+198.57.46.6,443,US,secure dragon
+107.172.103.195,16019,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
