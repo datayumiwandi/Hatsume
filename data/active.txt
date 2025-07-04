@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 172.252.8.168,443,ID,mitra visioner
-8.219.58.164,57373,SG,alibaba cloud
-13.229.159.215,443,SG,amazon technologies
-138.2.95.61,1111,SG,oracle corporation
-8.216.121.234,51922,JP,alibaba cloud 2
-47.245.59.226,59215,JP,alibaba cloud 3
-192.9.156.27,587,US,oracle corporation 2
-74.48.4.205,12525,US,multacom corporation
+64.49.14.41,2053,SG,internet utilities
+178.128.80.43,443,SG,digitalocean
+129.150.35.29,587,SG,oracle corporation
+158.101.146.3,44872,JP,oracle public
+45.89.109.87,8443,JP,worktitans
+172.233.195.154,2083,US,linode
+66.103.204.73,48805,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
