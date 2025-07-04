@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-194.36.179.17,2053,SG,first server
-8.222.159.134,12483,SG,alibaba cloud
-194.36.178.36,2053,SG,first server 2
-132.145.126.40,32498,JP,oracle public
-46.3.101.59,8443,JP,dom tehniki
-192.3.105.206,443,US,racknerd
-46.8.227.58,2053,US,cgi global
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+13.228.155.72,443,SG,amazon technologies
+213.35.100.31,47112,SG,oracle svenska
+185.81.28.95,30503,SG,akile ltd
+217.142.243.226,443,JP,oracle svenska 2
+185.184.223.47,443,JP,365 group
+107.172.103.195,16090,US,racknerd
+216.24.184.171,95,US,chinanet anhui
 38.60.193.247,13300,MY,kaopu cloud
