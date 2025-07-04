@@ -1,11 +1,11 @@
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
 203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.134.167.135,9950,SG,6 collyer
-8.222.243.73,26385,SG,alibaba cloud
-77.221.133.147,443,SG,ihc network
-147.45.49.211,443,JP,global connectivity
-152.69.199.70,8443,JP,oracle corporation
-45.152.86.150,2053,US,as56971 network
-91.149.239.198,443,US,bgnetwork
+138.2.89.238,43254,SG,oracle corporation
+8.219.59.132,48964,SG,alibaba cloud
+15.235.199.103,8443,SG,ovh singapore
+138.2.10.149,45638,JP,oracle corporation 2
+131.186.63.89,11655,JP,oracle public
+192.210.196.158,36414,US,racknerd
+199.119.137.41,8443,US,extravm
