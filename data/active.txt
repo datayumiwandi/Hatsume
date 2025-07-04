@@ -1,12 +1,12 @@
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-154.90.48.27,56362,ID,lightnode
 149.28.158.103,10030,SG,vultr holdings
-51.79.158.126,443,SG,ovh singapore
-185.114.78.230,443,SG,aryaka networks
-158.101.80.84,443,JP,oracle public
-108.160.139.154,8443,JP,vultr holdings 2
-45.152.84.197,8443,US,as56971 network
-64.181.243.47,8443,US,oracle corporation
+138.2.69.236,23334,SG,oracle corporation
+129.150.50.21,44009,SG,oracle corporation 2
+103.238.129.215,42734,JP,ipx
+139.162.127.39,18836,JP,akamai connected
+142.171.76.55,8898,US,multacom corporation
+45.62.127.160,10443,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
