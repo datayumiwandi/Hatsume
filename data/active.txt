@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
 203.194.112.119,2053,ID,cv rumahweb 2
-43.218.77.16,1443,ID,amazoncom inc 2
-8.219.126.137,491,SG,alibaba cloud
-13.250.14.76,443,SG,amazon data
-8.219.155.21,443,SG,alibaba cloud 2
-140.235.37.81,443,JP,sunoaki network
-45.89.109.29,8443,JP,worktitans
-192.3.166.78,41095,US,racknerd
-192.3.7.50,27894,US,racknerd 2
+47.245.95.160,1443,SG,alibaba cloud
+138.2.95.61,1111,SG,oracle corporation
+129.150.36.188,53435,SG,oracle corporation 2
+45.66.218.194,12965,JP,virtual machine
+45.89.109.86,2053,JP,worktitans
+47.253.87.21,52315,US,alibaba cloud 2
+104.234.50.51,2053,US,unknown
