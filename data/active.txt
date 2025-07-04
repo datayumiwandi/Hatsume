@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-168.138.165.174,443,SG,oracle public
-64.49.14.41,8443,SG,internet utilities
-51.79.134.207,443,SG,ovh sas
-45.89.109.82,2053,JP,worktitans
-140.83.56.110,56417,JP,imported inetnum
-134.209.166.201,8443,US,digitalocean
-89.185.80.59,443,US,global connectivity
+128.199.134.152,443,SG,digitalocean
+43.156.116.194,443,SG,6 collyer
+8.222.159.134,12483,SG,alibaba cloud
+45.77.25.6,48828,JP,vultr holdings
+45.89.109.85,2053,JP,worktitans
+45.151.133.125,41389,US,spartan host
+5.161.217.101,2053,US,hetzner online
 38.60.193.247,13300,MY,kaopu cloud
