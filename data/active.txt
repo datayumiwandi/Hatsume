@@ -1,12 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-129.150.61.72,443,SG,oracle corporation
-139.162.51.138,2053,SG,1391620016
-43.128.95.84,38091,SG,6 collyer
-103.75.118.144,2053,JP,oneprovidercom japan
-64.176.42.125,10001,JP,vultr holdings
-205.185.127.56,18888,US,frantech solutions
-47.88.24.237,10443,US,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+149.129.250.8,443,ID,21f ciputra
+77.221.133.147,443,SG,ihc network
+138.2.81.243,45319,SG,oracle corporation
+158.178.236.14,61731,SG,oracle corporation 2
+141.147.147.180,443,JP,oracle corporation 3
+147.45.49.211,443,JP,global connectivity
+104.234.50.138,2053,US,unknown
+107.172.211.182,2053,US,hostpapa
