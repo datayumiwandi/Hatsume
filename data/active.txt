@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-143.42.66.91,443,SG,m1 ltd
-129.150.50.21,44009,SG,oracle corporation
-43.134.167.135,9950,SG,6 collyer
-193.246.161.65,54310,JP,akile ltd
-91.194.160.121,2053,JP,worktitans
-107.173.30.154,27149,US,colocrossing
-89.208.250.204,28268,US,cluster logic
+172.252.8.168,443,ID,mitra visioner
+51.79.158.58,2053,SG,ovh singapore
+139.162.51.138,8443,SG,1391620016
+13.250.14.76,443,SG,amazon data
+217.142.236.93,443,JP,oracle svenska
+141.147.162.125,443,JP,oracle corporation
+35.83.185.225,443,US,amazoncom inc
+165.1.71.204,46597,US,oracle corporation 2
 38.60.193.247,13300,MY,kaopu cloud
