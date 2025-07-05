@@ -1,12 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner
 154.90.48.27,56362,ID,lightnode
-43.156.116.194,443,SG,6 collyer
-47.130.35.116,8888,SG,amazon data
-194.36.179.5,2053,SG,first server
-45.89.109.87,8443,JP,worktitans
-45.89.109.81,8443,JP,worktitans 2
-176.122.187.16,51121,US,cluster logic
-204.13.153.239,59060,US,multacom corporation
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,1443,ID,amazoncom inc 2
+62.72.46.14,8443,SG,contabo gmbh
+139.180.215.77,57878,SG,sgpvultrcust
+47.245.85.72,443,SG,alibaba cloud
+202.144.194.31,9998,JP,iptelecom japan
+168.138.46.67,443,JP,oracle public
+144.34.224.202,443,US,cluster logic
+107.175.69.166,2053,US,racknerd
