@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
 43.218.77.16,1443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
-51.79.134.207,443,SG,ovh sas
-8.219.58.164,57373,SG,alibaba cloud
-194.36.178.36,8443,SG,first server
-23.106.143.190,39027,JP,it7 networks
-45.76.198.248,443,JP,vultr holdings
-74.48.145.83,31556,US,multacom corporation
-45.146.82.107,35292,US,internet utilities
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+138.2.77.179,30018,SG,oracle corporation
+51.79.158.126,443,SG,ovh singapore
+64.49.14.41,2053,SG,internet utilities
+131.186.63.89,11655,JP,oracle public
+45.89.109.29,8443,JP,worktitans
+3.101.133.120,80,US,amazoncom inc 2
+107.148.28.125,20936,US,peg tech
