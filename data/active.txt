@@ -1,12 +1,12 @@
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-43.134.167.135,9950,SG,6 collyer
-129.150.50.21,44009,SG,oracle corporation
-149.28.158.103,10030,SG,vultr holdings
-138.3.217.167,587,JP,oracle network
-91.194.160.79,8443,JP,worktitans
-104.234.50.223,2053,US,unknown
-205.185.116.48,17008,US,frantech solutions
+8.219.170.224,443,SG,alibaba cloud
+161.117.249.114,2025,SG,1 raffles
+194.36.179.5,2053,SG,first server
+138.2.32.76,15821,JP,oracle corporation
+168.138.198.7,27560,JP,oracle public
+47.251.76.246,14782,US,alibaba cloud 2
+45.152.86.150,2053,US,as56971 network
 38.60.193.247,13300,MY,kaopu cloud
