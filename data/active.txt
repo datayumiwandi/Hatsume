@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-8.219.155.21,443,SG,alibaba cloud
-77.221.133.147,443,SG,ihc network
-146.235.18.248,45137,SG,oracle corporation
-217.142.250.195,587,JP,oracle corporation 2
-103.106.228.126,2053,JP,oneprovidercom tokyo
-47.90.220.146,59170,US,alibaba cloud 2
-38.180.40.72,2053,US,3nt solutions
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+54.169.229.188,443,SG,amazoncom inc 2
+129.150.50.21,44009,SG,oracle corporation
+194.36.179.17,2053,SG,first server
+82.163.16.69,8080,JP,akile ltd
+217.142.243.98,51321,JP,oracle corporation 2
+52.10.78.7,443,US,amazon technologies
+63.209.32.91,4433,US,vultr holdings
