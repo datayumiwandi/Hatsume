@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-154.90.48.27,56362,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-8.219.155.21,443,SG,alibaba cloud
-8.219.59.132,48964,SG,alibaba cloud 2
-138.2.89.238,43254,SG,oracle corporation
-45.89.109.81,8443,JP,worktitans
-147.45.49.211,443,JP,global connectivity
-172.82.16.38,25956,US,olink cloud
-74.48.221.141,26255,US,multacom corporation
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+154.90.48.27,56362,ID,lightnode
+194.127.193.240,50791,SG,greencloud
+194.36.178.36,2053,SG,first server
+8.219.59.132,48130,SG,alibaba cloud
+172.104.127.132,443,JP,linode
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+80.209.242.70,2053,US,hostkey
+162.219.120.218,443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
