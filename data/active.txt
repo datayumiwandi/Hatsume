@@ -1,12 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-194.36.179.5,2053,SG,first server
-15.235.199.103,2053,SG,ovh singapore
-194.36.178.36,2053,SG,first server 2
-219.117.2.190,48401,JP,jupiter telecommunications
-168.138.46.115,43138,JP,oracle public
-91.149.239.70,443,US,bgnetwork
-47.252.4.59,38181,US,alibaba cloud
+154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+13.228.142.218,443,SG,amazon technologies
+8.219.155.21,443,SG,alibaba cloud
+143.198.196.196,8443,SG,digitalocean
+141.147.185.15,443,JP,oracle corporation
+152.70.82.70,1450,JP,oracle corporation 2
+129.213.136.180,443,US,oracle corporation 3
+74.121.150.129,8443,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
