@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
+154.90.48.27,56362,ID,lightnode
 203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-38.181.70.7,16240,SG,eons data
-77.221.133.147,443,SG,ihc network
-161.117.249.114,2025,SG,1 raffles
-103.106.228.126,2053,JP,oneprovidercom tokyo
-121.85.55.59,19842,JP,optage inc
-45.146.82.107,35292,US,internet utilities
-142.171.14.102,27510,US,multacom corporation
+194.36.179.5,2053,SG,first server
+15.235.199.103,2053,SG,ovh singapore
+194.36.178.36,2053,SG,first server 2
+219.117.2.190,48401,JP,jupiter telecommunications
+168.138.46.115,43138,JP,oracle public
+91.149.239.70,443,US,bgnetwork
+47.252.4.59,38181,US,alibaba cloud
 38.60.193.247,13300,MY,kaopu cloud
