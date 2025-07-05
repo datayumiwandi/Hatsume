@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-154.90.48.27,56362,ID,lightnode
-194.127.193.240,50791,SG,greencloud
-194.36.178.36,2053,SG,first server
-8.219.59.132,48130,SG,alibaba cloud
-172.104.127.132,443,JP,linode
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-80.209.242.70,2053,US,hostkey
-162.219.120.218,443,US,cluster logic
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
+77.221.133.147,443,SG,ihc network
+110.34.164.39,28758,SG,vpls sin1
+91.192.81.154,2053,SG,melbikomas uab
+150.230.5.34,45681,JP,oracle corporation
+141.98.197.101,11665,JP,xtom japan
+144.202.28.122,8443,US,vultr holdings
+65.87.7.163,443,US,unknown
 38.60.193.247,13300,MY,kaopu cloud
