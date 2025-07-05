@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-54.169.229.188,443,SG,amazoncom inc 2
-129.150.50.21,44009,SG,oracle corporation
-194.36.179.17,2053,SG,first server
-82.163.16.69,8080,JP,akile ltd
-217.142.243.98,51321,JP,oracle corporation 2
-52.10.78.7,443,US,amazon technologies
-63.209.32.91,4433,US,vultr holdings
+154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+168.138.184.172,443,SG,oracle public
+194.127.193.124,24467,SG,greencloud
+167.253.158.63,2053,SG,365 group
+147.45.49.211,443,JP,global connectivity
+138.2.49.197,587,JP,oracle corporation
+148.135.76.112,443,US,brander group
+107.172.103.195,16091,US,racknerd
