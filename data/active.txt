@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
-149.28.158.103,10030,SG,vultr holdings
-161.117.249.114,2025,SG,1 raffles
-167.253.158.63,2053,SG,365 group
-217.142.250.28,443,JP,oracle svenska
-150.230.5.34,45681,JP,oracle corporation
-107.172.103.195,16071,US,racknerd
-74.211.96.225,8443,US,cluster logic
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc 2
+168.138.171.70,23280,SG,oracle public
+51.79.158.126,443,SG,ovh singapore
+43.156.181.203,443,SG,16 collyer
+140.83.56.110,56417,JP,imported inetnum
+168.138.213.1,50003,JP,oracle public 2
+104.194.72.33,443,US,it7 networks
+148.135.22.233,48625,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
