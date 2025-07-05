@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-164.52.2.99,443,SG,uculsg
-164.52.2.98,443,SG,uculsg 2
-83.142.30.4,2096,SG,zappie host
-64.110.101.90,55007,JP,oracle corporation
-91.194.160.64,443,JP,worktitans
-209.94.59.221,443,US,upcloud usa
-129.146.22.121,41913,US,oracle corporation 2
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+43.128.95.110,40029,SG,6 collyer
+143.198.196.196,2053,SG,digitalocean
+158.178.243.152,61731,SG,oracle corporation
+149.28.21.106,443,JP,vultr holdings
+46.3.101.59,8443,JP,dom tehniki
+198.12.120.132,2053,US,racknerd
+173.249.210.53,17750,US,tzulodjc
