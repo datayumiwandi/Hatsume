@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc 2
-168.138.171.70,23280,SG,oracle public
-51.79.158.126,443,SG,ovh singapore
-43.156.181.203,443,SG,16 collyer
-140.83.56.110,56417,JP,imported inetnum
-168.138.213.1,50003,JP,oracle public 2
-104.194.72.33,443,US,it7 networks
-148.135.22.233,48625,US,multacom corporation
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+154.90.48.27,56362,ID,lightnode
+91.192.81.154,2053,SG,melbikomas uab
+167.253.158.63,8443,SG,365 group
+8.222.159.134,12483,SG,alibaba cloud
+168.138.201.35,36637,JP,cloudflare london
+91.194.160.45,8443,JP,worktitans
+54.167.43.59,443,US,amazon technologies
+89.116.44.170,8443,US,ethernet servers
 38.60.193.247,13300,MY,kaopu cloud
