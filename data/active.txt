@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+154.90.48.27,56362,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-43.128.95.110,40029,SG,6 collyer
-143.198.196.196,2053,SG,digitalocean
-158.178.243.152,61731,SG,oracle corporation
-149.28.21.106,443,JP,vultr holdings
-46.3.101.59,8443,JP,dom tehniki
-198.12.120.132,2053,US,racknerd
-173.249.210.53,17750,US,tzulodjc
+203.194.112.119,8443,ID,cv rumahweb
+3.1.116.161,8443,SG,amazon data
+146.235.19.79,28983,SG,oracle corporation
+47.245.95.160,1443,SG,alibaba cloud
+64.176.37.22,443,JP,vultr holdings
+131.186.33.175,443,JP,oracle public
+172.93.44.36,2443,US,cluster logic
+47.89.136.31,36301,US,alibaba cloud 2
