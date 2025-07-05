@@ -1,12 +1,12 @@
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-91.192.81.154,2053,SG,melbikomas uab
-138.2.107.107,443,SG,oracle corporation
-45.76.183.217,49292,SG,vultr holdings
-140.238.37.103,14782,JP,oracle public
-103.232.213.117,8080,JP,kvmcloud network
-107.172.103.195,16075,US,racknerd
-107.172.103.195,16028,US,racknerd 2
+43.218.77.16,1443,ID,amazoncom inc 2
+149.28.158.103,10030,SG,vultr holdings
+161.117.249.114,2025,SG,1 raffles
+167.253.158.63,2053,SG,365 group
+217.142.250.28,443,JP,oracle svenska
+150.230.5.34,45681,JP,oracle corporation
+107.172.103.195,16071,US,racknerd
+74.211.96.225,8443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
