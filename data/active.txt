@@ -1,12 +1,12 @@
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-154.90.48.27,56362,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-158.178.236.14,61731,SG,oracle corporation
-77.221.133.147,443,SG,ihc network
-5.223.49.4,2053,SG,hetzner online
-85.208.110.52,8443,JP,worktitans
-192.243.127.224,443,JP,it7 networks
-67.230.160.42,8081,US,cluster logic
-204.110.222.104,443,US,securly inc
+143.198.196.196,2053,SG,digitalocean
+138.2.77.179,30018,SG,oracle corporation
+43.128.95.110,40029,SG,6 collyer
+141.147.147.180,443,JP,oracle corporation 2
+217.142.226.116,443,JP,oracle svenska
+45.154.214.190,12321,US,spartan host
+34.82.76.253,443,US,google
 38.60.193.247,13300,MY,kaopu cloud
