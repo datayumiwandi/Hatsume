@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-8.219.170.224,443,SG,alibaba cloud
-143.198.196.196,2053,SG,digitalocean
-8.219.155.21,443,SG,alibaba cloud 2
-149.28.30.146,44243,JP,vultr holdings
-217.142.250.28,443,JP,oracle svenska
-107.173.250.62,444,US,racknerd
-137.184.14.79,8443,US,digitalocean 2
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc 2
+5.223.49.4,2053,SG,hetzner online
+168.138.170.211,53702,SG,oracle public
+139.180.215.77,57878,SG,sgpvultrcust
+45.77.25.6,27854,JP,vultr holdings
+147.45.49.11,8443,JP,global connectivity
+193.233.87.9,2053,US,vdskanet
+107.172.103.195,16022,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
