@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-154.90.48.27,56362,ID,lightnode
+172.252.8.168,443,ID,mitra visioner
 43.218.77.16,443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb
-138.2.81.243,45319,SG,oracle corporation
-129.150.49.58,18650,SG,oracle corporation 2
-91.192.81.154,2053,SG,melbikomas uab
-149.28.21.106,443,JP,vultr holdings
-141.147.183.49,29876,JP,oracle corporation 3
-107.172.103.195,16013,US,racknerd
-208.167.248.148,443,US,vultr holdings 2
+31.192.238.71,8443,SG,pdk
+185.114.78.230,443,SG,aryaka networks
+77.221.133.147,443,SG,ihc network
+45.77.25.6,48828,JP,vultr holdings
+168.138.198.7,27560,JP,oracle public
+142.171.156.182,15801,US,multacom corporation
+104.168.28.99,1366,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
