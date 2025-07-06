@@ -1,12 +1,12 @@
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-149.129.250.8,443,ID,21f ciputra
-143.198.196.196,2053,SG,digitalocean
-138.2.77.179,30018,SG,oracle corporation
-43.128.95.110,40029,SG,6 collyer
-141.147.147.180,443,JP,oracle corporation 2
-217.142.226.116,443,JP,oracle svenska
-45.154.214.190,12321,US,spartan host
-34.82.76.253,443,US,google
+43.134.167.135,9950,SG,6 collyer
+62.72.46.14,8443,SG,contabo gmbh
+8.219.126.137,491,SG,alibaba cloud
+158.101.152.6,2919,JP,oracle public
+158.101.80.84,443,JP,oracle public 2
+88.210.37.244,8443,US,melbikomas uab
+107.173.187.157,8443,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
