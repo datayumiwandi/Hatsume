@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-31.192.238.71,2053,SG,pdk
-158.178.236.14,61731,SG,oracle corporation
-143.42.66.91,443,SG,viewqwest pte
-82.163.16.69,8080,JP,akile ltd
-219.117.2.190,48401,JP,jupiter telecommunications
-5.180.30.249,8443,US,worktitans
-23.83.233.179,35825,US,cluster logic
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+13.229.159.215,443,SG,amazon technologies
+194.36.179.17,2053,SG,first server
+139.180.215.77,57878,SG,sgpvultrcust
+185.18.222.208,2053,JP,jurgita jurgaitiene
+23.106.143.190,39027,JP,it7 networks
+172.245.129.72,27486,US,racknerd
+107.172.211.182,8443,US,hostpapa
 38.60.193.247,13300,MY,kaopu cloud
