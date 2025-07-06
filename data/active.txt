@@ -1,12 +1,12 @@
 154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-139.180.215.77,57878,SG,sgpvultrcust
-8.219.58.164,57373,SG,alibaba cloud
-13.250.14.76,443,SG,amazon data
-91.194.160.121,2053,JP,worktitans
-140.83.60.81,18443,JP,imported inetnum
-107.172.103.195,16048,US,racknerd
-192.9.139.160,443,US,oracle corporation
+8.222.237.72,443,SG,alibaba cloud
+185.81.28.95,30503,SG,akile ltd
+138.2.89.238,43254,SG,oracle corporation
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+193.246.161.65,54310,JP,akile ltd 2
+23.94.43.102,8080,US,racknerd
+148.135.5.55,34215,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
