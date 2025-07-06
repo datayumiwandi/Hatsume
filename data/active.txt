@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
 154.90.48.27,56362,ID,lightnode
-138.2.77.179,30018,SG,oracle corporation
-5.223.49.4,2053,SG,hetzner online
-143.198.196.196,8443,SG,digitalocean
-152.69.192.40,57005,JP,oracle corporation 2
-38.180.28.163,2053,JP,3nt solutions
-45.154.214.116,443,US,spartan host
-148.135.106.200,443,US,brander group
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+139.180.215.77,57878,SG,sgpvultrcust
+8.219.58.164,57373,SG,alibaba cloud
+13.250.14.76,443,SG,amazon data
+91.194.160.121,2053,JP,worktitans
+140.83.60.81,18443,JP,imported inetnum
+107.172.103.195,16048,US,racknerd
+192.9.139.160,443,US,oracle corporation
 38.60.193.247,13300,MY,kaopu cloud
