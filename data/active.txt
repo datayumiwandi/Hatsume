@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-154.90.48.27,56362,ID,lightnode
-138.2.89.238,43254,SG,oracle corporation
-8.219.59.132,48130,SG,alibaba cloud
+138.2.95.61,1111,SG,oracle corporation
+31.192.238.71,2053,SG,pdk
 168.138.170.211,53702,SG,oracle public
-118.27.12.40,38443,JP,gmo internet
-168.138.46.115,43138,JP,oracle public 2
-107.173.251.119,443,US,racknerd
-193.23.55.254,8443,US,it outsourcing
+8.221.143.218,587,JP,alibaba cloud
+217.142.230.253,587,JP,oracle corporation 2
+148.135.111.27,47104,US,multacom corporation
+43.130.134.123,65002,US,6 collyer
 38.60.193.247,13300,MY,kaopu cloud
