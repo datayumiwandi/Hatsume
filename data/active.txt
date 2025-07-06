@@ -1,12 +1,12 @@
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-143.198.196.196,2053,SG,digitalocean
-213.35.100.31,47112,SG,oracle svenska
-51.79.158.58,2053,SG,ovh singapore
-139.162.102.152,7002,JP,akamai connected
-43.133.10.236,33405,JP,6 collyer
-23.227.193.153,443,US,hivelocity inc
-38.180.40.116,8443,US,3nt solutions
+167.253.158.63,2053,SG,365 group
+15.235.199.103,2053,SG,ovh singapore
+8.222.132.249,10036,SG,alibaba cloud
+152.69.192.40,57005,JP,oracle corporation
+82.163.16.69,8080,JP,akile ltd
+193.122.195.166,52557,US,oracle public
+107.172.103.195,16062,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
