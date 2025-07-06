@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.155.21,443,SG,alibaba cloud
-138.2.95.33,17465,SG,oracle corporation
-64.49.14.41,8443,SG,internet utilities
-45.89.109.81,2053,JP,worktitans
-193.246.161.65,54310,JP,akile ltd
-23.94.5.177,4433,US,racknerd
-192.9.138.69,21009,US,oracle corporation 2
+43.218.77.16,443,ID,amazoncom inc 2
+31.192.238.71,2053,SG,pdk
+158.178.236.14,61731,SG,oracle corporation
+143.42.66.91,443,SG,viewqwest pte
+82.163.16.69,8080,JP,akile ltd
+219.117.2.190,48401,JP,jupiter telecommunications
+5.180.30.249,8443,US,worktitans
+23.83.233.179,35825,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
