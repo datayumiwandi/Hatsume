@@ -1,12 +1,12 @@
 154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-13.229.159.215,443,SG,amazon technologies
-194.36.179.17,2053,SG,first server
-139.180.215.77,57878,SG,sgpvultrcust
-185.18.222.208,2053,JP,jurgita jurgaitiene
-23.106.143.190,39027,JP,it7 networks
-172.245.129.72,27486,US,racknerd
-107.172.211.182,8443,US,hostpapa
+206.206.77.53,443,SG,regxa
+164.52.2.99,443,SG,uculsg
+5.34.176.119,81,SG,green floid
+131.186.63.89,11655,JP,oracle public
+158.101.146.3,54516,JP,oracle public 2
+172.82.16.113,18003,US,olink cloud
+38.58.63.150,51646,US,netlab
 38.60.193.247,13300,MY,kaopu cloud
