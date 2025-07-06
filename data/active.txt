@@ -1,12 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb 2
+8.219.58.164,57373,SG,alibaba cloud
 3.1.116.161,2053,SG,amazon data
-168.138.171.70,23280,SG,oracle public
-38.54.16.95,2053,SG,kaopu cloud
-147.45.49.11,8443,JP,global connectivity
-8.216.121.234,51922,JP,alibaba cloud
-107.172.137.69,2053,US,racknerd
-148.135.52.250,48993,US,brander group
-38.60.193.247,13300,MY,kaopu cloud 2
+47.130.35.116,8888,SG,amazon data 2
+139.162.127.55,18836,JP,akamai connected
+140.238.37.103,14782,JP,oracle public
+67.226.221.104,443,US,securly inc
+192.210.181.182,443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
