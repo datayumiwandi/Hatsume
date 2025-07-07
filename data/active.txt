@@ -1,12 +1,12 @@
+154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc 2
-47.130.35.116,8888,SG,amazon data
-13.228.155.72,443,SG,amazon technologies
-43.128.95.110,40029,SG,6 collyer
-108.61.247.158,8443,JP,vultr holdings
-82.163.16.69,8080,JP,akile ltd
-80.209.242.156,8443,US,hostkey
-54.189.161.131,48850,US,amazoncom inc 3
+143.198.196.196,2053,SG,digitalocean
+206.206.77.53,443,SG,regxa
+3.1.116.161,2053,SG,amazon data
+150.230.214.172,16957,JP,oracle corporation
+168.138.193.174,11959,JP,oracle public
+65.49.195.163,14828,US,it7 networks
+74.48.204.74,443,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
