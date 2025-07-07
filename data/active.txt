@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
 154.90.48.27,56362,ID,lightnode
-158.178.243.152,61731,SG,oracle corporation
-138.2.81.243,45319,SG,oracle corporation 2
-139.180.215.77,57878,SG,sgpvultrcust
-141.147.183.49,29876,JP,oracle corporation 3
-64.176.40.224,3533,JP,the constant
-104.36.84.82,443,US,redoubt networks
-107.172.103.195,16038,US,racknerd
+149.129.250.8,443,ID,21f ciputra
+47.236.119.190,51342,SG,alibaba cloud
+8.219.170.224,443,SG,alibaba cloud 2
+139.162.51.138,2053,SG,1391620016
+91.194.160.45,2053,JP,worktitans
+45.89.109.88,2053,JP,worktitans 2
+107.173.147.41,36082,US,racknerd
+104.234.50.10,8443,US,unknown
 38.60.193.247,13300,MY,kaopu cloud
