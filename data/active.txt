@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-129.150.58.86,57621,SG,oracle corporation
-185.81.28.95,30503,SG,akile ltd
-213.35.107.73,443,SG,oracle svenska
-64.110.104.30,443,JP,oracle corporation 2
-138.3.217.167,587,JP,oracle network
-192.3.30.175,8443,US,racknerd
-63.209.32.91,4433,US,vultr holdings
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+172.252.8.168,443,ID,mitra visioner
+83.142.30.5,2096,SG,zappie host
+45.76.183.217,49292,SG,vultr holdings
+13.228.155.72,443,SG,amazon technologies
+45.89.109.84,2053,JP,worktitans
+217.142.250.195,587,JP,oracle corporation
+107.175.69.166,2053,US,racknerd
+3.216.234.194,443,US,amazon data
 38.60.193.247,13300,MY,kaopu cloud
