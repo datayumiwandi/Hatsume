@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
+172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-47.245.91.197,9000,SG,alibaba cloud
-139.162.51.138,8443,SG,1391620016
-51.79.134.207,443,SG,ovh sas
-147.45.49.211,443,JP,global connectivity
-91.194.160.121,2053,JP,worktitans
-154.9.241.153,10276,US,netlab
-64.64.229.221,22801,US,cluster logic
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+91.192.81.154,8443,SG,melbikomas uab
+129.150.49.58,18650,SG,oracle corporation
+167.99.73.22,443,SG,digitalocean
+45.89.109.83,2053,JP,worktitans
+185.184.223.47,443,JP,365 group
+104.234.50.41,2053,US,unknown
+107.182.187.11,57050,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
