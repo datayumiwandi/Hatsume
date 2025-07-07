@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-185.81.28.95,30503,SG,akile ltd
-164.52.2.99,443,SG,uculsg
-139.162.51.138,8443,SG,1391620016
-38.180.28.163,8443,JP,3nt solutions
-217.142.243.98,51321,JP,oracle corporation
-194.113.211.115,8443,US,cloud web
-67.226.221.102,443,US,securly inc
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+5.34.176.119,81,SG,green floid
+146.235.18.248,45137,SG,oracle corporation
+185.114.78.230,443,SG,aryaka networks
+140.235.37.81,443,JP,sunoaki network
+23.106.143.190,39027,JP,it7 networks
+107.172.103.195,16034,US,racknerd
+192.3.30.175,2053,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
