@@ -1,12 +1,12 @@
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-146.235.18.248,45137,SG,oracle corporation
-45.32.100.46,13802,SG,vultr holdings
-8.222.159.134,12314,SG,alibaba cloud
-47.79.33.117,52311,JP,alibaba cloud 2
-168.138.213.1,50003,JP,oracle public
-107.172.103.195,16057,US,racknerd
-15.204.10.80,57023,US,ovh us
+203.194.112.119,2053,ID,cv rumahweb
+164.52.2.98,443,SG,uculsg
+168.138.170.211,53702,SG,oracle public
+168.138.171.70,23280,SG,oracle public 2
+131.186.33.175,443,JP,oracle public 3
+152.69.192.40,57005,JP,oracle corporation
+205.185.116.48,17008,US,frantech solutions
+148.135.15.148,443,US,brander group
 38.60.193.247,13300,MY,kaopu cloud
