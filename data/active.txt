@@ -1,12 +1,12 @@
 203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.252.8.168,443,ID,mitra visioner
-146.235.18.248,45137,SG,oracle corporation
-8.219.59.132,48964,SG,alibaba cloud
-43.156.181.203,443,SG,16 collyer
-140.238.37.103,14782,JP,oracle public
-217.142.250.195,587,JP,oracle corporation 2
-45.152.86.150,2053,US,as56971 network
-5.181.3.169,2053,US,global connectivity
+38.181.70.7,16240,SG,eons data
+91.192.81.154,2053,SG,melbikomas uab
+64.49.14.41,8443,SG,internet utilities
+168.138.198.7,27560,JP,oracle public
+152.69.199.70,8443,JP,cloudflare london
+23.106.159.63,12110,US,it7 networks
+107.172.103.195,16022,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
