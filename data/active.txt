@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-146.235.19.79,28983,SG,oracle corporation
-43.156.181.203,443,SG,16 collyer
-146.235.18.248,45137,SG,oracle corporation 2
-113.37.149.36,12553,JP,arteria networks
-149.28.21.106,443,JP,vultr holdings
-45.151.133.125,27398,US,spartan host
-142.171.38.53,2333,US,multacom corporation
+149.129.250.8,443,ID,21f ciputra
+83.142.30.4,2096,SG,zappie host
+8.219.59.132,48964,SG,alibaba cloud
+138.2.89.64,32962,SG,oracle corporation
+45.89.109.29,2053,JP,worktitans
+18.183.158.211,443,JP,amazon data
+154.17.30.43,443,US,unknown
+142.171.85.230,28034,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
