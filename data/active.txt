@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb 2
-43.218.77.16,1443,ID,amazoncom inc
-138.2.89.238,43254,SG,oracle corporation
-8.219.59.132,48964,SG,alibaba cloud
-47.236.119.190,51342,SG,alibaba cloud 2
-8.216.121.234,51922,JP,alibaba cloud 3
-139.162.127.55,18836,JP,akamai connected
-64.69.34.244,41091,US,multacom corporation
-91.149.239.198,443,US,bgnetwork
+138.2.81.243,45319,SG,oracle corporation
+8.222.220.81,25435,SG,alibaba cloud
+129.150.36.188,53435,SG,oracle corporation 2
+64.176.37.22,443,JP,vultr holdings
+45.89.109.88,8443,JP,worktitans
+193.233.207.35,443,US,baxet group
+103.170.72.129,25950,US,anycast
 38.60.193.247,13300,MY,kaopu cloud
