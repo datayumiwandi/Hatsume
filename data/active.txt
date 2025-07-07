@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-8.219.59.132,48130,SG,alibaba cloud
-138.2.69.236,23334,SG,oracle corporation
-138.2.107.107,443,SG,oracle corporation 2
-140.83.57.86,54322,JP,imported inetnum
-91.194.160.64,443,JP,worktitans
-142.171.31.155,27865,US,multacom corporation
-15.204.209.171,2053,US,ovh us
+43.218.77.16,1443,ID,amazoncom inc 2
+167.99.73.22,443,SG,digitalocean
+138.2.95.61,1111,SG,oracle corporation
+206.206.77.53,443,SG,regxa
+103.238.129.215,42734,JP,ipx
+147.45.49.164,24443,JP,global connectivity
+107.173.87.79,8443,US,racknerd
+107.172.103.195,16019,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
