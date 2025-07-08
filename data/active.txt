@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-8.219.59.132,48964,SG,alibaba cloud
-43.156.107.236,12131,SG,6 collyer
-129.150.35.29,587,SG,oracle corporation
-140.83.60.81,18443,JP,imported inetnum
-131.186.33.175,443,JP,oracle public
-103.54.57.236,10019,US,cloud web
-45.158.127.31,2053,US,serva one
+194.36.179.17,8443,SG,first server
+138.2.89.64,32962,SG,oracle corporation
+158.178.236.14,61731,SG,oracle corporation 2
+103.238.129.215,42734,JP,ipx
+47.79.33.117,52311,JP,alibaba cloud
+152.70.113.150,52125,US,oracle corporation 3
+104.128.89.43,23357,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
