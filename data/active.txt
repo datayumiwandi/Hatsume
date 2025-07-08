@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+154.90.48.27,56362,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
-146.235.19.79,28983,SG,oracle corporation
-47.245.85.72,443,SG,alibaba cloud
-143.198.196.196,2053,SG,digitalocean
-168.138.201.35,36637,JP,cloudflare london
-45.76.198.248,443,JP,vultr holdings
-104.234.50.174,2053,US,unknown
-35.83.185.225,443,US,amazoncom inc 2
+129.150.35.29,587,SG,oracle corporation
+185.81.28.95,30503,SG,akile ltd
+64.49.14.41,2053,SG,internet utilities
+45.89.109.84,2053,JP,worktitans
+45.89.109.84,8443,JP,worktitans 2
+43.130.35.177,6161,US,6 collyer
+50.228.203.26,443,US,comcast cable
 38.60.193.247,13300,MY,kaopu cloud
