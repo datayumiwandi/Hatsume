@@ -1,12 +1,12 @@
+154.90.48.27,56362,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,8443,ID,cv rumahweb 2
-110.34.164.39,28758,SG,vpls sin1
-164.52.2.98,443,SG,uculsg
-194.36.178.36,8443,SG,first server
-45.89.109.84,2053,JP,worktitans
-150.230.97.136,12502,JP,oracle corporation
-74.48.4.29,37731,US,multacom corporation
-45.42.214.153,443,US,royalehosting
+168.138.184.172,443,SG,oracle public
+3.1.116.161,8443,SG,amazon data
+194.127.193.124,24467,SG,greencloud
+45.76.198.248,443,JP,vultr holdings
+109.123.231.212,2053,JP,contabo gmbh
+193.233.87.41,8443,US,vdskanet
+144.34.224.202,443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
