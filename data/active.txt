@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 154.90.48.27,56362,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-8.219.1.169,443,SG,alibaba cloud
-164.52.2.98,443,SG,uculsg
-31.192.238.71,2053,SG,pdk
-158.101.154.245,47001,JP,oracle public
-5.180.76.44,443,JP,cegrgodigitalvm
-74.48.179.37,36460,US,cloudflare inc
-107.172.103.195,16066,US,racknerd
+51.79.254.182,443,SG,ovh singapore
+158.178.236.14,61731,SG,oracle corporation
+64.49.14.41,2053,SG,internet utilities
+138.2.10.149,45638,JP,oracle corporation 2
+147.45.49.11,8443,JP,global connectivity
+66.85.139.204,443,US,secured servers
+107.172.103.195,16013,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
