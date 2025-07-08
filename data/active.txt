@@ -1,12 +1,12 @@
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-154.90.48.27,56362,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-13.228.142.218,443,SG,amazon technologies
-138.2.95.33,17465,SG,oracle corporation
-47.236.119.190,51342,SG,alibaba cloud
-140.238.37.103,14782,JP,oracle public
-38.180.28.163,2053,JP,3nt solutions
-23.105.220.138,20018,US,it7 networks
-107.172.103.195,16060,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
+77.221.133.147,443,SG,ihc network
+51.79.158.58,8443,SG,ovh singapore
+38.54.16.95,2053,SG,kaopu cloud
+217.142.230.253,587,JP,oracle corporation
+168.138.213.1,50003,JP,oracle public
+172.245.232.173,443,US,brainstorm network
+104.234.50.225,2053,US,unknown
+38.60.193.247,13300,MY,kaopu cloud 2
