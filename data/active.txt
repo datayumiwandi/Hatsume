@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-146.235.19.79,28983,SG,oracle corporation
-45.76.183.217,49292,SG,vultr holdings
-143.198.196.196,2053,SG,digitalocean
-158.101.146.3,54516,JP,oracle public
-140.83.57.114,25965,JP,imported inetnum
-142.171.31.155,27865,US,multacom corporation
-204.110.222.104,80,US,securly inc
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+8.219.59.132,48964,SG,alibaba cloud
+143.198.196.196,8443,SG,digitalocean
+15.235.199.103,8443,SG,ovh singapore
+150.230.5.34,45681,JP,oracle corporation
+198.13.42.58,32954,JP,vultr holdings
+66.98.121.132,8443,US,cluster logic
+138.2.231.58,45638,US,oracle corporation 2
 38.60.193.247,13300,MY,kaopu cloud
