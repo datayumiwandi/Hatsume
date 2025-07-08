@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc 2
-8.222.243.73,26385,SG,alibaba cloud
-64.49.14.41,8443,SG,internet utilities
-51.79.158.58,2053,SG,ovh singapore
-45.77.25.6,48828,JP,vultr holdings
-149.28.21.106,443,JP,vultr holdings 2
-104.234.50.93,2053,US,unknown
-107.172.103.195,16052,US,racknerd
+172.252.8.168,443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+31.192.238.71,2053,SG,pdk
+149.28.158.103,10030,SG,vultr holdings
+143.198.196.196,8443,SG,digitalocean
+38.180.28.163,8443,JP,3nt solutions
+131.186.33.175,443,JP,oracle public
+107.173.7.227,443,US,racknerd
+204.110.223.100,80,US,securly inc
 38.60.193.247,13300,MY,kaopu cloud
