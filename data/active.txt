@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+154.90.48.27,56362,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.222.237.72,443,SG,alibaba cloud
-149.28.158.103,10030,SG,vultr holdings
-143.198.196.196,2053,SG,digitalocean
-45.89.109.86,2053,JP,worktitans
-64.176.37.22,443,JP,vultr holdings 2
-142.171.221.31,2053,US,multacom corporation
-74.211.96.225,8443,US,cluster logic
+43.218.77.16,1443,ID,amazoncom inc
+168.138.171.70,23280,SG,oracle public
+128.199.134.152,443,SG,digitalocean
+164.52.2.99,443,SG,uculsg
+138.2.10.149,45638,JP,oracle corporation
+168.138.193.174,11959,JP,oracle public 2
+208.167.248.148,443,US,vultr holdings
+72.167.140.7,8443,US,godaddycom
 38.60.193.247,13300,MY,kaopu cloud
