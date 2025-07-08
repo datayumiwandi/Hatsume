@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
-47.245.91.197,9000,SG,alibaba cloud
-194.36.178.36,8443,SG,first server
-138.2.69.236,23334,SG,oracle corporation
-91.194.160.45,2053,JP,worktitans
-147.45.49.11,2053,JP,global connectivity
-74.48.85.50,443,US,multacom corporation
-45.11.93.3,8443,US,as56971 network
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+8.222.237.72,443,SG,alibaba cloud
+149.28.158.103,10030,SG,vultr holdings
+143.198.196.196,2053,SG,digitalocean
+45.89.109.86,2053,JP,worktitans
+64.176.37.22,443,JP,vultr holdings 2
+142.171.221.31,2053,US,multacom corporation
+74.211.96.225,8443,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
