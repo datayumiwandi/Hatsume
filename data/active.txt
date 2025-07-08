@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+154.90.48.27,56362,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-83.142.30.4,2096,SG,zappie host
-8.219.1.169,443,SG,alibaba cloud
-47.130.35.116,8888,SG,amazon data
-46.3.101.59,8443,JP,dom tehniki
-141.147.152.229,23333,JP,oracle corporation
-142.171.85.230,28034,US,multacom corporation
-199.119.137.95,2053,US,extravm
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+185.81.28.95,30503,SG,akile ltd
+51.79.254.182,443,SG,ovh singapore
+164.52.2.99,443,SG,uculsg
+45.76.192.129,24434,JP,vultr holdings
+147.45.49.164,24443,JP,global connectivity
+34.194.76.43,443,US,amazon data
+54.189.161.131,48850,US,amazoncom inc 2
 38.60.193.247,13300,MY,kaopu cloud
