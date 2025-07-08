@@ -1,12 +1,12 @@
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-168.138.170.211,53702,SG,oracle public
-168.138.171.70,23280,SG,oracle public 2
-139.162.51.138,2053,SG,1391620016
-132.145.116.185,443,JP,oracle public 3
-46.3.101.59,8443,JP,dom tehniki
-198.23.254.51,443,US,racknerd
-148.135.110.150,48503,US,multacom corporation
+149.129.250.8,443,ID,21f ciputra
+3.1.116.161,8443,SG,amazon data
+54.169.229.188,443,SG,amazoncom inc
+139.180.191.96,31001,SG,sgpvultrcust
+150.230.204.21,10243,JP,oracle corporation
+91.194.160.45,8443,JP,worktitans
+63.209.32.91,4433,US,vultr holdings
+23.94.43.51,443,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
