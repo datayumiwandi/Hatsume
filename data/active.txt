@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-8.222.237.72,443,SG,alibaba cloud
-54.169.229.188,443,SG,amazoncom inc 2
-213.35.100.31,47112,SG,oracle svenska
-103.238.129.215,42734,JP,ipx
-138.2.12.103,14453,JP,cloudflare london
-34.194.76.43,443,US,amazon data
-173.249.209.140,32037,US,tzulo inc
+203.194.112.119,2053,ID,cv rumahweb
+168.138.170.211,53702,SG,oracle public
+168.138.171.70,23280,SG,oracle public 2
+139.162.51.138,2053,SG,1391620016
+132.145.116.185,443,JP,oracle public 3
+46.3.101.59,8443,JP,dom tehniki
+198.23.254.51,443,US,racknerd
+148.135.110.150,48503,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
