@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.128.95.110,40029,SG,6 collyer
-13.228.155.72,443,SG,amazon technologies
-194.36.179.17,8443,SG,first server
-45.89.109.81,2053,JP,worktitans
-138.3.222.124,46209,JP,oracle network
-23.106.159.63,12110,US,it7 networks
-107.172.103.195,16087,US,racknerd
+62.72.46.14,8443,SG,contabo gmbh
+83.142.30.4,2096,SG,zappie host
+194.36.179.17,2053,SG,first server
+140.83.57.20,13118,JP,imported inetnum
+85.208.110.52,2053,JP,worktitans
+195.123.241.122,50008,US,total server
+92.118.10.56,443,US,first server 2
 38.60.193.247,13300,MY,kaopu cloud
