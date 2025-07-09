@@ -1,12 +1,12 @@
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-172.252.8.168,443,ID,mitra visioner
-168.138.171.70,23280,SG,oracle public
-158.178.246.142,61731,SG,oracle corporation
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 91.192.81.154,2053,SG,melbikomas uab
-168.138.193.174,11959,JP,oracle public 2
-219.117.2.190,57517,JP,jupiter telecommunications
-173.249.209.140,32037,US,tzulo inc
-54.202.98.246,47346,US,amazoncom inc
+185.114.78.230,443,SG,aryaka networks
+213.35.107.73,443,SG,oracle svenska
+103.238.129.215,42734,JP,ipx
+45.89.109.88,8443,JP,worktitans
+172.245.111.20,443,US,racknerd
+199.119.137.95,2053,US,extravm
 38.60.193.247,13300,MY,kaopu cloud
