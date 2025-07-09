@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 154.90.48.27,56362,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-83.142.30.5,2096,SG,zappie host
-91.192.81.154,2053,SG,melbikomas uab
-13.250.14.76,443,SG,amazon data
-132.226.8.109,43257,JP,oracle public
-149.28.30.146,44243,JP,vultr holdings
-142.171.156.141,21182,US,multacom corporation
-141.11.89.128,443,US,virtual machine
+172.252.8.168,443,ID,mitra visioner
+146.235.18.248,45137,SG,oracle corporation
+51.79.134.207,443,SG,ovh sas
+194.36.179.5,2053,SG,first server
+140.238.37.103,14782,JP,oracle public
+132.145.116.192,44009,JP,oracle public 2
+141.148.153.223,36818,US,oracle corporation 2
+45.8.157.110,2053,US,nktelecom inc
 38.60.193.247,13300,MY,kaopu cloud
