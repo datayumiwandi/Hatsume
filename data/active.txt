@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb 2
-38.54.16.95,2053,SG,kaopu cloud
-8.219.155.21,443,SG,alibaba cloud
-194.36.179.5,2053,SG,first server
-64.110.101.90,55007,JP,oracle corporation
-150.230.97.136,12502,JP,oracle corporation 2
-45.158.127.31,2053,US,serva one
-142.171.137.37,8443,US,multacom corporation
-38.60.193.247,13300,MY,kaopu cloud 2
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+83.142.30.5,2096,SG,zappie host
+91.192.81.154,2053,SG,melbikomas uab
+13.250.14.76,443,SG,amazon data
+132.226.8.109,43257,JP,oracle public
+149.28.30.146,44243,JP,vultr holdings
+142.171.156.141,21182,US,multacom corporation
+141.11.89.128,443,US,virtual machine
+38.60.193.247,13300,MY,kaopu cloud
