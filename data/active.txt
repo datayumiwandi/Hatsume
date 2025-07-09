@@ -1,12 +1,12 @@
 154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-3.1.116.161,2053,SG,amazon data
-168.138.170.211,53702,SG,oracle public
-3.1.116.161,8443,SG,amazon data 2
-176.97.70.51,2053,JP,3nt solutions
-140.83.59.158,15805,JP,imported inetnum
-172.83.159.4,41389,US,spartan host
-107.172.103.195,16048,US,racknerd
+172.252.8.168,443,ID,mitra visioner
+158.178.246.142,61731,SG,oracle corporation
+45.76.179.81,443,SG,vultr holdings
+43.156.116.194,443,SG,6 collyer
+47.79.33.117,52311,JP,alibaba cloud
+140.238.37.103,14782,JP,oracle public
+103.170.72.129,27054,US,corenet inc
+148.135.5.55,34215,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
