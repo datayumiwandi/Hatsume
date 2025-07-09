@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-143.198.196.196,2053,SG,digitalocean
-47.236.119.190,51342,SG,alibaba cloud
-168.138.181.188,61731,SG,oracle public
-113.37.149.36,12553,JP,arteria networks
-176.97.70.51,2053,JP,3nt solutions
-74.48.145.83,31556,US,multacom corporation
-5.161.176.159,50121,US,hetzner online
+203.194.112.119,2053,ID,cv rumahweb
+13.250.131.37,443,SG,amazon data
+129.150.36.188,53435,SG,oracle corporation
+45.32.100.46,13802,SG,vultr holdings
+141.147.185.63,443,JP,oracle corporation 2
+147.45.49.193,2053,JP,global connectivity
+45.95.186.2,50001,US,smarthost
+107.172.103.195,16091,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
