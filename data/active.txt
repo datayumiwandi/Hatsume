@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-43.128.95.110,40029,SG,6 collyer
-64.49.14.41,2053,SG,internet utilities
-8.222.159.134,12483,SG,alibaba cloud
-219.117.2.190,57517,JP,jupiter telecommunications
-45.89.109.81,8443,JP,worktitans
-107.173.87.103,443,US,cloudflare inc
-35.230.79.26,443,US,google
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc 2
+143.198.196.196,8443,SG,digitalocean
+47.245.85.72,443,SG,alibaba cloud
+138.2.95.61,1111,SG,oracle corporation
+140.83.59.158,15805,JP,imported inetnum
+138.3.222.33,443,JP,oracle network
+193.233.87.41,8443,US,vdskanet
+74.48.46.35,443,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
