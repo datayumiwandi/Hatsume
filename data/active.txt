@@ -1,12 +1,12 @@
+43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-138.2.95.33,17465,SG,oracle corporation
-38.54.16.95,2053,SG,kaopu cloud
-139.180.191.96,31001,SG,sgpvultrcust
-168.138.46.115,43138,JP,oracle public
-158.101.154.245,47001,JP,oracle public 2
-138.124.180.151,443,US,worktitans
-45.156.24.225,443,US,as56971 network
-38.60.193.247,13300,MY,kaopu cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+154.90.48.27,56362,ID,lightnode
+31.192.238.71,8443,SG,pdk
+185.114.78.230,443,SG,aryaka networks
+194.36.178.36,2053,SG,first server
+45.76.198.248,443,JP,vultr holdings
+212.52.0.61,1846,JP,prinode
+137.184.14.79,8443,US,digitalocean
+195.211.98.153,2053,US,green floid
+38.60.193.247,13300,MY,kaopu cloud
