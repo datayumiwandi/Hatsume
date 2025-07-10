@@ -1,12 +1,12 @@
 172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,74,ID,linode
-194.36.179.17,2053,SG,first server
-138.2.107.107,443,SG,oracle corporation
-138.2.81.243,45319,SG,oracle corporation 2
-45.66.218.194,12965,JP,virtual machine
-202.84.53.85,19999,JP,azumino network
-107.172.103.195,16089,US,racknerd
-141.11.89.128,443,US,virtual machine 2
+203.194.112.119,8443,ID,cv rumahweb
+8.222.243.73,26385,SG,alibaba cloud
+8.219.59.132,48964,SG,alibaba cloud 2
+158.178.243.152,61731,SG,oracle corporation
+8.216.121.234,51922,JP,alibaba cloud 3
+147.45.49.11,2053,JP,global connectivity
+4.227.113.189,4443,US,microsoft corporation
+65.75.193.154,14491,US,dmit cloud
 38.60.193.247,13300,MY,kaopu cloud
