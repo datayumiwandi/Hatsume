@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-168.138.171.70,23280,SG,oracle public
-47.74.254.191,8900,SG,alibaba cloud
-164.52.2.99,443,SG,uculsg
-8.221.143.218,587,JP,alibaba cloud 2
-47.79.90.37,49153,JP,alibaba cloud 3
-74.48.160.149,43516,US,multacom corporation
-38.150.34.152,443,US,netlab
+36.95.152.58,12137,ID,telekomunikasi indonesia
+154.90.48.27,56362,ID,lightnode
+8.219.170.224,443,SG,alibaba cloud
+91.192.81.154,8443,SG,melbikomas uab
+8.222.159.134,12314,SG,alibaba cloud 2
+152.69.199.70,8443,JP,cloudflare london
+132.145.126.40,32498,JP,oracle public
+5.181.219.103,16238,US,hostsymbol pte
+18.235.208.126,443,US,amazon data
 38.60.193.247,13300,MY,kaopu cloud
