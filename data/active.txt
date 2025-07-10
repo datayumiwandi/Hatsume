@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-172.252.8.168,443,ID,mitra visioner
-172.232.234.155,74,ID,linode
 203.194.112.119,8443,ID,cv rumahweb
-146.235.19.79,28983,SG,oracle corporation
-143.42.66.91,443,SG,m1 ltd
-138.2.89.238,43254,SG,oracle corporation 2
-152.70.82.101,18650,JP,oracle corporation 3
-149.28.21.106,443,JP,vultr holdings
-104.224.177.224,8443,US,it7 networks
-142.171.212.153,10041,US,multacom corporation
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+8.219.58.164,57373,SG,alibaba cloud
+138.2.107.107,443,SG,oracle corporation
+91.192.81.154,2053,SG,melbikomas uab
+140.238.62.82,1443,JP,oracle public
+217.142.226.116,443,JP,oracle svenska
+44.227.22.10,443,US,amazon technologies
+132.145.217.215,11002,US,oracle public 2
 38.60.193.247,13300,MY,kaopu cloud
