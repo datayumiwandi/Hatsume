@@ -1,12 +1,12 @@
-172.252.8.168,443,ID,mitra visioner
-172.232.234.155,443,ID,linode
-172.232.234.155,74,ID,linode 2
-43.218.77.16,443,ID,amazoncom inc
-43.134.167.135,9950,SG,6 collyer
-38.181.70.7,16240,SG,eons data
-54.169.229.188,443,SG,amazoncom inc 2
-47.245.59.226,59215,JP,alibaba cloud
-121.85.55.59,19842,JP,optage inc
-194.36.171.219,8443,US,as56971 network
-74.48.121.164,2053,US,multacom corporation
+172.232.234.155,74,ID,linode
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.155,443,ID,linode 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+158.178.243.152,61731,SG,oracle corporation
+54.169.229.188,443,SG,amazoncom inc
+138.2.89.238,43254,SG,oracle corporation 2
+138.3.217.167,587,JP,oracle network
+45.89.109.29,8443,JP,worktitans
+142.171.36.3,43553,US,multacom corporation
+45.32.131.28,31001,US,the constant
 38.60.193.247,13300,MY,kaopu cloud
