@@ -1,12 +1,12 @@
+172.232.234.155,74,ID,linode
+172.232.234.155,443,ID,linode 2
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-149.129.250.8,443,ID,21f ciputra
-3.1.116.161,2053,SG,amazon data
-38.181.70.7,16240,SG,eons data
-168.138.184.172,443,SG,oracle public
-172.104.127.132,443,JP,linode
-168.138.198.7,27560,JP,oracle public 2
-107.172.102.212,20700,US,racknerd
-104.152.187.165,443,US,centrilogic inc
+203.194.112.119,8443,ID,cv rumahweb
+43.128.95.84,38091,SG,6 collyer
+168.138.170.211,53702,SG,oracle public
+47.245.91.197,9000,SG,alibaba cloud
+45.89.109.84,8443,JP,worktitans
+18.183.158.211,443,JP,amazon data
+192.3.7.50,27894,US,racknerd
+107.172.103.195,16072,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
