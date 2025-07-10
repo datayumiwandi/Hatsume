@@ -1,12 +1,12 @@
+43.218.77.16,1443,ID,amazoncom inc
 172.232.234.155,74,ID,linode
-172.232.234.155,443,ID,linode 2
+172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-43.128.95.84,38091,SG,6 collyer
-168.138.170.211,53702,SG,oracle public
-47.245.91.197,9000,SG,alibaba cloud
-45.89.109.84,8443,JP,worktitans
-18.183.158.211,443,JP,amazon data
-192.3.7.50,27894,US,racknerd
-107.172.103.195,16072,US,racknerd 2
+31.192.238.71,2053,SG,pdk
+164.52.2.98,443,SG,uculsg
+149.28.158.103,10030,SG,vultr holdings
+150.230.204.21,10243,JP,oracle corporation
+140.83.59.158,15805,JP,imported inetnum
+204.110.223.100,80,US,securly inc
+176.122.187.16,51121,US,cluster logic
 38.60.193.247,13300,MY,kaopu cloud
