@@ -1,12 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-154.90.48.27,56362,ID,lightnode
-8.219.170.224,443,SG,alibaba cloud
-91.192.81.154,8443,SG,melbikomas uab
-8.222.159.134,12314,SG,alibaba cloud 2
-152.69.199.70,8443,JP,cloudflare london
-132.145.126.40,32498,JP,oracle public
-5.181.219.103,16238,US,hostsymbol pte
-18.235.208.126,443,US,amazon data
-38.60.193.247,13300,MY,kaopu cloud
+203.194.112.119,8443,ID,cv rumahweb
+47.245.85.72,443,SG,alibaba cloud
+15.235.199.103,2053,SG,ovh singapore
+138.2.77.179,30018,SG,oracle corporation
+140.83.59.158,15805,JP,imported inetnum
+185.184.223.47,443,JP,365 group
+193.233.87.9,8443,US,vdskanet
+91.149.239.122,443,US,bgnetwork
