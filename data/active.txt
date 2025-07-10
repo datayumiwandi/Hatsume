@@ -1,12 +1,12 @@
-172.232.234.155,443,ID,linode
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-158.178.243.152,61731,SG,oracle corporation
-54.255.217.120,8192,SG,amazon data
-64.49.14.41,8443,SG,internet utilities
-45.77.25.6,27854,JP,vultr holdings
-132.226.8.109,43257,JP,oracle public
-107.172.103.195,16062,US,racknerd
-192.3.155.203,443,US,racknerd 2
+149.129.250.8,443,ID,21f ciputra
+172.232.234.155,74,ID,linode
+168.138.184.172,443,SG,oracle public
+146.235.18.248,45137,SG,oracle corporation
+168.138.170.211,53702,SG,oracle public 2
+140.83.56.110,56417,JP,imported inetnum
+158.101.152.6,2919,JP,oracle public 3
+172.245.55.114,443,US,racknerd
+107.172.103.195,16041,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
