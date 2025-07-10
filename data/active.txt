@@ -1,12 +1,12 @@
 203.194.112.119,8443,ID,cv rumahweb
+154.90.48.27,56362,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.178.36,8443,SG,first server
-194.36.178.36,2053,SG,first server 2
-8.222.159.134,12483,SG,alibaba cloud
-140.235.37.81,443,JP,sunoaki network
-138.3.217.167,587,JP,oracle network
-23.83.233.179,35825,US,cluster logic
-107.172.211.182,2053,US,hostpapa
+8.219.170.224,443,SG,alibaba cloud
+168.138.171.70,23280,SG,oracle public
+8.219.59.132,48964,SG,alibaba cloud 2
+138.2.49.197,587,JP,oracle corporation
+168.138.46.115,43138,JP,oracle public 2
+205.185.127.56,18888,US,frantech solutions
+45.145.7.107,2053,US,as56971 network
 38.60.193.247,13300,MY,kaopu cloud
