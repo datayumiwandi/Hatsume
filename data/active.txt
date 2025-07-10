@@ -1,12 +1,12 @@
-172.232.234.155,74,ID,linode
-103.6.207.108,8080,ID,pusat media
-154.90.48.27,56362,ID,lightnode
-172.232.234.155,443,ID,linode 2
-138.2.81.243,45319,SG,oracle corporation
-13.250.131.37,443,SG,amazon data
-43.156.116.194,443,SG,6 collyer
-132.145.116.185,443,JP,oracle public
-47.79.90.37,49153,JP,alibaba cloud
-103.170.72.129,25950,US,anycast
-107.172.103.195,16058,US,racknerd
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+13.250.14.76,443,SG,amazon data
+43.156.181.203,443,SG,16 collyer
+43.156.107.236,12131,SG,6 collyer
+46.3.101.59,8443,JP,dom tehniki
+38.180.28.163,8443,JP,3nt solutions
+107.172.103.195,16082,US,racknerd
+154.17.29.80,50235,US,dmit cloud
 38.60.193.247,13300,MY,kaopu cloud
