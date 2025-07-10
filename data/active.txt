@@ -1,12 +1,12 @@
-172.232.234.155,443,ID,linode
-172.252.8.168,443,ID,mitra visioner
-172.232.234.155,74,ID,linode 2
+172.232.234.155,74,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-8.222.220.81,25435,SG,alibaba cloud
-8.222.243.73,26385,SG,alibaba cloud 2
-31.192.238.71,2053,SG,pdk
-217.142.250.28,443,JP,oracle svenska
-138.2.10.217,27446,JP,oracle corporation
-107.174.63.237,443,US,racknerd
-138.124.180.151,443,US,worktitans
+43.156.116.194,443,SG,6 collyer
+47.236.119.190,51342,SG,alibaba cloud
+54.255.217.120,8192,SG,amazon data
+149.28.30.146,44243,JP,vultr holdings
+85.208.110.52,8443,JP,worktitans
+152.53.54.193,8443,US,netcup gmbh
+35.185.54.229,27207,US,google
 38.60.193.247,13300,MY,kaopu cloud
