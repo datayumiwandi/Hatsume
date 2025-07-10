@@ -1,12 +1,12 @@
+154.90.48.27,56362,ID,lightnode
 172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-8.222.243.73,26385,SG,alibaba cloud
-8.219.59.132,48964,SG,alibaba cloud 2
-158.178.243.152,61731,SG,oracle corporation
-8.216.121.234,51922,JP,alibaba cloud 3
-147.45.49.11,2053,JP,global connectivity
-4.227.113.189,4443,US,microsoft corporation
-65.75.193.154,14491,US,dmit cloud
+172.232.234.155,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+51.79.254.182,443,SG,ovh singapore
+43.156.116.194,443,SG,6 collyer
+138.2.95.33,17465,SG,oracle corporation
+103.232.213.117,8080,JP,kvmcloud network
+131.186.63.89,11655,JP,oracle public
+45.42.214.153,443,US,royalehosting
+23.105.215.45,443,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
