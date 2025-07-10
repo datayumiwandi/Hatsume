@@ -1,11 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
+172.232.234.155,74,ID,linode
 154.90.48.27,56362,ID,lightnode
-172.252.8.168,443,ID,mitra visioner
-143.198.196.196,8443,SG,digitalocean
-54.169.229.188,443,SG,amazoncom inc
-43.128.95.110,40029,SG,6 collyer
-147.45.49.193,2053,JP,global connectivity
-140.83.63.113,443,JP,imported inetnum
-199.119.137.89,2053,US,extravm
-47.90.140.40,15624,US,alibaba cloud
+47.130.35.116,8888,SG,amazon data
+143.198.196.196,2053,SG,digitalocean
+8.222.220.81,25435,SG,alibaba cloud
+131.186.63.89,11655,JP,oracle public
+45.89.109.82,8443,JP,worktitans
+192.9.228.70,14123,US,oracle corporation
+92.118.10.102,2053,US,first server
+38.60.193.247,13300,MY,kaopu cloud
