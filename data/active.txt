@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-43.134.167.135,9950,SG,6 collyer
-194.36.179.5,2053,SG,first server
-110.34.164.39,28758,SG,vpls sin1
-45.89.109.88,2053,JP,worktitans
-140.83.37.134,46478,JP,imported inetnum
-204.110.222.125,80,US,securly inc
-132.145.217.215,11002,US,oracle public
+172.232.234.155,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+8.222.237.72,443,SG,alibaba cloud
+47.236.119.190,51342,SG,alibaba cloud 2
+158.178.246.142,61731,SG,oracle corporation
+168.138.213.1,50003,JP,oracle public
+91.194.160.45,2053,JP,worktitans
+47.252.4.59,38181,US,alibaba cloud 3
+66.112.215.227,18819,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
