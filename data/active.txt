@@ -1,12 +1,12 @@
+172.252.8.168,443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,443,ID,linode
-154.90.48.27,56362,ID,lightnode
-178.128.80.43,443,SG,digitalocean
-64.49.14.41,8443,SG,internet utilities
-194.36.178.36,8443,SG,first server
-140.83.60.81,18443,JP,imported inetnum
-172.105.233.112,18836,JP,akamai connected
-192.74.225.146,34171,US,peg tech
-15.204.10.80,43246,US,ovh us
+172.232.234.155,74,ID,linode
+194.36.179.17,2053,SG,first server
+138.2.107.107,443,SG,oracle corporation
+138.2.81.243,45319,SG,oracle corporation 2
+45.66.218.194,12965,JP,virtual machine
+202.84.53.85,19999,JP,azumino network
+107.172.103.195,16089,US,racknerd
+141.11.89.128,443,US,virtual machine 2
 38.60.193.247,13300,MY,kaopu cloud
