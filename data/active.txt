@@ -1,12 +1,12 @@
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb 2
-158.178.246.142,61731,SG,oracle corporation
-168.138.170.211,53702,SG,oracle public
-146.235.19.79,28983,SG,oracle corporation 2
-141.147.147.180,443,JP,oracle corporation 3
-152.69.199.70,8443,JP,cloudflare london
-107.172.103.195,16082,US,racknerd
-107.172.108.219,38631,US,racknerd 2
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner
+43.134.167.135,9950,SG,6 collyer
+194.36.179.5,2053,SG,first server
+110.34.164.39,28758,SG,vpls sin1
+45.89.109.88,2053,JP,worktitans
+140.83.37.134,46478,JP,imported inetnum
+204.110.222.125,80,US,securly inc
+132.145.217.215,11002,US,oracle public
 38.60.193.247,13300,MY,kaopu cloud
