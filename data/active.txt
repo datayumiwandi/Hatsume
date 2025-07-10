@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-168.138.181.188,61731,SG,oracle public
-8.219.58.164,57373,SG,alibaba cloud
+172.252.8.168,443,ID,mitra visioner
+143.198.196.196,8443,SG,digitalocean
+54.169.229.188,443,SG,amazoncom inc
 43.128.95.110,40029,SG,6 collyer
-217.142.230.253,587,JP,oracle corporation
-168.138.201.35,36637,JP,cloudflare london
-148.135.96.161,38307,US,multacom corporation
-47.90.250.235,35869,US,alibaba cloud 2
+147.45.49.193,2053,JP,global connectivity
+140.83.63.113,443,JP,imported inetnum
+199.119.137.89,2053,US,extravm
+47.90.140.40,15624,US,alibaba cloud
