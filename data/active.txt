@@ -1,12 +1,12 @@
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 172.232.234.155,443,ID,linode
-139.180.191.96,31001,SG,sgpvultrcust
-185.81.28.95,30503,SG,akile ltd
-160.22.79.166,443,SG,onidel pty
-45.77.25.6,48828,JP,vultr holdings
-141.147.183.49,29876,JP,oracle corporation
-107.172.103.195,16058,US,racknerd
-54.149.11.131,80,US,amazon technologies
+154.90.48.27,56362,ID,lightnode
+206.206.77.53,443,SG,regxa
+15.235.199.103,2053,SG,ovh singapore
+129.150.49.58,18650,SG,oracle corporation
+45.89.109.87,2053,JP,worktitans
+140.235.37.81,443,JP,sunoaki network
+3.215.143.191,443,US,amazon technologies
+5.161.241.58,8443,US,hetzner online
 38.60.193.247,13300,MY,kaopu cloud
