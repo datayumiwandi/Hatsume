@@ -1,12 +1,12 @@
 203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-91.192.81.154,8443,SG,melbikomas uab
-194.36.178.36,8443,SG,first server
-158.178.246.142,61731,SG,oracle corporation
-45.89.109.84,8443,JP,worktitans
-219.117.2.190,48401,JP,jupiter telecommunications
-192.9.135.182,7800,US,oracle corporation 2
-129.213.136.180,443,US,oracle corporation 3
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
+139.180.191.96,31001,SG,sgpvultrcust
+138.2.89.64,32962,SG,oracle corporation
+138.2.95.33,17465,SG,oracle corporation 2
+158.101.152.6,2919,JP,oracle public
+149.28.21.106,443,JP,vultr holdings
+104.234.50.39,2053,US,unknown
+44.228.63.60,443,US,amazoncom inc
 38.60.193.247,13300,MY,kaopu cloud
