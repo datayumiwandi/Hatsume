@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,443,ID,linode
 103.6.207.108,8080,ID,pusat media
-213.35.108.135,12596,SG,oracle svenska
-194.36.179.5,2053,SG,first server
-43.128.95.110,40029,SG,6 collyer
-212.52.0.61,1846,JP,prinode
-8.209.220.50,21273,JP,shiodome sumitomo
-193.46.217.164,2053,US,huize holdings
-142.171.221.31,2053,US,multacom corporation
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.155,74,ID,linode
+149.129.250.8,443,ID,21f ciputra
+168.138.171.70,23280,SG,oracle public
+194.127.193.240,50791,SG,greencloud
+52.221.189.27,443,SG,amazon data
+3.112.21.102,443,JP,amazon data 2
+109.123.231.212,2053,JP,contabo gmbh
+148.135.106.200,443,US,brander group
+45.151.132.228,19034,US,spartan host
 38.60.193.247,13300,MY,kaopu cloud
