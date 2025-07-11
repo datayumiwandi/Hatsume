@@ -1,11 +1,11 @@
 172.232.234.155,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.245.95.160,1443,SG,alibaba cloud
-139.162.51.138,2053,SG,1391620016
-194.127.193.124,24467,SG,greencloud
-45.89.109.88,8443,JP,worktitans
-141.147.161.249,51037,JP,oracle corporation
-198.57.46.6,443,US,secure dragon
-5.161.176.159,50000,US,hetzner online
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+13.250.14.76,443,SG,amazon data
+138.2.89.64,32962,SG,oracle corporation
+178.128.80.43,443,SG,digitalocean
+141.147.161.249,51037,JP,oracle corporation 2
+139.162.102.152,7002,JP,akamai connected
+192.210.181.182,443,US,racknerd
+207.246.100.180,443,US,vultr holdings
