@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-139.180.191.96,31001,SG,sgpvultrcust
-143.198.196.196,2053,SG,digitalocean
-158.178.246.142,61731,SG,oracle corporation
-38.180.29.115,443,JP,3nt solutions
-108.160.139.154,8443,JP,vultr holdings
-140.82.21.227,3533,US,vultr holdings 2
-5.181.3.119,8443,US,global connectivity
+172.232.234.155,443,ID,linode
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.245.95.160,1443,SG,alibaba cloud
+139.162.51.138,2053,SG,1391620016
+194.127.193.124,24467,SG,greencloud
+45.89.109.88,8443,JP,worktitans
+141.147.161.249,51037,JP,oracle corporation
+198.57.46.6,443,US,secure dragon
+5.161.176.159,50000,US,hetzner online
