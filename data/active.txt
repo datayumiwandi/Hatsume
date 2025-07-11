@@ -1,12 +1,12 @@
 172.232.234.155,74,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-43.134.167.135,9950,SG,6 collyer
-8.219.155.21,443,SG,alibaba cloud
-83.142.30.5,2096,SG,zappie host
-168.138.46.115,43138,JP,oracle public
-139.162.127.39,18836,JP,akamai connected
-154.29.155.249,443,US,netlab
-212.18.104.82,2053,US,global connectivity
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
+158.178.243.152,61731,SG,oracle corporation
+8.219.58.164,57373,SG,alibaba cloud
+8.219.155.21,443,SG,alibaba cloud 2
+82.163.16.69,8080,JP,akile ltd
+18.183.158.211,443,JP,amazon data
+45.150.65.39,2053,US,worktitans
+193.32.177.79,443,US,baykov ilya
 38.60.193.247,13300,MY,kaopu cloud
