@@ -1,12 +1,12 @@
-172.232.234.155,74,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.155,443,ID,linode
 43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-160.22.79.179,443,SG,onidel pty
-164.52.2.100,443,SG,uculsg
-185.81.28.95,30503,SG,akile ltd
-140.238.37.103,14782,JP,oracle public
-64.176.37.22,443,JP,vultr holdings
-147.182.246.69,58017,US,digitalocean
-193.46.217.164,2053,US,huize holdings
+172.252.8.168,443,ID,mitra visioner
+91.192.81.154,8443,SG,melbikomas uab
+194.36.178.36,8443,SG,first server
+158.178.246.142,61731,SG,oracle corporation
+45.89.109.84,8443,JP,worktitans
+219.117.2.190,48401,JP,jupiter telecommunications
+192.9.135.182,7800,US,oracle corporation 2
+129.213.136.180,443,US,oracle corporation 3
 38.60.193.247,13300,MY,kaopu cloud
