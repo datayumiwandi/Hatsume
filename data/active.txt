@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
 172.232.234.155,74,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-158.178.236.14,61731,SG,oracle corporation
-139.162.51.138,2053,SG,1391620016
-51.79.158.58,8443,SG,ovh singapore
-85.208.110.52,8443,JP,worktitans
-139.162.127.55,18836,JP,akamai connected
-104.234.50.12,8443,US,unknown
-194.36.171.219,8443,US,as56971 network
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+160.22.79.179,443,SG,onidel pty
+164.52.2.100,443,SG,uculsg
+185.81.28.95,30503,SG,akile ltd
+140.238.37.103,14782,JP,oracle public
+64.176.37.22,443,JP,vultr holdings
+147.182.246.69,58017,US,digitalocean
+193.46.217.164,2053,US,huize holdings
 38.60.193.247,13300,MY,kaopu cloud
