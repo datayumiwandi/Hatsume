@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-154.90.48.27,56362,ID,lightnode
-110.34.164.39,28758,SG,vpls sin1
-43.156.107.236,12131,SG,6 collyer
-51.79.158.58,2053,SG,ovh singapore
-91.194.160.45,8443,JP,worktitans
-49.212.133.94,443,JP,sakura internet
-172.93.44.36,2443,US,cluster logic
-172.245.55.114,443,US,racknerd
+172.232.234.155,443,ID,linode
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+143.42.66.91,443,SG,m1 ltd
+91.192.81.154,2053,SG,melbikomas uab
+138.2.77.179,30018,SG,oracle corporation
+54.248.121.219,443,JP,amazon technologies
+138.3.217.167,587,JP,oracle network
+107.148.20.127,29500,US,peg tech
+5.161.176.159,50121,US,hetzner online
 38.60.193.247,13300,MY,kaopu cloud
