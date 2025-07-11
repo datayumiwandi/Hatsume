@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-172.232.234.155,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.155,74,ID,linode
 43.218.77.16,443,ID,amazoncom inc
-54.255.217.120,8192,SG,amazon data
-47.245.91.197,9000,SG,alibaba cloud
-194.36.179.17,8443,SG,first server
-91.194.160.79,8443,JP,worktitans
-138.2.10.149,45638,JP,oracle corporation
-103.124.105.222,443,US,hosteonscom vps
-198.57.46.6,443,US,secure dragon
+167.253.158.63,8443,SG,365 group
+160.22.79.179,443,SG,onidel pty
+139.180.191.96,31001,SG,sgpvultrcust
+149.28.30.146,44243,JP,vultr holdings
+158.101.157.75,57105,JP,oracle public
+43.153.61.80,40874,US,6 collyer
+148.135.101.60,443,US,brander group
 38.60.193.247,13300,MY,kaopu cloud
