@@ -1,12 +1,12 @@
-172.232.234.155,443,ID,linode
 103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
+172.232.234.155,74,ID,linode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-158.178.246.142,61731,SG,oracle corporation
-164.52.2.100,443,SG,uculsg
-45.32.100.46,13802,SG,vultr holdings
-150.230.5.34,45681,JP,oracle corporation 2
-147.45.49.211,443,JP,global connectivity
-69.30.212.5,6643,US,wholesale internet
-193.23.55.254,8443,US,it outsourcing
+158.178.236.14,61731,SG,oracle corporation
+139.162.51.138,2053,SG,1391620016
+51.79.158.58,8443,SG,ovh singapore
+85.208.110.52,8443,JP,worktitans
+139.162.127.55,18836,JP,akamai connected
+104.234.50.12,8443,US,unknown
+194.36.171.219,8443,US,as56971 network
 38.60.193.247,13300,MY,kaopu cloud
