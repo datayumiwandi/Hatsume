@@ -1,12 +1,12 @@
-203.194.112.119,8443,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 172.232.234.155,74,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+43.134.167.135,9950,SG,6 collyer
+8.219.155.21,443,SG,alibaba cloud
 83.142.30.5,2096,SG,zappie host
-139.162.51.138,2053,SG,1391620016
-138.2.95.33,17465,SG,oracle corporation
-113.37.149.36,12553,JP,arteria networks
-103.238.129.215,42734,JP,ipx
-107.172.103.195,16063,US,racknerd
-107.173.54.243,443,US,racknerd 2
+168.138.46.115,43138,JP,oracle public
+139.162.127.39,18836,JP,akamai connected
+154.29.155.249,443,US,netlab
+212.18.104.82,2053,US,global connectivity
 38.60.193.247,13300,MY,kaopu cloud
