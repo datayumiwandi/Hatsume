@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-15.235.199.103,2053,SG,ovh singapore
-110.34.164.39,28758,SG,vpls sin1
-143.42.66.91,443,SG,m1 ltd
-158.101.80.84,443,JP,oracle public
-91.194.160.45,8443,JP,worktitans
-207.231.109.22,443,US,hostrush
-173.242.112.192,443,US,cluster logic
+139.180.191.96,31001,SG,sgpvultrcust
+143.198.196.196,2053,SG,digitalocean
+158.178.246.142,61731,SG,oracle corporation
+38.180.29.115,443,JP,3nt solutions
+108.160.139.154,8443,JP,vultr holdings
+140.82.21.227,3533,US,vultr holdings 2
+5.181.3.119,8443,US,global connectivity
