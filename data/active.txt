@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+172.232.234.155,74,ID,linode
 203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-154.90.48.27,56362,ID,lightnode
-15.235.199.103,8443,SG,ovh singapore
-8.222.132.249,10036,SG,alibaba cloud
-104.248.145.216,443,SG,digitalocean
-152.69.199.70,8443,JP,cloudflare london
-152.70.82.101,18650,JP,oracle corporation
-107.172.100.104,8898,US,racknerd
-5.161.176.159,50000,US,hetzner online
+164.52.2.100,443,SG,uculsg
+47.130.35.116,8888,SG,amazon data
+143.198.196.196,8443,SG,digitalocean
+217.142.250.195,587,JP,oracle corporation
+141.147.183.49,29876,JP,oracle corporation 2
+3.88.110.210,8443,US,amazon data 2
+23.94.213.132,27149,US,hostpapa
