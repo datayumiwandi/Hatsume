@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-13.250.14.76,443,SG,amazon data
-138.2.89.64,32962,SG,oracle corporation
-178.128.80.43,443,SG,digitalocean
-141.147.161.249,51037,JP,oracle corporation 2
-139.162.102.152,7002,JP,akamai connected
-192.210.181.182,443,US,racknerd
-207.246.100.180,443,US,vultr holdings
+203.194.112.119,2053,ID,cv rumahweb 2
+91.192.81.154,2053,SG,melbikomas uab
+45.32.100.46,13802,SG,vultr holdings
+8.219.126.137,491,SG,alibaba cloud
+172.104.127.132,443,JP,linode
+140.235.37.81,443,JP,sunoaki network
+107.172.103.195,16074,US,racknerd
+74.48.160.149,43516,US,multacom corporation
