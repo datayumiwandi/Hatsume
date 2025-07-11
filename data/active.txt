@@ -1,12 +1,11 @@
-103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
 172.232.234.155,74,ID,linode
-3.1.116.161,8443,SG,amazon data
-15.235.199.103,8443,SG,ovh singapore
-31.192.238.71,2053,SG,pdk
-45.89.109.29,2053,JP,worktitans
-147.45.49.193,2053,JP,global connectivity
-148.135.67.18,8443,US,brander group
-129.153.112.108,3966,US,oracle corporation
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+143.198.92.220,443,SG,digitalocean
+129.150.61.72,443,SG,oracle corporation
+149.28.158.103,10030,SG,vultr holdings
+45.89.109.86,8443,JP,worktitans
+140.235.37.81,443,JP,sunoaki network
+107.172.103.195,16093,US,racknerd
+172.93.44.36,2443,US,cluster logic
