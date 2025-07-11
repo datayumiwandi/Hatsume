@@ -1,11 +1,11 @@
 172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,443,ID,linode
-8.222.220.81,25435,SG,alibaba cloud
-194.36.178.36,8443,SG,first server
-83.142.30.4,2096,SG,zappie host
-45.76.192.129,24434,JP,vultr holdings
-45.66.218.194,12959,JP,virtual machine
-104.36.84.82,443,US,redoubt networks
-104.234.50.59,2053,US,unknown
+43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+15.235.199.103,8443,SG,ovh singapore
+8.222.132.249,10036,SG,alibaba cloud
+104.248.145.216,443,SG,digitalocean
+152.69.199.70,8443,JP,cloudflare london
+152.70.82.101,18650,JP,oracle corporation
+107.172.100.104,8898,US,racknerd
+5.161.176.159,50000,US,hetzner online
