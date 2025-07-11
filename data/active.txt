@@ -1,12 +1,12 @@
-172.232.234.155,443,ID,linode
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
-194.36.179.17,2053,SG,first server
-45.76.179.81,443,SG,vultr holdings
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.155,443,ID,linode
+103.6.207.108,8080,ID,pusat media
+213.35.108.135,12596,SG,oracle svenska
+194.36.179.5,2053,SG,first server
 43.128.95.110,40029,SG,6 collyer
-149.28.30.146,44243,JP,vultr holdings 2
-158.101.80.84,443,JP,oracle public
-162.247.153.139,2053,US,twinservers hosting
-107.172.103.195,16020,US,racknerd
+212.52.0.61,1846,JP,prinode
+8.209.220.50,21273,JP,shiodome sumitomo
+193.46.217.164,2053,US,huize holdings
+142.171.221.31,2053,US,multacom corporation
 38.60.193.247,13300,MY,kaopu cloud
