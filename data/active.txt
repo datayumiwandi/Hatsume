@@ -1,12 +1,12 @@
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.155,74,ID,linode
 43.218.77.16,443,ID,amazoncom inc
-167.253.158.63,8443,SG,365 group
-160.22.79.179,443,SG,onidel pty
-139.180.191.96,31001,SG,sgpvultrcust
-149.28.30.146,44243,JP,vultr holdings
-158.101.157.75,57105,JP,oracle public
-43.153.61.80,40874,US,6 collyer
-148.135.101.60,443,US,brander group
+43.218.77.16,1443,ID,amazoncom inc 2
+172.232.234.155,443,ID,linode
+154.90.48.27,56362,ID,lightnode
+64.49.14.41,2053,SG,internet utilities
+31.192.238.71,8443,SG,pdk
+15.235.199.103,2053,SG,ovh singapore
+140.238.62.82,1443,JP,oracle public
+49.212.133.94,443,JP,sakura internet
+192.210.143.111,28425,US,racknerd
+209.141.35.26,37020,US,frantech solutions
 38.60.193.247,13300,MY,kaopu cloud
