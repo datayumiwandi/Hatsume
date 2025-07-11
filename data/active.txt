@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-172.232.234.155,443,ID,linode
-154.90.48.27,56362,ID,lightnode
-64.49.14.41,2053,SG,internet utilities
-31.192.238.71,8443,SG,pdk
-15.235.199.103,2053,SG,ovh singapore
-140.238.62.82,1443,JP,oracle public
-49.212.133.94,443,JP,sakura internet
-192.210.143.111,28425,US,racknerd
-209.141.35.26,37020,US,frantech solutions
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
+3.1.116.161,8443,SG,amazon data
+15.235.199.103,8443,SG,ovh singapore
+31.192.238.71,2053,SG,pdk
+45.89.109.29,2053,JP,worktitans
+147.45.49.193,2053,JP,global connectivity
+148.135.67.18,8443,US,brander group
+129.153.112.108,3966,US,oracle corporation
 38.60.193.247,13300,MY,kaopu cloud
