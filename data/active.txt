@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-172.232.234.155,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-213.35.100.31,47112,SG,oracle svenska
-168.138.170.211,53702,SG,oracle public
-8.219.155.21,443,SG,alibaba cloud
-45.89.109.88,8443,JP,worktitans
-131.186.63.89,11655,JP,oracle public 2
-144.34.231.211,443,US,cluster logic
-154.19.242.205,443,US,starcloud global
+43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+138.2.89.64,32962,SG,oracle corporation
+77.221.133.147,443,SG,ihc network
+13.250.131.37,443,SG,amazon data
+141.147.161.249,51037,JP,oracle corporation 2
+45.89.109.85,8443,JP,worktitans
+107.172.103.195,16099,US,racknerd
+148.135.111.27,26364,US,brander group
