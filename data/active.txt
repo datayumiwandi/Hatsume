@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.252.8.168,443,ID,mitra visioner 3
-194.36.179.17,2053,SG,first server
-139.180.215.77,57878,SG,sgpvultrcust
-129.150.49.58,18650,SG,oracle corporation
-147.45.49.164,24443,JP,global connectivity
-64.176.42.125,10001,JP,vultr holdings
-54.202.98.246,47346,US,amazoncom inc
-74.48.179.37,58184,US,cloudflare inc
+206.84.101.83,8443,ID,mitra visioner
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
+13.228.142.218,443,SG,amazon data
+129.150.58.86,57621,SG,oracle corporation
+138.2.95.61,1111,SG,oracle corporation 2
+147.45.49.193,2053,JP,global connectivity
+45.89.109.87,2053,JP,worktitans
+45.79.168.17,443,US,linode
+23.105.220.138,20018,US,it7 networks
