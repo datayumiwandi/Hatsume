@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
-172.232.234.155,74,ID,linode
 43.218.77.16,1443,ID,amazoncom inc
-154.90.48.27,56362,ID,lightnode
-138.2.89.238,43254,SG,oracle corporation
-185.114.78.230,443,SG,aryaka networks
-13.228.142.218,443,SG,amazon data
-141.98.197.101,11665,JP,xtom japan
-5.180.76.44,443,JP,cegrgodigitalvm
-156.154.245.83,443,US,vercara
-72.13.122.137,443,US,total uptime
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.84,443,ID,mitra visioner
+138.2.95.61,1111,SG,oracle corporation
+62.72.46.14,8443,SG,contabo gmbh
+43.156.116.194,443,SG,6 collyer
+138.2.49.197,587,JP,oracle corporation 2
+43.133.10.236,33405,JP,6 collyer 2
+107.173.87.79,8443,US,racknerd
+47.252.4.59,38181,US,alibaba cloud
