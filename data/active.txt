@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
 206.84.101.84,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.155,74,ID,linode
-13.228.155.72,443,SG,amazon data
-168.138.170.211,53702,SG,oracle public
-5.34.176.119,81,SG,green floid
-185.184.223.47,443,JP,365 group
-45.89.109.29,2053,JP,worktitans
-50.19.193.95,443,US,amazon data 2
-65.49.192.225,58564,US,it7 networks
+36.95.152.58,12137,ID,telekomunikasi indonesia
+154.90.48.27,56362,ID,lightnode
+172.252.8.168,443,ID,mitra visioner 2
+138.2.89.64,32962,SG,oracle corporation
+31.192.238.71,8443,SG,pdk
+13.228.142.218,443,SG,amazon data
+168.138.213.1,50003,JP,oracle public
+45.89.109.84,2053,JP,worktitans
+150.136.86.191,15081,US,oracle public 2
+147.182.246.69,58017,US,digitalocean
