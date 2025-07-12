@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
+172.232.234.155,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
-172.232.234.155,74,ID,linode
-15.235.199.103,2053,SG,ovh singapore
-139.180.191.96,31001,SG,sgpvultrcust
-168.138.170.211,53702,SG,oracle public
-149.28.30.146,44243,JP,vultr holdings
-45.89.109.84,8443,JP,worktitans
-141.11.95.35,35443,US,virtual machine
-107.174.63.237,443,US,racknerd
+54.169.229.188,443,SG,amazoncom inc 2
+15.235.199.103,8443,SG,ovh singapore
+164.52.2.98,443,SG,uculsg
+45.89.109.85,8443,JP,worktitans
+38.180.28.163,2053,JP,3nt solutions
+74.48.57.42,43802,US,multacom corporation
+103.170.72.129,27054,US,corenet inc
