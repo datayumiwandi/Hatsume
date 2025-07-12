@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.84,443,ID,mitra visioner
-138.2.95.61,1111,SG,oracle corporation
-62.72.46.14,8443,SG,contabo gmbh
-43.156.116.194,443,SG,6 collyer
-138.2.49.197,587,JP,oracle corporation 2
-43.133.10.236,33405,JP,6 collyer 2
-107.173.87.79,8443,US,racknerd
-47.252.4.59,38181,US,alibaba cloud
+203.194.112.119,8443,ID,cv rumahweb
+54.169.229.188,443,SG,amazoncom inc 2
+194.36.179.17,2053,SG,first server
+168.138.170.211,53702,SG,oracle public
+140.83.57.20,13118,JP,imported inetnum
+140.83.63.113,443,JP,imported inetnum 2
+104.234.50.51,2053,US,unknown
+95.169.4.66,50723,US,cluster logic
