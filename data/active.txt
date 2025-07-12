@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-104.248.145.216,443,SG,digitalocean
-83.142.30.4,2096,SG,zappie host
-167.99.73.22,443,SG,digitalocean 2
-138.2.49.197,587,JP,oracle corporation
-45.89.109.85,8443,JP,worktitans
-167.234.216.84,65501,US,oracle corporation 2
-104.238.157.207,443,US,vultr holdings
+172.232.234.155,74,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+154.90.48.27,56362,ID,lightnode
+43.156.116.194,443,SG,6 collyer
+129.150.49.58,18650,SG,oracle corporation
+160.22.79.166,443,SG,onidel pty
+45.77.25.6,48828,JP,vultr holdings
+217.142.236.93,443,JP,oracle svenska
+67.209.179.237,30419,US,it7 networks
+176.122.187.16,51121,US,cluster logic
