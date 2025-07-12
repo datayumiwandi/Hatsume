@@ -1,11 +1,11 @@
 206.84.101.84,443,ID,mitra visioner
 172.232.234.155,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner 2
-167.99.73.22,443,SG,digitalocean
-43.128.95.110,40029,SG,6 collyer
-160.22.79.166,443,SG,onidel pty
-198.13.42.58,32954,JP,vultr holdings
-45.66.218.194,12965,JP,virtual machine
-198.200.41.16,12520,US,peg tech
-104.245.12.121,1443,US,xtom
+172.232.234.155,74,ID,linode 2
+103.6.207.108,8080,ID,pusat media
+8.219.59.132,48130,SG,alibaba cloud
+164.52.2.98,443,SG,uculsg
+8.219.59.132,48964,SG,alibaba cloud 2
+103.232.213.117,8080,JP,kvmcloud network
+91.194.160.45,8443,JP,worktitans
+23.95.18.12,18443,US,racknerd
+107.172.142.156,443,US,racknerd 2
