@@ -1,11 +1,12 @@
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner
 154.90.48.27,56362,ID,lightnode
-129.150.58.86,57621,SG,oracle corporation
-51.79.158.58,2053,SG,ovh singapore
-54.255.217.120,8192,SG,amazon data
-141.98.197.101,11665,JP,xtom japan
-147.45.49.211,443,JP,global connectivity
-45.79.168.17,443,US,linode
-141.11.92.161,7555,US,cloudflare london
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+129.150.36.188,53435,SG,oracle corporation
+8.222.237.72,443,SG,alibaba cloud
+149.28.158.103,10030,SG,vultr holdings
+45.76.192.129,24434,JP,vultr holdings 2
+168.138.201.35,36637,JP,cloudflare london
+43.130.134.123,65001,US,6 collyer
+23.95.113.61,443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
