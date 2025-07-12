@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-104.248.145.216,443,SG,digitalocean
+206.84.101.84,443,ID,mitra visioner
+172.232.234.155,74,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+54.169.229.188,443,SG,amazoncom inc 2
+129.150.35.29,587,SG,oracle corporation
 62.72.46.14,8443,SG,contabo gmbh
-185.81.28.95,30503,SG,akile ltd
-149.28.21.106,443,JP,vultr holdings
-64.110.104.30,443,JP,oracle corporation
-15.204.10.80,24906,US,ovh us
-74.48.179.37,36460,US,cloudflare inc
+132.145.116.185,443,JP,oracle public
+45.89.109.87,8443,JP,worktitans
+64.69.37.83,9999,US,multacom corporation
+148.135.111.27,26123,US,multacom corporation 2
