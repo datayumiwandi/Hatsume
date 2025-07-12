@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
 172.232.234.155,443,ID,linode
-172.252.8.168,443,ID,mitra visioner
-8.219.59.132,48964,SG,alibaba cloud
-77.221.133.147,443,SG,ihc network
-104.248.145.216,443,SG,digitalocean
-138.3.217.167,587,JP,oracle network
-91.194.160.45,2053,JP,worktitans
-80.209.242.146,443,US,hostkey
-65.75.193.154,14491,US,dmit cloud
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+213.35.100.31,47112,SG,oracle svenska
+168.138.170.211,53702,SG,oracle public
+8.219.155.21,443,SG,alibaba cloud
+45.89.109.88,8443,JP,worktitans
+131.186.63.89,11655,JP,oracle public 2
+144.34.231.211,443,US,cluster logic
+154.19.242.205,443,US,starcloud global
