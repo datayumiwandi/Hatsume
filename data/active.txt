@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb 2
-91.192.81.154,2053,SG,melbikomas uab
-45.32.100.46,13802,SG,vultr holdings
-8.219.126.137,491,SG,alibaba cloud
-172.104.127.132,443,JP,linode
-140.235.37.81,443,JP,sunoaki network
-107.172.103.195,16074,US,racknerd
-74.48.160.149,43516,US,multacom corporation
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+172.232.234.155,443,ID,linode
+172.252.8.168,443,ID,mitra visioner
+8.219.59.132,48964,SG,alibaba cloud
+77.221.133.147,443,SG,ihc network
+104.248.145.216,443,SG,digitalocean
+138.3.217.167,587,JP,oracle network
+91.194.160.45,2053,JP,worktitans
+80.209.242.146,443,US,hostkey
+65.75.193.154,14491,US,dmit cloud
