@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner 2
-194.36.178.36,2053,SG,first server
-13.228.142.218,443,SG,amazon data
-54.169.229.188,443,SG,amazoncom inc 2
-138.3.222.33,443,JP,oracle network
-154.31.113.72,443,JP,dmit cloud
-65.49.195.163,14828,US,it7 networks
-198.200.51.229,54477,US,peg tech
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.155,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb 2
+43.218.77.16,1443,ID,amazoncom inc
+139.180.191.96,31001,SG,sgpvultrcust
+194.36.179.17,2053,SG,first server
+62.72.46.14,8443,SG,contabo gmbh
+141.147.147.180,443,JP,oracle corporation
+85.208.110.52,2053,JP,worktitans
+23.105.198.177,14995,US,it7 networks
+74.48.85.50,443,US,multacom corporation
