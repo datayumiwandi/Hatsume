@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.155,74,ID,linode 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.156.116.194,443,SG,6 collyer
-138.2.89.64,32962,SG,oracle corporation
-43.156.181.203,443,SG,16 collyer
-152.70.82.70,1450,JP,oracle corporation 2
-139.162.127.55,18836,JP,akamai connected
-54.203.85.46,80,US,amazoncom inc
-74.48.179.37,36358,US,cloudflare inc
+172.252.8.168,443,ID,mitra visioner
+172.232.234.155,443,ID,linode
+172.232.234.155,74,ID,linode 2
+164.52.2.98,443,SG,uculsg
+164.52.2.99,443,SG,uculsg 2
+3.1.116.161,8443,SG,amazon data
+3.112.21.102,443,JP,amazon data 2
+219.117.2.190,48401,JP,jupiter telecommunications
+69.30.212.2,6643,US,wholesale internet
+66.112.212.21,818,US,it7 networks
