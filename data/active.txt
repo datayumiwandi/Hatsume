@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.155,443,ID,linode
-203.194.112.119,2053,ID,cv rumahweb 2
-206.84.101.84,443,ID,mitra visioner
-43.156.116.194,443,SG,6 collyer
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+154.90.48.27,56362,ID,lightnode
+206.84.101.83,8443,ID,mitra visioner
 3.1.116.161,8443,SG,amazon data
-128.199.134.152,443,SG,digitalocean
-45.89.109.80,8443,JP,worktitans
-54.248.121.219,443,JP,amazon technologies
-142.171.147.201,20274,US,multacom corporation
-192.74.225.146,34171,US,peg tech
+206.206.77.53,443,SG,regxa
+31.192.238.71,2053,SG,pdk
+139.162.84.132,18836,JP,akamai connected
+45.89.109.86,2053,JP,worktitans
+170.205.38.77,443,US,hosthatch
+34.16.182.230,50651,US,google
