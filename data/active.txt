@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc 2
-213.35.108.135,12596,SG,oracle svenska
-3.1.116.161,8443,SG,amazon data
-13.250.14.76,443,SG,amazon data 2
-147.45.49.193,2053,JP,global connectivity
-118.27.12.40,38443,JP,gmo internet
-178.156.148.4,8443,US,hetzner online
-74.48.179.37,58184,US,cloudflare inc
+103.6.207.108,8080,ID,pusat media
+154.90.48.27,56362,ID,lightnode
+172.252.8.168,443,ID,mitra visioner
+168.138.171.70,23280,SG,oracle public
+213.35.100.31,47112,SG,oracle svenska
+213.35.108.135,12596,SG,oracle svenska 2
+131.186.33.175,443,JP,oracle public 2
+141.147.147.180,443,JP,oracle corporation
+54.176.205.20,80,US,amazoncom inc 2
+23.105.220.138,20018,US,it7 networks
