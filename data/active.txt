@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.155,74,ID,linode
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+143.42.66.91,443,SG,m1 ltd
 168.138.165.174,443,SG,oracle public
-164.52.2.100,443,SG,uculsg
-43.156.116.194,443,SG,6 collyer
-5.180.76.44,443,JP,cegrgodigitalvm
-158.101.157.75,57105,JP,oracle public 2
-44.228.63.60,80,US,amazon technologies
-74.48.140.177,443,US,multacom corporation
+213.35.108.135,12596,SG,oracle svenska
+219.117.2.190,57517,JP,jupiter telecommunications
+131.186.33.175,443,JP,oracle public 2
+23.94.92.19,443,US,racknerd
+74.121.150.129,8443,US,it7 networks
