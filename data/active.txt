@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
-206.84.101.83,8443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.89.238,43254,SG,oracle corporation
-45.32.100.46,13802,SG,vultr holdings
-129.150.35.29,587,SG,oracle corporation 2
-217.142.226.116,443,JP,oracle svenska
+194.36.179.17,8443,SG,first server
+31.192.238.71,2053,SG,pdk
+13.250.131.37,443,SG,amazon data
+141.147.185.63,443,JP,oracle corporation
 202.144.194.31,9998,JP,iptelecom japan
-67.209.179.237,30419,US,it7 networks
-192.9.145.87,13611,US,oracle corporation 3
+172.245.129.72,27486,US,racknerd
+74.48.46.35,443,US,multacom corporation
