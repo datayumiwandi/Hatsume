@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.155,443,ID,linode
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-213.35.100.31,47112,SG,oracle svenska
-168.138.171.70,23280,SG,oracle public
+172.232.234.155,443,ID,linode
+206.84.101.84,443,ID,mitra visioner 2
+149.129.250.8,443,ID,21f ciputra
 138.2.89.64,32962,SG,oracle corporation
-140.83.57.20,13118,JP,imported inetnum
-45.89.109.87,8443,JP,worktitans
-162.219.120.218,443,US,cluster logic
-148.135.111.27,26123,US,multacom corporation
+168.138.165.174,443,SG,oracle public
+213.35.100.31,47112,SG,oracle svenska
+141.147.185.63,443,JP,oracle corporation 2
+219.117.2.190,48401,JP,jupiter telecommunications
+74.48.140.177,443,US,multacom corporation
+172.83.159.4,16478,US,spartan host
