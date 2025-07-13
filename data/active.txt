@@ -1,11 +1,11 @@
+203.194.112.119,8443,ID,cv rumahweb
 172.232.234.155,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
-138.2.95.33,17465,SG,oracle corporation
-138.2.89.238,43254,SG,oracle corporation 2
-38.181.70.7,16240,SG,eons data
-8.221.143.218,587,JP,alibaba cloud
-217.142.243.98,51321,JP,oracle corporation 3
-34.218.130.79,443,US,amazon technologies
-129.153.91.86,3701,US,oracle corporation 4
+203.194.112.119,2053,ID,cv rumahweb 2
+206.84.101.84,443,ID,mitra visioner
+43.156.116.194,443,SG,6 collyer
+3.1.116.161,8443,SG,amazon data
+128.199.134.152,443,SG,digitalocean
+45.89.109.80,8443,JP,worktitans
+54.248.121.219,443,JP,amazon technologies
+142.171.147.201,20274,US,multacom corporation
+192.74.225.146,34171,US,peg tech
