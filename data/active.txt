@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 206.84.101.83,8443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc 2
 3.1.116.161,8443,SG,amazon data
-213.35.107.73,443,SG,oracle svenska
-164.52.2.100,443,SG,uculsg
-160.16.56.195,443,JP,sakura internet
-141.147.185.15,443,JP,oracle corporation
-192.74.225.146,34172,US,peg tech
-15.204.10.80,24906,US,ovh us
+138.2.89.64,32962,SG,oracle corporation
+104.248.145.216,443,SG,digitalocean
+138.2.59.96,10129,JP,oracle corporation 2
+8.221.143.218,587,JP,alibaba cloud
+107.174.158.114,15505,US,racknerd
+15.204.10.80,36683,US,ovh us
