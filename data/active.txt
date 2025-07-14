@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
-43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
+206.84.101.83,8443,ID,mitra visioner 2
+203.194.112.119,8443,ID,cv rumahweb
 138.2.107.107,443,SG,oracle corporation
-5.223.49.4,2053,SG,hetzner online
-168.138.170.211,53702,SG,oracle public
-141.147.161.249,51037,JP,oracle corporation 2
-193.246.161.65,54310,JP,akile ltd
-67.209.179.237,30419,US,it7 networks
-107.172.103.195,16093,US,racknerd
+138.2.89.238,43254,SG,oracle corporation 2
+54.169.229.188,443,SG,amazoncom inc
+132.145.126.40,32498,JP,oracle public
+140.238.37.103,14782,JP,oracle public 2
+155.248.198.56,34488,US,oracle public 3
+18.211.101.20,443,US,amazon technologies
