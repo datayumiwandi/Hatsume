@@ -1,7 +1,7 @@
-168.138.170.211,53702,SG,oracle public
+54.169.229.188,443,SG,amazoncom inc
 129.150.36.188,53435,SG,oracle corporation
-43.128.95.110,40029,SG,6 collyer
-20.243.85.49,10443,JP,microsoft corporation
-139.162.84.132,18836,JP,akamai connected
-172.83.159.4,41389,US,spartan host
-64.69.34.244,41091,US,multacom corporation
+139.180.215.77,57878,SG,sgpvultrcust
+139.162.127.55,18836,JP,akamai connected
+139.162.127.39,18836,JP,akamai connected 2
+107.175.254.239,39128,US,racknerd
+172.96.193.137,20408,US,cluster logic
