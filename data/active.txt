@@ -1,7 +1,7 @@
-138.2.95.61,1111,SG,oracle corporation
-194.36.179.17,8443,SG,first server
-8.222.243.73,26385,SG,alibaba cloud
-140.83.57.20,13118,JP,imported inetnum
-202.144.194.31,9998,JP,iptelecom japan
-150.136.86.191,15081,US,oracle public
-67.209.179.237,30419,US,it7 networks
+168.138.170.211,53702,SG,oracle public
+129.150.36.188,53435,SG,oracle corporation
+43.128.95.110,40029,SG,6 collyer
+20.243.85.49,10443,JP,microsoft corporation
+139.162.84.132,18836,JP,akamai connected
+172.83.159.4,41389,US,spartan host
+64.69.34.244,41091,US,multacom corporation
