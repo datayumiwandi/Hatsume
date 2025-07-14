@@ -1,7 +1,7 @@
-8.222.243.73,26385,SG,alibaba cloud
 161.117.249.114,2025,SG,1 raffles
-77.221.133.147,443,SG,ihc network
-91.194.160.79,8443,JP,worktitans
-140.83.57.20,13118,JP,imported inetnum
-107.172.103.195,16066,US,racknerd
-132.145.217.215,11001,US,oracle public
+5.34.176.119,81,SG,green floid
+31.192.238.71,2053,SG,pdk
+64.176.37.22,443,JP,vultr holdings
+140.238.37.103,14782,JP,oracle public
+172.82.16.38,27050,US,olink cloud
+192.9.228.70,14123,US,oracle corporation
