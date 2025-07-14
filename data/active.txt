@@ -1,7 +1,7 @@
-161.117.249.114,2025,SG,1 raffles
-5.34.176.119,81,SG,green floid
-31.192.238.71,2053,SG,pdk
-64.176.37.22,443,JP,vultr holdings
-140.238.37.103,14782,JP,oracle public
-172.82.16.38,27050,US,olink cloud
-192.9.228.70,14123,US,oracle corporation
+168.138.170.211,53702,SG,oracle public
+138.2.89.64,32962,SG,oracle corporation
+138.2.77.179,30018,SG,oracle corporation 2
+91.194.160.79,8443,JP,worktitans
+141.98.197.101,11665,JP,xtom japan
+132.145.217.215,11001,US,oracle public 2
+67.209.179.237,30419,US,it7 networks
