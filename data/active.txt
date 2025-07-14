@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
+206.84.101.83,8443,ID,mitra visioner
+172.232.234.155,74,ID,linode
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner 2
-54.169.229.188,443,SG,amazoncom inc 2
-139.180.215.77,57878,SG,sgpvultrcust
-62.72.46.14,8443,SG,contabo gmbh
-138.2.18.82,8880,JP,oracle corporation
-168.138.192.16,54584,JP,oracle public
-74.48.136.41,123,US,multacom corporation
-63.205.203.251,443,US,att enterprises
+129.150.58.86,57621,SG,oracle corporation
+168.138.170.211,53702,SG,oracle public
+5.223.49.4,2053,SG,hetzner online
+140.83.57.183,22735,JP,imported inetnum
+45.89.109.83,2053,JP,worktitans
+148.135.106.248,18454,US,brander group
+34.69.150.180,443,US,google
