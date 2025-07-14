@@ -1,11 +1,11 @@
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.84,443,ID,mitra visioner
 172.232.234.155,74,ID,linode
-172.232.234.155,443,ID,linode 2
-161.117.249.114,2025,SG,1 raffles
-138.2.89.238,43254,SG,oracle corporation
-185.114.78.230,443,SG,aryaka networks
-38.180.29.115,443,JP,3nt solutions
-219.117.2.190,48401,JP,jupiter telecommunications
-15.204.10.80,22064,US,ovh us
-192.3.208.125,59184,US,cloudflare inc
+168.138.170.211,53702,SG,oracle public
+31.192.238.71,2053,SG,pdk
+194.36.179.17,2053,SG,first server
+91.194.160.79,8443,JP,worktitans
+131.186.63.89,11655,JP,oracle public 2
+66.103.204.73,48805,US,multacom corporation
+15.204.10.80,49404,US,ovh us
