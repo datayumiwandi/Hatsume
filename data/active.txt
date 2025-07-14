@@ -1,7 +1,7 @@
-168.138.170.211,53702,SG,oracle public
-138.2.89.64,32962,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
-91.194.160.79,8443,JP,worktitans
-141.98.197.101,11665,JP,xtom japan
-132.145.217.215,11001,US,oracle public 2
-67.209.179.237,30419,US,it7 networks
+43.156.107.236,12131,SG,6 collyer
+31.192.238.71,2053,SG,pdk
+194.127.193.240,50791,SG,greencloud
+168.138.192.16,54584,JP,oracle public
+64.110.101.90,55007,JP,oracle corporation
+54.167.43.59,443,US,amazon technologies
+107.172.103.195,16052,US,racknerd
