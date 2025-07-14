@@ -1,7 +1,7 @@
-194.36.178.36,2053,SG,first server
-138.2.77.179,30018,SG,oracle corporation
-5.34.176.119,81,SG,green floid
-158.101.146.3,44872,JP,oracle public
-139.162.127.39,18836,JP,akamai connected
-38.102.235.21,48676,US,cogent communications
-172.83.159.4,41389,US,spartan host
+8.222.243.73,26385,SG,alibaba cloud
+161.117.249.114,2025,SG,1 raffles
+77.221.133.147,443,SG,ihc network
+91.194.160.79,8443,JP,worktitans
+140.83.57.20,13118,JP,imported inetnum
+107.172.103.195,16066,US,racknerd
+132.145.217.215,11001,US,oracle public
