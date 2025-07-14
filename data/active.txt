@@ -1,11 +1,11 @@
+103.6.207.108,8080,ID,pusat media
+154.90.48.27,56362,ID,lightnode
+172.232.234.155,74,ID,linode
 206.84.101.83,8443,ID,mitra visioner
-172.232.234.155,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-138.2.77.179,30018,SG,oracle corporation
-54.169.229.188,443,SG,amazoncom inc 2
-168.138.170.211,53702,SG,oracle public
-45.77.25.6,27854,JP,vultr holdings
-141.147.144.15,13357,JP,oracle corporation 2
-172.96.209.184,13733,US,cluster logic
-141.11.95.35,35443,US,virtual machine
+185.114.78.230,443,SG,aryaka networks
+138.2.95.61,1111,SG,oracle corporation
+194.36.179.17,2053,SG,first server
+206.190.239.77,443,JP,cluster logic
+152.70.82.70,1450,JP,oracle corporation 2
+44.209.255.249,443,US,amazoncom inc
+142.171.166.116,8443,US,cloudflare inc
