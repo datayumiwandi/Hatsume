@@ -1,7 +1,7 @@
-194.127.193.240,50791,SG,greencloud
-129.150.36.188,53435,SG,oracle corporation
-54.169.229.188,443,SG,amazoncom inc
-91.194.160.79,2053,JP,worktitans
-217.142.243.226,443,JP,oracle svenska
-67.226.221.231,80,US,securly inc
-142.171.75.222,17628,US,multacom corporation
+194.36.178.36,2053,SG,first server
+138.2.77.179,30018,SG,oracle corporation
+5.34.176.119,81,SG,green floid
+158.101.146.3,44872,JP,oracle public
+139.162.127.39,18836,JP,akamai connected
+38.102.235.21,48676,US,cogent communications
+172.83.159.4,41389,US,spartan host
