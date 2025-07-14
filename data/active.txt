@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-154.90.48.27,56362,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.155,443,ID,linode
+206.84.101.84,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+164.52.2.100,443,SG,uculsg
+13.228.155.72,443,SG,amazon data
 77.221.133.147,443,SG,ihc network
-138.2.95.61,1111,SG,oracle corporation
-3.1.116.161,8443,SG,amazon data
-138.2.49.197,587,JP,oracle corporation 2
-147.45.49.80,2053,JP,global connectivity
-47.252.4.59,38181,US,alibaba cloud
-142.171.156.141,21182,US,multacom corporation
+150.230.97.136,12508,JP,oracle corporation
+64.110.101.90,55007,JP,oracle corporation 2
+154.17.29.80,50235,US,dmit cloud
+54.71.238.195,443,US,amazoncom inc 2
