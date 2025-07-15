@@ -1,7 +1,7 @@
-168.138.171.70,23280,SG,oracle public
 43.156.116.194,443,SG,6 collyer
-13.250.14.76,443,SG,amazon data
-150.230.214.172,16957,JP,oracle corporation
-140.83.37.134,46478,JP,imported inetnum
-104.234.50.10,2053,US,unknown
-185.106.96.203,11338,US,sriyaan technology
+194.36.179.17,8443,SG,first server
+43.156.181.203,443,SG,16 collyer
+54.248.121.219,443,JP,amazoncom inc
+198.13.42.58,32954,JP,vultr holdings
+34.82.76.253,443,US,google
+142.171.30.213,995,US,multacom corporation
