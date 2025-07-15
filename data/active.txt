@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-13.229.159.215,443,SG,amazon data
+172.232.234.155,443,ID,linode
+172.252.8.168,443,ID,mitra visioner
 168.138.165.174,443,SG,oracle public
-138.2.89.64,32962,SG,oracle corporation
-141.147.147.180,443,JP,oracle corporation 2
-64.176.42.125,10001,JP,vultr holdings
-104.234.50.154,2053,US,unknown
-97.64.26.142,30840,US,it7 networks
+146.235.19.79,28983,SG,oracle corporation
+164.52.2.100,443,SG,uculsg
+140.83.59.158,15805,JP,imported inetnum
+3.112.21.102,443,JP,amazon data
+98.142.141.124,49323,US,cluster logic
+23.83.233.179,35825,US,cluster logic 2
