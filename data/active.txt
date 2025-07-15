@@ -1,7 +1,7 @@
-43.156.116.194,443,SG,6 collyer
+104.248.145.216,443,SG,digitalocean
+138.2.89.64,32962,SG,oracle corporation
 194.36.179.17,8443,SG,first server
-43.156.181.203,443,SG,16 collyer
-54.248.121.219,443,JP,amazoncom inc
-198.13.42.58,32954,JP,vultr holdings
-34.82.76.253,443,US,google
-142.171.30.213,995,US,multacom corporation
+5.180.76.44,443,JP,cegrgodigitalvm
+149.28.30.146,44243,JP,vultr holdings
+74.48.145.83,31556,US,multacom corporation
+3.216.234.194,443,US,amazon technologies
