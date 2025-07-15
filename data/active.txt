@@ -1,7 +1,7 @@
+168.138.171.70,23280,SG,oracle public
+43.156.116.194,443,SG,6 collyer
 13.250.14.76,443,SG,amazon data
-5.34.176.119,81,SG,green floid
-194.36.179.17,8443,SG,first server
-139.162.127.55,18836,JP,akamai connected
-217.142.230.253,587,JP,oracle corporation
-104.234.50.9,2053,US,unknown
-104.168.167.197,27213,US,hostwinds seattle
+150.230.214.172,16957,JP,oracle corporation
+140.83.37.134,46478,JP,imported inetnum
+104.234.50.10,2053,US,unknown
+185.106.96.203,11338,US,sriyaan technology
