@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-172.232.234.155,443,ID,linode
-172.252.8.168,443,ID,mitra visioner
-146.235.19.79,28983,SG,oracle corporation
-13.229.159.215,443,SG,amazon data
-168.138.165.174,443,SG,oracle public
-140.83.57.183,22735,JP,imported inetnum
-168.138.193.174,11959,JP,oracle public 2
-3.147.73.220,443,US,amazon technologies
-74.48.221.141,26255,US,multacom corporation
+172.232.234.155,74,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+164.52.2.98,443,SG,uculsg
+43.156.181.203,443,SG,16 collyer
+194.36.178.36,2053,SG,first server
+168.138.198.7,27560,JP,oracle public
+158.101.80.84,443,JP,oracle public 2
+23.83.233.179,35825,US,cluster logic
+132.145.217.215,11001,US,oracle public 3
