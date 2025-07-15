@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
+172.232.234.155,74,ID,linode
+43.218.77.16,443,ID,amazoncom inc
 154.90.48.27,56362,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+13.229.159.215,443,SG,amazon data
 43.156.116.194,443,SG,6 collyer
-194.36.178.36,2053,SG,first server
-129.150.36.188,53435,SG,oracle corporation
-38.180.29.115,443,JP,3nt solutions
-82.163.16.69,8080,JP,akile ltd
-193.233.207.35,443,US,baxet group
-148.135.111.27,47104,US,multacom corporation
+168.138.170.211,53702,SG,oracle public
+150.230.204.21,10243,JP,oracle corporation
+139.162.102.152,7002,JP,akamai connected
+67.226.221.231,80,US,securly inc
+74.48.179.37,10725,US,cloudflare inc
