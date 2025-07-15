@@ -1,7 +1,7 @@
-168.138.171.70,23280,SG,oracle public
-168.138.165.174,443,SG,oracle public 2
+194.36.179.17,2053,SG,first server
 164.52.2.99,443,SG,uculsg
-147.45.49.211,443,JP,global connectivity
+13.250.14.76,443,SG,amazon data
+152.69.199.70,8443,JP,cloudflare london
 138.2.32.76,15821,JP,oracle corporation
-89.116.170.222,8443,US,uab bite
-63.209.32.91,4433,US,vultr holdings
+15.204.10.80,24906,US,ovh us
+3.147.73.220,443,US,amazon technologies
