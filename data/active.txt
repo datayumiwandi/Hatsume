@@ -1,11 +1,11 @@
 103.6.207.108,8080,ID,pusat media
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner 2
-138.2.89.64,32962,SG,oracle corporation
-13.228.142.218,443,SG,amazon data
-138.2.95.61,1111,SG,oracle corporation 2
-138.2.10.217,27446,JP,oracle corporation 3
-141.147.183.49,29876,JP,oracle corporation 4
-216.128.140.253,26376,US,the constant
-18.191.122.211,443,US,amazon technologies
+154.90.48.27,56362,ID,lightnode
+172.232.234.155,443,ID,linode
+206.84.101.84,443,ID,mitra visioner
+194.36.179.17,2053,SG,first server
+138.2.89.238,43254,SG,oracle corporation
+43.156.181.203,443,SG,16 collyer
+202.84.53.85,19999,JP,azumino network
+140.83.59.158,15805,JP,imported inetnum
+152.67.250.9,59910,US,oracle public
+162.219.120.218,443,US,cluster logic
