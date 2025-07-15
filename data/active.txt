@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
 172.232.234.155,74,ID,linode
-194.36.179.17,2053,SG,first server
-143.42.66.91,443,SG,m1 ltd
-146.235.19.79,28983,SG,oracle corporation
-138.3.222.33,443,JP,oracle network
-3.112.21.102,443,JP,amazon data
-144.168.62.18,51204,US,it7 networks
-3.215.143.191,443,US,amazon technologies
+203.194.112.119,2053,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+104.248.145.216,443,SG,digitalocean
+164.52.2.99,443,SG,uculsg
+5.34.176.119,81,SG,green floid
+141.147.185.63,443,JP,oracle corporation
+103.238.129.215,42734,JP,ipx
+216.128.140.253,26376,US,the constant
+142.171.156.141,21182,US,multacom corporation
