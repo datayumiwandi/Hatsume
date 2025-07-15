@@ -1,7 +1,7 @@
-13.228.155.72,443,SG,amazon data
-168.138.165.174,443,SG,oracle public
-164.52.2.98,443,SG,uculsg
-139.162.102.152,7002,JP,akamai connected
-54.248.121.219,443,JP,amazoncom inc
-142.171.76.55,8898,US,multacom corporation
-45.63.62.225,16616,US,vultr holdings
+194.36.179.17,2053,SG,first server
+43.156.116.194,443,SG,6 collyer
+138.2.89.64,32962,SG,oracle corporation
+64.176.42.125,10001,JP,vultr holdings
+140.83.57.20,13118,JP,imported inetnum
+34.208.221.169,443,US,amazoncom inc
+52.32.90.142,80,US,amazon technologies
