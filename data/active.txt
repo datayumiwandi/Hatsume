@@ -1,7 +1,7 @@
-194.36.179.17,2053,SG,first server
-43.156.116.194,443,SG,6 collyer
-138.2.89.64,32962,SG,oracle corporation
-64.176.42.125,10001,JP,vultr holdings
-140.83.57.20,13118,JP,imported inetnum
-34.208.221.169,443,US,amazoncom inc
-52.32.90.142,80,US,amazon technologies
+13.250.14.76,443,SG,amazon data
+5.34.176.119,81,SG,green floid
+194.36.179.17,8443,SG,first server
+139.162.127.55,18836,JP,akamai connected
+217.142.230.253,587,JP,oracle corporation
+104.234.50.9,2053,US,unknown
+104.168.167.197,27213,US,hostwinds seattle
