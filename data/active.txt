@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 206.84.101.83,8443,ID,mitra visioner
-172.232.234.155,74,ID,linode 2
-31.192.238.71,2053,SG,pdk
-185.114.78.230,443,SG,aryaka networks
-43.156.181.203,443,SG,16 collyer
-147.45.49.211,443,JP,global connectivity
-158.101.154.245,47001,JP,oracle public
-45.32.131.28,31001,US,the constant
-170.205.38.77,443,US,hosthatch
+104.248.145.216,443,SG,digitalocean
+54.169.229.188,443,SG,amazoncom inc 3
+194.36.179.17,8443,SG,first server
+140.83.56.110,56417,JP,imported inetnum
+152.69.192.40,57005,JP,oracle corporation
+142.171.38.53,2333,US,multacom corporation
+192.9.135.182,7800,US,oracle corporation 2
