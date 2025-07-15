@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 172.232.234.155,443,ID,linode
-172.252.8.168,443,ID,mitra visioner
-172.232.234.155,74,ID,linode 2
-43.156.181.203,443,SG,16 collyer
-13.229.159.215,443,SG,amazon data
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+168.138.171.70,23280,SG,oracle public
 43.156.116.194,443,SG,6 collyer
-150.230.97.136,12502,JP,oracle corporation
-158.101.146.3,54516,JP,oracle public
-192.3.155.217,443,US,racknerd
-64.44.86.201,44759,US,nexeon technologies
+13.228.142.218,443,SG,amazon data
+147.45.49.193,2053,JP,global connectivity
+13.230.34.30,443,JP,amazon data 2
+15.204.10.80,36683,US,ovh us
+45.42.214.153,443,US,royalehosting
