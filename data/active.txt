@@ -1,11 +1,11 @@
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
 154.90.48.27,56362,ID,lightnode
-43.156.181.203,443,SG,16 collyer
-138.2.95.61,1111,SG,oracle corporation
-129.150.49.58,18650,SG,oracle corporation 2
-38.180.28.163,8443,JP,3nt solutions
-168.138.46.115,43138,JP,oracle public
-213.170.157.1,443,US,redshield security
-74.48.46.35,443,US,multacom corporation
+43.218.77.16,1443,ID,amazoncom inc
+129.150.49.58,18650,SG,oracle corporation
+138.2.89.64,32962,SG,oracle corporation 2
+161.117.249.114,2025,SG,1 raffles
+141.147.144.15,13357,JP,oracle corporation 3
+152.69.192.40,57005,JP,oracle corporation 4
+107.148.20.127,29500,US,peg tech
+34.234.8.26,443,US,amazon technologies
