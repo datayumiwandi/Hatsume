@@ -1,11 +1,11 @@
+172.232.234.155,74,ID,linode
+172.232.234.155,443,ID,linode 2
+154.90.48.27,56362,ID,lightnode
 206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-129.150.36.188,53435,SG,oracle corporation
 194.36.179.17,8443,SG,first server
-138.2.77.179,30018,SG,oracle corporation 2
-152.70.82.70,1450,JP,oracle corporation 3
-64.110.101.90,55007,JP,oracle corporation 4
-172.96.193.137,20408,US,cluster logic
-142.171.76.55,8898,US,multacom corporation
+185.114.78.230,443,SG,aryaka networks
+43.156.181.203,443,SG,16 collyer
+140.238.62.82,1443,JP,oracle public
+139.162.127.55,18836,JP,akamai connected
+98.142.141.124,49322,US,cluster logic
+172.245.129.72,27486,US,racknerd
