@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-154.90.48.27,56362,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-13.229.159.215,443,SG,amazon data
-164.52.2.98,443,SG,uculsg
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
+194.36.179.17,2053,SG,first server
 168.138.171.70,23280,SG,oracle public
-103.75.118.144,2053,JP,oneprovidercom japan
-168.138.193.174,11959,JP,oracle public 2
-74.211.96.225,8443,US,cluster logic
-142.171.76.55,8898,US,multacom corporation
+104.248.145.216,443,SG,digitalocean
+138.2.12.103,14453,JP,cloudflare london
+168.138.201.35,36637,JP,cloudflare london 2
+107.172.103.195,16092,US,racknerd
+67.230.160.42,8081,US,cluster logic
