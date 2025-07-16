@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.84,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-172.232.234.155,74,ID,linode
-194.36.179.17,2053,SG,first server
-161.117.249.114,2025,SG,1 raffles
-138.2.77.179,30018,SG,oracle corporation
-64.176.37.22,443,JP,vultr holdings
-168.138.192.16,54584,JP,oracle public
-66.103.204.73,48805,US,multacom corporation
-104.234.50.223,2053,US,unknown
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+172.252.8.168,443,ID,mitra visioner 2
+138.2.89.64,32962,SG,oracle corporation
+185.114.78.230,443,SG,aryaka networks
+31.192.238.71,2053,SG,pdk
+5.180.76.44,443,JP,cegrgodigitalvm
+138.3.222.124,46209,JP,oracle network
+192.3.208.125,59184,US,cloudflare inc
+192.3.45.148,443,US,racknerd
