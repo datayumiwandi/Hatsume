@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+172.232.234.155,74,ID,linode
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+138.2.89.64,32962,SG,oracle corporation
+43.156.181.203,443,SG,16 collyer
 161.117.249.114,2025,SG,1 raffles
-31.192.238.71,2053,SG,pdk
-13.229.159.215,443,SG,amazon data
-152.70.82.101,18650,JP,oracle corporation
-139.162.127.55,18836,JP,akamai connected
-34.168.95.100,12388,US,google
-107.173.250.62,444,US,racknerd
+140.83.57.20,13118,JP,imported inetnum
+138.2.48.109,26412,JP,oracle corporation 2
+64.69.34.244,41091,US,multacom corporation
+132.145.217.215,11002,US,oracle public
