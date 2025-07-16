@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-138.2.95.61,1111,SG,oracle corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.192.238.71,2053,SG,pdk
-161.117.249.114,2025,SG,1 raffles
-141.147.161.249,51037,JP,oracle corporation 2
-168.138.46.115,43138,JP,oracle public
-69.30.212.6,6643,US,wholesale internet
-15.204.10.80,49404,US,ovh us
+194.36.179.17,2053,SG,first server
+138.2.89.64,32962,SG,oracle corporation
+158.101.89.113,50443,JP,oracle public
+141.147.152.229,23333,JP,oracle corporation 2
+74.48.136.41,123,US,multacom corporation
+103.170.72.129,25122,US,corenet inc
