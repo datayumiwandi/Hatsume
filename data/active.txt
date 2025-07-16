@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.155,74,ID,linode
+172.252.8.168,443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-138.2.77.179,30018,SG,oracle corporation
-139.180.215.77,57878,SG,sgpvultrcust
-185.114.78.230,443,SG,aryaka networks
-217.142.230.253,587,JP,oracle corporation 2
-140.83.60.81,18443,JP,imported inetnum
-172.83.159.4,27398,US,spartan host
-34.105.49.234,443,US,google
+172.232.234.155,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc 2
+13.228.142.218,443,SG,amazon data
+13.250.14.76,443,SG,amazon data 2
+43.156.181.203,443,SG,16 collyer
+140.83.37.134,46478,JP,imported inetnum
+217.142.243.226,443,JP,oracle svenska
+74.48.179.37,36460,US,cloudflare inc
+104.168.102.163,443,US,cloudflare london
