@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-194.36.179.17,2053,SG,first server
+149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
 13.229.159.215,443,SG,amazon data
-194.36.178.36,2053,SG,first server 2
-140.83.57.20,13118,JP,imported inetnum
-64.110.101.90,55007,JP,oracle corporation
-192.3.150.56,8000,US,racknerd
-107.172.103.195,16096,US,racknerd 2
+194.36.179.17,8443,SG,first server
+43.156.116.194,443,SG,6 collyer
+193.246.161.65,54310,JP,akile ltd
+168.138.193.174,11959,JP,oracle public
+172.96.192.109,22503,US,cluster logic
+148.135.119.101,57478,US,multacom corporation
