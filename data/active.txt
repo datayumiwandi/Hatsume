@@ -1,7 +1,7 @@
-43.156.116.194,443,SG,6 collyer
-104.248.145.216,443,SG,digitalocean
-194.36.179.17,8443,SG,first server
-140.238.37.103,14782,JP,oracle public
-168.138.192.16,54584,JP,oracle public 2
-107.182.17.246,27116,US,cluster logic
-104.160.47.72,18888,US,it7 networks
+13.228.155.72,443,SG,amazon data
+13.229.159.215,443,SG,amazon data 2
+146.235.19.79,28983,SG,oracle corporation
+91.194.160.79,8443,JP,worktitans
+198.13.42.58,32954,JP,vultr holdings
+134.209.166.201,8443,US,digitalocean
+54.203.85.46,443,US,amazoncom inc
