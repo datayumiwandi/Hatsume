@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 172.232.234.155,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-172.232.234.155,74,ID,linode 2
-5.34.176.119,81,SG,green floid
-13.229.159.215,443,SG,amazon data
-138.2.89.64,32962,SG,oracle corporation
-91.194.160.79,2053,JP,worktitans
-103.238.129.215,42734,JP,ipx
-192.210.196.158,36414,US,racknerd
-45.79.168.17,443,US,linode 3
+13.228.155.72,443,SG,amazon data
+13.229.159.215,443,SG,amazon data 2
+43.156.181.203,443,SG,16 collyer
+140.83.57.114,25965,JP,imported inetnum
+8.221.143.218,587,JP,alibaba cloud
+204.110.223.105,443,US,securly inc
+172.82.16.38,25956,US,olink cloud
