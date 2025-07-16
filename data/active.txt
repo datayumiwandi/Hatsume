@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
-138.2.89.64,32962,SG,oracle corporation
-185.114.78.230,443,SG,aryaka networks
-31.192.238.71,2053,SG,pdk
-5.180.76.44,443,JP,cegrgodigitalvm
-138.3.222.124,46209,JP,oracle network
-192.3.208.125,59184,US,cloudflare inc
-192.3.45.148,443,US,racknerd
+43.218.77.16,443,ID,amazoncom inc 2
+154.90.48.27,56362,ID,lightnode
+43.156.181.203,443,SG,16 collyer
+138.2.95.61,1111,SG,oracle corporation
+129.150.49.58,18650,SG,oracle corporation 2
+38.180.28.163,8443,JP,3nt solutions
+168.138.46.115,43138,JP,oracle public
+213.170.157.1,443,US,redshield security
+74.48.46.35,443,US,multacom corporation
