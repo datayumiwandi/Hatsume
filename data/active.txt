@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
 154.90.48.27,56362,ID,lightnode
-168.138.171.70,23280,SG,oracle public
-143.198.92.220,443,SG,digitalocean
-3.1.116.161,2053,SG,amazon data
-158.101.154.245,47001,JP,oracle public 2
-147.45.49.80,2053,JP,global connectivity
-104.234.50.158,2053,US,unknown
-103.170.72.129,25950,US,anycast
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+168.138.170.211,53702,SG,oracle public
+160.22.79.166,443,SG,onidel pty
+194.36.179.17,8443,SG,first server
+147.45.49.164,24443,JP,global connectivity
+64.176.39.147,16387,JP,the constant
+38.150.34.152,443,US,netlab
+192.3.150.56,8000,US,racknerd
