@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-64.49.14.41,8443,SG,internet utilities
-13.228.155.72,443,SG,amazon data
-146.235.19.79,28983,SG,oracle corporation
-168.138.192.16,54584,JP,oracle public
-176.97.70.51,2053,JP,3nt solutions
-104.234.50.128,443,US,ovh us
-104.234.50.84,2053,US,unknown
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner 2
+5.34.176.119,81,SG,green floid
+168.138.165.174,443,SG,oracle public
+31.192.238.71,2053,SG,pdk
+138.3.222.124,46209,JP,oracle network
+147.45.49.211,443,JP,global connectivity
+104.234.50.39,2053,US,unknown
+35.83.185.225,443,US,amazoncom inc 2
