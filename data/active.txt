@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-129.150.49.58,18650,SG,oracle corporation
-15.235.199.103,2053,SG,ovh singapore
-54.169.229.188,443,SG,amazoncom inc 2
-158.101.77.33,443,JP,oracle public
-131.186.63.89,11655,JP,oracle public 2
-23.94.213.132,27149,US,hostpapa
-107.148.20.127,29500,US,peg tech
+206.84.101.83,8443,ID,mitra visioner
+154.90.48.27,56362,ID,lightnode
+139.180.191.96,31001,SG,sgpvultrcust
+146.235.19.79,28983,SG,oracle corporation
+8.219.59.132,48130,SG,alibaba cloud
+158.101.152.6,2919,JP,oracle public
+121.85.55.59,19842,JP,optage inc
+64.112.42.10,10317,US,multacom corporation
+44.209.255.249,443,US,amazoncom inc
