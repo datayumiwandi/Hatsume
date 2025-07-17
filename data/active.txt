@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-5.34.176.119,81,SG,green floid
-43.156.181.203,443,SG,16 collyer
-161.117.249.114,2025,SG,1 raffles
-91.194.160.64,443,JP,worktitans
-158.101.152.6,2919,JP,oracle public
-148.135.17.203,23469,US,multacom corporation
-172.96.192.109,22503,US,cluster logic
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+185.114.78.230,443,SG,aryaka networks
+43.156.116.194,443,SG,6 collyer
+31.192.238.71,2053,SG,pdk
+138.2.48.109,26412,JP,oracle corporation
+141.147.185.15,443,JP,oracle corporation 2
+23.94.43.51,443,US,racknerd
+98.142.141.124,49322,US,cluster logic
