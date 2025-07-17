@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
 154.90.48.27,56362,ID,lightnode
-194.36.179.17,8443,SG,first server
-43.128.95.110,40029,SG,6 collyer
-143.198.92.220,443,SG,digitalocean
-38.180.28.163,8443,JP,3nt solutions
-158.101.146.3,54516,JP,oracle public
-142.171.202.202,21425,US,multacom corporation
-47.252.4.59,15023,US,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+43.156.181.203,443,SG,16 collyer
+213.35.100.31,47112,SG,oracle svenska
+129.150.49.58,18650,SG,oracle corporation
+103.106.228.126,2053,JP,oneprovidercom tokyo
+147.45.49.80,2053,JP,global connectivity
+193.124.24.85,24275,US,baxet group
+67.220.72.231,443,US,gthost
