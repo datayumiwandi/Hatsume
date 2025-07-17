@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-104.248.145.216,443,SG,digitalocean
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
 168.138.171.70,23280,SG,oracle public
-43.156.116.194,443,SG,6 collyer
-172.104.127.132,443,JP,linode
-158.101.80.84,443,JP,oracle public 2
-148.135.111.27,56585,US,multacom corporation
-216.128.140.253,26376,US,the constant
+194.36.179.17,2053,SG,first server
+164.52.2.98,443,SG,uculsg
+141.147.144.15,13357,JP,oracle corporation
+38.180.28.163,2053,JP,3nt solutions
+35.185.54.229,27207,US,google
+18.189.94.250,443,US,amazon technologies
