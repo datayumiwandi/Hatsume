@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
 154.90.48.27,56362,ID,lightnode
-161.117.249.114,2025,SG,1 raffles
-13.229.159.215,443,SG,amazon data
-164.52.2.99,443,SG,uculsg
-140.238.62.82,1443,JP,oracle public
-158.101.77.33,443,JP,oracle public 2
-66.103.216.214,37357,US,multacom corporation
-44.209.255.249,443,US,amazoncom inc 3
+129.150.49.58,18650,SG,oracle corporation
+168.138.165.174,443,SG,oracle public
+168.138.171.70,23280,SG,oracle public 2
+168.138.192.16,54584,JP,oracle public 3
+45.89.109.87,8443,JP,worktitans
+103.170.72.129,25122,US,corenet inc
+142.171.38.53,2333,US,multacom corporation
