@@ -1,11 +1,11 @@
-154.90.48.27,56362,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
-38.181.70.7,16240,SG,eons data
-143.198.196.196,8443,SG,digitalocean
-47.236.119.190,51342,SG,alibaba cloud
-141.98.197.101,11665,JP,xtom japan
-138.2.32.76,15821,JP,oracle corporation
-104.234.50.128,443,US,ovh us
-216.128.140.253,26376,US,the constant
+103.6.207.108,8080,ID,pusat media
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+43.156.181.203,443,SG,16 collyer
+143.42.66.91,443,SG,viewqwest pte
+47.74.254.191,8900,SG,alibaba cloud
+43.133.10.236,33405,JP,6 collyer
+64.110.101.90,55007,JP,oracle corporation
+23.105.199.91,21626,US,it7 networks
+104.234.50.52,2053,US,unknown
