@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc 2
+168.138.171.70,23280,SG,oracle public
+194.36.179.17,2053,SG,first server
 164.52.2.100,443,SG,uculsg
-43.156.181.203,443,SG,16 collyer
-104.248.145.216,443,SG,digitalocean
-185.18.222.208,2053,JP,jurgita jurgaitiene
-150.230.204.21,10243,JP,oracle corporation
-44.226.147.29,443,US,amazon technologies
-74.121.150.129,8443,US,it7 networks
+152.69.192.40,57005,JP,oracle corporation
+150.230.214.172,16957,JP,oracle corporation 2
+129.153.127.204,20756,US,oracle corporation 3
+202.91.32.252,15377,US,hostsymbol pte
