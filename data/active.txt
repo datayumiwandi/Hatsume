@@ -1,7 +1,7 @@
-54.169.229.188,443,SG,amazoncom inc
+138.2.77.179,30018,SG,oracle corporation
+161.117.249.114,2025,SG,1 raffles
 77.221.133.147,443,SG,ihc network
-138.2.89.238,43254,SG,oracle corporation
-138.2.48.109,26412,JP,oracle corporation 2
-82.163.16.69,8080,JP,akile ltd
-45.32.131.28,31001,US,the constant
-66.98.121.132,8443,US,cluster logic
+5.253.41.94,443,JP,worktitans
+64.176.39.147,16387,JP,the constant
+15.204.10.80,22064,US,ovh us
+34.194.76.43,443,US,amazon data
