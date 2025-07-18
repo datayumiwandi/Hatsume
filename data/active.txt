@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-164.52.2.99,443,SG,uculsg
-164.52.2.98,443,SG,uculsg 2
-164.52.2.100,443,SG,uculsg 3
+203.194.112.119,8443,ID,cv rumahweb
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+164.52.2.98,443,SG,uculsg
+164.52.2.99,443,SG,uculsg 2
+168.138.171.70,23280,SG,oracle public
 141.98.197.101,11665,JP,xtom japan
-138.2.49.197,587,JP,oracle corporation
-142.171.38.53,2333,US,multacom corporation
-89.208.250.204,28268,US,cluster logic
+150.230.204.21,10243,JP,oracle corporation
+23.94.43.51,443,US,racknerd
+74.48.86.121,12222,US,multacom corporation
