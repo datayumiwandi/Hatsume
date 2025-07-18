@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
+154.90.48.27,56362,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-8.219.58.164,57373,SG,alibaba cloud
-47.245.85.72,443,SG,alibaba cloud 2
-5.223.49.4,2053,SG,hetzner online
-158.101.80.84,443,JP,oracle public
-45.89.109.86,8443,JP,worktitans
-54.189.161.131,48850,US,amazoncom inc 3
-144.168.62.18,51204,US,it7 networks
+164.52.2.99,443,SG,uculsg
+8.222.159.134,12483,SG,alibaba cloud
+51.79.158.126,443,SG,ovh singapore
+140.83.63.113,443,JP,imported inetnum
+158.101.154.245,47001,JP,oracle public
+23.94.92.19,443,US,racknerd
+104.168.59.6,18914,US,racknerd 2
