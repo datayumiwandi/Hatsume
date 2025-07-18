@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
+154.90.48.27,56362,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
 164.52.2.100,443,SG,uculsg
-168.138.171.70,23280,SG,oracle public
-164.52.2.99,443,SG,uculsg 2
-150.230.204.21,10243,JP,oracle corporation
-64.110.101.90,55007,JP,oracle corporation 2
-142.171.147.201,20274,US,multacom corporation
-142.171.14.102,27510,US,multacom corporation 2
+164.52.2.98,443,SG,uculsg 2
+164.52.2.99,443,SG,uculsg 3
+138.2.49.197,587,JP,oracle corporation
+150.230.204.21,10243,JP,oracle corporation 2
+74.48.4.29,37731,US,multacom corporation
+148.135.17.203,31147,US,multacom corporation 2
