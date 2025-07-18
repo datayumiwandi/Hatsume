@@ -1,10 +1,10 @@
-103.6.207.108,8080,ID,pusat media
-206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-129.150.36.188,53435,SG,oracle corporation
-213.35.107.73,443,SG,oracle svenska
-213.35.108.135,12596,SG,oracle svenska 2
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+31.192.238.71,8443,SG,pdk
+213.35.108.135,12596,SG,oracle svenska
+161.117.249.114,2025,SG,1 raffles
 158.101.157.75,57105,JP,oracle public
-74.48.57.42,43802,US,multacom corporation
-74.48.86.121,12222,US,multacom corporation 2
+129.146.114.239,44039,US,oracle corporation
+104.168.59.6,18914,US,racknerd
