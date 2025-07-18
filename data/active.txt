@@ -1,7 +1,7 @@
-138.2.77.179,30018,SG,oracle corporation
-129.150.49.58,18650,SG,oracle corporation 2
-138.2.89.238,43254,SG,oracle corporation 3
-131.186.63.89,11655,JP,oracle public
-206.190.239.77,443,JP,cluster logic
-192.3.166.78,41095,US,racknerd
-107.174.63.237,443,US,racknerd 2
+77.221.133.147,443,SG,ihc network
+138.2.89.238,43254,SG,oracle corporation
+138.2.95.61,1111,SG,oracle corporation 2
+45.76.198.248,443,JP,vultr holdings
+158.101.154.245,47001,JP,oracle public
+107.172.90.21,443,US,racknerd
+18.191.122.211,443,US,amazon technologies
