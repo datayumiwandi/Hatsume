@@ -1,7 +1,7 @@
-161.117.249.114,2025,SG,1 raffles
 168.138.170.211,53702,SG,oracle public
-54.169.229.188,443,SG,amazoncom inc
-154.31.113.72,443,JP,dmit cloud
-139.162.127.55,18836,JP,akamai connected
-74.48.179.37,10725,US,cloudflare inc
-97.64.26.142,30840,US,it7 networks
+77.221.133.147,443,SG,ihc network
+161.117.249.114,2025,SG,1 raffles
+131.186.63.89,11655,JP,oracle public 2
+206.190.239.77,443,JP,cluster logic
+74.48.179.37,36358,US,cloudflare inc
+34.234.8.26,443,US,amazon technologies
