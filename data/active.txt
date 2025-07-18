@@ -1,7 +1,7 @@
-77.221.133.147,443,SG,ihc network
-129.150.49.58,18650,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
-168.138.46.115,43138,JP,oracle public
-219.117.2.190,48401,JP,jupiter telecommunications
-148.135.119.101,57478,US,multacom corporation
-23.94.43.102,8080,US,racknerd
+161.117.249.114,2025,SG,1 raffles
+139.180.215.77,57878,SG,sgpvultrcust
+138.2.95.61,1111,SG,oracle corporation
+158.101.89.113,50443,JP,oracle public
+138.2.49.197,587,JP,oracle corporation 2
+35.230.79.26,443,US,google
+15.204.10.80,36683,US,ovh us
