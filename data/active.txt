@@ -1,7 +1,7 @@
-138.2.77.179,30018,SG,oracle corporation
 161.117.249.114,2025,SG,1 raffles
-77.221.133.147,443,SG,ihc network
-5.253.41.94,443,JP,worktitans
-64.176.39.147,16387,JP,the constant
-15.204.10.80,22064,US,ovh us
-34.194.76.43,443,US,amazon data
+168.138.170.211,53702,SG,oracle public
+54.169.229.188,443,SG,amazoncom inc
+154.31.113.72,443,JP,dmit cloud
+139.162.127.55,18836,JP,akamai connected
+74.48.179.37,10725,US,cloudflare inc
+97.64.26.142,30840,US,it7 networks
