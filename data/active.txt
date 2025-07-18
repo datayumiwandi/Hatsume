@@ -1,7 +1,7 @@
-161.117.249.114,2025,SG,1 raffles
-139.180.215.77,57878,SG,sgpvultrcust
-138.2.95.61,1111,SG,oracle corporation
-158.101.89.113,50443,JP,oracle public
-138.2.49.197,587,JP,oracle corporation 2
-35.230.79.26,443,US,google
-15.204.10.80,36683,US,ovh us
+138.2.77.179,30018,SG,oracle corporation
+129.150.49.58,18650,SG,oracle corporation 2
+138.2.89.238,43254,SG,oracle corporation 3
+131.186.63.89,11655,JP,oracle public
+206.190.239.77,443,JP,cluster logic
+192.3.166.78,41095,US,racknerd
+107.174.63.237,443,US,racknerd 2
