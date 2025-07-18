@@ -1,7 +1,7 @@
-168.138.170.211,53702,SG,oracle public
 77.221.133.147,443,SG,ihc network
-161.117.249.114,2025,SG,1 raffles
-131.186.63.89,11655,JP,oracle public 2
-206.190.239.77,443,JP,cluster logic
-74.48.179.37,36358,US,cloudflare inc
-34.234.8.26,443,US,amazon technologies
+129.150.49.58,18650,SG,oracle corporation
+138.2.77.179,30018,SG,oracle corporation 2
+168.138.46.115,43138,JP,oracle public
+219.117.2.190,48401,JP,jupiter telecommunications
+148.135.119.101,57478,US,multacom corporation
+23.94.43.102,8080,US,racknerd
