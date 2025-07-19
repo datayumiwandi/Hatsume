@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
+154.90.48.27,56362,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb 2
+51.79.158.58,2053,SG,ovh singapore
+8.222.220.81,25435,SG,alibaba cloud
 194.36.178.36,8443,SG,first server
-31.192.238.71,2053,SG,pdk
-3.1.116.161,8443,SG,amazon data
-82.163.16.69,8080,JP,akile ltd
-217.142.236.93,443,JP,oracle svenska
-69.30.212.6,6643,US,wholesale internet
-192.9.250.241,443,US,oracle corporation
+172.105.233.112,18836,JP,akamai connected
+176.97.70.51,2053,JP,3nt solutions
+195.123.241.122,50008,US,total server
+192.74.225.146,34172,US,peg tech
