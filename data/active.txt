@@ -1,11 +1,11 @@
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc 2
-149.129.250.8,443,ID,21f ciputra
+168.138.165.174,443,SG,oracle public
 139.180.215.77,57878,SG,sgpvultrcust
-129.150.49.58,18650,SG,oracle corporation
-168.138.171.70,23280,SG,oracle public
-132.226.8.109,43257,JP,oracle public 2
-176.97.70.51,2053,JP,3nt solutions
-104.224.177.224,8443,US,it7 networks
-74.48.179.37,32380,US,cloudflare inc
+5.34.176.119,81,SG,green floid
+168.138.192.16,54584,JP,oracle public 2
+132.145.116.185,443,JP,oracle public 3
+34.105.49.234,443,US,google
+216.128.140.253,26376,US,the constant
