@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-172.252.8.168,443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
-5.34.176.119,81,SG,green floid
-206.206.77.53,443,SG,regxa
-138.2.89.64,32962,SG,oracle corporation
-158.101.157.75,57105,JP,oracle public
-172.105.233.112,18836,JP,akamai connected
-107.175.245.68,50242,US,racknerd
-38.150.34.152,443,US,netlab
+206.84.101.84,443,ID,mitra visioner
+154.90.48.27,56362,ID,lightnode
+172.252.8.168,443,ID,mitra visioner 2
+203.194.112.119,2053,ID,cv rumahweb
+129.150.61.72,443,SG,oracle corporation
+45.32.100.46,13802,SG,vultr holdings
+128.199.134.152,443,SG,digitalocean
+168.138.46.115,43138,JP,oracle public
+45.89.109.87,2053,JP,worktitans
+74.48.86.121,12222,US,multacom corporation
+155.248.193.100,33189,US,oracle public 2
