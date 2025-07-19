@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
+172.252.8.168,443,ID,mitra visioner
 154.90.48.27,56362,ID,lightnode
-172.252.8.168,443,ID,mitra visioner 2
 203.194.112.119,2053,ID,cv rumahweb
-129.150.61.72,443,SG,oracle corporation
-45.32.100.46,13802,SG,vultr holdings
-128.199.134.152,443,SG,digitalocean
-168.138.46.115,43138,JP,oracle public
+206.84.101.83,8443,ID,mitra visioner 2
+8.219.1.169,443,SG,alibaba cloud
+164.52.2.98,443,SG,uculsg
+213.35.107.73,443,SG,oracle svenska
 45.89.109.87,2053,JP,worktitans
-74.48.86.121,12222,US,multacom corporation
-155.248.193.100,33189,US,oracle public 2
+168.138.46.115,43138,JP,oracle public
+107.173.251.119,443,US,racknerd
+35.83.185.225,443,US,amazoncom inc
