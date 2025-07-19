@@ -1,11 +1,11 @@
 154.90.48.27,56362,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-168.138.170.211,53702,SG,oracle public
-213.35.108.135,12596,SG,oracle svenska
-43.156.116.194,443,SG,6 collyer
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-141.147.152.229,23333,JP,oracle corporation
-156.154.245.83,443,US,vercara
-74.48.221.141,26255,US,multacom corporation
+206.84.101.83,8443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+129.150.61.72,443,SG,oracle corporation
+213.35.100.31,47112,SG,oracle svenska
+178.128.80.43,443,SG,digitalocean
+64.110.101.90,55007,JP,oracle corporation 2
+141.147.152.229,23333,JP,oracle corporation 3
+34.82.76.253,443,US,google
+23.105.220.138,20018,US,it7 networks
