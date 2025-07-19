@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 206.84.101.84,443,ID,mitra visioner
 206.84.101.83,8443,ID,mitra visioner 2
-172.252.8.168,443,ID,mitra visioner 3
-129.150.58.86,57621,SG,oracle corporation
+64.49.14.41,2053,SG,internet utilities
 194.36.179.17,2053,SG,first server
-213.35.108.135,12596,SG,oracle svenska
+45.76.183.217,49292,SG,vultr holdings
+141.147.152.229,23333,JP,oracle corporation
 45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-138.2.49.197,587,JP,oracle corporation 2
-192.74.225.146,34173,US,peg tech
-54.189.161.131,48850,US,amazoncom inc
+104.234.50.128,443,US,ovh us
+38.58.63.150,51646,US,netlab
