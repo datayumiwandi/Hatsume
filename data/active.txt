@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+206.84.101.84,443,ID,mitra visioner 2
 154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-194.36.178.36,2053,SG,first server
-51.79.158.126,443,SG,ovh singapore
+5.34.176.119,81,SG,green floid
+139.180.215.77,57878,SG,sgpvultrcust
 167.253.158.63,8443,SG,365 group
-158.101.157.75,57105,JP,oracle public
 172.105.233.112,18836,JP,akamai connected
-154.64.241.72,58284,US,psinet inc
-104.234.50.12,2053,US,unknown
+176.97.70.51,2053,JP,3nt solutions
+107.173.250.62,444,US,racknerd
+172.245.111.20,443,US,racknerd 2
