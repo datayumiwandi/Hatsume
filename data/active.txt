@@ -1,11 +1,11 @@
+203.194.112.119,8443,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-154.90.48.27,56362,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner 2
-8.219.1.169,443,SG,alibaba cloud
-164.52.2.98,443,SG,uculsg
-213.35.107.73,443,SG,oracle svenska
-45.89.109.87,2053,JP,worktitans
-168.138.46.115,43138,JP,oracle public
-107.173.251.119,443,US,racknerd
-35.83.185.225,443,US,amazoncom inc
+206.84.101.84,443,ID,mitra visioner 2
+203.194.112.119,2053,ID,cv rumahweb 2
+167.253.158.63,2053,SG,365 group
+168.138.170.211,53702,SG,oracle public
+168.138.184.172,443,SG,oracle public 2
+158.101.157.75,57105,JP,oracle public 3
+176.97.70.51,2053,JP,3nt solutions
+67.216.210.229,15677,US,cluster logic
+176.122.187.16,51121,US,cluster logic 2
