@@ -1,11 +1,11 @@
+43.218.77.16,443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc 2
-13.250.14.76,443,SG,amazon data
-3.1.116.161,8443,SG,amazon data 2
-54.169.229.188,443,SG,amazoncom inc 3
-168.138.198.7,27560,JP,oracle public
-141.147.161.249,51037,JP,oracle corporation
-49.51.197.141,443,US,tencent cloud
-192.9.145.87,13611,US,oracle corporation 2
+139.180.215.77,57878,SG,sgpvultrcust
+129.150.49.58,18650,SG,oracle corporation
+168.138.171.70,23280,SG,oracle public
+132.226.8.109,43257,JP,oracle public 2
+176.97.70.51,2053,JP,3nt solutions
+104.224.177.224,8443,US,it7 networks
+74.48.179.37,32380,US,cloudflare inc
