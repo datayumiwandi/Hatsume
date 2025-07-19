@@ -1,11 +1,11 @@
+154.90.48.27,56362,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.84,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
-64.49.14.41,2053,SG,internet utilities
-194.36.179.17,2053,SG,first server
-45.76.183.217,49292,SG,vultr holdings
-141.147.152.229,23333,JP,oracle corporation
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+168.138.170.211,53702,SG,oracle public
+213.35.108.135,12596,SG,oracle svenska
+43.156.116.194,443,SG,6 collyer
 45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-104.234.50.128,443,US,ovh us
-38.58.63.150,51646,US,netlab
+141.147.152.229,23333,JP,oracle corporation
+156.154.245.83,443,US,vercara
+74.48.221.141,26255,US,multacom corporation
