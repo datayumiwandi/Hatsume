@@ -1,11 +1,11 @@
+154.90.48.27,56362,ID,lightnode
 172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner 2
-149.129.250.8,443,ID,21f ciputra
-194.36.178.36,2053,SG,first server
-45.76.183.217,49292,SG,vultr holdings
-213.35.107.73,443,SG,oracle svenska
-140.83.57.20,13118,JP,imported inetnum
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+54.169.229.188,443,SG,amazoncom inc 3
+8.222.220.81,25435,SG,alibaba cloud
+43.156.181.203,443,SG,16 collyer
+217.142.250.195,587,JP,oracle corporation
 43.133.10.236,33405,JP,6 collyer
-104.234.50.128,443,US,ovh us
-107.173.244.150,8181,US,racknerd
+192.9.137.193,8443,US,oracle corporation 2
+148.135.22.233,48625,US,multacom corporation
