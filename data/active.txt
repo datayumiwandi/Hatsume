@@ -1,11 +1,11 @@
 203.194.112.119,8443,ID,cv rumahweb
-206.84.101.84,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
+203.194.112.119,2053,ID,cv rumahweb 2
 43.218.77.16,1443,ID,amazoncom inc
-64.49.14.41,2053,SG,internet utilities
-143.42.66.91,443,SG,m1 ltd
-194.36.179.17,2053,SG,first server
-18.183.158.211,443,JP,amazon data
-64.110.101.90,55007,JP,oracle corporation
-142.171.38.53,2333,US,multacom corporation
-54.176.205.20,80,US,amazoncom inc 2
+206.84.101.83,8443,ID,mitra visioner
+138.2.77.179,30018,SG,oracle corporation
+164.52.2.100,443,SG,uculsg
+138.2.95.61,1111,SG,oracle corporation 2
+138.2.49.197,587,JP,oracle corporation 3
+64.110.101.90,55007,JP,oracle corporation 4
+34.194.76.43,443,US,amazon data
+34.105.49.234,443,US,google
