@@ -1,10 +1,10 @@
 206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-45.76.183.217,49292,SG,vultr holdings
-129.150.49.58,18650,SG,oracle corporation
-143.198.92.220,443,SG,digitalocean
-3.112.21.102,443,JP,amazon data
-168.138.201.35,36637,JP,cloudflare london
-104.234.50.186,2053,US,unknown
-193.124.24.85,24275,US,baxet group
+3.1.116.161,8443,SG,amazon data
+139.180.215.77,57878,SG,sgpvultrcust
+129.150.36.188,53435,SG,oracle corporation
+138.2.12.103,14453,JP,cloudflare london
+168.138.201.35,36637,JP,cloudflare london 2
+172.96.194.124,34555,US,cluster logic
+35.230.79.26,443,US,google
