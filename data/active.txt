@@ -1,7 +1,7 @@
-194.36.179.17,8443,SG,first server
-8.219.155.21,443,SG,alibaba cloud
-143.198.92.220,443,SG,digitalocean
+194.36.178.36,2053,SG,first server
+213.35.100.31,47112,SG,oracle svenska
+206.206.77.53,443,SG,regxa
 212.52.0.61,1846,JP,prinode
-141.147.144.15,13357,JP,oracle corporation
-107.175.245.68,50242,US,racknerd
-23.105.220.138,20018,US,it7 networks
+103.238.129.215,42734,JP,ipx
+142.171.30.213,993,US,multacom corporation
+63.205.203.251,443,US,att enterprises
