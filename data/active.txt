@@ -1,10 +1,10 @@
 206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-129.150.58.86,57621,SG,oracle corporation
-8.219.170.224,443,SG,alibaba cloud
-45.76.183.217,49292,SG,vultr holdings
-3.112.21.102,443,JP,amazon data
-168.138.201.35,36637,JP,cloudflare london
-104.194.86.150,443,US,it7 networks
-192.3.208.125,59184,US,cloudflare inc
+143.42.66.91,443,SG,viewqwest pte
+38.181.70.7,16240,SG,eons data
+194.36.179.17,2053,SG,first server
+138.2.12.103,14453,JP,cloudflare london
+168.138.201.35,36637,JP,cloudflare london 2
+23.94.92.19,443,US,racknerd
+132.145.217.215,11001,US,oracle public
