@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-43.218.77.16,443,ID,amazoncom inc 2
-5.34.176.119,81,SG,green floid
+203.194.112.119,8443,ID,cv rumahweb
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb 2
+51.79.134.207,443,SG,ovh sas
+83.142.30.5,2096,SG,zappie host
 43.156.116.194,443,SG,6 collyer
-104.248.145.216,443,SG,digitalocean
-64.110.101.90,55007,JP,oracle corporation
-103.106.228.126,2053,JP,oneprovidercom tokyo
-104.234.50.115,2053,US,unknown
-142.171.147.201,20274,US,multacom corporation
+18.183.158.211,443,JP,amazon data
+138.2.49.197,587,JP,oracle corporation
+67.226.222.2,443,US,securly inc
+148.135.96.161,38307,US,multacom corporation
