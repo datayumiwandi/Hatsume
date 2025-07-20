@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
 206.84.101.84,443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
-43.156.181.203,443,SG,16 collyer
-213.35.107.73,443,SG,oracle svenska
-194.36.178.36,8443,SG,first server
+154.90.48.27,56362,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+54.169.229.188,443,SG,amazoncom inc
+194.36.179.17,2053,SG,first server
+143.42.66.91,443,SG,viewqwest pte
 43.133.10.236,33405,JP,6 collyer
 140.83.37.134,46478,JP,imported inetnum
-54.203.85.46,443,US,amazoncom inc 3
-142.171.202.202,33538,US,multacom corporation
+144.168.62.18,51204,US,it7 networks
+23.105.220.138,20018,US,it7 networks 2
