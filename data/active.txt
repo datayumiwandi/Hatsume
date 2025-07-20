@@ -1,7 +1,7 @@
-129.150.49.58,18650,SG,oracle corporation
-138.2.95.61,1111,SG,oracle corporation 2
-8.219.155.21,443,SG,alibaba cloud
+8.222.220.81,25435,SG,alibaba cloud
+3.1.116.161,2053,SG,amazon data
+13.250.14.76,443,SG,amazon data 2
 212.52.0.61,1846,JP,prinode
-103.238.129.215,42734,JP,ipx
-107.172.102.212,20700,US,racknerd
-74.48.136.41,123,US,multacom corporation
+141.147.144.15,13357,JP,oracle corporation
+173.249.210.53,17750,US,tzulodjc
+142.171.156.141,21182,US,multacom corporation
