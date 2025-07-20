@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 203.194.112.119,2053,ID,cv rumahweb
-206.84.101.84,443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner 2
-31.192.238.71,2053,SG,pdk
-168.138.171.70,23280,SG,oracle public
-164.52.2.98,443,SG,uculsg
+154.90.48.27,56362,ID,lightnode
+45.76.183.217,49292,SG,vultr holdings
+43.156.116.194,443,SG,6 collyer
+178.128.80.43,443,SG,digitalocean
+43.133.10.236,33405,JP,6 collyer 2
 140.83.57.20,13118,JP,imported inetnum
-43.133.10.236,33405,JP,6 collyer
-104.168.59.6,18914,US,racknerd
-193.124.24.85,24275,US,baxet group
+64.69.34.244,41091,US,multacom corporation
+213.170.157.1,443,US,redshield security
