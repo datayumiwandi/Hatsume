@@ -1,10 +1,10 @@
 206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
 154.90.48.27,56362,ID,lightnode
-129.150.36.188,53435,SG,oracle corporation
-3.1.116.161,8443,SG,amazon data
-139.180.215.77,57878,SG,sgpvultrcust
-3.112.21.102,443,JP,amazon data 2
-168.138.201.35,36637,JP,cloudflare london
-172.82.16.38,27050,US,olink cloud
-104.194.72.33,443,US,it7 networks
+45.76.183.217,49292,SG,vultr holdings
+185.114.78.230,443,SG,aryaka networks
+43.134.167.135,9950,SG,6 collyer
+138.2.12.103,14453,JP,cloudflare london
+168.138.201.35,36637,JP,cloudflare london 2
+195.123.241.122,50008,US,total server
+74.121.150.129,8443,US,it7 networks
