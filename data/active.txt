@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 203.194.112.119,2053,ID,cv rumahweb
-154.90.48.27,56362,ID,lightnode
-45.76.183.217,49292,SG,vultr holdings
+203.194.112.119,8443,ID,cv rumahweb 2
+43.218.77.16,443,ID,amazoncom inc 2
+5.34.176.119,81,SG,green floid
 43.156.116.194,443,SG,6 collyer
-178.128.80.43,443,SG,digitalocean
-43.133.10.236,33405,JP,6 collyer 2
-140.83.57.20,13118,JP,imported inetnum
-64.69.34.244,41091,US,multacom corporation
-213.170.157.1,443,US,redshield security
+104.248.145.216,443,SG,digitalocean
+64.110.101.90,55007,JP,oracle corporation
+103.106.228.126,2053,JP,oneprovidercom tokyo
+104.234.50.115,2053,US,unknown
+142.171.147.201,20274,US,multacom corporation
