@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-206.84.101.83,8443,ID,mitra visioner 2
-54.169.229.188,443,SG,amazoncom inc 3
+164.52.2.98,443,SG,uculsg
+138.2.89.64,32962,SG,oracle corporation
 104.248.145.216,443,SG,digitalocean
-3.1.116.161,8443,SG,amazon data
 8.221.143.218,587,JP,alibaba cloud
-103.106.228.126,2053,JP,oneprovidercom tokyo
-23.105.199.91,21626,US,it7 networks
-47.251.70.15,28648,US,alibaba cloud 2
+185.18.222.208,2053,JP,jurgita jurgaitiene
+74.48.66.151,51083,US,multacom corporation
+15.204.10.80,22064,US,ovh us
