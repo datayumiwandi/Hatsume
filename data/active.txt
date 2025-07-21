@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc 2
-206.84.101.83,8443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
-3.1.116.161,2053,SG,amazon data
+64.49.14.41,2053,SG,internet utilities
+129.150.49.58,18650,SG,oracle corporation
 213.35.100.31,47112,SG,oracle svenska
-178.128.80.43,443,SG,digitalocean
-8.221.143.218,587,JP,alibaba cloud
-18.183.158.211,443,JP,amazon data 2
-170.205.38.77,443,US,hosthatch
-107.172.103.195,16096,US,racknerd
+43.133.10.236,33405,JP,6 collyer
+185.18.222.208,2053,JP,jurgita jurgaitiene
+47.252.4.59,38181,US,alibaba cloud
+204.110.222.125,80,US,securly inc
