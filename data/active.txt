@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+172.252.8.168,443,ID,mitra visioner
 43.156.181.203,443,SG,16 collyer
-213.35.108.135,12596,SG,oracle svenska
-164.52.2.98,443,SG,uculsg
-85.208.110.52,2053,JP,worktitans
+138.2.89.238,43254,SG,oracle corporation
+168.138.184.172,443,SG,oracle public
 45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-74.48.140.177,443,US,multacom corporation
-45.151.132.228,19034,US,spartan host
+85.208.110.52,2053,JP,worktitans
+107.174.158.114,15505,US,racknerd
+74.48.85.50,443,US,multacom corporation
