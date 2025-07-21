@@ -1,5 +1,5 @@
-138.2.89.64,32962,SG,oracle corporation
-194.36.179.17,8443,SG,first server
-168.138.170.211,53702,SG,oracle public
-95.169.4.66,50723,US,cluster logic
-192.74.225.146,34173,US,peg tech
+213.35.108.135,12596,SG,oracle svenska
+138.2.77.179,30018,SG,oracle corporation
+146.235.19.79,28983,SG,oracle corporation 2
+144.168.62.18,51204,US,it7 networks
+148.135.17.203,23469,US,multacom corporation
