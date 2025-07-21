@@ -1,5 +1,5 @@
-213.35.108.135,12596,SG,oracle svenska
-138.2.77.179,30018,SG,oracle corporation
-146.235.19.79,28983,SG,oracle corporation 2
-144.168.62.18,51204,US,it7 networks
-148.135.17.203,23469,US,multacom corporation
+143.198.92.220,443,SG,digitalocean
+161.117.249.114,2025,SG,1 raffles
+194.36.178.36,2053,SG,first server
+148.135.111.27,56585,US,multacom corporation
+54.202.98.246,47346,US,amazoncom inc
