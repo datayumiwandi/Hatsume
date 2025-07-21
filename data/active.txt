@@ -1,11 +1,11 @@
+172.252.8.168,443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner 2
-164.52.2.99,443,SG,uculsg
-194.36.179.17,2053,SG,first server
-13.250.14.76,443,SG,amazon data
-8.209.220.50,21273,JP,shiodome sumitomo
-8.221.143.218,587,JP,alibaba cloud
-74.48.85.50,443,US,multacom corporation
-107.173.251.119,443,US,racknerd
+139.180.215.77,57878,SG,sgpvultrcust
+194.36.179.17,8443,SG,first server
+54.169.229.188,443,SG,amazoncom inc 3
+85.208.110.52,8443,JP,worktitans
+64.176.40.224,3533,JP,the constant
+162.219.120.218,443,US,cluster logic
+34.83.245.149,443,US,google
