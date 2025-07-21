@@ -1,5 +1,5 @@
-64.49.14.41,2053,SG,internet utilities
-164.52.2.100,443,SG,uculsg
-213.35.100.31,47112,SG,oracle svenska
-198.144.182.22,8443,US,racknerd
-66.42.68.129,10089,US,vultr holdings
+8.222.220.81,25435,SG,alibaba cloud
+129.150.49.58,18650,SG,oracle corporation
+194.36.178.36,8443,SG,first server
+107.173.250.62,444,US,racknerd
+74.48.66.151,51083,US,multacom corporation
