@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-206.84.101.83,8443,ID,mitra visioner 2
-213.35.108.135,12596,SG,oracle svenska
-104.248.145.216,443,SG,digitalocean
-8.219.58.164,57373,SG,alibaba cloud
-8.216.121.234,51922,JP,alibaba cloud 2
-103.106.228.126,2053,JP,oneprovidercom tokyo
-192.74.225.146,34173,US,peg tech
-107.174.158.114,15505,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+206.84.101.83,8443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+51.79.134.207,443,SG,ovh sas
+194.36.179.17,2053,SG,first server
+206.206.77.53,443,SG,regxa
+185.18.222.208,2053,JP,jurgita jurgaitiene
+43.133.10.236,33405,JP,6 collyer
+104.234.50.10,2053,US,unknown
+142.171.202.202,33538,US,multacom corporation
