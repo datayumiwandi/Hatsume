@@ -1,11 +1,5 @@
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
-31.192.238.71,8443,SG,pdk
-168.138.184.172,443,SG,oracle public
-83.142.30.5,2096,SG,zappie host
-85.208.110.52,2053,JP,worktitans
-113.37.149.36,12553,JP,arteria networks
-34.194.76.43,443,US,amazon data
-107.172.218.244,47452,US,racknerd
+64.49.14.41,2053,SG,internet utilities
+164.52.2.100,443,SG,uculsg
+213.35.100.31,47112,SG,oracle svenska
+198.144.182.22,8443,US,racknerd
+66.42.68.129,10089,US,vultr holdings
