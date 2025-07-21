@@ -1,5 +1,5 @@
-51.79.134.207,443,SG,ovh sas
-194.36.179.17,2053,SG,first server
-8.222.220.81,25435,SG,alibaba cloud
-173.249.201.109,54443,US,tzulodjc
-104.224.176.138,37269,US,it7 networks
+138.2.89.64,32962,SG,oracle corporation
+194.36.179.17,8443,SG,first server
+168.138.170.211,53702,SG,oracle public
+95.169.4.66,50723,US,cluster logic
+192.74.225.146,34173,US,peg tech
