@@ -1,5 +1,5 @@
-143.198.92.220,443,SG,digitalocean
-161.117.249.114,2025,SG,1 raffles
-194.36.178.36,2053,SG,first server
-148.135.111.27,56585,US,multacom corporation
-54.202.98.246,47346,US,amazoncom inc
+129.150.36.188,53435,SG,oracle corporation
+168.138.170.211,53702,SG,oracle public
+45.32.100.46,13802,SG,vultr holdings
+213.170.157.1,443,US,redshield security
+192.210.143.111,28425,US,racknerd
