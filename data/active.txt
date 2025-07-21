@@ -1,5 +1,5 @@
+51.79.134.207,443,SG,ovh sas
+194.36.179.17,2053,SG,first server
 8.222.220.81,25435,SG,alibaba cloud
-129.150.49.58,18650,SG,oracle corporation
-194.36.178.36,8443,SG,first server
-107.173.250.62,444,US,racknerd
-74.48.66.151,51083,US,multacom corporation
+173.249.201.109,54443,US,tzulodjc
+104.224.176.138,37269,US,it7 networks
