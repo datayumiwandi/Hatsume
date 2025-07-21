@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner 2
-129.150.49.58,18650,SG,oracle corporation
-64.49.14.41,8443,SG,internet utilities
-167.253.158.63,8443,SG,365 group
-8.221.143.218,587,JP,alibaba cloud
-118.27.12.40,38443,JP,gmo internet
-142.171.147.201,20274,US,multacom corporation
-157.245.139.136,1443,US,digitalocean
+206.84.101.83,8443,ID,mitra visioner
+172.252.8.168,443,ID,mitra visioner 2
+149.129.250.8,443,ID,21f ciputra
+213.35.107.73,443,SG,oracle svenska
+167.253.158.63,2053,SG,365 group
+167.253.158.63,8443,SG,365 group 2
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+8.216.121.234,51922,JP,alibaba cloud
+184.169.181.217,443,US,amazoncom inc 2
+95.169.4.66,50723,US,cluster logic
