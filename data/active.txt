@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
 206.84.101.83,8443,ID,mitra visioner 2
+43.218.77.16,1443,ID,amazoncom inc
 168.138.171.70,23280,SG,oracle public
-164.52.2.99,443,SG,uculsg
+138.2.89.64,32962,SG,oracle corporation
 168.138.165.174,443,SG,oracle public 2
-38.180.28.163,8443,JP,3nt solutions
-138.2.59.96,10129,JP,oracle corporation
-148.135.111.27,26123,US,multacom corporation
-20.246.127.166,443,US,microsoft corporation
+113.37.149.36,12553,JP,arteria networks
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+18.216.55.100,443,US,amazon technologies
+167.234.216.84,65501,US,oracle corporation 2
