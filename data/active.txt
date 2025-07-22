@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
+206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb 2
-3.1.116.161,8443,SG,amazon data
-104.248.145.216,443,SG,digitalocean
-138.2.89.64,32962,SG,oracle corporation
-118.27.12.40,38443,JP,gmo internet
-84.247.152.46,10045,JP,contabo gmbh
-52.35.114.64,443,US,amazoncom inc 2
-23.105.220.138,20018,US,it7 networks
+164.52.2.98,443,SG,uculsg
+164.52.2.100,443,SG,uculsg 2
+143.42.66.91,443,SG,m1 ltd
+85.208.110.52,2053,JP,worktitans
+45.76.192.129,24434,JP,vultr holdings
+74.48.50.18,54696,US,multacom corporation
+144.34.163.149,58431,US,cluster logic
