@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
+206.84.101.84,443,ID,mitra visioner
+206.84.101.83,8443,ID,mitra visioner 2
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-213.35.108.135,12596,SG,oracle svenska
+206.206.77.53,443,SG,regxa
 194.36.179.17,2053,SG,first server
-129.150.36.188,53435,SG,oracle corporation
-38.180.28.163,8443,JP,3nt solutions
-109.123.231.212,2053,JP,contabo gmbh
-192.9.145.87,13611,US,oracle corporation 2
-148.135.111.27,47104,US,multacom corporation
+31.192.238.71,2053,SG,pdk
+185.18.222.208,2053,JP,jurgita jurgaitiene
+8.209.220.50,21273,JP,shiodome sumitomo
+74.48.89.211,443,US,multacom corporation
+142.171.30.213,995,US,multacom corporation 2
