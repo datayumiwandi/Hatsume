@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-3.1.116.161,2053,SG,amazon data
-104.248.145.216,443,SG,digitalocean
+206.84.101.83,8443,ID,mitra visioner
 168.138.165.174,443,SG,oracle public
+3.1.116.161,8443,SG,amazon data
+104.248.145.216,443,SG,digitalocean
 118.27.12.40,38443,JP,gmo internet
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-142.171.192.140,10001,US,multacom corporation
-142.171.202.202,33538,US,multacom corporation 2
+45.76.192.129,24434,JP,vultr holdings
+89.208.250.204,28268,US,cluster logic
+150.230.33.247,19131,US,oracle corporation
