@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+206.84.101.84,443,ID,mitra visioner
+206.84.101.83,8443,ID,mitra visioner 2
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-164.52.2.99,443,SG,uculsg
-167.253.158.63,2053,SG,365 group
-64.49.14.41,2053,SG,internet utilities
-38.180.28.163,8443,JP,3nt solutions
-8.221.143.218,587,JP,alibaba cloud
-44.227.209.152,443,US,amazoncom inc 3
-98.142.141.124,49323,US,cluster logic
+31.192.238.71,8443,SG,pdk
+168.138.184.172,443,SG,oracle public
+194.127.193.240,50791,SG,greencloud
+109.123.231.212,2053,JP,contabo gmbh
+38.180.28.163,2053,JP,3nt solutions
+107.172.90.21,443,US,racknerd
+20.121.115.188,443,US,microsoft corporation
