@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb 2
-164.52.2.98,443,SG,uculsg
-164.52.2.100,443,SG,uculsg 2
-143.42.66.91,443,SG,m1 ltd
-85.208.110.52,2053,JP,worktitans
-45.76.192.129,24434,JP,vultr holdings
-74.48.50.18,54696,US,multacom corporation
-144.34.163.149,58431,US,cluster logic
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+43.156.181.203,443,SG,16 collyer
+45.32.100.46,13802,SG,vultr holdings
+8.219.1.169,443,SG,alibaba cloud
+8.216.121.234,51922,JP,alibaba cloud 2
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+104.234.50.138,2053,US,unknown
+162.219.120.218,443,US,cluster logic
