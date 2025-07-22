@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+172.232.234.155,443,ID,linode
 206.84.101.84,443,ID,mitra visioner
-164.52.2.98,443,SG,uculsg
-164.52.2.100,443,SG,uculsg 2
-168.138.170.211,53702,SG,oracle public
-118.27.12.40,38443,JP,gmo internet
-8.216.121.234,51922,JP,alibaba cloud
-103.54.57.236,10019,US,cloud web
-155.248.214.92,52580,US,oracle corporation
+168.138.181.188,61731,SG,oracle public
+77.221.133.147,443,SG,ihc network
+83.142.30.5,2096,SG,zappie host
+185.18.222.208,2053,JP,jurgita jurgaitiene
+185.184.223.47,443,JP,365 group
+74.48.86.121,12222,US,multacom corporation
+142.171.202.202,21425,US,multacom corporation 2
