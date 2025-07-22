@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner
+206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-31.192.238.71,8443,SG,pdk
-138.2.89.64,32962,SG,oracle corporation
-8.219.58.164,57373,SG,alibaba cloud
-193.246.161.65,54310,JP,akile ltd
-8.216.121.234,51922,JP,alibaba cloud 2
-172.96.194.124,34555,US,cluster logic
-156.154.245.83,443,US,vercara
+129.150.61.72,443,SG,oracle corporation
+104.248.145.216,443,SG,digitalocean
+138.2.95.61,1111,SG,oracle corporation 2
+185.18.222.208,2053,JP,jurgita jurgaitiene
+185.184.223.47,443,JP,365 group
+74.48.4.29,37731,US,multacom corporation
+216.24.184.171,95,US,chinanet anhui
