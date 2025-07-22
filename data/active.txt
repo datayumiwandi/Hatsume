@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 206.84.101.84,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner 2
-213.35.107.73,443,SG,oracle svenska
-161.117.249.114,2025,SG,1 raffles
-185.114.78.230,443,SG,aryaka networks
-185.18.222.208,2053,JP,jurgita jurgaitiene
-8.209.220.50,21273,JP,shiodome sumitomo
-74.48.160.149,43516,US,multacom corporation
-172.83.159.4,27398,US,spartan host
+164.52.2.98,443,SG,uculsg
+164.52.2.100,443,SG,uculsg 2
+168.138.170.211,53702,SG,oracle public
+118.27.12.40,38443,JP,gmo internet
+8.216.121.234,51922,JP,alibaba cloud
+103.54.57.236,10019,US,cloud web
+155.248.214.92,52580,US,oracle corporation
