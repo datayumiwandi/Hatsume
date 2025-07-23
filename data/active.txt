@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc 2
-8.222.132.249,10036,SG,alibaba cloud
-138.2.95.33,17465,SG,oracle corporation
-43.156.107.236,12131,SG,6 collyer
-45.77.25.6,48828,JP,vultr holdings
+203.194.112.119,8443,ID,cv rumahweb 2
+206.84.101.84,443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+110.34.164.39,28758,SG,vpls sin1
+138.2.81.243,45319,SG,oracle corporation
+77.221.133.147,443,SG,ihc network
 158.101.152.6,2919,JP,oracle public
-45.150.164.179,10369,US,spartan host
-104.168.87.41,16443,US,racknerd
+176.97.70.51,2053,JP,3nt solutions
+104.234.50.128,443,US,ovh us
+15.204.10.80,43246,US,ovh us 2
