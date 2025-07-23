@@ -1,8 +1,8 @@
-172.252.8.168,443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.155,74,ID,linode
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.84,443,ID,mitra visioner 2
 104.248.145.216,443,SG,digitalocean
 141.147.161.249,51037,JP,oracle corporation
-142.171.156.182,15801,US,multacom corporation
-107.172.103.195,16000,US,racknerd
+154.17.29.80,50235,US,dmit cloud
+172.96.209.184,13733,US,cluster logic
