@@ -1,8 +1,8 @@
-206.84.101.83,8443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
 172.232.234.155,443,ID,linode
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
 104.248.145.216,443,SG,digitalocean
 141.147.161.249,51037,JP,oracle corporation
-107.174.158.114,15505,US,racknerd
-45.76.232.169,22711,US,vultr holdings
+74.48.179.37,10725,US,cloudflare inc
+107.173.251.119,443,US,racknerd
