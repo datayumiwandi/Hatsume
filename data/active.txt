@@ -1,8 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
 206.84.101.84,443,ID,mitra visioner 2
-104.248.145.216,443,SG,digitalocean
-141.147.161.249,51037,JP,oracle corporation
-154.17.29.80,50235,US,dmit cloud
-172.96.209.184,13733,US,cluster logic
+149.129.250.8,443,ID,21f ciputra
+8.219.58.164,57373,SG,alibaba cloud
+138.2.89.238,43254,SG,oracle corporation
+138.2.77.179,30018,SG,oracle corporation 2
+45.76.192.129,24434,JP,vultr holdings
+85.208.110.52,8443,JP,worktitans
+23.94.213.132,27149,US,hostpapa
+54.189.161.131,48850,US,amazoncom inc
