@@ -1,11 +1,11 @@
-172.232.234.155,74,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
+172.232.234.155,443,ID,linode
 172.252.8.168,443,ID,mitra visioner
-138.2.95.61,1111,SG,oracle corporation
-146.235.19.79,28983,SG,oracle corporation 2
-31.192.238.71,2053,SG,pdk
-152.69.192.40,57005,JP,oracle corporation 3
-158.101.146.3,54516,JP,oracle public
-192.3.166.78,41095,US,racknerd
-107.173.251.119,443,US,racknerd 2
+172.232.234.155,74,ID,linode 2
+206.84.101.84,443,ID,mitra visioner 2
+3.1.116.161,8443,SG,amazon data
+168.138.171.70,23280,SG,oracle public
+62.72.46.14,8443,SG,contabo gmbh
+85.208.110.52,8443,JP,worktitans
+85.208.110.52,2053,JP,worktitans 2
+148.135.111.27,22637,US,multacom corporation
+72.13.122.137,443,US,total uptime
