@@ -1,11 +1,11 @@
-172.232.234.155,74,ID,linode
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.84,443,ID,mitra visioner
-168.138.184.172,443,SG,oracle public
-194.36.179.17,2053,SG,first server
-194.36.179.17,8443,SG,first server 2
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-185.184.223.47,443,JP,365 group
-149.28.91.206,45628,US,vultr holdings
-107.173.250.62,444,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+206.84.101.84,443,ID,mitra visioner 2
+43.218.77.16,443,ID,amazoncom inc 2
+138.2.77.179,30018,SG,oracle corporation
+77.221.133.147,443,SG,ihc network
+164.52.2.98,443,SG,uculsg
+8.209.220.50,21273,JP,shiodome sumitomo
+118.27.12.40,38443,JP,gmo internet
+98.142.141.124,49323,US,cluster logic
+35.185.54.229,27207,US,google
