@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
 206.84.101.84,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.178.36,2053,SG,first server
-3.1.116.161,8443,SG,amazon data
-31.192.238.71,8443,SG,pdk
-82.163.16.69,8080,JP,akile ltd
-152.69.192.40,57005,JP,oracle corporation
-72.13.122.137,443,US,total uptime
-172.96.194.124,34555,US,cluster logic
+149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner 2
+43.218.77.16,443,ID,amazoncom inc
+213.35.100.31,47112,SG,oracle svenska
+194.127.193.240,50791,SG,greencloud
+104.248.145.216,443,SG,digitalocean
+45.66.218.194,12965,JP,virtual machine
+85.208.110.52,8443,JP,worktitans
+107.172.103.195,16025,US,racknerd
+3.147.73.220,443,US,amazon technologies
