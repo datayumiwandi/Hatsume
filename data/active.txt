@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.155,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-138.2.77.179,30018,SG,oracle corporation
-8.219.58.164,57373,SG,alibaba cloud
-164.52.2.99,443,SG,uculsg
-85.208.110.52,8443,JP,worktitans
-82.163.16.69,8080,JP,akile ltd
-173.249.210.53,17750,US,tzulodjc
-172.82.16.38,25950,US,olink cloud
+206.84.101.84,443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+172.252.8.168,443,ID,mitra visioner 2
+172.232.234.155,74,ID,linode
+3.1.116.161,2053,SG,amazon data
+194.36.179.17,8443,SG,first server
+62.72.46.14,8443,SG,contabo gmbh
+85.208.110.52,2053,JP,worktitans
+158.101.146.3,54516,JP,oracle public
+155.248.198.56,34488,US,oracle public 2
+148.135.17.203,23469,US,multacom corporation
