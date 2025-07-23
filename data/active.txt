@@ -1,11 +1,11 @@
-172.232.234.155,74,ID,linode
-149.129.250.8,443,ID,21f ciputra
+172.232.234.155,443,ID,linode
+206.84.101.83,8443,ID,mitra visioner
+172.252.8.168,443,ID,mitra visioner 2
 43.218.77.16,443,ID,amazoncom inc
-206.84.101.84,443,ID,mitra visioner
-194.36.178.36,8443,SG,first server
-168.138.165.174,443,SG,oracle public
-5.34.176.119,81,SG,green floid
-150.230.204.21,10243,JP,oracle corporation
-85.208.110.52,2053,JP,worktitans
-144.168.56.119,40864,US,it7 networks
-107.172.103.195,16093,US,racknerd
+194.36.179.17,8443,SG,first server
+8.222.237.72,443,SG,alibaba cloud
+129.150.36.188,53435,SG,oracle corporation
+103.232.213.117,8080,JP,kvmcloud network
+185.184.223.47,443,JP,365 group
+74.48.179.37,32380,US,cloudflare inc
+98.142.141.124,49323,US,cluster logic
