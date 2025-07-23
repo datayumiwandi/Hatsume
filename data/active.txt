@@ -1,11 +1,11 @@
+43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-172.232.234.155,443,ID,linode
-172.232.234.155,74,ID,linode 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-47.245.85.72,443,SG,alibaba cloud
-164.52.2.100,443,SG,uculsg
-194.127.193.240,50791,SG,greencloud
-85.208.110.52,2053,JP,worktitans
-132.145.126.40,32498,JP,oracle public
-66.98.121.132,8443,US,cluster logic
-23.94.213.132,27149,US,hostpapa
+43.218.77.16,1443,ID,amazoncom inc 2
+206.84.101.83,8443,ID,mitra visioner 2
+83.142.30.4,2096,SG,zappie host
+38.181.70.7,16240,SG,eons data
+139.162.51.138,2053,SG,1391620016
+45.77.25.6,27854,JP,vultr holdings
+176.97.70.51,2053,JP,3nt solutions
+66.112.215.227,18819,US,it7 networks
+132.145.217.215,11001,US,oracle public
