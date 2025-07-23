@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc 2
-206.84.101.84,443,ID,mitra visioner 2
-13.250.131.37,443,SG,amazon data
+206.84.101.83,8443,ID,mitra visioner 2
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
 43.134.167.135,9950,SG,6 collyer
-110.34.164.39,28758,SG,vpls sin1
-217.142.236.93,443,JP,oracle svenska
+8.222.132.249,10036,SG,alibaba cloud
+129.150.35.29,587,SG,oracle corporation
+140.83.37.134,46478,JP,imported inetnum
 198.13.42.58,32954,JP,vultr holdings
-34.208.221.169,443,US,amazoncom inc 3
-107.174.63.237,443,US,racknerd
+67.220.72.231,443,US,gthost
+107.172.103.195,16071,US,racknerd
