@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
+172.232.234.155,74,ID,linode
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-172.232.234.155,443,ID,linode
-138.2.89.64,32962,SG,oracle corporation
-43.156.181.203,443,SG,16 collyer
+206.84.101.84,443,ID,mitra visioner
+194.36.178.36,8443,SG,first server
+168.138.165.174,443,SG,oracle public
 5.34.176.119,81,SG,green floid
-108.160.139.154,8443,JP,vultr holdings
-185.184.223.47,443,JP,365 group
-74.48.85.50,443,US,multacom corporation
-66.112.215.181,34521,US,it7 networks
+150.230.204.21,10243,JP,oracle corporation
+85.208.110.52,2053,JP,worktitans
+144.168.56.119,40864,US,it7 networks
+107.172.103.195,16093,US,racknerd
