@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner 2
-43.218.77.16,443,ID,amazoncom inc
-213.35.100.31,47112,SG,oracle svenska
+172.252.8.168,443,ID,mitra visioner
+172.232.234.155,443,ID,linode
+172.232.234.155,74,ID,linode 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.245.85.72,443,SG,alibaba cloud
+164.52.2.100,443,SG,uculsg
 194.127.193.240,50791,SG,greencloud
-104.248.145.216,443,SG,digitalocean
-45.66.218.194,12965,JP,virtual machine
-85.208.110.52,8443,JP,worktitans
-107.172.103.195,16025,US,racknerd
-3.147.73.220,443,US,amazon technologies
+85.208.110.52,2053,JP,worktitans
+132.145.126.40,32498,JP,oracle public
+66.98.121.132,8443,US,cluster logic
+23.94.213.132,27149,US,hostpapa
