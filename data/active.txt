@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 172.252.8.168,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner 2
+43.156.107.236,12131,SG,6 collyer
 83.142.30.4,2096,SG,zappie host
-38.181.70.7,16240,SG,eons data
-139.162.51.138,2053,SG,1391620016
-45.77.25.6,27854,JP,vultr holdings
-176.97.70.51,2053,JP,3nt solutions
-66.112.215.227,18819,US,it7 networks
-132.145.217.215,11001,US,oracle public
+77.221.133.147,443,SG,ihc network
+168.138.198.7,27560,JP,oracle public
+158.101.154.245,47001,JP,oracle public 2
+35.83.185.225,443,US,amazoncom inc 2
+63.209.32.91,4433,US,vultr holdings
