@@ -1,9 +1,9 @@
-206.84.101.83,8443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
 43.218.77.16,443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner 3
+172.252.8.168,443,ID,mitra visioner
+172.232.234.155,443,ID,linode
+172.232.234.155,74,ID,linode 2
 168.138.165.174,443,SG,oracle public
-121.85.55.59,19842,JP,optage inc
-103.106.228.126,2053,JP,oneprovidercom tokyo
-104.224.176.138,37269,US,it7 networks
-45.42.214.153,443,US,royalehosting
+108.160.139.154,8443,JP,vultr holdings
+141.147.152.229,23333,JP,oracle corporation
+144.34.186.222,8443,US,cluster logic
+15.204.10.80,22064,US,ovh us
