@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
 103.6.207.108,8080,ID,pusat media
-172.252.8.168,443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-143.198.92.220,443,SG,digitalocean
-129.150.36.188,53435,SG,oracle corporation
-8.219.58.164,57373,SG,alibaba cloud
-45.66.218.194,12959,JP,virtual machine
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-67.226.220.10,80,US,securly inc
-170.205.38.77,443,US,hosthatch
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
+43.218.77.16,443,ID,amazoncom inc 2
+129.150.61.72,443,SG,oracle corporation
+138.2.77.179,30018,SG,oracle corporation 2
+54.169.229.188,443,SG,amazoncom inc 3
+8.221.143.218,587,JP,alibaba cloud
+185.18.222.208,2053,JP,jurgita jurgaitiene
+142.171.140.152,443,US,cloudflare london
+148.135.5.55,34215,US,multacom corporation
