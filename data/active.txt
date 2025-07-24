@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-172.232.234.155,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-64.49.14.41,8443,SG,internet utilities
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
 8.222.220.81,25435,SG,alibaba cloud
-143.198.92.220,443,SG,digitalocean
+45.32.100.46,13802,SG,vultr holdings
+129.150.58.86,57621,SG,oracle corporation
 45.66.218.194,12965,JP,virtual machine
-8.209.220.50,21273,JP,shiodome sumitomo
-216.128.140.253,26376,US,the constant
-65.49.195.163,14828,US,it7 networks
+85.208.110.52,2053,JP,worktitans
+74.48.86.121,12222,US,multacom corporation
+66.98.121.132,8443,US,cluster logic
