@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-206.84.101.84,443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-110.34.164.39,28758,SG,vpls sin1
-138.2.81.243,45319,SG,oracle corporation
-77.221.133.147,443,SG,ihc network
-158.101.152.6,2919,JP,oracle public
-176.97.70.51,2053,JP,3nt solutions
-104.234.50.128,443,US,ovh us
-15.204.10.80,43246,US,ovh us 2
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+172.252.8.168,443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+43.156.107.236,12131,SG,6 collyer
+8.219.59.132,48130,SG,alibaba cloud
+129.150.35.29,587,SG,oracle corporation
+212.52.0.61,1846,JP,prinode
+139.162.102.152,7002,JP,akamai connected
+204.110.222.106,80,US,securly inc
+216.225.202.18,443,US,ionos inc
