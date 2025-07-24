@@ -1,9 +1,9 @@
-43.218.77.16,443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
-172.232.234.155,443,ID,linode
-172.232.234.155,74,ID,linode 2
+206.84.101.84,443,ID,mitra visioner 2
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner 3
 168.138.165.174,443,SG,oracle public
-108.160.139.154,8443,JP,vultr holdings
-141.147.152.229,23333,JP,oracle corporation
-144.34.186.222,8443,US,cluster logic
-15.204.10.80,22064,US,ovh us
+18.183.158.211,443,JP,amazon data
+150.230.204.21,10243,JP,oracle corporation
+192.3.208.125,59184,US,cloudflare inc
+172.82.16.38,25950,US,olink cloud
