@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.155,74,ID,linode
-43.218.77.16,443,ID,amazoncom inc 2
-129.150.61.72,443,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
-54.169.229.188,443,SG,amazoncom inc 3
-8.221.143.218,587,JP,alibaba cloud
-185.18.222.208,2053,JP,jurgita jurgaitiene
-142.171.140.152,443,US,cloudflare london
-148.135.5.55,34215,US,multacom corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+206.84.101.84,443,ID,mitra visioner
+138.2.77.179,30018,SG,oracle corporation
+43.156.116.194,443,SG,6 collyer
+139.180.215.77,57878,SG,sgpvultrcust
+138.2.49.197,587,JP,oracle corporation 2
+141.98.197.101,11665,JP,xtom japan
+107.148.20.127,29500,US,peg tech
+172.96.192.114,44855,US,it7 networks
