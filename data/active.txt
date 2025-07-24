@@ -1,11 +1,9 @@
+172.232.234.155,74,ID,linode
+172.232.234.155,443,ID,linode 2
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-43.156.107.236,12131,SG,6 collyer
-8.219.59.132,48130,SG,alibaba cloud
-129.150.35.29,587,SG,oracle corporation
-212.52.0.61,1846,JP,prinode
-139.162.102.152,7002,JP,akamai connected
-204.110.222.106,80,US,securly inc
-216.225.202.18,443,US,ionos inc
+168.138.165.174,443,SG,oracle public
+18.183.158.211,443,JP,amazon data
+64.176.40.224,3533,JP,the constant
+129.153.91.86,3701,US,oracle corporation
+193.233.207.35,443,US,baxet group
