@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.84,443,ID,mitra visioner 2
-149.129.250.8,443,ID,21f ciputra
-104.248.145.216,443,SG,digitalocean
-168.138.170.211,53702,SG,oracle public
-168.138.171.70,23280,SG,oracle public 2
-150.230.204.21,10243,JP,oracle corporation
-8.209.220.50,21273,JP,shiodome sumitomo
-192.3.45.148,443,US,racknerd
-204.110.222.106,80,US,securly inc
+203.194.112.119,8443,ID,cv rumahweb 2
+206.84.101.83,8443,ID,mitra visioner
+8.219.58.164,57373,SG,alibaba cloud
+164.52.2.100,443,SG,uculsg
+5.34.176.119,81,SG,green floid
+64.110.101.90,55007,JP,oracle corporation
+141.98.197.101,11665,JP,xtom japan
+104.224.176.138,37269,US,it7 networks
+67.226.221.102,443,US,securly inc
