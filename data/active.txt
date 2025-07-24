@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
 172.232.234.155,443,ID,linode
-185.114.78.230,443,SG,aryaka networks
-168.138.171.70,23280,SG,oracle public
-129.150.61.72,443,SG,oracle corporation
-185.18.222.208,2053,JP,jurgita jurgaitiene
-84.247.152.46,10045,JP,contabo gmbh
-178.156.148.4,8443,US,hetzner online
-20.121.115.188,443,US,microsoft corporation
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+143.198.92.220,443,SG,digitalocean
+129.150.36.188,53435,SG,oracle corporation
+8.219.58.164,57373,SG,alibaba cloud
+45.66.218.194,12959,JP,virtual machine
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+67.226.220.10,80,US,securly inc
+170.205.38.77,443,US,hosthatch
