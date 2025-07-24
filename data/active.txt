@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-172.252.8.168,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
-43.218.77.16,443,ID,amazoncom inc 2
-213.35.100.31,47112,SG,oracle svenska
-8.219.58.164,57373,SG,alibaba cloud
-47.245.85.72,443,SG,alibaba cloud 2
-185.184.223.47,443,JP,365 group
-45.76.192.129,24434,JP,vultr holdings
-107.182.17.246,34401,US,cluster logic
-107.172.103.195,16060,US,racknerd
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+172.232.234.155,443,ID,linode
+185.114.78.230,443,SG,aryaka networks
+168.138.171.70,23280,SG,oracle public
+129.150.61.72,443,SG,oracle corporation
+185.18.222.208,2053,JP,jurgita jurgaitiene
+84.247.152.46,10045,JP,contabo gmbh
+178.156.148.4,8443,US,hetzner online
+20.121.115.188,443,US,microsoft corporation
