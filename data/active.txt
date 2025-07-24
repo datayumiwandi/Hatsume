@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb 2
-206.84.101.83,8443,ID,mitra visioner
-8.219.58.164,57373,SG,alibaba cloud
-164.52.2.100,443,SG,uculsg
-5.34.176.119,81,SG,green floid
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+206.84.101.84,443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+31.192.238.71,2053,SG,pdk
+64.49.14.41,2053,SG,internet utilities
+13.250.14.76,443,SG,amazon data
 64.110.101.90,55007,JP,oracle corporation
-141.98.197.101,11665,JP,xtom japan
-104.224.176.138,37269,US,it7 networks
-67.226.221.102,443,US,securly inc
+138.2.49.197,587,JP,oracle corporation 2
+18.235.208.126,443,US,amazon data 2
+64.112.42.10,10317,US,multacom corporation
