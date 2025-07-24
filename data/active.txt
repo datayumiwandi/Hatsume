@@ -1,11 +1,11 @@
-172.252.8.168,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
 43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-8.219.59.132,48130,SG,alibaba cloud
+203.194.112.119,8443,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc 2
+104.248.145.216,443,SG,digitalocean
+43.156.107.236,12131,SG,6 collyer
 110.34.164.39,28758,SG,vpls sin1
-43.134.167.135,9950,SG,6 collyer
-150.230.204.21,10243,JP,oracle corporation
-141.98.197.101,11665,JP,xtom japan
-67.216.210.229,15677,US,cluster logic
-192.3.166.78,41095,US,racknerd
+85.208.110.52,8443,JP,worktitans
+141.147.152.229,23333,JP,oracle corporation
+104.168.176.241,24264,US,hostwinds
+142.171.38.53,2333,US,multacom corporation
