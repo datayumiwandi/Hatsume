@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+206.84.101.84,443,ID,mitra visioner
+172.252.8.168,443,ID,mitra visioner 2
+43.128.95.110,40029,SG,6 collyer
 8.222.159.134,12314,SG,alibaba cloud
-77.221.133.147,443,SG,ihc network
-43.134.167.135,9950,SG,6 collyer
-150.230.204.21,10243,JP,oracle corporation
+110.34.164.39,28758,SG,vpls sin1
+138.2.49.197,587,JP,oracle corporation
 85.208.110.52,8443,JP,worktitans
-67.230.160.42,8081,US,cluster logic
-170.205.38.77,443,US,hosthatch
+107.182.17.246,34401,US,cluster logic
+107.173.244.150,8181,US,racknerd
