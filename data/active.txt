@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner 2
-8.219.170.224,443,SG,alibaba cloud
-213.35.107.73,443,SG,oracle svenska
-129.150.49.58,18650,SG,oracle corporation
-150.230.204.21,10243,JP,oracle corporation 2
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+172.252.8.168,443,ID,mitra visioner 2
+43.134.167.135,9950,SG,6 collyer
+8.219.59.132,48964,SG,alibaba cloud
+8.219.126.137,491,SG,alibaba cloud 2
+150.230.204.21,10243,JP,oracle corporation
 141.98.197.101,11665,JP,xtom japan
-107.172.103.195,16071,US,racknerd
-107.172.103.195,16086,US,racknerd 2
+213.170.157.1,443,US,redshield security
+202.91.32.252,15377,US,hostsymbol pte
