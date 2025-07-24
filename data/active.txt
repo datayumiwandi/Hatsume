@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+206.84.101.84,443,ID,mitra visioner 2
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-194.36.178.36,8443,SG,first server
-64.49.14.41,8443,SG,internet utilities
-31.192.238.71,8443,SG,pdk
-64.110.101.90,55007,JP,oracle corporation
-141.98.197.101,11665,JP,xtom japan
-148.135.96.161,38307,US,multacom corporation
-35.197.23.75,443,US,google
+3.1.116.161,8443,SG,amazon data
+161.117.249.114,2025,SG,1 raffles
+138.2.77.179,30018,SG,oracle corporation
+8.209.220.50,21273,JP,shiodome sumitomo
+138.2.49.197,587,JP,oracle corporation 2
+172.96.193.137,20408,US,cluster logic
+15.204.57.47,7267,US,ovh us
