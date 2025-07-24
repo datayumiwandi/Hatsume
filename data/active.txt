@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-172.232.234.155,74,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,443,ID,linode
 206.84.101.83,8443,ID,mitra visioner
-64.49.14.41,2053,SG,internet utilities
-8.222.237.72,443,SG,alibaba cloud
-213.35.107.73,443,SG,oracle svenska
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-132.226.8.109,43257,JP,oracle public
-20.121.115.188,443,US,microsoft corporation
-74.121.150.129,8443,US,it7 networks
+103.6.207.108,8080,ID,pusat media
+172.252.8.168,443,ID,mitra visioner 2
+213.35.108.135,12596,SG,oracle svenska
+213.35.100.31,47112,SG,oracle svenska 2
+8.219.155.21,443,SG,alibaba cloud
+109.123.231.212,2053,JP,contabo gmbh
+185.184.223.47,443,JP,365 group
+142.171.75.222,17628,US,multacom corporation
+107.174.158.114,15505,US,racknerd
