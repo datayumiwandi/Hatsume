@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-172.252.8.168,443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.156.116.194,443,SG,6 collyer
+164.52.2.100,443,SG,uculsg
 43.156.181.203,443,SG,16 collyer
-161.117.249.114,2025,SG,1 raffles
-194.36.178.36,8443,SG,first server
-64.110.101.90,55007,JP,oracle corporation
+138.2.49.197,587,JP,oracle corporation
 141.98.197.101,11665,JP,xtom japan
-148.135.111.27,47104,US,multacom corporation
-172.96.192.109,22503,US,cluster logic
+107.173.87.79,8443,US,racknerd
+142.171.156.141,21182,US,multacom corporation
