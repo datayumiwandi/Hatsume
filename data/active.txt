@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb 2
-138.2.95.61,1111,SG,oracle corporation
-77.221.133.147,443,SG,ihc network
+172.252.8.168,443,ID,mitra visioner
+8.219.59.132,48130,SG,alibaba cloud
 43.134.167.135,9950,SG,6 collyer
+38.181.70.7,16240,SG,eons data
 82.163.16.69,8080,JP,akile ltd
-64.110.104.30,443,JP,oracle corporation 2
-138.2.235.230,22731,US,oracle corporation 3
-72.18.132.149,8443,US,exabytes network
+91.194.160.79,2053,JP,worktitans
+54.149.11.131,80,US,amazon technologies
+107.173.87.79,8443,US,racknerd
