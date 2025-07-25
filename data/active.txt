@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
+203.194.112.119,8443,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 172.252.8.168,443,ID,mitra visioner
-8.219.59.132,48130,SG,alibaba cloud
-43.134.167.135,9950,SG,6 collyer
-38.181.70.7,16240,SG,eons data
-82.163.16.69,8080,JP,akile ltd
+43.218.77.16,1443,ID,amazoncom inc
+8.222.159.134,12483,SG,alibaba cloud
+129.150.49.58,18650,SG,oracle corporation
+138.2.95.61,1111,SG,oracle corporation 2
 91.194.160.79,2053,JP,worktitans
-54.149.11.131,80,US,amazon technologies
-107.173.87.79,8443,US,racknerd
+64.110.104.30,443,JP,oracle corporation 3
+172.83.159.4,16478,US,spartan host
+107.172.103.195,16006,US,racknerd
