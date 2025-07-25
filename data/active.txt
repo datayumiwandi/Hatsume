@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
 172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner 2
-203.194.112.119,2053,ID,cv rumahweb
-160.22.79.179,443,SG,onidel pty
-45.76.183.217,49292,SG,vultr holdings
-129.150.61.72,443,SG,oracle corporation
-185.18.222.208,2053,JP,jurgita jurgaitiene
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-18.216.55.100,443,US,amazon technologies
-104.168.167.197,27213,US,hostwinds seattle
+43.218.77.16,1443,ID,amazoncom inc 2
+168.138.171.70,23280,SG,oracle public
+129.150.49.58,18650,SG,oracle corporation
+45.32.100.46,13802,SG,vultr holdings
+18.183.158.211,443,JP,amazon data
+113.37.149.36,12553,JP,arteria networks
+20.121.115.188,443,US,microsoft corporation
+47.252.4.59,15023,US,alibaba cloud
