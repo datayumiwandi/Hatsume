@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-172.252.8.168,443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-64.49.14.41,2053,SG,internet utilities
-129.150.49.58,18650,SG,oracle corporation
-43.156.116.194,443,SG,6 collyer
-141.147.152.229,23333,JP,oracle corporation 2
-85.208.110.52,8443,JP,worktitans
-142.171.192.140,10001,US,multacom corporation
-142.171.156.141,21182,US,multacom corporation 2
+172.252.8.168,443,ID,mitra visioner
+206.84.101.83,8443,ID,mitra visioner 2
+203.194.112.119,2053,ID,cv rumahweb
+160.22.79.179,443,SG,onidel pty
+45.76.183.217,49292,SG,vultr holdings
+129.150.61.72,443,SG,oracle corporation
+185.18.222.208,2053,JP,jurgita jurgaitiene
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+18.216.55.100,443,US,amazon technologies
+104.168.167.197,27213,US,hostwinds seattle
