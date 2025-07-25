@@ -1,11 +1,11 @@
 206.84.101.84,443,ID,mitra visioner
-206.84.101.83,8443,ID,mitra visioner 2
 149.129.250.8,443,ID,21f ciputra
-172.252.8.168,443,ID,mitra visioner 3
-167.253.158.63,2053,SG,365 group
-168.138.170.211,53702,SG,oracle public
-8.219.170.224,443,SG,alibaba cloud
-108.160.139.154,8443,JP,vultr holdings
-64.110.101.90,55007,JP,oracle corporation
-193.124.24.85,24275,US,baxet group
-45.76.232.169,22711,US,vultr holdings 2
+172.252.8.168,443,ID,mitra visioner 2
+206.84.101.83,8443,ID,mitra visioner 3
+194.127.193.240,50791,SG,greencloud
+139.180.215.77,57878,SG,sgpvultrcust
+138.2.89.238,43254,SG,oracle corporation
+139.162.102.152,7002,JP,akamai connected
+18.183.158.211,443,JP,amazon data
+207.211.176.65,13425,US,oracle corporation 2
+204.110.222.106,80,US,securly inc
