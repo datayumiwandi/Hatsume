@@ -1,11 +1,11 @@
-206.84.101.84,443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner 3
-129.150.61.72,443,SG,oracle corporation
-129.150.58.86,57621,SG,oracle corporation 2
-8.222.220.81,25435,SG,alibaba cloud
-38.180.28.163,2053,JP,3nt solutions
-217.142.243.98,51321,JP,oracle corporation 3
-107.172.218.244,47452,US,racknerd
-147.182.246.69,58017,US,digitalocean
+172.252.8.168,443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.84,443,ID,mitra visioner 2
+149.129.250.8,443,ID,21f ciputra
+206.206.77.53,443,SG,regxa
+139.180.215.77,57878,SG,sgpvultrcust
+128.199.134.152,443,SG,digitalocean
+168.138.192.16,54584,JP,oracle public
+217.142.243.98,51321,JP,oracle corporation
+74.48.4.29,37731,US,multacom corporation
+38.105.26.109,36875,US,cogent communications
