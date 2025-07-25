@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
 172.252.8.168,443,ID,mitra visioner
-206.84.101.84,443,ID,mitra visioner 2
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner 2
+143.42.66.91,443,SG,m1 ltd
 138.2.95.61,1111,SG,oracle corporation
-51.79.134.207,443,SG,ovh sas
-54.169.229.188,443,SG,amazoncom inc 2
-140.83.37.134,46478,JP,imported inetnum
-140.83.57.20,13118,JP,imported inetnum 2
-63.205.203.251,443,US,att enterprises
-148.135.111.27,26123,US,multacom corporation
+194.127.193.240,50791,SG,greencloud
+217.142.250.195,587,JP,oracle corporation 2
+150.230.204.21,10243,JP,oracle corporation 3
+74.48.89.211,443,US,multacom corporation
+66.23.198.74,10443,US,redoubt networks
