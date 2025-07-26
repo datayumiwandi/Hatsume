@@ -1,10 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 206.84.101.83,8443,ID,mitra visioner
-172.252.8.168,443,ID,mitra visioner 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.89.64,32962,SG,oracle corporation
-164.52.2.99,443,SG,uculsg
-164.52.2.98,443,SG,uculsg 2
-168.138.46.67,443,JP,oracle public
-74.48.145.83,31556,US,multacom corporation
-129.153.127.204,20756,US,oracle corporation 2
+149.129.250.8,443,ID,21f ciputra
+13.250.14.76,443,SG,amazon data
+185.114.78.230,443,SG,aryaka networks
+178.128.80.43,443,SG,digitalocean
+103.232.213.117,8080,JP,kvmcloud network
+85.208.110.52,8443,JP,worktitans
+35.185.54.229,27207,US,google
+107.174.158.114,15505,US,racknerd
