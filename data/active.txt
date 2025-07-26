@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-143.42.66.91,443,SG,viewqwest pte
-104.248.145.216,443,SG,digitalocean
-143.198.92.220,443,SG,digitalocean 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc 2
+8.222.237.72,443,SG,alibaba cloud
+164.52.2.98,443,SG,uculsg
+45.32.100.46,13802,SG,vultr holdings
 132.145.116.185,443,JP,oracle public
-13.230.34.30,443,JP,amazon data
-129.146.6.2,929,US,oracle corporation
-107.172.103.195,16025,US,racknerd
+132.145.126.40,32498,JP,oracle public 2
+74.48.46.35,443,US,multacom corporation
+176.122.187.16,51121,US,cluster logic
