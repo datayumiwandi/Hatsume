@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-164.52.2.99,443,SG,uculsg
-164.52.2.98,443,SG,uculsg 2
-194.36.179.17,2053,SG,first server
-85.208.110.52,2053,JP,worktitans
-85.208.110.52,8443,JP,worktitans 2
-69.30.212.6,6643,US,wholesale internet
-18.235.208.126,443,US,amazon data
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+43.156.116.194,443,SG,6 collyer
+167.99.73.22,443,SG,digitalocean
+128.199.134.152,443,SG,digitalocean 2
+85.208.110.52,8443,JP,worktitans
+103.106.228.126,2053,JP,oneprovidercom tokyo
+107.174.158.114,15505,US,racknerd
+107.182.17.246,34401,US,cluster logic
