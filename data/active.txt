@@ -1,11 +1,11 @@
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb 2
-164.52.2.98,443,SG,uculsg
-185.114.78.230,443,SG,aryaka networks
-194.36.179.17,8443,SG,first server
-85.208.110.52,8443,JP,worktitans
-185.18.222.208,2053,JP,jurgita jurgaitiene
-158.101.24.17,443,US,oracle public
-158.101.11.204,15805,US,oracle public 2
+143.42.66.91,443,SG,viewqwest pte
+104.248.145.216,443,SG,digitalocean
+138.2.77.179,30018,SG,oracle corporation
+8.216.121.234,51922,JP,alibaba cloud
+64.176.40.224,3533,JP,vultr holdings
+54.203.85.46,443,US,amazon technologies
+172.83.159.4,41389,US,spartan host
