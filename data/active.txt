@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 206.84.101.83,8443,ID,mitra visioner
-47.245.85.72,443,SG,alibaba cloud
-164.52.2.98,443,SG,uculsg
-45.76.183.217,49292,SG,vultr holdings
+203.194.112.119,8443,ID,cv rumahweb
+64.49.14.41,8443,SG,internet utilities
+5.34.176.119,81,SG,green floid
+161.117.249.114,2025,SG,1 raffles
 85.208.110.52,2053,JP,worktitans
-193.246.161.65,54310,JP,akile ltd
-142.171.75.222,17628,US,multacom corporation
-192.3.150.56,8000,US,racknerd
+103.106.228.126,2053,JP,oneprovidercom tokyo
+148.135.106.248,18454,US,brander group
+107.175.245.68,50242,US,racknerd
