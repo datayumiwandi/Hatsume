@@ -1,11 +1,11 @@
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-13.250.14.76,443,SG,amazon data
-185.114.78.230,443,SG,aryaka networks
-178.128.80.43,443,SG,digitalocean
-103.232.213.117,8080,JP,kvmcloud network
-85.208.110.52,8443,JP,worktitans
-35.185.54.229,27207,US,google
-107.174.158.114,15505,US,racknerd
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.156.181.203,443,SG,16 collyer
+139.180.215.77,57878,SG,sgpvultrcust
+31.192.238.71,2053,SG,pdk
+141.147.152.229,23333,JP,oracle corporation
+85.208.110.52,2053,JP,worktitans
+23.105.198.177,14995,US,it7 networks
+67.220.72.231,443,US,gthost
