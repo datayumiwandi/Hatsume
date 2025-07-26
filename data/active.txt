@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb 2
-138.2.95.61,1111,SG,oracle corporation
-13.250.14.76,443,SG,amazon data
-5.34.176.119,81,SG,green floid
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
+45.76.179.81,443,SG,vultr holdings
+104.248.145.216,443,SG,digitalocean
+146.235.19.79,28983,SG,oracle corporation
+85.208.110.52,8443,JP,worktitans
 109.123.231.212,2053,JP,contabo gmbh
-193.246.161.65,54310,JP,akile ltd
-104.234.50.138,2053,US,unknown
-155.248.198.56,34488,US,oracle public
+74.48.145.83,31556,US,multacom corporation
+172.96.193.137,20408,US,cluster logic
