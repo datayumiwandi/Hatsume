@@ -1,11 +1,11 @@
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 203.194.112.119,8443,ID,cv rumahweb
-54.255.217.120,8192,SG,amazon data
-31.192.238.71,2053,SG,pdk
-164.52.2.99,443,SG,uculsg
-132.145.116.185,443,JP,oracle public
-132.145.126.40,32498,JP,oracle public 2
-38.58.63.150,51646,US,netlab
-178.156.148.4,8443,US,hetzner online
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+129.150.58.86,57621,SG,oracle corporation
+51.79.134.207,443,SG,ovh sas
+138.2.77.179,30018,SG,oracle corporation 2
+132.145.126.40,32498,JP,oracle public
+132.145.116.185,443,JP,oracle public 2
+148.135.111.27,56585,US,multacom corporation
+107.174.158.114,15505,US,racknerd
