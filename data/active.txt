@@ -1,11 +1,11 @@
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb 2
-185.114.78.230,443,SG,aryaka networks
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+143.42.66.91,443,SG,viewqwest pte
 213.35.107.73,443,SG,oracle svenska
-45.76.179.81,443,SG,vultr holdings
-185.18.222.208,2053,JP,jurgita jurgaitiene
-38.180.28.163,2053,JP,3nt solutions
-104.194.72.33,443,US,it7 networks
-104.234.50.215,2053,US,unknown
+54.169.229.188,443,SG,amazoncom inc 2
+193.246.161.65,54310,JP,akile ltd
+109.123.231.212,2053,JP,contabo gmbh
+192.210.196.158,36414,US,racknerd
+67.226.222.2,443,US,securly inc
