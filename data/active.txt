@@ -1,11 +1,11 @@
 203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-45.76.183.217,49292,SG,vultr holdings
-45.32.100.46,13802,SG,vultr holdings 2
-64.49.14.41,8443,SG,internet utilities
-13.230.34.30,443,JP,amazon data
-132.145.126.40,32498,JP,oracle public
-178.156.148.4,8443,US,hetzner online
-66.112.212.21,818,US,it7 networks
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb 2
+164.52.2.100,443,SG,uculsg
+8.219.58.164,57373,SG,alibaba cloud
+213.35.108.135,12596,SG,oracle svenska
+85.208.110.52,8443,JP,worktitans
+103.75.118.144,2053,JP,oneprovidercom japan
+178.156.148.4,2053,US,hetzner online
+148.135.17.203,23469,US,multacom corporation
