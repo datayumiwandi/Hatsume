@@ -1,11 +1,11 @@
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
 206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb 2
-129.150.61.72,443,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
-62.72.46.14,8443,SG,contabo gmbh
-141.147.185.15,443,JP,oracle corporation 3
+47.245.85.72,443,SG,alibaba cloud
+51.79.134.207,443,SG,ovh sas
+104.248.145.216,443,SG,digitalocean
+138.2.10.149,45638,JP,oracle corporation
 138.3.222.33,443,JP,oracle network
-148.135.17.203,31147,US,multacom corporation
-148.135.111.27,26123,US,multacom corporation 2
+148.135.106.248,18454,US,brander group
+103.124.105.222,443,US,hosteonscom vps
