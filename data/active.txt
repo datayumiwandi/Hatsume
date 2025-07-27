@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-206.206.77.53,443,SG,regxa
-168.138.170.211,53702,SG,oracle public
-138.2.95.33,17465,SG,oracle corporation
+149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc 2
+138.2.89.64,32962,SG,oracle corporation
+8.219.58.164,57373,SG,alibaba cloud
+213.35.100.31,47112,SG,oracle svenska
+103.75.118.144,2053,JP,oneprovidercom japan
 150.230.204.21,10243,JP,oracle corporation 2
-103.232.213.117,8080,JP,kvmcloud network
-23.94.43.102,8080,US,racknerd
-144.34.163.149,58431,US,cluster logic
+198.46.218.63,27149,US,racknerd
+192.74.225.146,34172,US,peg tech
