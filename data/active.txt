@@ -1,11 +1,11 @@
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb 2
-45.32.100.46,13802,SG,vultr holdings
-129.150.36.188,53435,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
+149.129.250.8,443,ID,21f ciputra
+213.35.100.31,47112,SG,oracle svenska
+54.169.229.188,443,SG,amazoncom inc 2
+143.198.92.220,443,SG,digitalocean
+168.138.46.67,443,JP,oracle public
 138.3.222.33,443,JP,oracle network
-138.2.10.149,45638,JP,oracle corporation 3
-72.167.140.7,2053,US,godaddycom
-65.49.195.163,14828,US,it7 networks
+172.235.40.214,36768,US,linode
+107.172.102.212,20700,US,racknerd
