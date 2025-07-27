@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.179.5,2053,SG,first server
-8.219.170.224,443,SG,alibaba cloud
-15.235.199.103,8443,SG,ovh singapore
-140.83.37.134,46478,JP,imported inetnum
-43.133.10.236,33405,JP,6 collyer
-172.96.192.109,22503,US,cluster logic
-44.227.209.152,443,US,amazoncom inc
+15.235.199.103,2053,SG,ovh singapore
+161.117.249.114,2025,SG,1 raffles
+8.219.58.164,57373,SG,alibaba cloud
+64.110.101.90,55007,JP,oracle corporation
+103.106.228.126,2053,JP,oneprovidercom tokyo
+34.105.49.234,443,US,google
+35.185.54.229,27207,US,google 2
