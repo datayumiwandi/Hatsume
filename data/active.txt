@@ -1,11 +1,11 @@
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-164.52.2.98,443,SG,uculsg
-13.250.14.76,443,SG,amazon data
-168.138.170.211,53702,SG,oracle public
-45.66.218.194,12965,JP,virtual machine
-152.69.192.40,57005,JP,oracle corporation
-104.234.50.132,2053,US,unknown
-152.67.248.2,53300,US,oracle public 2
+83.142.30.5,2096,SG,zappie host
+3.1.116.161,8443,SG,amazon data
+168.138.171.70,23280,SG,oracle public
+45.76.192.129,24434,JP,vultr holdings
+85.208.110.52,8443,JP,worktitans
+72.167.140.7,8443,US,godaddycom
+98.142.141.124,49322,US,cluster logic
