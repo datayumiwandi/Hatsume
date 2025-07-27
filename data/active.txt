@@ -1,11 +1,11 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-138.2.77.179,30018,SG,oracle corporation
-104.248.145.216,443,SG,digitalocean
-168.138.170.211,53702,SG,oracle public
-43.133.10.236,33405,JP,6 collyer
-132.145.116.185,443,JP,oracle public 2
-107.148.20.127,29500,US,peg tech
-147.182.246.69,58017,US,digitalocean 2
+168.138.171.70,23280,SG,oracle public
+143.42.66.91,443,SG,m1 ltd
+13.250.14.76,443,SG,amazon data
+168.138.201.35,36637,JP,cloudflare london
+103.238.129.215,42734,JP,ipx
+44.227.209.152,443,US,amazoncom inc 2
+67.209.179.237,30419,US,it7 networks
