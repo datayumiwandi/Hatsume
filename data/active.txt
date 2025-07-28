@@ -1,11 +1,11 @@
-172.232.234.155,443,ID,linode
-172.232.234.155,74,ID,linode 2
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
+172.232.234.155,443,ID,linode
+206.84.101.83,8443,ID,mitra visioner
+62.72.46.14,8443,SG,contabo gmbh
+13.250.14.76,443,SG,amazon data
 161.117.249.114,2025,SG,1 raffles
-138.2.95.61,1111,SG,oracle corporation
-164.52.2.98,443,SG,uculsg
-158.101.154.245,47001,JP,oracle public
-140.83.59.158,15805,JP,imported inetnum
-38.150.34.152,443,US,netlab
-74.48.46.35,443,US,multacom corporation
+140.83.56.110,56417,JP,imported inetnum
+168.138.201.35,36637,JP,cloudflare london
+38.58.63.150,51646,US,netlab
+104.224.176.138,37269,US,it7 networks
