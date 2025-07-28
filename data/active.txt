@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.155,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc 2
-172.232.234.155,74,ID,linode 2
-213.35.107.73,443,SG,oracle svenska
-167.99.73.22,443,SG,digitalocean
-64.49.14.41,2053,SG,internet utilities
-158.101.154.245,47001,JP,oracle public
-140.238.37.103,14782,JP,oracle public 2
-129.153.91.86,3701,US,oracle corporation
-15.204.10.80,49404,US,ovh us
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.155,74,ID,linode
+206.84.101.83,8443,ID,mitra visioner
+172.232.234.155,443,ID,linode 2
+168.138.181.188,61731,SG,oracle public
+168.138.170.211,53702,SG,oracle public 2
+194.127.193.240,50791,SG,greencloud
+140.83.56.110,56417,JP,imported inetnum
+158.101.154.245,47001,JP,oracle public 3
+199.115.231.188,12586,US,cluster logic
+38.150.34.152,443,US,netlab
