@@ -1,7 +1,7 @@
 43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
 206.84.101.83,8443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
+172.232.234.155,74,ID,linode
 168.138.193.174,11959,JP,oracle public
-192.74.225.146,34173,US,peg tech
-141.11.95.35,35443,US,virtual machine
+34.168.95.100,12388,US,google
+23.94.211.148,443,US,racknerd
