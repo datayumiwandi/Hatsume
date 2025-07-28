@@ -1,7 +1,7 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-172.232.234.155,74,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.155,443,ID,linode
+172.232.234.155,74,ID,linode 2
 168.138.193.174,11959,JP,oracle public
-67.226.222.2,443,US,securly inc
-49.51.197.141,443,US,tencent cloud
+170.205.38.77,443,US,hosthatch
+104.224.176.138,37269,US,it7 networks
