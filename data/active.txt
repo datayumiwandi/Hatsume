@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-172.232.234.155,74,ID,linode
-172.232.234.155,443,ID,linode 2
-8.222.220.81,25435,SG,alibaba cloud
-83.142.30.5,2096,SG,zappie host
-8.219.58.164,57373,SG,alibaba cloud 2
-140.83.59.158,15805,JP,imported inetnum
-38.180.29.115,443,JP,3nt solutions
-107.173.87.79,8443,US,racknerd
-74.48.145.83,31556,US,multacom corporation
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc 2
+172.232.234.155,74,ID,linode 2
+213.35.107.73,443,SG,oracle svenska
+167.99.73.22,443,SG,digitalocean
+64.49.14.41,2053,SG,internet utilities
+158.101.154.245,47001,JP,oracle public
+140.238.37.103,14782,JP,oracle public 2
+129.153.91.86,3701,US,oracle corporation
+15.204.10.80,49404,US,ovh us
