@@ -1,11 +1,11 @@
+149.129.250.8,443,ID,21f ciputra
+172.232.234.155,74,ID,linode
 43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
-43.156.181.203,443,SG,16 collyer
-62.72.46.14,8443,SG,contabo gmbh
-3.1.116.161,8443,SG,amazon data
+8.222.220.81,25435,SG,alibaba cloud
+45.76.183.217,49292,SG,vultr holdings
+138.2.89.64,32962,SG,oracle corporation
 139.162.102.152,7002,JP,akamai connected
-3.112.21.102,443,JP,amazon data 2
-64.112.42.10,10317,US,multacom corporation
-45.42.214.153,443,US,royalehosting
+158.101.154.245,47001,JP,oracle public
+66.98.127.46,2053,US,cluster logic
+104.234.50.221,2053,US,unknown
