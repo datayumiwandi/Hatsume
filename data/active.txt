@@ -1,7 +1,7 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-172.232.234.155,74,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.155,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
 168.138.193.174,11959,JP,oracle public
-74.48.85.50,443,US,multacom corporation
-45.42.214.153,443,US,royalehosting
+104.168.176.241,24264,US,hostwinds
+158.101.24.17,443,US,oracle public 2
