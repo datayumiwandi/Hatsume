@@ -1,11 +1,11 @@
-149.129.250.8,443,ID,21f ciputra
 172.232.234.155,74,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-8.222.220.81,25435,SG,alibaba cloud
-45.76.183.217,49292,SG,vultr holdings
-138.2.89.64,32962,SG,oracle corporation
+103.6.207.108,8080,ID,pusat media
+206.84.101.83,8443,ID,mitra visioner
+172.232.234.155,443,ID,linode 2
+194.127.193.240,50791,SG,greencloud
+138.2.89.238,43254,SG,oracle corporation
+164.52.2.98,443,SG,uculsg
 139.162.102.152,7002,JP,akamai connected
-158.101.154.245,47001,JP,oracle public
-66.98.127.46,2053,US,cluster logic
-104.234.50.221,2053,US,unknown
+3.112.21.102,443,JP,amazon data
+142.171.156.182,15801,US,multacom corporation
+49.51.197.141,443,US,tencent cloud
