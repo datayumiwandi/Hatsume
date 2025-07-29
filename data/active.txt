@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.155,443,ID,linode
-203.194.112.119,2053,ID,cv rumahweb 2
 43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+168.138.171.70,23280,SG,oracle public
+129.150.49.58,18650,SG,oracle corporation
 43.156.116.194,443,SG,6 collyer
-146.235.19.79,28983,SG,oracle corporation
-138.2.89.64,32962,SG,oracle corporation 2
-140.83.57.86,54322,JP,imported inetnum
 91.194.160.45,8443,JP,worktitans
-63.209.32.91,4433,US,vultr holdings
-5.78.114.254,443,US,hetzner online
+47.79.90.37,49153,JP,alibaba cloud
+107.173.250.62,444,US,racknerd
+18.235.208.126,443,US,amazon data
