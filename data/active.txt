@@ -1,11 +1,11 @@
+172.232.234.155,74,ID,linode
 203.194.112.119,2053,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,8443,ID,cv rumahweb 2
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-178.128.80.43,443,SG,digitalocean
-8.219.58.164,57373,SG,alibaba cloud
-13.250.14.76,443,SG,amazon data
+213.35.107.73,443,SG,oracle svenska
+5.34.176.119,81,SG,green floid
+143.198.92.220,443,SG,digitalocean
 91.194.160.121,2053,JP,worktitans
-91.194.160.45,8443,JP,worktitans 2
-97.64.26.142,30840,US,it7 networks
-192.210.196.158,36414,US,racknerd
+45.76.198.248,443,JP,vultr holdings
+74.48.46.35,443,US,multacom corporation
+67.230.160.42,8081,US,cluster logic
