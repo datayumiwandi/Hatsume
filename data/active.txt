@@ -1,11 +1,11 @@
-43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 172.232.234.155,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-43.156.181.203,443,SG,16 collyer
-77.221.133.147,443,SG,ihc network
+203.194.112.119,2053,ID,cv rumahweb 2
+43.218.77.16,1443,ID,amazoncom inc
 43.156.116.194,443,SG,6 collyer
-45.76.198.248,443,JP,vultr holdings
-176.97.70.51,2053,JP,3nt solutions
-66.98.127.46,2053,US,cluster logic
-129.153.91.86,3701,US,oracle corporation
+146.235.19.79,28983,SG,oracle corporation
+138.2.89.64,32962,SG,oracle corporation 2
+140.83.57.86,54322,JP,imported inetnum
+91.194.160.45,8443,JP,worktitans
+63.209.32.91,4433,US,vultr holdings
+5.78.114.254,443,US,hetzner online
