@@ -1,11 +1,11 @@
-103.6.207.108,8080,ID,pusat media
 172.232.234.155,74,ID,linode
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 172.232.234.155,443,ID,linode 2
+203.194.112.119,8443,ID,cv rumahweb
+168.138.165.174,443,SG,oracle public
 138.2.89.238,43254,SG,oracle corporation
-43.156.181.203,443,SG,16 collyer
-146.235.19.79,28983,SG,oracle corporation 2
-176.97.70.51,2053,JP,3nt solutions
-168.138.46.67,443,JP,oracle public
-103.113.70.70,2053,US,worktitans
-74.48.77.104,35273,US,multacom corporation
+138.2.89.64,32962,SG,oracle corporation 2
+47.79.33.117,52311,JP,alibaba cloud
+91.194.160.121,2053,JP,worktitans
+107.172.103.195,16071,US,racknerd
+74.120.170.56,443,US,cluster logic
