@@ -1,11 +1,11 @@
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
 206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,2053,ID,cv rumahweb
-8.219.155.21,443,SG,alibaba cloud
-167.99.73.22,443,SG,digitalocean
-146.235.19.79,28983,SG,oracle corporation
-91.194.160.121,2053,JP,worktitans
-158.101.152.6,2919,JP,oracle public
-64.69.34.244,41091,US,multacom corporation
-66.23.198.74,10443,US,redoubt networks
+203.194.112.119,8443,ID,cv rumahweb
+168.138.165.174,443,SG,oracle public
+5.34.176.119,81,SG,green floid
+43.156.116.194,443,SG,6 collyer
+91.194.160.45,8443,JP,worktitans
+45.76.198.248,443,JP,vultr holdings
+104.224.176.138,37269,US,it7 networks
+172.96.209.184,13733,US,cluster logic
