@@ -1,11 +1,11 @@
 43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-168.138.171.70,23280,SG,oracle public
-129.150.49.58,18650,SG,oracle corporation
+149.129.250.8,443,ID,21f ciputra
+43.156.181.203,443,SG,16 collyer
 43.156.116.194,443,SG,6 collyer
-91.194.160.45,8443,JP,worktitans
-47.79.90.37,49153,JP,alibaba cloud
-107.173.250.62,444,US,racknerd
-18.235.208.126,443,US,amazon data
+213.35.100.31,47112,SG,oracle svenska
+141.147.185.15,443,JP,oracle corporation
+158.101.152.6,2919,JP,oracle public
+148.135.111.27,47104,US,multacom corporation
+154.64.241.72,58284,US,psinet inc
