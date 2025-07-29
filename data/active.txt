@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
-172.232.234.155,74,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-213.35.107.73,443,SG,oracle svenska
-164.52.2.99,443,SG,uculsg
 8.219.155.21,443,SG,alibaba cloud
-158.101.152.6,2919,JP,oracle public
+167.99.73.22,443,SG,digitalocean
+146.235.19.79,28983,SG,oracle corporation
 91.194.160.121,2053,JP,worktitans
-213.170.157.1,443,US,redshield security
-192.74.225.146,34173,US,peg tech
+158.101.152.6,2919,JP,oracle public
+64.69.34.244,41091,US,multacom corporation
+66.23.198.74,10443,US,redoubt networks
