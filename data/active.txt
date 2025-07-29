@@ -1,11 +1,11 @@
-172.232.234.155,74,ID,linode
+172.232.234.155,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
-172.232.234.155,443,ID,linode 2
-203.194.112.119,8443,ID,cv rumahweb 2
+83.142.30.5,2096,SG,zappie host
 161.117.249.114,2025,SG,1 raffles
-128.199.134.152,443,SG,digitalocean
-8.219.58.164,57373,SG,alibaba cloud
-217.142.230.253,587,JP,oracle corporation
+129.150.49.58,18650,SG,oracle corporation
 158.101.146.3,44872,JP,oracle public
-107.172.103.195,16008,US,racknerd
-107.174.63.237,443,US,racknerd 2
+217.142.230.253,587,JP,oracle corporation 2
+23.95.18.12,18443,US,racknerd
+72.167.140.7,2053,US,godaddycom
