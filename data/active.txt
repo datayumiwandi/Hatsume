@@ -1,11 +1,11 @@
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-172.232.234.155,443,ID,linode
 103.6.207.108,8080,ID,pusat media
-129.150.49.58,18650,SG,oracle corporation
-83.142.30.5,2096,SG,zappie host
-77.221.133.147,443,SG,ihc network
+203.194.112.119,2053,ID,cv rumahweb
+203.194.112.119,8443,ID,cv rumahweb 2
+43.218.77.16,443,ID,amazoncom inc
+168.138.171.70,23280,SG,oracle public
+168.138.165.174,443,SG,oracle public 2
+143.42.66.91,443,SG,viewqwest pte
+141.147.185.15,443,JP,oracle corporation
 141.147.161.249,51037,JP,oracle corporation 2
-47.245.59.226,59215,JP,alibaba cloud
-72.167.140.7,8443,US,godaddycom
-172.96.193.137,20408,US,cluster logic
+23.94.44.126,16573,US,racknerd
+35.185.54.229,27207,US,google
