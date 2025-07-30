@@ -1,7 +1,7 @@
-168.138.165.174,443,SG,oracle public
-164.52.2.99,443,SG,uculsg
-164.52.2.98,443,SG,uculsg 2
-217.142.236.93,443,JP,oracle svenska
+164.52.2.98,443,SG,uculsg
+168.138.171.70,23280,SG,oracle public
+168.138.165.174,443,SG,oracle public 2
+82.163.16.69,8080,JP,akile ltd
 176.97.70.51,2053,JP,3nt solutions
-35.185.54.229,27251,US,google
-192.74.225.146,34173,US,peg tech
+45.42.214.153,443,US,royalehosting
+142.171.156.141,21182,US,multacom corporation
