@@ -1,7 +1,7 @@
+168.138.165.174,443,SG,oracle public
+168.138.171.70,23280,SG,oracle public 2
 164.52.2.100,443,SG,uculsg
-168.138.171.70,23280,SG,oracle public
-164.52.2.98,443,SG,uculsg 2
-217.142.236.93,443,JP,oracle svenska
+82.163.16.69,8080,JP,akile ltd
 152.69.192.40,57005,JP,oracle corporation
-195.123.241.122,50008,US,total server
-107.172.103.195,16086,US,racknerd
+74.48.136.41,123,US,multacom corporation
+172.245.129.72,27486,US,racknerd
