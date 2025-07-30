@@ -1,11 +1,11 @@
-206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.155,74,ID,linode
-172.232.234.155,443,ID,linode 2
-168.138.165.174,443,SG,oracle public
-213.35.100.31,47112,SG,oracle svenska
-168.138.184.172,443,SG,oracle public 2
-185.184.223.47,443,JP,365 group
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.155,443,ID,linode
+203.194.112.119,8443,ID,cv rumahweb 2
+3.1.116.161,2053,SG,amazon data
+8.222.220.81,25435,SG,alibaba cloud
+213.35.108.135,12596,SG,oracle svenska
 38.180.28.163,2053,JP,3nt solutions
-104.234.50.12,2053,US,unknown
-107.172.218.244,47452,US,racknerd
+185.184.223.47,443,JP,365 group
+104.234.50.223,2053,US,unknown
+15.204.10.80,49404,US,ovh us
