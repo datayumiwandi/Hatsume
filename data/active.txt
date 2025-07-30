@@ -1,11 +1,11 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 172.232.234.155,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb 2
-3.1.116.161,2053,SG,amazon data
-8.222.220.81,25435,SG,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+8.219.58.164,57373,SG,alibaba cloud
 213.35.108.135,12596,SG,oracle svenska
-38.180.28.163,2053,JP,3nt solutions
-185.184.223.47,443,JP,365 group
-104.234.50.223,2053,US,unknown
-15.204.10.80,49404,US,ovh us
+3.1.116.161,2053,SG,amazon data
+38.180.28.163,8443,JP,3nt solutions
+185.18.222.208,2053,JP,jurgita jurgaitiene
+142.171.30.213,995,US,multacom corporation
+35.175.188.144,9000,US,amazon technologies
