@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-110.34.164.39,28758,SG,vpls sin1
-8.219.170.224,443,SG,alibaba cloud
-64.49.14.41,2053,SG,internet utilities
-217.142.226.116,443,JP,oracle svenska
-103.106.228.126,2053,JP,oneprovidercom tokyo
-5.181.3.232,2053,US,global connectivity
-107.172.103.195,16008,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+194.36.178.36,8443,SG,first server
+8.222.159.134,12483,SG,alibaba cloud
+15.235.199.103,8443,SG,ovh singapore
+84.247.152.46,10045,JP,contabo gmbh
+138.2.10.149,45638,JP,oracle corporation
+47.88.24.237,10443,US,alibaba cloud 2
+107.173.244.203,22289,US,racknerd
 38.60.193.247,13300,MY,kaopu cloud
