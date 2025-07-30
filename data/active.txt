@@ -1,7 +1,7 @@
-168.138.171.70,23280,SG,oracle public
 164.52.2.100,443,SG,uculsg
-168.138.165.174,443,SG,oracle public 2
-217.142.236.93,443,JP,oracle svenska
-82.163.16.69,8080,JP,akile ltd
-207.211.176.65,13425,US,oracle corporation
-104.234.50.225,2053,US,unknown
+164.52.2.98,443,SG,uculsg 2
+168.138.171.70,23280,SG,oracle public
+152.69.192.40,57005,JP,oracle corporation
+176.97.70.51,2053,JP,3nt solutions
+195.123.241.122,50008,US,total server
+34.168.95.100,12388,US,google
