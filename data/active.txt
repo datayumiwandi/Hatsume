@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-43.128.95.110,40029,SG,6 collyer
-139.180.215.77,57878,SG,sgpvultrcust
-129.150.36.188,53435,SG,oracle corporation
-138.2.10.217,27446,JP,oracle corporation 2
-64.110.101.90,55007,JP,oracle corporation 3
-199.115.231.188,12586,US,cluster logic
-45.145.7.107,2053,US,as56971 network
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+43.134.167.135,9950,SG,6 collyer
+43.156.107.236,12131,SG,6 collyer 2
+161.117.249.114,2025,SG,1 raffles
+217.142.243.98,51321,JP,oracle corporation
+140.83.59.158,15805,JP,imported inetnum
+107.172.103.195,16092,US,racknerd
+107.172.103.195,16052,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
