@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-139.180.191.96,31001,SG,sgpvultrcust
-8.222.159.134,12483,SG,alibaba cloud
-139.180.215.77,57878,SG,sgpvultrcust 2
-198.13.42.58,32954,JP,vultr holdings
-82.163.16.69,8080,JP,akile ltd
-172.86.114.182,8443,US,routerhosting
-104.234.50.186,2053,US,unknown
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+5.223.49.4,2053,SG,hetzner online
+161.117.249.114,2025,SG,1 raffles
+129.150.49.58,18650,SG,oracle corporation
+141.147.144.15,13357,JP,oracle corporation 2
+141.147.185.15,443,JP,oracle corporation 3
+91.149.239.122,443,US,bgnetwork
+154.29.150.2,8080,US,netlab
 38.60.193.247,13300,MY,kaopu cloud
