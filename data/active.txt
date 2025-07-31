@@ -1,12 +1,12 @@
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-47.245.85.72,443,SG,alibaba cloud
-62.72.46.14,8443,SG,contabo gmbh
-139.180.215.77,57878,SG,sgpvultrcust
-140.83.57.20,13118,JP,imported inetnum
-141.147.147.180,443,JP,oracle corporation
-107.174.93.186,52995,US,racknerd
-74.48.140.177,443,US,multacom corporation
+5.223.49.4,2053,SG,hetzner online
+8.222.159.134,12314,SG,alibaba cloud
+168.138.170.211,53702,SG,oracle public
+103.75.118.144,2053,JP,oneprovidercom japan
+154.31.113.72,443,JP,dmit cloud
+148.135.96.161,38307,US,multacom corporation
+104.36.84.82,443,US,redoubt networks
 38.60.193.247,13300,MY,kaopu cloud
