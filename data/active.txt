@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-139.162.51.138,8443,SG,1391620016
-43.156.107.236,12131,SG,6 collyer
-45.32.100.46,13802,SG,vultr holdings
-45.76.192.129,24434,JP,vultr holdings 2
-91.194.160.79,2053,JP,worktitans
-45.150.65.209,443,US,worktitans 2
-141.148.153.223,36818,US,oracle corporation
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
+45.76.179.81,443,SG,vultr holdings
+146.235.19.79,28983,SG,oracle corporation
+194.36.179.5,2053,SG,first server
+141.147.144.15,13357,JP,oracle corporation 2
+132.145.116.185,443,JP,oracle public
+129.146.254.25,443,US,oracle corporation 3
+148.135.106.200,443,US,brander group
 38.60.193.247,13300,MY,kaopu cloud
