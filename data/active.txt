@@ -1,12 +1,12 @@
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-129.150.49.58,18650,SG,oracle corporation
-3.1.116.161,8443,SG,amazon data
-43.156.181.203,443,SG,16 collyer
-64.176.42.125,10001,JP,vultr holdings
-172.104.127.132,443,JP,linode
-172.206.209.177,443,US,microsoft
-35.175.188.144,9000,US,amazon technologies
+213.35.107.73,443,SG,oracle svenska
+167.253.158.63,2053,SG,365 group
+161.117.249.114,2025,SG,1 raffles
+85.208.110.52,8443,JP,worktitans
+103.106.228.126,2053,JP,oneprovidercom tokyo
+192.3.155.203,443,US,racknerd
+104.194.86.150,443,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
