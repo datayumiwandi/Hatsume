@@ -1,12 +1,12 @@
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb 2
-91.192.81.154,2053,SG,melbikomas uab
-38.181.70.7,16240,SG,eons data
-43.134.167.135,9950,SG,6 collyer
-141.147.185.15,443,JP,oracle corporation
-202.84.53.85,19999,JP,azumino network
-23.227.193.153,443,US,hivelocity inc
-43.130.105.166,65001,US,6 collyer 2
+43.218.77.16,1443,ID,amazoncom inc 2
+203.194.112.119,8443,ID,cv rumahweb
+129.150.36.188,53435,SG,oracle corporation
+64.49.14.41,8443,SG,internet utilities
+143.198.196.196,2053,SG,digitalocean
+217.142.243.226,443,JP,oracle svenska
+138.2.18.82,8880,JP,oracle corporation 2
+80.209.242.156,8443,US,hostkey
+5.161.176.159,50001,US,hetzner online
 38.60.193.247,13300,MY,kaopu cloud
