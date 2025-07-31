@@ -1,12 +1,12 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-45.32.100.46,13802,SG,vultr holdings
-47.130.35.116,8888,SG,amazon data
-8.219.59.132,48130,SG,alibaba cloud
-217.142.250.195,587,JP,oracle corporation
-141.147.161.249,51037,JP,oracle corporation 2
-18.207.186.154,443,US,amazon technologies
-45.45.218.183,443,US,hosthatch
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+38.181.70.7,16240,SG,eons data
+43.134.167.135,9950,SG,6 collyer
+5.34.176.119,81,SG,green floid
+217.142.226.116,443,JP,oracle svenska
+140.83.63.113,443,JP,imported inetnum
+107.172.103.195,16045,US,racknerd
+67.226.220.10,80,US,securly inc
 38.60.193.247,13300,MY,kaopu cloud
