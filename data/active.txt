@@ -1,12 +1,12 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb 2
-45.32.100.46,13802,SG,vultr holdings
-3.1.116.161,2053,SG,amazon data
-31.192.238.71,2053,SG,pdk
-158.101.77.33,443,JP,oracle public
-158.101.154.245,47001,JP,oracle public 2
-167.71.243.238,21857,US,digitalocean
-52.32.90.142,80,US,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb 2
+8.222.159.134,12483,SG,alibaba cloud
+129.150.58.86,57621,SG,oracle corporation
+143.42.66.91,443,SG,m1 ltd
+150.230.214.172,16957,JP,oracle corporation 2
+154.31.113.72,443,JP,dmit cloud
+152.70.112.175,55555,US,oracle corporation 3
+45.76.12.227,443,US,vultr holdings
 38.60.193.247,13300,MY,kaopu cloud
