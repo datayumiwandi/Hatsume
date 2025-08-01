@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb 2
 103.6.207.108,8080,ID,pusat media
-5.223.49.4,2053,SG,hetzner online
-213.35.108.135,12596,SG,oracle svenska
-146.235.19.79,28983,SG,oracle corporation
-217.142.236.93,443,JP,oracle svenska 2
-132.226.8.109,43257,JP,oracle public
-129.146.22.121,41913,US,oracle corporation 2
-142.171.140.152,443,US,cloudflare london
+178.128.80.43,443,SG,digitalocean
+185.114.78.230,443,SG,aryaka networks
+43.128.95.110,40029,SG,6 collyer
+47.245.59.226,59215,JP,alibaba cloud
+140.83.56.110,56417,JP,imported inetnum
+185.143.243.124,449,US,smarthost
+92.118.112.62,2053,US,global internet
 38.60.193.247,13300,MY,kaopu cloud
