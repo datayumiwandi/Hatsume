@@ -1,12 +1,12 @@
 206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-129.150.36.188,53435,SG,oracle corporation
-45.76.179.81,443,SG,vultr holdings
-168.138.181.188,61731,SG,oracle public
-141.147.161.249,51037,JP,oracle corporation 2
-198.13.42.58,32954,JP,vultr holdings 2
-3.101.133.120,80,US,amazoncom inc 2
-38.60.91.130,443,US,kurun cloud
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+138.2.95.61,1111,SG,oracle corporation
+143.198.196.196,8443,SG,digitalocean
+138.2.81.243,45319,SG,oracle corporation 2
+47.79.90.37,49153,JP,alibaba cloud
+132.226.8.109,43257,JP,oracle public
+34.83.245.149,443,US,google
+35.185.54.229,27251,US,google 2
 38.60.193.247,13300,MY,kaopu cloud
