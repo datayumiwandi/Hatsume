@@ -1,12 +1,12 @@
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-8.219.170.224,443,SG,alibaba cloud
-43.156.116.194,443,SG,6 collyer
-194.36.179.5,2053,SG,first server
-82.163.16.69,8080,JP,akile ltd
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-98.142.141.124,49323,US,cluster logic
-103.54.57.236,10019,US,cloud web
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb 2
+45.32.100.46,13802,SG,vultr holdings
+3.1.116.161,2053,SG,amazon data
+31.192.238.71,2053,SG,pdk
+158.101.77.33,443,JP,oracle public
+158.101.154.245,47001,JP,oracle public 2
+167.71.243.238,21857,US,digitalocean
+52.32.90.142,80,US,amazoncom inc
 38.60.193.247,13300,MY,kaopu cloud
