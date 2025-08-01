@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
-43.134.167.135,9950,SG,6 collyer
-8.222.159.134,12483,SG,alibaba cloud
-185.114.78.230,443,SG,aryaka networks
-132.145.116.185,443,JP,oracle public
-140.83.57.183,22735,JP,imported inetnum
-66.103.204.73,48805,US,multacom corporation
-174.137.59.73,443,US,cluster logic
+15.235.199.103,2053,SG,ovh singapore
+138.2.69.236,23334,SG,oracle corporation
+8.222.159.134,12314,SG,alibaba cloud
+45.66.218.194,12959,JP,virtual machine
+158.101.77.33,443,JP,oracle public
+52.41.218.4,443,US,amazon technologies
+23.94.122.243,29500,US,hostpapa
 38.60.193.247,13300,MY,kaopu cloud
