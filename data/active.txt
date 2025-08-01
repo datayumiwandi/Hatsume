@@ -1,12 +1,12 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-168.138.165.174,443,SG,oracle public
-194.36.178.36,8443,SG,first server
-52.221.189.27,443,SG,amazon data
-43.133.10.236,33405,JP,6 collyer
-47.79.90.37,49153,JP,alibaba cloud
-152.70.143.175,29187,US,oracle corporation
-107.172.103.195,16010,US,racknerd
+43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,8443,ID,cv rumahweb 2
+15.235.199.103,8443,SG,ovh singapore
+47.130.35.116,8888,SG,amazon data
+47.245.95.160,1443,SG,alibaba cloud
+47.245.59.226,59215,JP,alibaba cloud 2
+84.247.152.46,10045,JP,contabo gmbh
+199.119.137.41,2053,US,extravm
+3.88.110.210,2053,US,amazon data 2
 38.60.193.247,13300,MY,kaopu cloud
