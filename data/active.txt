@@ -1,12 +1,12 @@
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-64.49.14.41,8443,SG,internet utilities
-43.156.181.203,443,SG,16 collyer
-43.156.107.236,12131,SG,6 collyer
-140.83.59.158,15805,JP,imported inetnum
-91.194.160.45,2053,JP,worktitans
-18.144.44.213,80,US,amazoncom inc 3
-178.156.148.4,2053,US,hetzner online
+43.218.77.16,443,ID,amazoncom inc 2
+83.142.30.4,2096,SG,zappie host
+13.250.131.37,443,SG,amazon data
+194.36.179.5,2053,SG,first server
+168.138.46.67,443,JP,oracle public
+109.123.231.212,2053,JP,contabo gmbh
+142.171.136.53,13045,US,multacom corporation
+172.86.114.182,2053,US,routerhosting
 38.60.193.247,13300,MY,kaopu cloud
