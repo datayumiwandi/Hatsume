@@ -11,7 +11,7 @@ target_per_country = {
     "SG": 3,
     "JP": 2,
     "US": 2,
-    "MY": 1,
+    "MY": 2,
 }
 
 # Output path
