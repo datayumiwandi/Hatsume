@@ -1,12 +1,12 @@
 43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-168.138.170.211,53702,SG,oracle public
-167.253.158.63,8443,SG,365 group
-91.192.81.154,8443,SG,melbikomas uab
-91.194.160.79,2053,JP,worktitans
-103.238.129.215,42734,JP,ipx
-46.17.107.183,443,US,first server
-54.167.43.59,443,US,amazon technologies
+8.222.220.81,25435,SG,alibaba cloud
+8.222.237.72,443,SG,alibaba cloud 2
+104.248.145.216,443,SG,digitalocean
+140.83.57.20,13118,JP,imported inetnum
+82.163.16.69,8080,JP,akile ltd
+194.113.37.242,2053,US,host telecom
+164.152.26.70,1354,US,oracle corporation
 38.60.193.247,13300,MY,kaopu cloud
