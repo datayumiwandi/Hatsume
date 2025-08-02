@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb 2
-138.2.89.64,32962,SG,oracle corporation
-138.2.77.179,30018,SG,oracle corporation 2
-185.81.28.95,30503,SG,akile ltd
-109.123.231.212,2053,JP,contabo gmbh
-193.246.161.65,54310,JP,akile ltd 2
-107.182.27.151,443,US,cluster logic
-107.172.103.195,16067,US,racknerd
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+83.142.30.5,2096,SG,zappie host
+83.142.30.4,2096,SG,zappie host 2
+185.114.78.230,443,SG,aryaka networks
+140.83.56.110,56417,JP,imported inetnum
+138.2.10.149,45638,JP,oracle corporation
+173.249.203.187,51368,US,tzulo inc
+170.205.38.77,443,US,hosthatch
 38.60.193.247,13300,MY,kaopu cloud
