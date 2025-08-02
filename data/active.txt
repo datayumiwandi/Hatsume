@@ -1,12 +1,12 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-43.156.181.203,443,SG,16 collyer
-8.219.58.164,57373,SG,alibaba cloud
-139.180.191.96,31001,SG,sgpvultrcust
-168.138.46.115,43138,JP,oracle public
-8.209.220.50,21273,JP,shiodome sumitomo
-192.3.150.56,8000,US,racknerd
-107.172.167.194,443,US,hostpapa
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+5.223.49.4,2053,SG,hetzner online
+164.52.2.100,443,SG,uculsg
+5.34.176.119,81,SG,green floid
+141.147.185.63,443,JP,oracle corporation
+132.145.126.40,32498,JP,oracle public
+107.172.43.162,443,US,racknerd
+198.23.175.231,2096,US,racknerd 2
 38.60.193.247,13300,MY,kaopu cloud
