@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-34.101.86.59,443,ID,google asia
-138.2.95.61,1111,SG,oracle corporation
-194.36.179.17,2053,SG,first server
-51.79.158.58,8443,SG,ovh singapore
-158.101.146.3,44872,JP,oracle public
-20.243.153.190,8443,JP,microsoft corporation
-74.48.100.72,443,US,multacom corporation
-45.45.218.183,443,US,hosthatch
-47.250.139.59,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
+149.129.220.69,443,ID,21f ciputra
+149.129.250.8,443,ID,21f ciputra 2
+140.245.97.193,443,SG,oracle corporation
+83.142.30.4,2096,SG,zappie host
+213.35.107.73,443,SG,oracle svenska
+154.31.114.136,443,JP,unknown
+155.248.184.178,30011,JP,oracle public
+192.9.156.27,587,US,oracle corporation 2
+18.236.13.188,443,US,amazon technologies
+47.250.132.147,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
