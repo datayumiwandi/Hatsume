@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-161.117.249.114,2025,SG,1 raffles
-164.52.2.99,443,SG,uculsg
-64.49.14.41,2053,SG,internet utilities
-91.194.160.45,8443,JP,worktitans
-91.194.160.79,8443,JP,worktitans 2
-57.154.179.219,443,US,microsoft uk
-165.227.119.206,443,US,digitalocean
-47.250.37.87,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+149.129.220.69,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc 2
+146.235.19.79,28983,SG,oracle corporation
+31.192.238.71,2053,SG,pdk
+168.138.171.70,23280,SG,oracle public
+38.180.29.40,2053,JP,3nt solutions
+8.221.143.218,587,JP,alibaba cloud
+107.172.103.195,16075,US,racknerd
+38.60.110.16,443,US,kurun cloud
+47.254.255.125,443,MY,alibaba cloud 2
+20.17.104.31,443,MY,microsoft corporation
