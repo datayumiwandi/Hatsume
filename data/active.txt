@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-38.244.147.68,2053,SG,3nt solutions
-194.36.179.17,8443,SG,first server
-185.81.28.95,30503,SG,akile ltd
-138.2.32.76,15821,JP,oracle corporation
-154.31.113.72,443,JP,dmit cloud
-185.140.211.82,2053,US,melbikomas uab
-54.176.205.20,80,US,amazoncom inc 2
-20.17.107.137,443,MY,microsoft corporation
-47.254.235.252,443,MY,alibaba cloud
+43.218.77.16,1443,ID,amazoncom inc
+149.129.220.69,443,ID,21f ciputra
+149.129.250.8,443,ID,21f ciputra 2
+43.218.77.16,443,ID,amazoncom inc 2
+158.178.236.14,61731,SG,oracle corporation
+45.76.183.217,49292,SG,vultr holdings
+152.42.254.139,443,SG,digitalocean
+140.83.37.134,46478,JP,imported inetnum
+219.117.2.190,57517,JP,jupiter telecommunications
+107.173.147.41,36082,US,racknerd
+35.212.160.116,443,US,google
+47.254.206.121,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
