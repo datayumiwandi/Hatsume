@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-13.76.102.145,443,SG,microsoft corporation
-62.72.46.14,8443,SG,contabo gmbh
-152.42.241.71,2053,SG,digitalocean
-140.238.50.134,443,JP,oracle public
-43.133.10.236,33405,JP,6 collyer
-148.135.96.161,38307,US,multacom corporation
-193.43.72.253,2053,US,cgi global
-20.17.107.137,443,MY,microsoft corporation 2
-47.250.132.147,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+34.101.86.59,443,ID,google asia
+149.129.220.69,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc 2
+47.245.95.160,1443,SG,alibaba cloud
+160.22.79.179,443,SG,onidel pty
+129.150.35.29,587,SG,oracle corporation
+132.226.8.109,43257,JP,oracle public
+47.79.43.222,443,JP,alibaba cloud 2
+146.235.209.40,58869,US,oracle corporation 2
+143.198.24.153,2053,US,digitalocean
+47.250.59.132,443,MY,alibaba cloud 3
+38.60.193.247,13300,MY,kaopu cloud
