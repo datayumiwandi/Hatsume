@@ -1,13 +1,13 @@
 203.194.112.119,8443,ID,cv rumahweb
-34.101.86.59,443,ID,google asia
-203.194.112.119,2053,ID,cv rumahweb 2
 154.205.159.72,2053,ID,lightnode
-8.219.201.154,443,SG,alibaba cloud
-51.79.158.58,8443,SG,ovh singapore
-164.52.2.98,443,SG,uculsg
-38.47.127.214,443,JP,vmiss inc
-176.97.70.109,443,JP,3nt solutions
-4.227.121.113,2083,US,microsoft corporation
-146.235.199.164,443,US,oracle corporation
-47.254.235.252,443,MY,alibaba cloud 2
-20.17.104.31,443,MY,microsoft corporation 2
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+110.34.164.39,28758,SG,vpls sin1
+194.127.193.240,50791,SG,greencloud
+158.178.246.142,61731,SG,oracle corporation
+158.101.71.226,8443,JP,oracle public
+18.183.158.211,443,JP,amazon data
+173.199.119.89,8443,US,vultr holdings
+107.172.230.189,49155,US,racknerd
+47.254.255.125,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
