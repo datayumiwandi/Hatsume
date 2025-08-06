@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
 34.101.86.59,443,ID,google asia
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-149.129.220.69,443,ID,21f ciputra 2
-43.134.164.53,443,SG,6 collyer
-152.42.254.139,443,SG,digitalocean
-47.74.254.191,8900,SG,alibaba cloud
-141.147.183.49,29876,JP,oracle corporation
-158.101.131.94,2083,JP,oracle public
-89.116.44.170,8443,US,ethernet servers
-80.209.242.177,2053,US,hostkey
-47.250.139.59,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+149.129.220.69,443,ID,21f ciputra
+158.178.243.152,61731,SG,oracle corporation
+128.199.134.152,443,SG,digitalocean
+161.117.249.114,2025,SG,1 raffles
+91.194.160.121,2053,JP,worktitans
+141.147.183.49,29876,JP,oracle corporation 2
+143.198.31.221,443,US,digitalocean 2
+164.92.105.247,2053,US,digitalocean 3
+23.27.53.140,443,MY,evoxtcom
+47.250.139.249,443,MY,alibaba cloud
