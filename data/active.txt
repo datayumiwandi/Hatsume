@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-157.230.240.184,443,SG,digitalocean
-185.114.78.230,443,SG,aryaka networks
-45.32.124.255,443,SG,vultr holdings
-118.27.12.40,38443,JP,gmo internet
-20.243.153.190,8443,JP,microsoft corporation
-5.161.217.101,2053,US,hetzner online
-142.171.12.43,12263,US,multacom corporation
-202.184.113.127,443,MY,tt dotcom
-47.250.37.87,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.171.70,23280,SG,oracle public
+178.128.124.97,443,SG,digitalocean
+213.35.100.31,47112,SG,oracle svenska
+64.176.39.147,16387,JP,the constant
+217.142.250.195,587,JP,oracle corporation
+38.146.25.162,8443,US,ultahost
+107.172.103.195,16050,US,racknerd
+47.250.139.249,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
