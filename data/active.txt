@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-154.205.159.72,2053,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-103.197.189.133,443,ID,ekadata internet
-128.199.134.152,443,SG,digitalocean
-104.43.91.69,443,SG,microsoft corporation
-143.198.196.196,2053,SG,digitalocean 2
-207.148.105.247,443,JP,tyovultrcust
-147.45.49.80,8443,JP,global connectivity
-107.172.103.195,16077,US,racknerd
-167.71.249.205,2096,US,digitalocean 3
-20.17.107.137,443,MY,microsoft corporation 2
-47.254.206.121,443,MY,alibaba cloud
+34.101.86.59,443,ID,google asia
+206.84.101.83,8443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+149.129.220.69,443,ID,21f ciputra 2
+43.134.164.53,443,SG,6 collyer
+152.42.254.139,443,SG,digitalocean
+47.74.254.191,8900,SG,alibaba cloud
+141.147.183.49,29876,JP,oracle corporation
+158.101.131.94,2083,JP,oracle public
+89.116.44.170,8443,US,ethernet servers
+80.209.242.177,2053,US,hostkey
+47.250.139.59,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
