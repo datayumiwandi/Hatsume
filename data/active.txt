@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
 203.194.112.119,2053,ID,cv rumahweb
-154.205.159.72,2053,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-138.2.102.210,443,SG,oracle corporation
-167.253.158.63,8443,SG,365 group
-138.2.107.107,443,SG,oracle corporation 2
-108.160.141.198,443,JP,vultr holdings
-45.66.218.194,12965,JP,virtual machine
-107.172.201.15,8443,US,racknerd
-54.167.43.59,443,US,amazon technologies
-23.27.53.140,443,MY,evoxtcom
+203.194.112.119,8443,ID,cv rumahweb 2
+149.129.220.69,443,ID,21f ciputra
+34.101.86.59,443,ID,google asia
+104.234.151.10,8443,SG,moechuang network
+213.35.107.73,443,SG,oracle svenska
+13.250.131.37,443,SG,amazon data
+45.32.49.72,9443,JP,vultr holdings
+108.61.247.238,443,JP,vultr holdings 2
+204.110.223.6,80,US,securly inc
+104.167.197.155,8443,US,3hcloud
+20.17.107.137,443,MY,microsoft corporation
 58.27.117.24,443,MY,tmnet
