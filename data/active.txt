@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.197.189.133,443,ID,ekadata internet
-149.129.220.69,443,ID,21f ciputra
-158.178.229.178,443,SG,oracle corporation
-185.81.28.95,30503,SG,akile ltd
-158.178.236.14,61731,SG,oracle corporation 2
-172.104.127.132,443,JP,linode
-45.66.218.194,12959,JP,virtual machine
-107.172.103.195,16067,US,racknerd
-137.175.64.14,443,US,peg tech
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+154.205.159.72,2053,ID,lightnode
+161.117.249.114,2025,SG,1 raffles
+139.162.53.195,8443,SG,1391620016
+57.155.28.171,443,SG,microsoft uk
+140.238.50.134,443,JP,oracle public
+64.176.42.125,10001,JP,vultr holdings
+161.35.102.65,443,US,digitalocean
+77.110.124.117,2096,US,aeza international
 23.27.53.140,443,MY,evoxtcom
+47.254.255.125,443,MY,alibaba cloud
