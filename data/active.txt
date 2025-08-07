@@ -1,13 +1,13 @@
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
 103.197.189.133,443,ID,ekadata internet
 203.194.112.119,8443,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-34.101.86.59,443,ID,google asia
-13.212.213.77,8443,SG,amazon data
-47.236.119.190,51342,SG,alibaba cloud
-194.156.163.45,443,SG,misaka network
-108.160.139.154,8443,JP,vultr holdings
+143.198.196.196,8443,SG,digitalocean
+138.2.69.236,23334,SG,oracle corporation
+83.142.30.4,2096,SG,zappie host
+178.157.56.26,443,JP,cluster logic
 158.101.157.75,57105,JP,oracle public
-5.8.63.23,443,US,iksfayviks
-5.78.49.104,443,US,hetzner online
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+204.110.222.106,80,US,securly inc
+192.9.129.216,1234,US,oracle corporation 2
+202.184.113.127,443,MY,tt dotcom
+47.254.206.121,443,MY,alibaba cloud
