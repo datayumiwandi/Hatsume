@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-45.76.159.76,443,SG,vultr holdings
-138.2.81.243,45319,SG,oracle corporation
-52.76.110.129,20001,SG,amazon technologies
-141.147.147.180,443,JP,oracle corporation 2
-82.163.16.69,8080,JP,akile ltd
-74.48.85.50,443,US,multacom corporation
-67.209.179.237,30419,US,it7 networks
-202.184.113.127,443,MY,tt dotcom
-20.17.104.31,443,MY,microsoft corporation
+103.197.189.133,443,ID,ekadata internet
+149.129.220.69,443,ID,21f ciputra
+158.178.229.178,443,SG,oracle corporation
+185.81.28.95,30503,SG,akile ltd
+158.178.236.14,61731,SG,oracle corporation 2
+172.104.127.132,443,JP,linode
+45.66.218.194,12959,JP,virtual machine
+107.172.103.195,16067,US,racknerd
+137.175.64.14,443,US,peg tech
+58.27.117.24,443,MY,tmnet
+23.27.53.140,443,MY,evoxtcom
