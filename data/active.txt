@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-172.232.234.62,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-103.197.189.133,443,ID,ekadata internet
-47.236.29.162,443,SG,alibaba cloud
-18.136.213.164,443,SG,amazon data
-104.248.145.216,443,SG,digitalocean
-158.101.131.94,2083,JP,oracle public
-147.45.49.80,2053,JP,global connectivity
-198.199.123.148,443,US,digitalocean 2
-104.234.50.84,2053,US,unknown
-47.250.37.87,443,MY,alibaba cloud 2
-20.17.104.31,443,MY,microsoft corporation
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
+154.205.159.72,2053,ID,lightnode
+64.49.14.41,2053,SG,internet utilities
+110.34.164.39,28758,SG,vpls sin1
+143.198.196.196,8443,SG,digitalocean
+20.243.153.190,8443,JP,microsoft corporation
+176.97.70.119,443,JP,3nt solutions
+31.57.47.204,8443,US,cgi global
+141.11.95.10,18443,US,virtual machine
+47.254.206.121,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation 2
