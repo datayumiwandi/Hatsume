@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
 34.101.86.59,443,ID,google asia
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-47.236.29.162,443,SG,alibaba cloud
-194.156.163.45,443,SG,misaka network
-139.180.159.133,443,SG,sgpvultrcust
-113.37.149.36,12553,JP,arteria networks
-64.110.104.30,443,JP,oracle corporation
-192.9.250.241,443,US,oracle corporation 2
-107.172.103.195,16092,US,racknerd
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+149.129.220.69,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
+157.245.60.56,443,SG,digitalocean
+8.219.59.132,48130,SG,alibaba cloud
+57.155.28.171,443,SG,microsoft uk
+158.101.146.3,54516,JP,oracle public
+168.138.192.16,54584,JP,oracle public 2
+103.170.72.129,25950,US,anycast
+23.105.199.91,21626,US,it7 networks
+47.254.255.125,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
