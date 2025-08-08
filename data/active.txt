@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-43.218.77.16,1443,ID,amazoncom inc
-154.205.159.72,2053,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+103.197.189.133,443,ID,ekadata internet
 149.129.250.8,443,ID,21f ciputra
-64.49.14.41,8443,SG,internet utilities
-168.138.171.70,23280,SG,oracle public
-139.180.159.133,443,SG,sgpvultrcust
-23.106.140.129,443,JP,it7 networks
-158.101.80.84,443,JP,oracle public 2
-143.198.19.38,2083,US,digitalocean
-172.82.16.38,25956,US,olink cloud
-23.27.53.140,443,MY,evoxtcom
-47.254.206.121,443,MY,alibaba cloud
+43.218.77.16,1443,ID,amazoncom inc
+160.22.79.155,443,SG,onidel pty
+8.222.237.72,443,SG,alibaba cloud
+213.35.107.73,443,SG,oracle svenska
+158.101.80.84,443,JP,oracle public
+47.74.8.30,2443,JP,alibaba cloud 2
+45.13.214.121,2087,US,wwwrarecloudio
+172.82.16.38,27050,US,olink cloud
+20.17.107.137,443,MY,microsoft corporation
+47.254.235.252,443,MY,alibaba cloud 3
