@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+149.129.220.69,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-149.129.220.69,443,ID,21f ciputra 2
-159.223.53.70,8443,SG,digitalocean
-206.206.77.53,443,SG,ipxo
-47.236.29.162,443,SG,alibaba cloud
-8.221.143.218,587,JP,alibaba cloud 2
-150.230.5.34,45681,JP,oracle corporation
-205.252.117.138,8090,US,pccw global
-154.21.86.85,443,US,dmit cloud
+8.219.155.21,443,SG,alibaba cloud
+146.235.19.79,28983,SG,oracle corporation
+160.22.79.166,443,SG,onidel pty
+45.83.22.102,8443,JP,worktitans
+138.2.12.103,14453,JP,cloudflare london
+162.120.69.92,8443,US,allocation hb
+148.135.67.18,8443,US,brander group
+47.250.37.87,443,MY,alibaba cloud 2
 47.250.139.59,443,MY,alibaba cloud 3
-47.254.235.252,443,MY,alibaba cloud 4
