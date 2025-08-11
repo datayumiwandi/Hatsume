@@ -1,13 +1,13 @@
+103.197.189.133,443,ID,ekadata internet
 154.205.159.72,2053,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.134.164.53,443,SG,6 collyer
-38.181.70.7,16240,SG,eons data
-13.250.131.37,443,SG,amazon data
-219.117.2.190,57517,JP,jupiter telecommunications
-158.101.154.245,47001,JP,oracle public
-129.146.6.2,929,US,oracle corporation
-104.167.196.72,443,US,3hcloud
-38.60.193.247,13300,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+8.219.155.21,443,SG,alibaba cloud
+159.223.62.35,443,SG,digitalocean
+161.117.81.41,443,SG,1 raffles
+64.176.55.11,29999,JP,the constant
+140.238.62.82,1443,JP,oracle public
+162.220.13.14,8443,US,null
+193.233.87.9,2053,US,vdskanet
+20.17.107.137,443,MY,microsoft corporation
+47.250.59.132,443,MY,alibaba cloud 2
