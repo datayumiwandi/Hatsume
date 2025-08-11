@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-154.205.159.72,2053,ID,lightnode
+206.84.101.83,8443,ID,mitra visioner
+149.129.220.69,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 34.101.86.59,443,ID,google asia
-138.2.64.229,443,SG,oracle corporation
-152.42.236.151,2053,SG,digitalocean
-4.194.170.167,443,SG,microsoft corporation
-192.243.125.209,8443,JP,it7 networks
-118.27.12.40,38443,JP,gmo internet
-95.169.26.188,38557,US,cluster logic
-64.69.34.244,41091,US,multacom corporation
-47.250.139.59,443,MY,alibaba cloud
+47.236.29.162,443,SG,alibaba cloud
+213.35.107.73,443,SG,oracle svenska
+157.245.60.56,443,SG,digitalocean
+18.183.222.39,443,JP,amazon data
+160.251.142.232,443,JP,gmo internet
+38.105.26.109,36875,US,cogent communications
+97.64.23.95,8443,US,it7 networks
+38.60.193.247,13300,MY,kaopu cloud
 47.250.59.132,443,MY,alibaba cloud 2
