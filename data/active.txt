@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
-149.129.220.69,443,ID,21f ciputra 2
-172.232.234.62,443,ID,linode
-8.219.155.21,443,SG,alibaba cloud
-185.115.207.218,443,SG,startup maintainer
-38.180.249.123,443,SG,3nt solutions
-121.85.55.59,19842,JP,optage inc
-18.178.124.68,443,JP,amazon data
-5.78.58.85,2053,US,hetzner online
-148.135.59.174,54824,US,brander group
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.197.189.133,443,ID,ekadata internet
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+45.76.183.217,49292,SG,vultr holdings
+47.236.29.162,443,SG,alibaba cloud
+168.138.189.91,443,SG,oracle public
+140.238.50.134,443,JP,oracle public 2
+217.142.226.168,443,JP,oracle svenska
+66.42.68.129,10089,US,vultr holdings 2
+45.83.140.133,2053,US,worktitans
+47.254.206.121,443,MY,alibaba cloud 2
 23.27.53.140,443,MY,evoxtcom
-20.17.104.31,443,MY,microsoft corporation
