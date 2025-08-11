@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-154.205.159.72,2053,ID,lightnode
+149.129.220.69,443,ID,21f ciputra
+103.197.189.133,443,ID,ekadata internet
+34.101.86.59,443,ID,google asia
 36.95.152.58,12137,ID,telekomunikasi indonesia
-111.119.215.93,443,SG,huaweicloudsg
-194.36.178.36,8443,SG,first server
-83.142.30.5,2096,SG,zappie host
-140.238.50.134,443,JP,oracle public
-156.231.113.162,443,JP,akile ltd
-198.204.227.171,8082,US,nocix
-199.119.137.78,2053,US,extravm
-47.254.255.125,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+47.236.71.6,443,SG,alibaba cloud
+66.42.51.60,8443,SG,sgpvultrcust
+146.235.19.79,28983,SG,oracle corporation
+158.101.80.84,443,JP,oracle public
+108.61.247.238,443,JP,vultr holdings
+148.135.111.27,22637,US,multacom corporation
+46.21.159.253,2053,US,hivelocity
+23.27.53.140,443,MY,evoxtcom
+20.17.107.137,443,MY,microsoft corporation
