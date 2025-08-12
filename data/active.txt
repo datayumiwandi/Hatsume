@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-149.129.220.69,443,ID,21f ciputra
-149.129.250.8,443,ID,21f ciputra 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+154.205.159.72,2053,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb
-213.35.100.31,47112,SG,oracle svenska
-43.134.164.53,443,SG,6 collyer
-8.219.63.1,443,SG,alibaba cloud
-5.180.76.44,443,JP,cegrgodigitalvm
-176.97.70.154,443,JP,3nt solutions
-198.200.51.229,54477,US,peg tech
-20.246.127.166,443,US,microsoft corporation
-20.17.104.31,443,MY,microsoft corporation 2
-47.254.206.121,443,MY,alibaba cloud 2
+149.129.220.69,443,ID,21f ciputra
+47.236.71.6,443,SG,alibaba cloud
+83.142.30.5,2096,SG,zappie host
+8.219.126.137,491,SG,alibaba cloud 2
+140.83.59.158,15805,JP,imported inetnum
+113.37.149.36,12553,JP,arteria networks
+66.112.218.89,443,US,it7 networks
+143.244.173.127,443,US,digitalocean
+20.17.107.137,443,MY,microsoft corporation
+47.254.206.121,443,MY,alibaba cloud 3
