@@ -1,13 +1,13 @@
-149.129.220.69,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-34.101.86.59,443,ID,google asia
+149.129.250.8,443,ID,21f ciputra
+149.129.220.69,443,ID,21f ciputra 2
+103.6.207.108,8080,ID,pusat media
 139.162.53.195,8443,SG,1391620016
-213.35.108.135,12596,SG,oracle svenska
-4.194.170.167,443,SG,microsoft corporation
-38.47.127.214,443,JP,vmiss inc
-74.176.199.245,443,JP,microsoft corporation 2
-38.78.145.30,443,US,netlab
-64.44.86.201,44759,US,nexeon technologies
-38.60.193.247,13300,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud
+138.2.81.243,45319,SG,oracle corporation
+158.178.246.142,61731,SG,oracle corporation 2
+219.117.2.190,48401,JP,jupiter telecommunications
+139.162.102.152,7002,JP,akamai connected
+107.175.113.28,443,US,racknerd
+64.44.86.208,12312,US,nexeon technologies
+20.17.107.137,443,MY,microsoft corporation
+23.27.53.140,443,MY,evoxtcom
