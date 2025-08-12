@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.220.69,443,ID,21f ciputra
+103.197.189.133,443,ID,ekadata internet
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-154.205.159.72,2053,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-38.180.249.123,443,SG,3nt solutions
-167.253.158.63,2053,SG,365 group
-143.198.196.196,2053,SG,digitalocean
-74.176.185.219,443,JP,microsoft corporation
-140.83.57.114,25965,JP,imported inetnum
-31.169.125.168,443,US,baykov ilya
-142.93.15.189,2053,US,digitalocean 2
-47.250.59.132,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+45.32.124.255,443,SG,vultr holdings
+138.2.107.107,443,SG,oracle corporation
+5.34.176.119,81,SG,green floid
+176.97.70.51,2053,JP,3nt solutions
+158.51.111.105,443,JP,ddps networks
+172.83.159.4,16478,US,spartan host
+103.99.115.232,1443,US,host edu
+20.17.107.137,443,MY,microsoft corporation
+23.27.53.140,443,MY,evoxtcom
