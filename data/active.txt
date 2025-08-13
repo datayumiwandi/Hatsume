@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+103.197.189.133,443,ID,ekadata internet
 43.218.77.16,1443,ID,amazoncom inc
-149.129.220.69,443,ID,21f ciputra 2
-38.244.147.68,2053,SG,3nt solutions
-51.79.158.58,2053,SG,ovh singapore
-213.35.108.135,12596,SG,oracle svenska
-138.2.59.96,10129,JP,oracle corporation
-217.142.226.168,443,JP,oracle svenska 2
-143.20.221.10,8443,US,internet utilities
-142.171.208.97,8443,US,multacom corporation
-47.254.255.125,443,MY,alibaba cloud
-23.27.53.140,443,MY,evoxtcom
+34.101.86.59,443,ID,google asia
+36.95.152.58,12137,ID,telekomunikasi indonesia
+159.223.53.70,2053,SG,digitalocean
+129.150.36.188,53435,SG,oracle corporation
+47.236.71.6,443,SG,alibaba cloud
+138.2.10.217,27446,JP,oracle corporation 2
+176.97.73.81,443,JP,iroko networks
+74.121.150.129,8443,US,it7 networks
+104.225.159.159,443,US,cluster logic
+47.254.255.125,443,MY,alibaba cloud 2
+20.17.107.137,443,MY,microsoft corporation
