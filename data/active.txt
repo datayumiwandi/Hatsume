@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-154.205.159.72,2053,ID,lightnode
 34.101.86.59,443,ID,google asia
-152.42.254.139,443,SG,digitalocean
-152.42.228.222,2053,SG,digitalocean 2
-152.42.241.71,8443,SG,digitalocean 3
-132.145.116.185,443,JP,oracle public
-158.101.71.226,8443,JP,oracle public 2
-47.88.24.237,10443,US,alibaba cloud
-104.234.50.115,2053,US,unknown
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+103.197.189.133,443,ID,ekadata internet
+8.219.201.154,443,SG,alibaba cloud
+47.236.119.190,51342,SG,alibaba cloud 2
+159.223.53.70,8443,SG,digitalocean
+132.226.8.109,43257,JP,oracle public
+45.83.22.102,8443,JP,worktitans
+205.185.116.48,17008,US,frantech solutions
+172.233.195.154,80,US,linode
+47.254.206.121,443,MY,alibaba cloud 3
+20.17.107.137,443,MY,microsoft corporation
