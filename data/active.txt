@@ -1,13 +1,13 @@
-103.197.189.133,443,ID,ekadata internet
-43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 34.101.86.59,443,ID,google asia
-36.95.152.58,12137,ID,telekomunikasi indonesia
-159.223.53.70,2053,SG,digitalocean
-129.150.36.188,53435,SG,oracle corporation
-47.236.71.6,443,SG,alibaba cloud
-138.2.10.217,27446,JP,oracle corporation 2
-176.97.73.81,443,JP,iroko networks
-74.121.150.129,8443,US,it7 networks
-104.225.159.159,443,US,cluster logic
-47.254.255.125,443,MY,alibaba cloud 2
-20.17.107.137,443,MY,microsoft corporation
+103.197.189.133,443,ID,ekadata internet
+43.218.77.16,443,ID,amazoncom inc
+43.156.107.236,12131,SG,6 collyer
+52.74.101.26,443,SG,amazon technologies
+158.178.243.152,61731,SG,oracle corporation
+45.66.218.194,12959,JP,virtual machine
+140.83.57.86,54322,JP,imported inetnum
+154.44.20.136,443,US,netlab
+91.149.239.198,443,US,bgnetwork
+47.254.255.125,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
