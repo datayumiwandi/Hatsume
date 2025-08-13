@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 103.197.189.133,443,ID,ekadata internet
-206.84.101.83,8443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-15.235.199.103,8443,SG,ovh singapore
-128.199.134.152,443,SG,digitalocean
-13.76.102.145,443,SG,microsoft corporation
-168.138.192.16,54584,JP,oracle public
-91.194.160.45,8443,JP,worktitans
-192.243.112.82,443,US,it7 networks
-129.213.22.27,11650,US,oracle public 2
-38.60.193.247,13300,MY,kaopu cloud
-20.17.104.31,443,MY,microsoft corporation 2
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+8.219.201.154,443,SG,alibaba cloud
+43.252.21.100,443,SG,specialist
+68.183.233.152,2053,SG,digitalocean
+138.2.10.149,45638,JP,oracle corporation
+132.145.116.185,443,JP,oracle public
+103.99.115.232,1443,US,host edu
+138.124.183.112,2053,US,worktitans
+47.250.37.87,443,MY,alibaba cloud 2
+47.254.235.252,443,MY,alibaba cloud 3
