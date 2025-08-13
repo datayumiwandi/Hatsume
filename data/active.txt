@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-103.197.189.133,443,ID,ekadata internet
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-8.219.201.154,443,SG,alibaba cloud
-43.252.21.100,443,SG,specialist
-68.183.233.152,2053,SG,digitalocean
-138.2.10.149,45638,JP,oracle corporation
-132.145.116.185,443,JP,oracle public
-103.99.115.232,1443,US,host edu
-138.124.183.112,2053,US,worktitans
-47.250.37.87,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb 2
+149.129.220.69,443,ID,21f ciputra
+47.130.35.116,8888,SG,amazon data
+104.43.91.69,443,SG,microsoft corporation
+158.178.229.178,443,SG,oracle corporation
+217.142.243.226,443,JP,oracle svenska
+13.231.224.213,443,JP,amazon data 2
+192.18.138.215,1111,US,oracle corporation 2
+47.90.162.12,59936,US,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
