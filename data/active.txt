@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+103.197.189.133,443,ID,ekadata internet
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 34.101.86.59,443,ID,google asia
-103.6.207.108,8080,ID,pusat media
-62.72.46.14,8443,SG,contabo gmbh
-172.104.40.56,587,SG,akamai connected
-139.162.53.195,2053,SG,1391620016
-158.101.89.113,50443,JP,oracle public
-3.112.21.102,443,JP,amazon data
-35.212.218.55,443,US,google
-18.144.44.213,80,US,amazoncom inc 2
-47.250.139.59,443,MY,alibaba cloud
+15.235.162.19,443,SG,ovh singapore
+167.253.158.63,2053,SG,365 group
+152.42.228.222,2053,SG,digitalocean
+131.186.63.89,11655,JP,oracle public
+140.83.63.113,443,JP,imported inetnum
+147.185.239.36,443,US,cloud web
+107.175.1.47,8443,US,racknerd
+47.254.255.125,443,MY,alibaba cloud
 47.250.59.132,443,MY,alibaba cloud 2
