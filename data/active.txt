@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-157.230.240.184,443,SG,digitalocean
-83.142.30.4,2096,SG,zappie host
-129.150.35.29,587,SG,oracle corporation
-38.180.29.40,2053,JP,3nt solutions
-152.70.82.101,18650,JP,oracle corporation 2
-77.110.124.117,2087,US,aeza international
-172.233.200.194,587,US,linode
-47.250.139.249,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+203.194.112.119,8443,ID,cv rumahweb
+154.205.159.72,2053,ID,lightnode
+34.101.86.59,443,ID,google asia
+36.95.152.58,12137,ID,telekomunikasi indonesia
+139.162.53.195,2053,SG,1391620016
+47.245.85.72,443,SG,alibaba cloud
+128.199.134.152,443,SG,digitalocean
+158.101.131.94,2083,JP,oracle public
+147.45.49.11,2053,JP,global connectivity
+192.210.143.111,28425,US,racknerd
+23.94.49.196,443,US,racknerd 2
+47.254.235.252,443,MY,alibaba cloud 2
+20.17.107.137,443,MY,microsoft corporation
