@@ -1,13 +1,13 @@
-149.129.220.69,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-34.101.86.59,443,ID,google asia
-47.236.29.162,443,SG,alibaba cloud
-139.162.4.242,8443,SG,linode
-4.194.170.167,443,SG,microsoft corporation
-13.230.34.30,443,JP,amazon data
-140.83.60.81,18443,JP,imported inetnum
-3.147.72.20,443,US,amazon technologies
-209.97.154.61,8443,US,digitalocean
-38.60.193.247,13300,MY,kaopu cloud
-58.27.117.24,443,MY,tmnet
+203.194.112.119,8443,ID,cv rumahweb 2
+103.197.189.133,443,ID,ekadata internet
+202.73.51.244,443,SG,viewqwest pte
+157.245.204.209,443,SG,digitalocean
+31.192.238.71,8443,SG,pdk
+152.70.82.101,18650,JP,oracle corporation
+64.176.55.11,29999,JP,the constant
+46.21.159.253,8443,US,hivelocity
+52.12.162.159,443,US,amazon technologies
+47.254.206.121,443,MY,alibaba cloud
+20.17.107.137,443,MY,microsoft corporation
