@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-31.192.238.71,8443,SG,pdk
-43.128.95.110,40029,SG,6 collyer
-150.109.11.223,443,SG,16 collyer
-131.186.63.89,11655,JP,oracle public
-168.138.46.115,43138,JP,oracle public 2
-172.191.74.198,443,US,microsoft
-45.45.218.183,443,US,hosthatch
-47.250.132.147,443,MY,alibaba cloud
-20.17.107.137,443,MY,microsoft corporation
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+157.230.240.184,443,SG,digitalocean
+83.142.30.4,2096,SG,zappie host
+129.150.35.29,587,SG,oracle corporation
+38.180.29.40,2053,JP,3nt solutions
+152.70.82.101,18650,JP,oracle corporation 2
+77.110.124.117,2087,US,aeza international
+172.233.200.194,587,US,linode
+47.250.139.249,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
