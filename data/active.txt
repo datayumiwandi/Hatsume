@@ -1,13 +1,13 @@
-154.205.159.72,2053,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-142.111.15.104,443,ID,evoxt id
-149.129.250.8,443,ID,21f ciputra
-165.154.203.69,443,SG,scloud pte
-92.112.22.94,443,SG,unknown
-206.206.77.53,443,SG,ipxo
-219.117.2.190,48401,JP,jupiter telecommunications
-121.85.55.59,19842,JP,optage inc
-149.28.75.137,443,US,vultr holdings
-77.110.125.240,2053,US,aeza international
-58.27.117.24,443,MY,tmnet
-23.27.53.140,443,MY,evoxtcom
+172.232.234.198,443,ID,linode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.232.234.62,443,ID,linode 2
+156.244.1.250,8443,ID,lightnode
+160.22.79.155,443,SG,onidel pty
+47.74.157.194,443,SG,alibaba cloud
+139.162.53.195,8443,SG,1391620016
+140.83.63.113,443,JP,imported inetnum
+202.182.115.102,443,JP,tyovultrcust
+64.44.86.208,12312,US,nexeon technologies
+142.171.136.53,13045,US,multacom corporation
+20.17.107.137,443,MY,microsoft corporation
+20.17.104.31,443,MY,microsoft corporation 2
