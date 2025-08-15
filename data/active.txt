@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-172.232.234.198,443,ID,linode
-52.76.110.129,20001,SG,amazon technologies
-139.180.159.133,443,SG,sgpvultrcust
-138.2.64.229,443,SG,oracle corporation
-47.79.43.222,443,JP,alibaba cloud
-154.31.113.72,443,JP,dmit cloud
-138.2.231.58,45638,US,oracle corporation 2
-192.227.138.249,2053,US,racknerd
-155.254.60.225,443,MY,evoxt enterprise
-47.254.206.121,443,MY,alibaba cloud 2
+206.84.101.83,8443,ID,mitra visioner
+103.146.63.149,443,ID,semut data
+172.232.234.62,443,ID,linode
+203.194.112.119,8443,ID,cv rumahweb
+213.35.100.31,47112,SG,oracle svenska
+8.219.126.137,491,SG,alibaba cloud
+172.237.81.60,2053,SG,linode 2
+23.106.140.129,443,JP,it7 networks
+43.165.191.216,443,JP,16 collyer
+194.36.209.153,8443,US,flex
+198.46.138.249,443,US,hostpapa
+20.17.104.31,443,MY,microsoft corporation
+47.250.139.249,443,MY,alibaba cloud 2
