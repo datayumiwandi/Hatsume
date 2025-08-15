@@ -1,13 +1,13 @@
 172.232.234.198,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.62,443,ID,linode 2
-156.244.1.250,8443,ID,lightnode
-160.22.79.155,443,SG,onidel pty
-47.74.157.194,443,SG,alibaba cloud
-139.162.53.195,8443,SG,1391620016
-140.83.63.113,443,JP,imported inetnum
-202.182.115.102,443,JP,tyovultrcust
-64.44.86.208,12312,US,nexeon technologies
-142.171.136.53,13045,US,multacom corporation
-20.17.107.137,443,MY,microsoft corporation
-20.17.104.31,443,MY,microsoft corporation 2
+154.205.159.72,2053,ID,lightnode
+34.101.86.59,443,ID,google asia
+142.111.15.104,443,ID,evoxt id
+152.42.228.222,2053,SG,digitalocean
+8.222.237.72,443,SG,alibaba cloud
+104.248.145.216,443,SG,digitalocean 2
+43.133.10.236,33405,JP,6 collyer
+38.180.29.115,443,JP,3nt solutions
+77.110.109.80,2053,US,aeza international
+23.105.197.36,443,US,it7 networks
+155.254.60.225,443,MY,evoxt enterprise
+20.17.104.31,443,MY,microsoft corporation
