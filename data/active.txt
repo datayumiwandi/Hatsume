@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-142.111.15.104,443,ID,evoxt id
-172.232.234.62,443,ID,linode
-206.84.101.83,8443,ID,mitra visioner
-139.59.104.25,2083,SG,digitalocean
-13.250.97.146,443,SG,amazon data
-15.235.199.103,2053,SG,ovh singapore
-198.13.42.58,32954,JP,vultr holdings
-66.42.32.115,443,JP,tyovultrcust
-173.249.203.187,51368,US,tzulo inc
-93.179.115.54,443,US,cluster logic
-47.250.139.249,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.198,443,ID,linode
+103.6.207.108,8080,ID,pusat media
+154.205.159.72,2053,ID,lightnode
+129.150.58.86,57621,SG,oracle corporation
+185.114.78.230,443,SG,aryaka networks
+47.130.115.157,443,SG,amazon data
+43.206.192.211,443,JP,amazoncom inc
+47.79.90.37,49153,JP,alibaba cloud
+67.226.221.202,80,US,securly inc
+149.28.91.206,45628,US,vultr holdings
+47.250.37.87,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
