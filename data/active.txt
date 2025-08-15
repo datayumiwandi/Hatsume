@@ -1,13 +1,13 @@
+203.194.112.119,2053,ID,cv rumahweb
 103.146.63.149,443,ID,semut data
-172.232.234.62,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-154.205.159.72,2053,ID,lightnode
-172.237.81.60,8443,SG,linode 2
-103.195.191.55,443,SG,28 kallang
-172.237.81.60,2053,SG,linode 3
-141.147.147.180,443,JP,oracle corporation
-3.112.21.102,443,JP,amazon data
-77.110.126.213,443,US,aeza international
-172.98.14.144,443,US,ddigital
-47.254.206.121,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+149.129.250.8,443,ID,21f ciputra
+103.197.189.133,443,ID,ekadata internet
+160.22.79.179,443,SG,onidel pty
+157.245.60.56,443,SG,digitalocean
+92.112.22.94,443,SG,unknown
+168.138.46.67,443,JP,oracle public
+108.160.141.198,443,JP,vultr holdings
+172.86.108.23,2053,US,routerhosting
+107.174.204.129,443,US,racknerd
+47.254.255.125,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
