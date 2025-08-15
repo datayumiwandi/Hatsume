@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-178.128.80.43,443,SG,digitalocean
-64.49.14.41,8443,SG,internet utilities
-66.42.56.237,443,SG,sgpvultrcust
-192.243.125.209,443,JP,it7 networks
-176.97.70.154,443,JP,3nt solutions
-142.171.145.44,8443,US,multacom corporation
-172.82.16.113,18003,US,olink cloud
-47.250.37.87,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+43.218.77.16,1443,ID,amazoncom inc
+149.129.220.69,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
+8.219.59.132,48964,SG,alibaba cloud
+194.36.178.36,2053,SG,first server
+194.127.193.124,24467,SG,greencloud
+150.230.204.21,10243,JP,oracle corporation
+43.165.183.43,443,JP,16 collyer
+67.226.221.185,80,US,securly inc
+172.93.163.177,8443,US,365 group
+38.60.193.247,13300,MY,kaopu cloud
+47.250.132.147,443,MY,alibaba cloud 2
