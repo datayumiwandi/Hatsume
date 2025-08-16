@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-34.101.86.59,443,ID,google asia
-142.111.15.104,443,ID,evoxt id
+154.205.159.72,2053,ID,lightnode
+156.244.1.250,8443,ID,lightnode 2
+172.232.234.62,443,ID,linode
 206.84.101.83,8443,ID,mitra visioner
-38.244.151.165,2053,SG,3nt solutions
-146.235.18.248,45137,SG,oracle corporation
-158.178.243.152,61731,SG,oracle corporation 2
-131.186.63.89,11655,JP,oracle public
-3.112.21.102,443,JP,amazon data
-142.171.131.17,8443,US,multacom corporation
-77.110.119.35,8443,US,aeza international
-47.254.235.252,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+194.156.163.45,443,SG,misaka network
+45.76.159.76,443,SG,vultr holdings
+54.254.221.222,443,SG,amazon data
+132.145.127.203,2053,JP,oracle public
+140.83.56.110,56417,JP,imported inetnum
+38.58.63.150,51646,US,netlab
+104.168.35.194,56393,US,colocrossing
+45.89.107.7,2053,MY,worktitans
+38.60.193.247,13300,MY,kaopu cloud
