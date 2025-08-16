@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
 103.146.63.149,443,ID,semut data
-164.52.2.99,443,SG,uculsg
-157.245.60.56,443,SG,digitalocean
+36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
 64.49.14.41,8443,SG,internet utilities
-172.104.127.132,443,JP,linode
-43.133.10.236,33405,JP,6 collyer
-45.135.229.93,8443,US,gcore labs
-66.248.240.22,443,US,soladrive
-20.17.107.137,443,MY,microsoft corporation
-47.250.37.87,443,MY,alibaba cloud
+159.223.62.35,443,SG,digitalocean
+146.190.104.232,443,SG,digitalocean 2
+47.79.90.37,49153,JP,alibaba cloud
+141.147.147.180,443,JP,oracle corporation
+51.81.209.21,8443,US,ovh us
+35.212.181.177,443,US,google
+47.250.37.87,443,MY,alibaba cloud 2
+155.254.60.225,443,MY,evoxt enterprise
