@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
 206.84.101.83,8443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
-103.146.63.149,443,ID,semut data
-8.219.59.132,48964,SG,alibaba cloud
-168.138.171.70,23280,SG,oracle public
-138.2.102.210,443,SG,oracle corporation
-84.247.152.46,10045,JP,contabo gmbh
-152.70.82.101,18650,JP,oracle corporation 2
-51.81.209.21,8443,US,ovh us
-162.120.69.89,8443,US,allocation hb
-23.27.53.140,443,MY,evoxtcom
-155.254.60.225,443,MY,evoxt enterprise
+172.232.234.62,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb 2
+5.223.49.4,2053,SG,hetzner online
+167.253.158.63,8443,SG,365 group
+138.2.95.33,17465,SG,oracle corporation
+149.28.21.106,443,JP,vultr holdings
+141.147.185.15,443,JP,oracle corporation 2
+45.158.127.48,443,US,serva one
+107.172.87.247,443,US,racknerd
+47.254.206.121,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
