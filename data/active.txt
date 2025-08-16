@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.117,443,ID,linode
+172.232.234.198,443,ID,linode
+149.129.250.8,443,ID,21f ciputra
 103.146.63.149,443,ID,semut data
 154.205.159.72,2053,ID,lightnode
-92.112.22.94,443,SG,unknown
-178.128.124.97,443,SG,digitalocean
-185.114.78.230,443,SG,aryaka networks
-5.180.76.44,443,JP,cegrgodigitalvm
+103.195.191.55,443,SG,28 kallang
+152.42.220.9,443,SG,digitalocean
+8.222.159.134,12483,SG,alibaba cloud
+45.76.198.248,443,JP,vultr holdings
 167.179.86.6,8443,JP,tyovultrcust
-54.202.98.246,47346,US,amazoncom inc
-35.167.93.200,80,US,amazoncom inc 2
-47.254.255.125,443,MY,alibaba cloud
+155.138.227.121,8443,US,vultr holdings 2
+134.199.213.48,443,US,digitalocean 2
+155.254.60.225,443,MY,evoxt enterprise
 47.254.206.121,443,MY,alibaba cloud 2
