@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-103.146.63.149,443,ID,semut data
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-172.232.234.117,443,ID,linode
-152.42.220.9,8443,SG,digitalocean
-168.138.184.172,443,SG,oracle public
-139.180.191.96,31001,SG,sgpvultrcust
-212.52.0.61,1846,JP,prinode
-66.42.32.115,443,JP,tyovultrcust
-77.110.109.208,8443,US,aeza international
-15.204.10.80,49404,US,ovh us
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud
+103.146.63.149,443,ID,semut data
+149.129.250.8,443,ID,21f ciputra
+15.235.199.103,2053,SG,ovh singapore
+138.2.107.107,443,SG,oracle corporation
+66.42.51.60,8443,SG,sgpvultrcust
+8.209.220.50,21273,JP,shiodome sumitomo
+103.125.216.22,443,JP,vpsservercom 24
+107.173.146.70,443,US,racknerd
+193.46.217.164,2053,US,huize holdings
+155.254.60.225,443,MY,evoxt enterprise
+20.17.107.137,443,MY,microsoft corporation
