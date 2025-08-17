@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-154.205.159.72,2053,ID,lightnode
-34.101.86.59,443,ID,google asia
+43.218.77.16,443,ID,amazoncom inc
+103.146.63.149,443,ID,semut data
 172.232.234.117,443,ID,linode
-167.99.73.22,443,SG,digitalocean
-139.162.53.195,2053,SG,1391620016
-4.194.170.167,443,SG,microsoft corporation
-217.142.226.168,443,JP,oracle svenska
-18.183.222.39,443,JP,amazon data
-173.249.209.140,32037,US,tzulo inc
-5.181.3.119,8443,US,global connectivity
-58.27.117.24,443,MY,tmnet
-20.17.107.137,443,MY,microsoft corporation 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+8.222.220.81,25435,SG,alibaba cloud
+152.42.241.71,2053,SG,digitalocean
+158.178.229.178,443,SG,oracle corporation
+43.165.191.216,443,JP,16 collyer
+132.145.127.203,8443,JP,oracle public
+35.212.133.89,443,US,google
+172.245.205.54,8443,US,racknerd
+20.17.107.137,443,MY,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud 2
