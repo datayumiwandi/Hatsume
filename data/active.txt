@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-103.146.63.149,443,ID,semut data
-36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.117,443,ID,linode
 154.205.159.72,2053,ID,lightnode
-128.199.255.155,8443,SG,digitalocean
-150.109.11.223,443,SG,16 collyer
-43.134.164.53,443,SG,6 collyer
-150.230.214.172,16957,JP,oracle corporation
-152.69.199.70,8443,JP,oracle corporation 2
-104.219.215.132,8443,US,peg tech
-38.180.82.75,443,US,3nt solutions
-45.89.107.7,2053,MY,worktitans
-38.60.193.247,13300,MY,kaopu cloud
+149.129.250.8,443,ID,21f ciputra
+172.104.40.56,587,SG,linode 2
+128.199.181.227,2087,SG,digitalocean
+43.156.181.203,443,SG,16 collyer
+38.180.29.40,2053,JP,3nt solutions
+152.70.97.53,443,JP,oracle corporation
+139.60.162.197,8443,US,hostkey
+104.168.167.197,27213,US,hostwinds seattle
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud
