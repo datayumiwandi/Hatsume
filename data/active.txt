@@ -1,13 +1,13 @@
-103.146.63.149,443,ID,semut data
-172.232.234.198,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-91.192.81.154,8443,SG,melbikomas uab
-209.97.173.243,443,SG,digitalocean
-51.79.158.58,2053,SG,ovh singapore
-130.33.72.202,443,JP,microsoft
-64.176.55.11,29999,JP,the constant
-150.241.122.176,443,US,individual entrepreneur
-34.68.95.24,5000,US,google
-47.250.139.249,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+172.232.234.117,443,ID,linode
+103.6.207.108,8080,ID,pusat media
+142.111.15.104,443,ID,evoxt id
+34.101.86.59,443,ID,google asia
+194.36.178.36,2053,SG,first server
+45.76.179.81,443,SG,vultr holdings
+52.74.101.26,443,SG,amazon technologies
+35.78.229.176,443,JP,amazon data
+109.123.231.212,2053,JP,contabo gmbh
+43.130.35.177,6161,US,6 collyer
+67.226.222.243,80,US,securly inc
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
