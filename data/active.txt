@@ -1,13 +1,13 @@
-103.146.63.149,443,ID,semut data
-203.194.112.119,2053,ID,cv rumahweb
-172.232.234.117,443,ID,linode
-34.101.86.59,443,ID,google asia
-47.74.254.191,8900,SG,alibaba cloud
-138.2.89.64,32962,SG,oracle corporation
-172.104.40.56,587,SG,akamai connected
-132.145.116.185,443,JP,oracle public
-147.45.49.80,2053,JP,global connectivity
-38.59.245.103,443,US,cedoc
-45.205.98.116,443,US,octopus web
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud 2
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.235.246.50,443,ID,linode
+168.138.189.91,443,SG,oracle public
+128.199.128.28,123,SG,digitalocean
+194.36.179.17,8443,SG,first server
+74.176.185.219,443,JP,microsoft corporation
+18.183.222.39,443,JP,amazon data
+162.212.153.15,443,US,cloudfanaticnet
+104.234.50.39,2053,US,unknown
+47.250.37.87,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
