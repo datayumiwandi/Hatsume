@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
+34.101.86.59,443,ID,google asia
+172.235.246.50,443,ID,linode
 203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.117,443,ID,linode
-47.130.110.89,443,SG,amazon data
-38.181.70.7,16240,SG,eons data
-4.194.170.167,443,SG,microsoft corporation
-45.66.129.201,443,JP,virtual machine
-185.18.222.208,2053,JP,jurgita jurgaitiene
-38.180.146.215,443,US,3nt solutions
-104.196.250.34,2087,US,google
-47.250.139.59,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+149.129.250.8,443,ID,21f ciputra
+43.156.116.194,443,SG,6 collyer
+152.42.241.71,8443,SG,digitalocean
+43.134.167.135,9950,SG,6 collyer 2
+43.165.191.216,443,JP,16 collyer
+217.142.230.253,587,JP,oracle corporation
+172.235.49.135,17973,US,linode 2
+104.168.62.119,443,US,racknerd
+47.254.235.252,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
