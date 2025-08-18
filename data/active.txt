@@ -1,13 +1,13 @@
-172.235.246.50,443,ID,linode
-154.205.159.72,2053,ID,lightnode
-34.101.86.59,443,ID,google asia
+172.232.234.117,443,ID,linode
+103.146.63.149,443,ID,semut data
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-160.22.79.166,443,SG,onidel pty
-158.178.244.26,443,SG,oracle corporation
-8.222.159.134,12483,SG,alibaba cloud
-176.97.70.121,443,JP,3nt solutions
-156.231.117.209,443,JP,akile ltd
-149.18.36.176,443,US,logicweb inc
-173.254.217.185,443,US,null
+52.76.110.129,20001,SG,amazon technologies
+143.198.196.196,2053,SG,digitalocean
+138.2.64.229,443,SG,oracle corporation
+109.61.109.42,443,JP,securebit ag
+217.142.236.93,443,JP,oracle svenska
+38.180.6.206,443,US,3nt solutions
+143.198.24.153,2053,US,digitalocean 2
+58.27.117.24,443,MY,tmnet
 45.89.107.7,2053,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud 2
