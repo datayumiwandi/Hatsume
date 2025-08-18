@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 154.205.159.72,2053,ID,lightnode
 142.111.15.104,443,ID,evoxt id
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
-52.76.110.129,20001,SG,amazon technologies
-206.206.77.53,443,SG,ipxo
-165.154.203.69,443,SG,scloud pte
-153.121.45.101,443,JP,sakura internet
-178.157.56.26,443,JP,cluster logic
-45.15.124.7,12217,US,sriyaan technology
-159.223.135.36,2053,US,digitalocean
-47.250.132.147,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+172.232.234.117,443,ID,linode
+64.235.43.213,443,SG,singapore sg
+152.42.248.212,443,SG,digitalocean
+146.190.107.103,443,SG,digitalocean 2
+147.45.49.80,2053,JP,global connectivity
+217.142.243.98,51321,JP,oracle corporation
+206.237.112.80,443,US,nearoute
+45.62.114.62,2053,US,it7 networks
+155.254.60.225,443,MY,evoxt enterprise
+20.17.107.137,443,MY,microsoft corporation
