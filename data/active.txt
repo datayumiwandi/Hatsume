@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+172.235.246.50,443,ID,linode
 154.205.159.72,2053,ID,lightnode
-142.111.15.104,443,ID,evoxt id
-172.232.234.117,443,ID,linode
-64.235.43.213,443,SG,singapore sg
-152.42.248.212,443,SG,digitalocean
-146.190.107.103,443,SG,digitalocean 2
-147.45.49.80,2053,JP,global connectivity
-217.142.243.98,51321,JP,oracle corporation
-206.237.112.80,443,US,nearoute
-45.62.114.62,2053,US,it7 networks
-155.254.60.225,443,MY,evoxt enterprise
-20.17.107.137,443,MY,microsoft corporation
+34.101.86.59,443,ID,google asia
+203.194.112.119,8443,ID,cv rumahweb
+160.22.79.166,443,SG,onidel pty
+158.178.244.26,443,SG,oracle corporation
+8.222.159.134,12483,SG,alibaba cloud
+176.97.70.121,443,JP,3nt solutions
+156.231.117.209,443,JP,akile ltd
+149.18.36.176,443,US,logicweb inc
+173.254.217.185,443,US,null
+45.89.107.7,2053,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud 2
