@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-206.84.101.83,8443,ID,mitra visioner
-103.6.207.108,8080,ID,pusat media
-138.2.102.210,443,SG,oracle corporation
-104.234.151.10,8443,SG,moechuang network
-138.2.69.236,23334,SG,oracle corporation 2
-138.3.222.33,443,JP,oracle network
-103.232.213.117,8080,JP,kvmcloud network
-66.63.166.25,443,US,racknerd
-149.18.36.230,443,US,logicweb inc
-20.17.107.137,443,MY,microsoft corporation
-155.254.60.225,443,MY,evoxt enterprise
+103.146.63.149,443,ID,semut data
+172.232.234.117,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+34.101.86.59,443,ID,google asia
+157.20.104.30,443,SG,kuroitcom
+92.112.22.94,443,SG,unknown
+8.219.59.132,48964,SG,alibaba cloud
+140.83.37.134,46478,JP,imported inetnum
+141.147.152.229,23333,JP,oracle corporation
+54.202.98.246,47346,US,amazoncom inc
+45.150.65.39,2053,US,worktitans
+47.254.235.252,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
