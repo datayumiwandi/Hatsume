@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
+154.205.159.72,2053,ID,lightnode
 103.146.63.149,443,ID,semut data
-172.232.234.117,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-139.162.53.195,2053,SG,1391620016
-167.99.73.22,443,SG,digitalocean
-172.104.40.56,587,SG,linode 2
-141.147.185.63,443,JP,oracle corporation
-138.2.16.61,443,JP,cloudflare inc
-34.208.221.169,443,US,amazoncom inc
-185.186.147.160,443,US,hostsymbol pte
-20.17.104.31,443,MY,microsoft corporation
-20.17.107.137,443,MY,microsoft corporation 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+152.42.254.139,443,SG,digitalocean
+8.222.220.81,25435,SG,alibaba cloud
+13.250.97.146,443,SG,amazon data
+210.231.178.90,443,JP,server hosting
+140.83.63.113,443,JP,imported inetnum
+205.185.116.48,17008,US,frantech solutions
+216.24.178.29,443,US,cluster logic
+20.17.107.137,443,MY,microsoft corporation
+47.250.139.249,443,MY,alibaba cloud 2
