@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
 154.205.159.72,2053,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode 2
-8.219.0.67,443,SG,alibaba cloud
-194.127.193.124,24467,SG,greencloud
-47.130.35.116,8888,SG,amazon data
-38.182.105.171,443,JP,global communication
-23.106.132.54,443,JP,it7 networks
-204.110.223.236,80,US,securly inc
-192.9.141.240,4443,US,oracle corporation
-47.254.255.125,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+13.250.14.76,443,SG,amazon data
+45.32.100.46,13802,SG,vultr holdings
+13.250.97.146,443,SG,amazon data 2
+155.248.184.178,30011,JP,oracle public
+64.176.40.224,3533,JP,the constant
+148.135.111.27,45547,US,brander group
+104.253.1.55,443,US,individual entrepreneur
+58.27.117.24,443,MY,tmnet
+47.254.206.121,443,MY,alibaba cloud
