@@ -1,13 +1,13 @@
 142.111.15.104,443,ID,evoxt id
 36.95.152.58,12137,ID,telekomunikasi indonesia
+154.205.159.72,2053,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-68.183.233.152,2053,SG,digitalocean
-45.32.100.46,13802,SG,vultr holdings
-64.235.43.144,443,SG,singapore sg
-153.121.45.101,443,JP,sakura internet
-140.83.60.81,18443,JP,imported inetnum
-199.19.110.221,443,US,cluster logic
-45.158.127.31,2053,US,serva one
-47.254.235.252,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+91.192.81.154,2053,SG,melbikomas uab
+47.130.35.116,8888,SG,amazon data
+8.222.161.217,443,SG,alibaba cloud
+141.147.161.249,51037,JP,oracle corporation
+156.231.113.162,443,JP,akile ltd
+38.126.44.119,20069,US,cogent communications
+142.171.38.53,2333,US,multacom corporation
+47.250.139.59,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
