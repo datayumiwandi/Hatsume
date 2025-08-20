@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+34.101.86.59,443,ID,google asia
 154.205.159.72,2053,ID,lightnode
-206.84.101.83,8443,ID,mitra visioner
-156.244.1.250,8443,ID,lightnode 2
-8.219.59.132,48130,SG,alibaba cloud
-172.104.40.56,587,SG,linode
-164.52.2.99,443,SG,uculsg
-23.106.140.129,443,JP,it7 networks
-141.147.188.120,443,JP,oracle corporation
-77.110.109.80,8443,US,aeza international
-148.135.52.250,48993,US,brander group
-45.89.107.7,2053,MY,worktitans
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+140.245.97.193,443,SG,oracle corporation
+128.199.128.28,123,SG,digitalocean
+64.235.43.213,443,SG,singapore sg
+141.147.161.249,51037,JP,oracle corporation 2
+109.61.109.42,443,JP,securebit ag
+52.41.218.4,443,US,amazon technologies
+69.30.212.6,6643,US,wholesale internet
 155.254.60.225,443,MY,evoxt enterprise
+45.89.107.7,2053,MY,worktitans
