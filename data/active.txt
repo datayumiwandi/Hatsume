@@ -1,13 +1,13 @@
+142.111.15.104,443,ID,evoxt id
+34.101.86.59,443,ID,google asia
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode
-154.205.159.72,2053,ID,lightnode 2
-149.28.158.103,10030,SG,vultr holdings
-178.128.86.3,443,SG,digitalocean
-15.235.199.103,2053,SG,ovh singapore
-38.180.28.163,8443,JP,3nt solutions
-158.101.71.226,8443,JP,oracle public
-194.135.104.96,443,US,baxet group
-107.173.146.70,443,US,racknerd
-20.17.107.137,443,MY,microsoft corporation
+103.6.207.108,8080,ID,pusat media
+45.32.100.46,13802,SG,vultr holdings
+194.36.179.5,2053,SG,first server
+113.29.226.134,443,SG,ready server
+172.104.127.132,443,JP,linode
+132.145.126.40,32498,JP,oracle public
+74.211.103.172,443,US,cluster logic
+207.246.100.180,443,US,vultr holdings 2
 47.254.206.121,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
