@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-154.205.159.72,2053,ID,lightnode
+172.232.234.198,443,ID,linode
+156.244.1.250,8443,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode 2
-178.128.124.97,443,SG,digitalocean
-138.2.107.107,443,SG,oracle corporation
-164.52.2.99,443,SG,uculsg
-212.52.0.61,1846,JP,prinode
-45.32.49.72,9443,JP,vultr holdings
-173.249.210.20,11480,US,tzulo inc
-152.70.113.150,52125,US,oracle corporation 2
-58.27.117.24,443,MY,tmnet
-20.17.107.137,443,MY,microsoft corporation
+103.146.63.149,443,ID,semut data
+168.138.184.172,443,SG,oracle public
+104.248.145.216,443,SG,digitalocean
+54.255.217.120,8192,SG,amazon data
+168.138.192.16,54584,JP,oracle public 2
+140.83.37.134,46478,JP,imported inetnum
+77.110.114.41,2053,US,aeza international
+62.60.176.49,8443,US,smart digital
+38.60.193.247,13300,MY,kaopu cloud
+47.254.235.252,443,MY,alibaba cloud
