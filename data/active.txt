@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
+203.194.112.119,2053,ID,cv rumahweb
+34.101.86.59,443,ID,google asia
+103.146.63.149,443,ID,semut data
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
-138.2.95.61,1111,SG,oracle corporation
-5.34.176.119,81,SG,green floid
-129.150.35.29,587,SG,oracle corporation 2
-158.101.71.226,8443,JP,oracle public
-172.104.117.43,12452,JP,linode
-216.158.232.43,8443,US,interserver inc
-193.233.87.41,8443,US,vdskanet
-47.250.132.147,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+84.247.150.170,8443,SG,contabo gmbh
+103.229.96.157,443,SG,epsilon singapore
+113.29.226.134,443,SG,ready server
+160.251.142.232,443,JP,gmo internet
+140.83.59.158,15805,JP,imported inetnum
+5.161.176.159,50001,US,hetzner online
+45.150.65.231,443,US,worktitans
+38.60.193.247,13300,MY,kaopu cloud
+58.27.117.24,443,MY,tmnet
