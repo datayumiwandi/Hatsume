@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
+34.101.86.59,443,ID,google asia
+154.205.159.72,2053,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-128.199.255.155,8443,SG,digitalocean
-128.199.181.227,2087,SG,digitalocean 2
-45.76.159.76,443,SG,vultr holdings
-217.142.250.195,587,JP,oracle corporation
-158.51.111.105,443,JP,ddps networks
-204.110.223.119,80,US,securly inc
-43.130.105.166,65001,US,6 collyer
-20.17.107.137,443,MY,microsoft corporation
-38.60.193.247,13300,MY,kaopu cloud
+149.129.250.8,443,ID,21f ciputra
+158.178.236.14,61731,SG,oracle corporation
+64.49.14.41,8443,SG,internet utilities
+51.79.158.58,2053,SG,ovh singapore
+207.148.105.247,443,JP,tyovultrcust
+45.66.129.201,443,JP,virtual machine
+43.130.134.123,65002,US,6 collyer
+172.245.148.211,443,US,racknerd
+20.17.104.31,443,MY,microsoft corporation
+47.254.206.121,443,MY,alibaba cloud
