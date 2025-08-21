@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-172.235.246.50,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
+142.111.15.104,443,ID,evoxt id
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-194.156.163.45,443,SG,misaka network
-83.142.30.4,2096,SG,zappie host
-8.222.237.72,443,SG,alibaba cloud
-5.180.76.44,443,JP,cegrgodigitalvm
-108.61.247.238,443,JP,vultr holdings
-209.135.168.180,443,US,snaju development
-77.110.109.73,2053,US,aeza international
-47.250.59.132,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+103.6.207.108,8080,ID,pusat media
+143.198.196.196,8443,SG,digitalocean
+194.36.178.36,8443,SG,first server
+152.42.236.151,8443,SG,digitalocean 2
+140.83.59.158,15805,JP,imported inetnum
+158.51.111.105,443,JP,ddps networks
+54.151.41.196,443,US,amazoncom inc
+5.181.3.16,8443,US,global connectivity
+47.254.235.252,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
