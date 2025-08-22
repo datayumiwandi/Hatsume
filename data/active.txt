@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
 172.232.234.117,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-3.0.50.69,443,SG,amazon data
-5.223.55.245,8443,SG,hetzner online
-139.180.159.133,443,SG,sgpvultrcust
-66.42.32.115,443,JP,tyovultrcust
-103.106.228.126,2053,JP,oneprovidercom tokyo
-129.153.74.179,443,US,oracle corporation
-103.170.72.129,25122,US,corenet inc
-47.254.255.125,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+34.101.86.59,443,ID,google asia
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.236.71.6,443,SG,alibaba cloud
+129.150.35.29,587,SG,oracle corporation
+18.136.213.164,443,SG,amazon data
+52.198.201.0,443,JP,amazon data 2
+141.147.185.15,443,JP,oracle corporation 2
+23.94.208.154,53485,US,racknerd
+92.118.112.49,8443,US,global internet
+38.60.193.247,13300,MY,kaopu cloud
+47.254.255.125,443,MY,alibaba cloud 2
