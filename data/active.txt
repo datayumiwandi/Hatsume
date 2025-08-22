@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-142.111.15.104,443,ID,evoxt id
-203.194.112.119,8443,ID,cv rumahweb
+172.235.246.50,443,ID,linode
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-104.43.91.69,443,SG,microsoft corporation
-47.236.21.74,443,SG,alibaba cloud
-164.52.2.100,443,SG,uculsg
-219.117.2.190,57517,JP,jupiter telecommunications
-176.97.70.121,443,JP,3nt solutions
-104.224.181.22,443,US,it7 networks
-149.18.36.183,443,US,logicweb inc
+149.129.250.8,443,ID,21f ciputra
+150.109.11.223,443,SG,16 collyer
+47.236.71.6,443,SG,alibaba cloud
+168.138.171.70,23280,SG,oracle public
+8.209.220.50,21273,JP,shiodome sumitomo
+109.61.109.40,443,JP,securebit ag
+204.74.251.45,443,US,serverscom inc
+209.124.84.15,443,US,a2 hosting
+20.17.107.137,443,MY,microsoft corporation
 45.89.107.7,2053,MY,worktitans
-20.17.107.137,443,MY,microsoft corporation 2
