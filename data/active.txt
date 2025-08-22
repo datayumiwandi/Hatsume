@@ -1,13 +1,13 @@
-172.235.246.50,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-34.101.86.59,443,ID,google asia
-103.6.207.108,8080,ID,pusat media
-91.192.81.154,8443,SG,melbikomas uab
-8.222.161.217,443,SG,alibaba cloud
-213.35.108.135,12596,SG,oracle svenska
-140.83.56.110,56417,JP,imported inetnum
-74.176.185.219,443,JP,microsoft corporation
-35.212.160.116,443,US,google
-88.210.37.244,2053,US,melbikomas uab 2
-47.250.139.249,443,MY,alibaba cloud 2
-20.17.107.137,443,MY,microsoft corporation 2
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
+154.205.159.72,2053,ID,lightnode 2
+140.245.48.42,443,SG,oracle corporation
+51.79.158.58,8443,SG,ovh singapore
+138.2.89.238,43254,SG,oracle corporation 2
+141.147.185.63,443,JP,oracle corporation 3
+109.61.109.40,443,JP,securebit ag
+194.54.144.58,8443,US,allocation hb
+67.226.220.153,80,US,securly inc
+20.17.107.137,443,MY,microsoft corporation
+45.89.107.7,2053,MY,worktitans
