@@ -1,13 +1,13 @@
-154.205.159.72,2053,ID,lightnode
-206.84.101.83,8443,ID,mitra visioner
-34.101.86.59,443,ID,google asia
-172.235.246.50,443,ID,linode
-113.29.226.134,443,SG,ready server
-161.117.81.228,4443,SG,1 raffles
-206.189.88.145,443,SG,digitalocean
-66.42.32.115,443,JP,tyovultrcust
-141.147.162.24,1235,JP,oracle corporation
-173.249.203.187,51368,US,tzulo inc
-204.110.223.117,80,US,securly inc
-45.89.107.7,2053,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+138.2.89.64,32962,SG,oracle corporation
+146.235.19.79,28983,SG,oracle corporation 2
+143.198.196.196,2053,SG,digitalocean
+153.121.45.101,443,JP,sakura internet
+13.230.34.30,443,JP,amazon data
+103.170.72.129,25122,US,corenet inc
+45.156.24.61,2053,US,as56971 network
+20.17.104.31,443,MY,microsoft corporation
+38.60.193.247,13300,MY,kaopu cloud
