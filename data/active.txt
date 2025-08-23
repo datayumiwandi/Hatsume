@@ -1,13 +1,13 @@
-172.232.234.62,443,ID,linode
 156.244.1.250,8443,ID,lightnode
-34.101.86.59,443,ID,google asia
 142.111.15.104,443,ID,evoxt id
-43.160.202.92,443,SG,6 collyer
-8.219.59.132,48964,SG,alibaba cloud
-152.42.241.71,2053,SG,digitalocean
-140.238.50.134,443,JP,oracle public
-132.145.115.62,443,JP,oracle public 2
-18.222.50.18,443,US,amazon technologies
-20.62.172.88,443,US,microsoft corporation
-20.17.104.31,443,MY,microsoft corporation 2
-58.27.117.24,443,MY,tmnet
+103.6.207.108,8080,ID,pusat media
+34.101.86.59,443,ID,google asia
+43.156.181.203,443,SG,16 collyer
+43.252.21.100,443,SG,specialist
+139.162.53.195,2053,SG,1391620016
+138.2.18.82,8880,JP,oracle corporation
+178.157.56.26,443,JP,cluster logic
+142.171.243.241,443,US,multacom corporation
+64.23.244.95,443,US,digitalocean
+47.254.235.252,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
