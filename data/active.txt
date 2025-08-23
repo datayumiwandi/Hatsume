@@ -1,13 +1,13 @@
-154.205.159.72,2053,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode 2
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-47.237.149.38,8443,SG,alibaba cloud
-8.219.0.67,443,SG,alibaba cloud 2
-140.245.97.193,443,SG,oracle corporation
-141.147.188.120,443,JP,oracle corporation 2
-185.18.222.208,2053,JP,jurgita jurgaitiene
-107.172.190.130,2053,US,racknerd
-38.179.82.115,443,US,global communication
-20.17.107.137,443,MY,microsoft corporation
-47.250.132.147,443,MY,alibaba cloud 3
+152.42.241.71,2053,SG,digitalocean
+172.237.81.60,8443,SG,linode
+194.127.193.124,24467,SG,greencloud
+38.207.137.217,443,JP,nearoute
+158.101.77.33,443,JP,oracle public
+159.203.86.135,443,US,digitalocean 2
+45.8.146.22,443,US,worktitans
+47.250.37.87,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
