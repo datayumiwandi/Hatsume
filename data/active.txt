@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
-172.232.234.117,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-139.59.104.25,2083,SG,digitalocean
-138.2.107.107,443,SG,oracle corporation
-140.245.97.193,443,SG,oracle corporation 2
-82.163.16.69,8080,JP,akile ltd
-138.2.48.109,26412,JP,oracle corporation 3
-172.245.111.20,443,US,racknerd
-193.93.55.146,443,US,virtual machine
-47.254.235.252,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+172.232.234.62,443,ID,linode
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+38.244.147.68,2053,SG,3nt solutions
+157.245.204.209,443,SG,digitalocean
+45.76.183.217,49292,SG,vultr holdings
+131.186.63.89,11655,JP,oracle public
+13.230.34.30,443,JP,amazon data
+45.156.24.61,8443,US,as56971 network
+199.119.137.41,8443,US,extravm
+47.250.139.59,443,MY,alibaba cloud
 47.250.139.249,443,MY,alibaba cloud 2
