@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+34.101.86.59,443,ID,google asia
 172.232.234.117,443,ID,linode
-194.36.179.17,2053,SG,first server
-139.180.215.77,57878,SG,sgpvultrcust
-15.235.192.85,443,SG,ovh singapore
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-38.180.29.40,2053,JP,3nt solutions
-154.21.86.85,443,US,dmit cloud
-148.135.106.200,443,US,brander group
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+194.36.179.5,2053,SG,first server
+64.235.43.144,443,SG,singapore sg
+129.150.58.86,57621,SG,oracle corporation
+103.232.213.117,8080,JP,kvmcloud network
+193.246.161.65,54310,JP,akile ltd
+184.95.40.67,443,US,secured servers
+192.227.137.205,18086,US,racknerd
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
