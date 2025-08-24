@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-172.232.234.62,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-38.244.147.68,2053,SG,3nt solutions
-157.245.204.209,443,SG,digitalocean
-45.76.183.217,49292,SG,vultr holdings
-131.186.63.89,11655,JP,oracle public
-13.230.34.30,443,JP,amazon data
-45.156.24.61,8443,US,as56971 network
-199.119.137.41,8443,US,extravm
-47.250.139.59,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
+34.101.86.59,443,ID,google asia
+36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.165.174,443,SG,oracle public
+18.136.213.164,443,SG,amazon data
+194.36.179.17,8443,SG,first server
+38.207.137.217,443,JP,nearoute
+138.3.222.33,443,JP,oracle network
+132.145.217.215,11082,US,oracle public 2
+104.234.50.215,2053,US,unknown
+47.254.255.125,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
