@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-142.111.15.104,443,ID,evoxt id
-149.129.250.8,443,ID,21f ciputra
 34.101.86.59,443,ID,google asia
-38.180.249.123,443,SG,3nt solutions
-20.247.137.183,443,SG,microsoft corporation
-91.192.81.154,2053,SG,melbikomas uab
-140.83.57.86,54322,JP,imported inetnum
-150.230.204.21,10243,JP,oracle corporation
-77.110.126.67,2053,US,aeza international
-66.103.216.214,37357,US,multacom corporation
+142.111.15.104,443,ID,evoxt id
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+139.180.191.96,31001,SG,sgpvultrcust
+66.42.51.60,8443,SG,sgpvultrcust 2
+31.192.238.71,2053,SG,pdk
+38.180.28.163,2053,JP,3nt solutions
+109.61.109.40,443,JP,securebit ag
+199.115.231.188,12586,US,cluster logic
+23.94.208.154,53485,US,racknerd
+47.250.139.59,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
-38.60.193.247,13300,MY,kaopu cloud
