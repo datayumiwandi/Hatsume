@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-142.111.15.104,443,ID,evoxt id
-156.244.1.250,8443,ID,lightnode
+172.232.234.117,443,ID,linode
+172.232.234.62,443,ID,linode 2
 103.6.207.108,8080,ID,pusat media
-139.180.191.96,31001,SG,sgpvultrcust
-66.42.51.60,8443,SG,sgpvultrcust 2
-31.192.238.71,2053,SG,pdk
-38.180.28.163,2053,JP,3nt solutions
-109.61.109.40,443,JP,securebit ag
-199.115.231.188,12586,US,cluster logic
-23.94.208.154,53485,US,racknerd
-47.250.139.59,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+64.235.43.144,443,SG,singapore sg
+160.22.79.166,443,SG,onidel pty
+38.244.147.68,443,SG,3nt solutions
+138.3.217.167,587,JP,oracle network
+168.138.213.1,50003,JP,oracle public
+162.243.115.22,443,US,digitalocean
+207.246.100.180,443,US,vultr holdings
+47.250.59.132,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
