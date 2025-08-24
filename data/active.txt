@@ -1,13 +1,13 @@
-172.232.234.117,443,ID,linode
 142.111.15.104,443,ID,evoxt id
-206.84.101.83,8443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
+172.232.234.117,443,ID,linode
 203.194.112.119,8443,ID,cv rumahweb
-5.34.176.119,81,SG,green floid
-8.222.218.155,443,SG,alibaba cloud
-84.247.150.170,8443,SG,contabo gmbh
-103.42.107.254,8443,JP,guangzhou linseek
-18.183.158.211,443,JP,amazon data
-193.178.210.122,8443,US,worktitans
-154.23.243.88,443,US,kurun cloud
+31.192.238.71,2053,SG,pdk
+104.43.91.69,443,SG,microsoft corporation
+159.223.68.23,443,SG,digitalocean
+152.70.82.101,18650,JP,oracle corporation
+138.2.48.109,26412,JP,oracle corporation 2
+89.116.193.90,2083,US,sc lithuanian
+144.34.230.39,443,US,cluster logic
+20.17.104.31,443,MY,microsoft corporation 2
 38.60.193.247,13300,MY,kaopu cloud
-20.17.107.137,443,MY,microsoft corporation
