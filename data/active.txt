@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
-103.6.207.108,8080,ID,pusat media
-172.232.234.117,443,ID,linode
 203.194.112.119,8443,ID,cv rumahweb
-31.192.238.71,2053,SG,pdk
-104.43.91.69,443,SG,microsoft corporation
-159.223.68.23,443,SG,digitalocean
-152.70.82.101,18650,JP,oracle corporation
-138.2.48.109,26412,JP,oracle corporation 2
-89.116.193.90,2083,US,sc lithuanian
-144.34.230.39,443,US,cluster logic
-20.17.104.31,443,MY,microsoft corporation 2
-38.60.193.247,13300,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
+142.111.15.104,443,ID,evoxt id
+140.245.97.193,443,SG,oracle corporation
+149.28.158.103,10030,SG,vultr holdings
+157.245.60.56,443,SG,digitalocean
+103.238.129.215,42734,JP,ipx
+147.45.49.11,2053,JP,global connectivity
+15.204.10.80,53089,US,ovh us
+77.91.126.58,443,US,365partners inc
+20.17.104.31,443,MY,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud
