@@ -1,13 +1,13 @@
-172.232.234.117,443,ID,linode
-172.232.234.62,443,ID,linode 2
-103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-64.235.43.144,443,SG,singapore sg
-160.22.79.166,443,SG,onidel pty
-38.244.147.68,443,SG,3nt solutions
-138.3.217.167,587,JP,oracle network
-168.138.213.1,50003,JP,oracle public
-162.243.115.22,443,US,digitalocean
-207.246.100.180,443,US,vultr holdings
-47.250.59.132,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+168.138.185.234,443,SG,oracle public
+38.244.151.165,2053,SG,3nt solutions
+138.2.95.33,17465,SG,oracle corporation
+35.78.229.176,443,JP,amazon data
+147.45.49.11,2053,JP,global connectivity
+107.174.121.46,443,US,racknerd
+45.151.133.104,16000,US,spartan host
+47.254.206.121,443,MY,alibaba cloud
+45.89.107.7,2053,MY,worktitans
