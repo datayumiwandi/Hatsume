@@ -1,13 +1,13 @@
-34.101.86.59,443,ID,google asia
-172.232.234.117,443,ID,linode
-142.111.15.104,443,ID,evoxt id
 149.129.250.8,443,ID,21f ciputra
-129.150.58.86,57621,SG,oracle corporation
-4.194.170.167,443,SG,microsoft corporation
-38.244.147.68,2053,SG,3nt solutions
-140.83.57.183,22735,JP,imported inetnum
-158.51.111.105,443,JP,ddps networks
-45.62.104.107,443,US,it7 networks
-152.70.125.165,32174,US,oracle corporation 2
-47.250.132.147,443,MY,alibaba cloud
+203.194.112.119,8443,ID,cv rumahweb
+142.111.15.104,443,ID,evoxt id
+103.6.207.108,8080,ID,pusat media
+209.97.173.243,443,SG,digitalocean
+160.22.79.155,443,SG,onidel pty
+178.128.124.97,443,SG,digitalocean 2
+103.106.0.123,443,JP,worktitans
+152.70.97.53,443,JP,oracle corporation
+64.23.244.95,443,US,digitalocean 3
+37.1.211.164,443,US,iroko networks
 38.60.193.247,13300,MY,kaopu cloud
+47.250.139.59,443,MY,alibaba cloud
