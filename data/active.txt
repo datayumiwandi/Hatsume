@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
-172.232.234.62,443,ID,linode 2
-142.111.15.104,443,ID,evoxt id
-36.95.152.58,12137,ID,telekomunikasi indonesia
-152.42.228.222,2053,SG,digitalocean
-66.42.61.1,443,SG,sgpvultrcust
-52.76.110.129,20001,SG,amazon technologies
-176.97.70.119,443,JP,3nt solutions
-109.61.109.40,443,JP,securebit ag
-129.153.74.179,443,US,oracle corporation
-154.17.29.80,50235,US,dmit cloud
-58.27.117.24,443,MY,tmnet
-47.254.206.121,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+34.101.86.59,443,ID,google asia
+103.6.207.108,8080,ID,pusat media
+172.232.234.117,443,ID,linode
+8.219.58.164,57373,SG,alibaba cloud
+5.34.176.119,81,SG,green floid
+64.235.61.166,443,SG,singapore sg
+154.31.113.72,443,JP,dmit cloud
+158.101.71.226,8443,JP,oracle public
+104.168.102.163,443,US,racknerd
+199.19.107.81,443,US,cluster logic
+38.60.193.247,13300,MY,kaopu cloud
+20.17.107.137,443,MY,microsoft corporation
