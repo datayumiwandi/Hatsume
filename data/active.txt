@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-142.111.15.104,443,ID,evoxt id
-149.129.250.8,443,ID,21f ciputra
-3.0.50.69,443,SG,amazon data
-47.245.95.160,1443,SG,alibaba cloud
-194.127.193.124,24467,SG,greencloud
-140.83.57.114,25965,JP,imported inetnum
-141.147.152.229,23333,JP,oracle corporation
-204.110.222.104,443,US,securly inc
-37.123.192.147,443,US,kirino
-20.17.104.31,443,MY,microsoft corporation
-47.250.59.132,443,MY,alibaba cloud 2
+34.101.86.59,443,ID,google asia
+43.218.77.16,443,ID,amazoncom inc
+140.245.48.42,443,SG,oracle corporation
+172.104.40.56,587,SG,akamai connected
+160.22.79.166,443,SG,onidel pty
+150.230.59.15,8443,JP,oracle corporation 2
+108.160.141.198,443,JP,vultr holdings
+192.210.197.89,8443,US,racknerd
+72.167.140.7,8443,US,godaddycom
+20.17.107.137,443,MY,microsoft corporation
+58.27.117.24,443,MY,tmnet
