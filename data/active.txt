@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-34.101.86.59,443,ID,google asia
-103.6.207.108,8080,ID,pusat media
-172.232.234.117,443,ID,linode
-8.219.58.164,57373,SG,alibaba cloud
-5.34.176.119,81,SG,green floid
-64.235.61.166,443,SG,singapore sg
-154.31.113.72,443,JP,dmit cloud
-158.101.71.226,8443,JP,oracle public
-104.168.102.163,443,US,racknerd
-199.19.107.81,443,US,cluster logic
-38.60.193.247,13300,MY,kaopu cloud
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.62,443,ID,linode
+47.245.95.160,1443,SG,alibaba cloud
+146.190.107.103,443,SG,digitalocean
+168.138.170.211,53702,SG,oracle public
+138.2.10.217,27446,JP,oracle corporation
+168.138.198.7,27560,JP,oracle public 2
+172.233.200.194,587,US,linode 2
+45.150.65.88,443,US,worktitans
+58.27.117.24,443,MY,tmnet
 20.17.107.137,443,MY,microsoft corporation
