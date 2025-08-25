@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-45.76.179.81,443,SG,vultr holdings
-8.222.220.81,25435,SG,alibaba cloud
-194.127.193.124,24467,SG,greencloud
-35.189.137.210,443,JP,google
-208.75.133.227,443,JP,high sierra
-46.17.107.199,443,US,first server
-64.81.26.152,443,US,gtt communications
-45.89.107.7,2053,MY,worktitans
+142.111.15.104,443,ID,evoxt id
+203.194.112.119,2053,ID,cv rumahweb
+172.232.234.62,443,ID,linode
+209.97.173.243,443,SG,digitalocean
+38.180.249.123,443,SG,3nt solutions
+43.160.202.92,443,SG,6 collyer
+150.230.214.172,16957,JP,oracle corporation
+219.117.2.190,48401,JP,jupiter telecommunications
+47.88.24.237,10444,US,alibaba cloud
+77.110.124.132,443,US,aeza international
 58.27.117.24,443,MY,tmnet
+47.254.255.125,443,MY,alibaba cloud 2
