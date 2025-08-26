@@ -1,13 +1,13 @@
+142.111.15.104,443,ID,evoxt id
+36.95.152.58,12137,ID,telekomunikasi indonesia
 172.232.234.198,443,ID,linode
-172.232.234.62,443,ID,linode 2
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-20.247.137.183,443,SG,microsoft corporation
-139.162.53.195,2053,SG,1391620016
-185.114.78.230,443,SG,aryaka networks
-150.230.204.21,10243,JP,oracle corporation
-52.198.201.0,443,JP,amazon data
-162.243.115.21,443,US,digitalocean
-204.152.218.112,443,US,80vps
-38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud
+203.194.112.119,8443,ID,cv rumahweb
+8.219.59.132,48130,SG,alibaba cloud
+5.223.55.245,8443,SG,hetzner online
+64.49.14.41,8443,SG,internet utilities
+138.2.59.96,10129,JP,oracle corporation
+138.2.10.217,27446,JP,oracle corporation 2
+107.172.90.21,443,US,racknerd
+67.226.221.201,80,US,securly inc
+47.250.59.132,443,MY,alibaba cloud 2
+20.17.104.31,443,MY,microsoft corporation
