@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 34.101.86.59,443,ID,google asia
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-161.117.81.41,443,SG,1 raffles
-185.81.28.95,30503,SG,akile ltd
-31.192.238.71,8443,SG,pdk
-219.117.2.190,48401,JP,jupiter telecommunications
-138.2.32.76,15821,JP,oracle corporation
-74.120.174.34,443,US,cluster logic
-66.135.22.28,443,US,the constant
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.117,443,ID,linode
+157.245.60.56,443,SG,digitalocean
+159.223.68.23,443,SG,digitalocean 2
+157.245.150.6,443,SG,digitalocean 3
+18.178.124.68,443,JP,amazon data
+38.180.28.163,8443,JP,3nt solutions
+146.235.199.164,443,US,oracle corporation
+66.112.218.89,443,US,it7 networks
 47.250.59.132,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 2
