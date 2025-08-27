@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-194.36.179.17,8443,SG,first server
-47.74.254.191,8900,SG,alibaba cloud
-8.222.213.91,587,SG,alibaba cloud 2
-168.138.213.1,50003,JP,oracle public
-158.101.152.6,2919,JP,oracle public 2
-45.144.112.55,8443,US,allocation hb
-204.110.220.15,80,US,securly inc
-20.17.104.31,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+194.127.193.240,50791,SG,greencloud
+43.156.116.194,443,SG,6 collyer
+47.236.119.190,51342,SG,alibaba cloud
+150.230.196.248,443,JP,oracle corporation
+64.110.101.90,55007,JP,oracle corporation 2
+45.135.229.93,2053,US,gcore labs
+45.144.112.54,8443,US,allocation hb
+20.17.107.137,443,MY,microsoft corporation
+58.27.117.24,443,MY,tmnet
