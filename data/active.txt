@@ -1,13 +1,13 @@
-172.235.246.50,443,ID,linode
-156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
 34.101.86.59,443,ID,google asia
-45.76.179.81,443,SG,vultr holdings
-47.236.71.6,443,SG,alibaba cloud
-15.235.199.103,2053,SG,ovh singapore
-132.145.126.40,32498,JP,oracle public
-138.2.10.149,45638,JP,oracle corporation
-88.210.37.244,8443,US,melbikomas uab
-162.220.13.14,8443,US,null
-47.250.132.147,443,MY,alibaba cloud 2
-20.17.104.31,443,MY,microsoft corporation
+172.235.246.50,443,ID,linode
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
+140.245.48.42,443,SG,oracle corporation
+128.199.181.227,2087,SG,digitalocean
+64.49.14.41,2053,SG,internet utilities
+150.230.5.34,45681,JP,oracle corporation 2
+82.163.16.69,8080,JP,akile ltd
+23.177.184.2,8443,US,zhouyisat communications
+107.172.218.244,47452,US,racknerd
+20.17.107.137,443,MY,microsoft corporation
+47.250.37.87,443,MY,alibaba cloud
