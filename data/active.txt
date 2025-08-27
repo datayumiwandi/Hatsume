@@ -1,13 +1,13 @@
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb 2
-103.6.207.108,8080,ID,pusat media
-172.237.81.60,2053,SG,linode
-138.2.89.238,43254,SG,oracle corporation
-92.112.22.94,443,SG,unknown
-155.248.181.189,443,JP,oracle public
-103.232.213.117,8080,JP,kvmcloud network
-172.245.226.156,443,US,racknerd
-142.171.212.153,10041,US,multacom corporation
-47.254.255.125,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+172.235.246.50,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+34.101.86.59,443,ID,google asia
+143.198.196.196,2053,SG,digitalocean
+152.42.228.222,2053,SG,digitalocean 2
+161.117.81.41,443,SG,1 raffles
+138.3.217.167,587,JP,oracle network
+64.110.104.30,443,JP,oracle corporation
+149.18.36.156,443,US,logicweb inc
+67.226.221.185,80,US,securly inc
+47.254.235.252,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
