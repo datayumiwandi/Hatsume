@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc 2
-194.127.193.240,50791,SG,greencloud
-43.156.116.194,443,SG,6 collyer
-47.236.119.190,51342,SG,alibaba cloud
-150.230.196.248,443,JP,oracle corporation
-64.110.101.90,55007,JP,oracle corporation 2
-45.135.229.93,2053,US,gcore labs
-45.144.112.54,8443,US,allocation hb
-20.17.107.137,443,MY,microsoft corporation
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+172.237.81.60,2053,SG,linode
+138.2.89.238,43254,SG,oracle corporation
+92.112.22.94,443,SG,unknown
+155.248.181.189,443,JP,oracle public
+103.232.213.117,8080,JP,kvmcloud network
+172.245.226.156,443,US,racknerd
+142.171.212.153,10041,US,multacom corporation
+47.254.255.125,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
