@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 172.232.234.62,443,ID,linode
-172.235.246.50,443,ID,linode 2
+206.84.101.83,8443,ID,mitra visioner
 156.244.1.250,8443,ID,lightnode
-8.222.237.72,443,SG,alibaba cloud
-54.254.221.222,443,SG,amazon data
-160.22.79.166,443,SG,onidel pty
-176.97.70.154,443,JP,3nt solutions
-38.180.29.40,2053,JP,3nt solutions 2
-144.202.30.93,8443,US,vultr holdings
-185.28.119.17,443,US,bluevps ou
-38.60.193.247,13300,MY,kaopu cloud
-20.17.104.31,443,MY,microsoft corporation
+172.232.234.117,443,ID,linode 2
+194.36.179.17,8443,SG,first server
+152.42.236.151,2053,SG,digitalocean
+66.42.51.60,8443,SG,sgpvultrcust
+132.145.115.62,443,JP,oracle public
+140.83.57.86,54322,JP,imported inetnum
+44.217.235.114,8443,US,amazon data
+4.255.154.186,443,US,microsoft corporation
+58.27.117.24,443,MY,tmnet
+47.254.255.125,443,MY,alibaba cloud
