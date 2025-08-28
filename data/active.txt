@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-156.244.1.250,8443,ID,lightnode
-194.127.193.240,50791,SG,greencloud
-152.42.236.151,8443,SG,digitalocean
-152.42.220.9,443,SG,digitalocean 2
-152.70.82.101,18650,JP,oracle corporation
-47.79.90.37,49153,JP,alibaba cloud
-194.113.211.115,2053,US,cloud web
-43.130.134.123,65001,US,6 collyer
-45.89.107.7,2053,MY,worktitans
-20.17.104.31,443,MY,microsoft corporation
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+142.111.15.104,443,ID,evoxt id
+167.71.198.82,8443,SG,digitalocean
+8.222.218.155,443,SG,alibaba cloud
+43.156.181.203,443,SG,16 collyer
+108.160.141.198,443,JP,vultr holdings
+158.101.152.6,2919,JP,oracle public
+54.153.59.106,80,US,amazon technologies
+38.180.82.166,8443,US,3nt solutions
+47.254.255.125,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
