@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-142.111.15.104,443,ID,evoxt id
 103.6.207.108,8080,ID,pusat media
-103.229.96.157,443,SG,epsilon singapore
-194.36.179.17,2053,SG,first server
-45.76.179.81,443,SG,vultr holdings
-45.77.25.6,27854,JP,vultr holdings 2
-138.2.18.82,8880,JP,oracle corporation
-63.205.203.251,443,US,att enterprises
-204.110.223.6,80,US,securly inc
-47.254.206.121,443,MY,alibaba cloud
-47.250.132.147,443,MY,alibaba cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+194.36.179.17,8443,SG,first server
+8.222.213.91,587,SG,alibaba cloud
+194.127.193.240,50791,SG,greencloud
+47.79.38.17,443,JP,alibaba cloud 2
+43.153.179.6,443,JP,16 collyer
+43.130.134.123,65002,US,6 collyer
+92.118.112.62,8443,US,global internet
+47.250.37.87,443,MY,alibaba cloud 3
+47.250.132.147,443,MY,alibaba cloud 4
