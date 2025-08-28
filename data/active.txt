@@ -1,13 +1,13 @@
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 142.111.15.104,443,ID,evoxt id
-172.235.246.50,443,ID,linode
-156.244.1.250,8443,ID,lightnode
-103.195.191.55,443,SG,28 kallang
-45.76.183.217,49292,SG,vultr holdings
-158.178.246.142,61731,SG,oracle corporation
-74.176.185.219,443,JP,microsoft corporation
-178.157.56.26,443,JP,cluster logic
-77.110.126.67,2053,US,aeza international
-34.118.251.10,443,US,google
+167.99.73.22,443,SG,digitalocean
+172.237.81.60,8443,SG,linode
+45.76.179.81,443,SG,vultr holdings
+154.31.114.136,443,JP,unknown
+152.69.199.70,8443,JP,oracle corporation
+77.110.114.103,2053,US,aeza international
+142.93.15.189,2096,US,digitalocean 2
+20.17.107.137,443,MY,microsoft corporation
 47.250.132.147,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
