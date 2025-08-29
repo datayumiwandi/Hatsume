@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc 2
 203.194.112.119,2053,ID,cv rumahweb
-159.223.53.70,2053,SG,digitalocean
-140.245.97.193,443,SG,oracle corporation
-160.22.79.179,443,SG,onidel pty
-212.52.0.61,1846,JP,prinode
-35.78.229.176,443,JP,amazon data
-77.110.126.67,2053,US,aeza international
-107.170.37.57,443,US,digitalocean 2
+203.194.112.119,8443,ID,cv rumahweb 2
+206.84.101.83,8443,ID,mitra visioner
+36.95.152.58,12137,ID,telekomunikasi indonesia
+45.32.124.255,443,SG,vultr holdings
+157.245.204.209,443,SG,digitalocean
+43.156.181.203,443,SG,16 collyer
+160.251.142.232,443,JP,gmo internet
+168.138.193.174,11959,JP,oracle public
+65.49.216.153,2443,US,it7 networks
+206.83.151.10,8443,US,winstri corp
 20.17.107.137,443,MY,microsoft corporation
-47.254.235.252,443,MY,alibaba cloud
+45.89.107.7,2053,MY,worktitans
