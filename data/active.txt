@@ -1,13 +1,13 @@
+206.84.101.83,8443,ID,mitra visioner
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-83.142.30.5,2096,SG,zappie host
-194.127.193.240,50791,SG,greencloud
-168.138.184.172,443,SG,oracle public
-139.162.84.132,18836,JP,akamai connected
-3.112.21.102,443,JP,amazon data
+104.234.151.10,8443,SG,moechuang network
+167.71.198.82,8443,SG,digitalocean
+160.22.79.155,443,SG,onidel pty
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+207.148.105.247,443,JP,tyovultrcust
 148.135.5.55,34215,US,multacom corporation
-77.110.109.208,8443,US,aeza international
-47.250.139.59,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+178.156.191.67,443,US,hetzner online
+47.250.37.87,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
