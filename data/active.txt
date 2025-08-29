@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
+142.111.15.104,443,ID,evoxt id
 149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
-129.150.58.86,57621,SG,oracle corporation
-152.42.241.71,8443,SG,digitalocean
-194.36.178.36,8443,SG,first server
-132.145.127.203,2053,JP,oracle public
-154.31.114.136,443,JP,unknown
-37.1.209.186,443,US,iroko networks
-80.209.242.177,8443,US,hostkey
-20.17.104.31,443,MY,microsoft corporation
-45.89.107.7,2053,MY,worktitans
+168.138.181.188,61731,SG,oracle public
+139.162.53.195,2053,SG,1391620016
+43.134.164.53,443,SG,6 collyer
+64.176.39.147,16387,JP,the constant
+38.180.28.163,8443,JP,3nt solutions
+144.202.84.145,443,US,vultr holdings
+199.119.137.41,8443,US,extravm
+20.17.107.137,443,MY,microsoft corporation
+47.250.37.87,443,MY,alibaba cloud
