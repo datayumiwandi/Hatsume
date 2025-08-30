@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-142.111.15.104,443,ID,evoxt id
-43.218.77.16,443,ID,amazoncom inc
-143.198.196.196,8443,SG,digitalocean
-160.22.79.179,443,SG,onidel pty
-51.79.158.58,2053,SG,ovh singapore
-168.138.193.174,11959,JP,oracle public
-138.2.48.109,26412,JP,oracle corporation
-107.173.34.130,2053,US,racknerd
-192.9.228.70,14123,US,oracle corporation 2
-20.17.104.31,443,MY,microsoft corporation
-45.89.107.7,2053,MY,worktitans
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+149.129.250.8,443,ID,21f ciputra
+167.253.158.63,2053,SG,365 group
+13.250.97.146,443,SG,amazon data
+149.28.158.103,10030,SG,vultr holdings
+152.70.97.53,443,JP,oracle corporation
+45.77.25.6,27854,JP,vultr holdings 2
+185.28.119.17,443,US,bluevps ou
+107.174.121.122,443,US,racknerd
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
