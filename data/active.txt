@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
+156.244.1.250,8443,ID,lightnode
 142.111.15.104,443,ID,evoxt id
-203.194.112.119,8443,ID,cv rumahweb 2
-139.162.53.195,8443,SG,1391620016
-103.195.191.55,443,SG,28 kallang
-178.128.86.3,443,SG,digitalocean
-158.101.89.113,50443,JP,oracle public
-219.117.2.190,57517,JP,jupiter telecommunications
-38.180.25.224,8443,US,3nt solutions
-198.52.244.111,443,US,kamatera inc
-47.254.206.121,443,MY,alibaba cloud
-45.89.107.7,2053,MY,worktitans
+43.218.77.16,1443,ID,amazoncom inc
+8.222.159.134,12483,SG,alibaba cloud
+43.134.164.53,443,SG,6 collyer
+43.160.202.92,443,SG,6 collyer 2
+138.2.18.82,8880,JP,oracle corporation
+140.83.57.86,54322,JP,imported inetnum
+91.149.239.62,443,US,bgnetwork
+104.168.58.31,443,US,racknerd
+47.254.206.121,443,MY,alibaba cloud 2
+20.17.107.137,443,MY,microsoft corporation
