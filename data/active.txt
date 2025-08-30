@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-158.178.236.14,61731,SG,oracle corporation
-15.235.162.19,443,SG,ovh singapore
-168.138.171.70,23280,SG,oracle public
-141.147.168.141,443,JP,oracle corporation 2
-45.77.25.6,48828,JP,vultr holdings
-155.138.217.97,8443,US,vultr holdings 2
-159.203.82.74,443,US,digitalocean
-20.17.107.137,443,MY,microsoft corporation
-47.254.235.252,443,MY,alibaba cloud
+142.111.15.104,443,ID,evoxt id
+203.194.112.119,8443,ID,cv rumahweb 2
+139.162.53.195,8443,SG,1391620016
+103.195.191.55,443,SG,28 kallang
+178.128.86.3,443,SG,digitalocean
+158.101.89.113,50443,JP,oracle public
+219.117.2.190,57517,JP,jupiter telecommunications
+38.180.25.224,8443,US,3nt solutions
+198.52.244.111,443,US,kamatera inc
+47.254.206.121,443,MY,alibaba cloud
+45.89.107.7,2053,MY,worktitans
