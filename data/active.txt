@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-38.244.147.68,2053,SG,3nt solutions
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
+129.150.58.86,57621,SG,oracle corporation
+167.99.73.22,443,SG,digitalocean
 104.234.151.10,8443,SG,moechuang network
-8.219.63.1,443,SG,alibaba cloud
-103.106.228.126,2053,JP,oneprovidercom tokyo
-147.45.49.80,2053,JP,global connectivity
-104.225.153.70,443,US,cluster logic
-143.20.149.2,8443,US,uqidc
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud 2
+154.31.113.72,443,JP,dmit cloud
+168.138.212.80,443,JP,oracle public
+38.244.8.232,443,US,netlab
+141.148.164.46,57239,US,oracle corporation 2
+47.254.206.121,443,MY,alibaba cloud
+20.17.107.137,443,MY,microsoft corporation
