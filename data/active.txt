@@ -1,13 +1,13 @@
-142.111.15.104,443,ID,evoxt id
 149.129.250.8,443,ID,21f ciputra
+142.111.15.104,443,ID,evoxt id
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-213.35.100.31,47112,SG,oracle svenska
-194.156.163.45,443,SG,misaka network
-13.250.14.76,443,SG,amazon data
-198.13.42.58,32954,JP,vultr holdings
-176.97.70.154,443,JP,3nt solutions
-150.241.122.176,443,US,3hcloud
-216.146.25.224,8443,US,extravm
-47.250.59.132,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+150.109.11.223,443,SG,16 collyer
+47.236.71.6,443,SG,alibaba cloud
+5.223.49.4,2053,SG,hetzner online
+147.45.49.193,2053,JP,global connectivity
+158.101.154.245,47001,JP,oracle public
+199.195.254.21,443,US,frantech solutions
+207.246.97.82,443,US,vultr holdings
+47.250.139.249,443,MY,alibaba cloud 2
+47.250.139.59,443,MY,alibaba cloud 3
