@@ -1,13 +1,13 @@
+142.111.15.104,443,ID,evoxt id
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
-159.223.68.23,443,SG,digitalocean
-160.22.79.155,443,SG,onidel pty
-45.76.179.81,443,SG,vultr holdings
-103.106.0.123,443,JP,worktitans
-138.2.49.197,587,JP,oracle corporation
-129.146.114.239,44039,US,oracle corporation 2
-45.135.229.93,8443,US,gcore labs
-47.254.235.252,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+43.156.181.203,443,SG,16 collyer
+157.245.204.209,443,SG,digitalocean
+164.52.2.100,443,SG,uculsg
+176.97.70.166,443,JP,3nt solutions
+140.83.57.183,22735,JP,imported inetnum
+67.226.221.26,80,US,securly inc
+192.69.90.84,443,US,cluster logic
+58.27.117.24,443,MY,tmnet
+47.250.139.59,443,MY,alibaba cloud
