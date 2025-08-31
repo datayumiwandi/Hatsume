@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-167.172.85.29,443,SG,digitalocean
-43.160.202.92,443,SG,6 collyer
-31.192.238.71,2053,SG,pdk
-176.97.70.51,2053,JP,3nt solutions
-219.117.2.190,57517,JP,jupiter telecommunications
-64.64.228.98,8443,US,cluster logic
-146.235.211.56,443,US,oracle corporation
-38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb 2
+142.111.15.104,443,ID,evoxt id
+8.222.159.134,12483,SG,alibaba cloud
+38.181.70.7,16240,SG,eons data
+152.42.220.9,8443,SG,digitalocean
+141.147.152.229,23333,JP,oracle corporation
+138.2.10.149,45638,JP,oracle corporation 2
+43.130.134.123,65001,US,6 collyer
+104.234.36.27,33388,US,virtual machine
+58.27.117.24,443,MY,tmnet
+47.254.255.125,443,MY,alibaba cloud 2
