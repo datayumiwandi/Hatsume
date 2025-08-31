@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.179.5,2053,SG,first server
-15.235.192.85,443,SG,ovh singapore
-185.114.78.230,443,SG,aryaka networks
-154.31.114.136,443,JP,unknown
-138.2.32.76,15821,JP,oracle corporation
-63.142.251.8,443,US,nodisto it
-192.3.30.175,2053,US,racknerd
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+194.36.178.36,8443,SG,first server
+8.222.159.134,12483,SG,alibaba cloud
+66.42.51.60,8443,SG,sgpvultrcust
+141.147.152.229,23333,JP,oracle corporation
+131.186.63.89,11655,JP,oracle public
+198.181.36.224,443,US,cluster logic
+209.135.171.209,443,US,snaju development
+20.17.104.31,443,MY,microsoft corporation
+45.89.107.7,2053,MY,worktitans
