@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.232.234.62,443,ID,linode
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-172.235.246.50,443,ID,linode
-47.236.29.162,443,SG,alibaba cloud
-13.212.213.77,8443,SG,amazon data
-47.130.35.116,8888,SG,amazon data 2
-138.2.59.96,10129,JP,oracle corporation
-45.77.25.6,27854,JP,vultr holdings
-204.110.220.102,80,US,securly inc
-104.234.50.97,2053,US,unknown
-58.27.117.24,443,MY,tmnet
-47.250.37.87,443,MY,alibaba cloud 2
+91.192.81.154,2053,SG,melbikomas uab
+38.244.147.68,443,SG,3nt solutions
+157.245.150.6,443,SG,digitalocean
+45.76.192.129,24434,JP,vultr holdings
+168.138.198.7,27560,JP,oracle public
+35.175.188.144,9000,US,amazon technologies
+154.40.58.171,8443,US,netlab global
+47.250.132.147,443,MY,alibaba cloud
+45.89.107.7,2053,MY,worktitans
