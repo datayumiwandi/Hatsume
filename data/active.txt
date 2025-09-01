@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,8443,ID,cv rumahweb
-47.245.95.160,1443,SG,alibaba cloud
-138.2.95.33,17465,SG,oracle corporation
-160.22.79.155,443,SG,onidel pty
-23.106.140.129,443,JP,it7 networks
-141.147.162.24,1235,JP,oracle corporation 2
-44.217.235.114,8443,US,amazon data
-5.161.176.159,50001,US,hetzner online
-20.17.107.137,443,MY,microsoft corporation
-47.250.139.249,443,MY,alibaba cloud 2
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+172.235.246.50,443,ID,linode
+47.236.29.162,443,SG,alibaba cloud
+13.212.213.77,8443,SG,amazon data
+47.130.35.116,8888,SG,amazon data 2
+138.2.59.96,10129,JP,oracle corporation
+45.77.25.6,27854,JP,vultr holdings
+204.110.220.102,80,US,securly inc
+104.234.50.97,2053,US,unknown
+58.27.117.24,443,MY,tmnet
+47.250.37.87,443,MY,alibaba cloud 2
