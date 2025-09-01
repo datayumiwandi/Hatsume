@@ -1,13 +1,13 @@
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.117,443,ID,linode
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-178.128.86.3,443,SG,digitalocean
+91.192.81.154,2053,SG,melbikomas uab
 146.235.19.79,28983,SG,oracle corporation
-43.128.95.110,40029,SG,6 collyer
-202.84.53.85,19999,JP,azumino network
-168.138.197.147,12345,JP,oracle public
-35.203.138.30,443,US,google
-77.110.109.80,8443,US,aeza international
-38.60.193.247,13300,MY,kaopu cloud
+45.76.183.217,49292,SG,vultr holdings
+141.147.188.120,443,JP,oracle corporation 2
+202.182.115.102,443,JP,tyovultrcust
+192.210.181.182,443,US,racknerd
+45.12.91.74,8443,US,hostsymbol pte
 45.89.107.7,2053,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud
