@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
 172.232.234.117,443,ID,linode
-103.6.207.108,8080,ID,pusat media
-194.36.179.17,2053,SG,first server
-8.222.220.81,25435,SG,alibaba cloud
-146.235.19.79,28983,SG,oracle corporation
-38.180.28.163,8443,JP,3nt solutions
-132.145.126.40,32498,JP,oracle public
-23.177.184.2,8443,US,zhouyisat communications
-129.153.91.86,3701,US,oracle corporation 2
-47.254.235.252,443,MY,alibaba cloud 2
-45.89.107.7,2053,MY,worktitans
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
+111.119.215.93,443,SG,huaweicloudsg
+104.234.151.10,8443,SG,moechuang network
+47.130.115.157,443,SG,amazon data
+158.101.76.55,21953,JP,oracle public
+217.142.250.195,587,JP,oracle corporation
+174.137.53.41,443,US,cluster logic
+148.135.22.233,48625,US,multacom corporation
+20.17.104.31,443,MY,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud
