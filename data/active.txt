@@ -1,13 +1,13 @@
-172.232.234.117,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-8.219.155.21,443,SG,alibaba cloud
-38.180.249.123,443,SG,3nt solutions
-138.2.95.61,1111,SG,oracle corporation
-138.2.48.109,26412,JP,oracle corporation 2
-47.79.43.222,443,JP,alibaba cloud 2
-43.130.105.166,65002,US,6 collyer
-45.144.112.51,8443,US,allocation hb
+156.244.1.250,8443,ID,lightnode
+172.232.234.117,443,ID,linode
+8.219.59.132,48964,SG,alibaba cloud
+164.52.2.100,443,SG,uculsg
+52.76.110.129,20001,SG,amazon technologies
+167.179.86.6,8443,JP,tyovultrcust
+108.160.141.198,443,JP,vultr holdings
+104.236.114.97,443,US,digitalocean
+193.46.218.57,443,US,huize holdings
 20.17.107.137,443,MY,microsoft corporation
-20.17.104.31,443,MY,microsoft corporation 2
+45.89.107.7,2053,MY,worktitans
