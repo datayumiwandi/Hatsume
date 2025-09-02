@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-172.232.234.117,443,ID,linode
-159.223.68.23,443,SG,digitalocean
-213.35.100.31,47112,SG,oracle svenska
-43.128.95.110,40029,SG,6 collyer
-140.83.57.183,22735,JP,imported inetnum
-8.209.220.50,21273,JP,shiodome sumitomo
-185.186.245.90,443,US,inxy ltd
-35.212.208.244,443,US,google
-47.254.235.252,443,MY,alibaba cloud
+172.235.246.50,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb 2
+64.49.14.41,2053,SG,internet utilities
+8.219.63.1,443,SG,alibaba cloud
+139.180.215.77,57878,SG,sgpvultrcust
+27.83.68.142,8443,JP,japan internet
+38.207.137.217,443,JP,nearoute
+162.243.109.73,443,US,digitalocean
+5.78.51.123,8443,US,hetzner online
+20.17.104.31,443,MY,microsoft corporation
 47.254.255.125,443,MY,alibaba cloud 2
