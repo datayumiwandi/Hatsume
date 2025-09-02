@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 172.232.234.62,443,ID,linode
-203.194.112.119,2053,ID,cv rumahweb
-172.235.246.50,443,ID,linode 2
-172.232.234.117,443,ID,linode 3
-149.28.158.103,10030,SG,vultr holdings
-194.156.163.45,443,SG,misaka network
-194.36.179.17,2053,SG,first server
-176.97.70.51,2053,JP,3nt solutions
-113.37.149.36,12553,JP,arteria networks
-80.209.243.168,443,US,hostkey
-172.245.111.20,443,US,racknerd
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+172.232.234.117,443,ID,linode 2
+43.218.77.16,1443,ID,amazoncom inc
+43.156.107.236,12131,SG,6 collyer
+66.42.51.60,8443,SG,sgpvultrcust
+152.42.236.151,2053,SG,digitalocean
+47.79.43.222,443,JP,alibaba cloud
+138.3.222.124,46209,JP,oracle network
+91.236.230.108,443,US,bluevps ou
+107.173.244.203,22289,US,racknerd
+58.27.117.24,443,MY,tmnet
+20.17.104.31,443,MY,microsoft corporation
