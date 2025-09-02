@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-172.232.234.117,443,ID,linode
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.62,443,ID,linode 2
-167.253.158.63,8443,SG,365 group
-8.222.159.134,12314,SG,alibaba cloud
-43.160.202.92,443,SG,6 collyer
+156.244.1.250,8443,ID,lightnode
+92.112.22.94,443,SG,unknown
+83.142.30.4,2096,SG,zappie host
+152.42.220.9,443,SG,digitalocean
 138.2.16.61,443,JP,cloudflare inc
-152.70.82.101,18650,JP,oracle corporation
-104.224.181.22,443,US,it7 networks
-23.94.168.60,443,US,racknerd
+74.176.185.219,443,JP,microsoft corporation
+38.135.122.158,443,US,cogent communications
+104.224.152.99,443,US,it7 networks
+47.250.132.147,443,MY,alibaba cloud
 47.250.37.87,443,MY,alibaba cloud 2
-45.89.107.7,2053,MY,worktitans
