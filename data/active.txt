@@ -1,13 +1,13 @@
+203.194.112.119,8443,ID,cv rumahweb
+172.232.234.198,443,ID,linode
+172.232.234.117,443,ID,linode 2
 206.84.101.83,8443,ID,mitra visioner
-172.232.234.117,443,ID,linode
-172.232.234.198,443,ID,linode 2
-43.218.77.16,1443,ID,amazoncom inc
-167.253.158.63,8443,SG,365 group
-139.162.4.242,8443,SG,linode 3
-128.199.134.152,443,SG,digitalocean
-147.45.49.164,24443,JP,global connectivity
-141.147.183.49,29876,JP,oracle corporation
-159.65.162.90,4431,US,digitalocean 2
-142.171.145.44,8443,US,multacom corporation
-20.17.104.31,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud
+64.235.43.213,443,SG,singapore sg
+194.156.163.45,443,SG,misaka network
+47.245.85.72,443,SG,alibaba cloud
+5.180.76.44,443,JP,cegrgodigitalvm
+172.104.127.132,443,JP,linode 3
+107.172.190.130,2053,US,racknerd
+154.40.58.42,443,US,netlab global
+47.254.206.121,443,MY,alibaba cloud 2
+47.254.235.252,443,MY,alibaba cloud 3
