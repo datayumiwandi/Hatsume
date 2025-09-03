@@ -1,13 +1,13 @@
 172.232.234.117,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-172.232.234.62,443,ID,linode 2
-172.235.246.50,443,ID,linode 3
-138.2.107.107,443,SG,oracle corporation
-178.128.124.97,443,SG,digitalocean
-138.2.89.64,32962,SG,oracle corporation 2
-138.2.10.149,45638,JP,oracle corporation 3
-153.121.45.101,443,JP,sakura internet
-129.153.214.71,16666,US,oracle corporation 4
-192.3.251.17,443,US,racknerd
-47.254.255.125,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+152.42.236.151,8443,SG,digitalocean
+158.178.229.178,443,SG,oracle corporation
+213.35.100.31,47112,SG,oracle svenska
+13.230.34.30,443,JP,amazon data
+158.101.146.3,54516,JP,oracle public
+172.93.46.36,8443,US,cluster logic
+193.122.195.166,52557,US,oracle public 2
+38.60.193.247,13300,MY,kaopu cloud
+47.250.37.87,443,MY,alibaba cloud
