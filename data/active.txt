@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
 172.232.234.198,443,ID,linode
-213.35.108.135,12596,SG,oracle svenska
-209.97.173.243,443,SG,digitalocean
+4.194.170.167,443,SG,microsoft corporation
 5.223.49.4,2053,SG,hetzner online
-38.180.29.40,2053,JP,3nt solutions
-64.176.55.11,29999,JP,the constant
-104.234.50.138,2053,US,unknown
-35.197.23.75,443,US,google
-45.89.107.7,2053,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud
+45.32.100.46,13802,SG,vultr holdings
+47.79.38.17,443,JP,alibaba cloud
+154.31.114.136,443,JP,unknown
+192.9.227.116,443,US,oracle corporation
+107.170.4.12,443,US,digitalocean
+20.17.107.137,443,MY,microsoft corporation 2
+20.17.104.31,443,MY,microsoft corporation 3
