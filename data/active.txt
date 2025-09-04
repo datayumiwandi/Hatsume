@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 172.232.234.62,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode 2
-43.218.77.16,1443,ID,amazoncom inc
-43.252.21.100,443,SG,specialist
-43.156.107.236,12131,SG,6 collyer
-18.136.213.164,443,SG,amazon data
-158.101.131.94,2083,JP,oracle public
-156.231.117.209,443,JP,akile ltd
-45.146.234.144,28217,US,virtual machine
-144.126.132.39,8443,US,contabo inc
-58.27.117.24,443,MY,tmnet
-47.250.139.249,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.236.21.74,443,SG,alibaba cloud
+178.128.86.3,443,SG,digitalocean
+149.28.158.103,10030,SG,vultr holdings
+138.2.32.76,15821,JP,oracle corporation
+202.84.53.85,19999,JP,azumino network
+172.245.131.101,2053,US,racknerd
+130.185.164.218,8443,US,internet utilities
+47.254.235.252,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 3
