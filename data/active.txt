@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-138.2.89.238,43254,SG,oracle corporation
-3.0.50.69,443,SG,amazon data
-206.189.88.145,443,SG,digitalocean
-47.79.90.37,49153,JP,alibaba cloud
-64.176.42.125,10001,JP,vultr holdings
-129.153.112.108,3966,US,oracle corporation 2
-198.12.89.147,443,US,hostpapa
-47.254.255.125,443,MY,alibaba cloud 2
-45.89.107.7,2053,MY,worktitans
+172.232.234.198,443,ID,linode
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,443,ID,amazoncom inc
+15.235.199.103,2053,SG,ovh singapore
+139.180.159.133,443,SG,sgpvultrcust
+47.130.35.116,8888,SG,amazon data
+176.97.70.154,443,JP,3nt solutions
+109.123.231.212,2053,JP,contabo gmbh
+204.110.222.104,443,US,securly inc
+66.248.240.22,443,US,soladrive
+47.254.235.252,443,MY,alibaba cloud
+20.17.107.137,443,MY,microsoft corporation
