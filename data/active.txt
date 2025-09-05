@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
+172.232.234.198,443,ID,linode
 203.194.112.119,8443,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-172.232.234.198,443,ID,linode
-185.81.28.95,30503,SG,akile ltd
-206.206.77.53,443,SG,ipxo
-178.128.124.97,443,SG,digitalocean
-138.2.32.76,15821,JP,oracle corporation
-91.194.160.45,2053,JP,worktitans
-103.35.190.187,8443,US,worktitans 2
-23.152.200.75,443,US,365hosting
-20.17.107.137,443,MY,microsoft corporation
-47.254.235.252,443,MY,alibaba cloud
+213.35.108.135,12596,SG,oracle svenska
+54.255.217.120,8192,SG,amazon data
+8.222.159.134,12314,SG,alibaba cloud
+172.104.117.43,12452,JP,linode 2
+156.231.117.209,443,JP,akile ltd
+4.242.243.5,443,US,microsoft corporation
+103.35.190.72,443,US,worktitans
+38.60.193.247,13300,MY,kaopu cloud
+20.17.107.137,443,MY,microsoft corporation 2
