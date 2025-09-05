@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-158.178.246.142,61731,SG,oracle corporation
-138.2.69.236,23334,SG,oracle corporation 2
-159.223.53.70,2053,SG,digitalocean
-43.133.26.158,443,JP,6 collyer
-38.180.28.163,8443,JP,3nt solutions
-144.126.132.39,8443,US,contabo inc
-5.161.241.58,8443,US,hetzner online
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+172.232.234.198,443,ID,linode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+143.42.66.91,443,SG,viewqwest pte
+47.236.119.190,51342,SG,alibaba cloud
+168.138.171.70,23280,SG,oracle public
+49.212.133.94,443,JP,sakura internet
+47.79.43.222,443,JP,alibaba cloud 2
+72.167.140.7,8443,US,godaddycom
+38.180.135.198,443,US,3nt solutions
+45.89.107.7,2053,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud 3
