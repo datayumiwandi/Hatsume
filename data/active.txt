@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.198,443,ID,linode
-8.219.126.137,491,SG,alibaba cloud
-52.74.101.26,443,SG,amazon technologies
-161.117.249.114,2025,SG,1 raffles
-64.176.55.11,29999,JP,the constant
-54.64.238.243,443,JP,amazon technologies 2
-204.110.223.42,80,US,securly inc
-23.80.81.179,8443,US,leaseweb usa
-155.254.60.225,443,MY,evoxt enterprise
-47.250.139.249,443,MY,alibaba cloud 2
+139.162.53.195,8443,SG,1391620016
+139.180.159.133,443,SG,sgpvultrcust
+66.42.61.1,443,SG,sgpvultrcust 2
+140.83.57.86,54322,JP,imported inetnum
+132.145.126.40,32498,JP,oracle public
+172.93.43.15,8443,US,cluster logic
+142.171.228.35,8443,US,multacom corporation
+20.17.107.137,443,MY,microsoft corporation
+47.250.139.59,443,MY,alibaba cloud
