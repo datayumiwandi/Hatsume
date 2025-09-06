@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-172.235.246.50,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb 2
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-83.142.30.5,2096,SG,zappie host
-185.81.28.95,30503,SG,akile ltd
-178.128.86.3,443,SG,digitalocean
-168.138.51.8,8443,JP,oracle public
-47.79.38.17,443,JP,alibaba cloud
-107.148.28.125,20936,US,peg tech
-206.83.151.10,8443,US,winstri corp
-38.60.193.247,13300,MY,kaopu cloud
+172.232.234.198,443,ID,linode
+167.253.158.63,8443,SG,365 group
+111.119.215.93,443,SG,huaweicloudsg
+43.160.202.92,443,SG,6 collyer
+178.157.56.26,443,JP,cluster logic
+140.83.57.114,25965,JP,imported inetnum
+72.167.140.7,8443,US,godaddycom
+172.233.200.194,587,US,linode 2
+47.250.37.87,443,MY,alibaba cloud
 47.254.206.121,443,MY,alibaba cloud 2
