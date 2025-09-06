@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,2053,ID,cv rumahweb
 172.232.234.198,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
-43.156.181.203,443,SG,16 collyer
-143.198.196.196,2053,SG,digitalocean
-161.117.81.228,4443,SG,1 raffles
-103.232.213.117,8080,JP,kvmcloud network
-217.142.236.93,443,JP,oracle svenska
-38.180.40.69,8443,US,3nt solutions
-148.135.106.200,443,US,brander group
-45.89.107.7,2053,MY,worktitans
-38.60.193.247,13300,MY,kaopu cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+206.84.101.83,8443,ID,mitra visioner
+157.245.150.6,443,SG,digitalocean
+92.112.22.94,443,SG,unknown
+164.52.2.100,443,SG,uculsg
+8.209.220.50,21273,JP,shiodome sumitomo
+84.247.152.46,10045,JP,contabo gmbh
+172.245.131.101,2053,US,racknerd
+37.123.192.147,443,US,kirino
+47.254.235.252,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
