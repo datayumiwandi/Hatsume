@@ -1,13 +1,13 @@
-172.235.246.50,443,ID,linode
 149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
-8.219.63.1,443,SG,alibaba cloud
-139.162.53.195,2053,SG,1391620016
-138.2.107.107,443,SG,oracle corporation
-138.3.222.33,443,JP,oracle network
-140.83.57.20,13118,JP,imported inetnum
-204.110.222.106,80,US,securly inc
-62.60.176.49,8443,US,smart digital
-58.27.117.24,443,MY,tmnet
+172.235.246.50,443,ID,linode
+156.244.1.250,8443,ID,lightnode
+64.235.43.213,443,SG,singapore sg
+168.138.171.70,23280,SG,oracle public
+92.112.22.94,443,SG,unknown
+158.101.146.3,54516,JP,oracle public 2
+47.79.38.17,443,JP,alibaba cloud
+192.3.251.89,443,US,racknerd
+192.210.197.89,8443,US,racknerd 2
 155.254.60.225,443,MY,evoxt enterprise
+47.254.235.252,443,MY,alibaba cloud 2
