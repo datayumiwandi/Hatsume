@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
+206.84.101.83,8443,ID,mitra visioner
 156.244.1.250,8443,ID,lightnode
-172.235.246.50,443,ID,linode
-91.192.81.154,2053,SG,melbikomas uab
-152.42.236.151,8443,SG,digitalocean
-45.76.179.81,443,SG,vultr holdings
-219.117.2.190,57517,JP,jupiter telecommunications
-138.2.18.82,8880,JP,oracle corporation
-80.209.242.156,8443,US,hostkey
-204.110.222.106,80,US,securly inc
-47.250.139.249,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+8.219.59.132,48964,SG,alibaba cloud
+20.247.137.183,443,SG,microsoft corporation
+8.222.159.134,12314,SG,alibaba cloud 2
+140.83.56.110,56417,JP,imported inetnum
+140.83.63.113,443,JP,imported inetnum 2
+74.48.4.29,37731,US,multacom corporation
+38.49.36.155,443,US,kurun cloud
+47.250.139.59,443,MY,alibaba cloud 3
+47.250.37.87,443,MY,alibaba cloud 4
