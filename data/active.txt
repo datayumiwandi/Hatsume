@@ -1,13 +1,13 @@
-172.235.246.50,443,ID,linode
-172.232.234.117,443,ID,linode 2
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-52.74.101.26,443,SG,amazon technologies
-8.222.218.155,443,SG,alibaba cloud
-43.134.164.53,443,SG,6 collyer
-140.83.57.183,22735,JP,imported inetnum
-64.110.101.90,55007,JP,oracle corporation
-34.194.76.43,443,US,amazon data
-20.171.107.105,443,US,microsoft corporation
-155.254.60.225,443,MY,evoxt enterprise
-47.254.206.121,443,MY,alibaba cloud 2
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
+172.232.234.62,443,ID,linode
+172.235.246.50,443,ID,linode 2
+8.222.213.91,587,SG,alibaba cloud
+47.130.35.116,8888,SG,amazon data
+15.235.192.85,443,SG,ovh singapore
+132.145.116.185,443,JP,oracle public
+47.79.43.222,443,JP,alibaba cloud 2
+38.244.31.27,443,US,netlab
+18.224.73.231,443,US,amazon technologies
+47.254.206.121,443,MY,alibaba cloud 3
+47.250.139.249,443,MY,alibaba cloud 4
