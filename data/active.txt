@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.62,443,ID,linode
-103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-45.76.179.81,443,SG,vultr holdings
-64.235.43.144,443,SG,singapore sg
-103.229.96.157,443,SG,epsilon singapore
-141.147.152.229,23333,JP,oracle corporation
-18.177.83.181,443,JP,amazon data
-204.152.218.112,443,US,80vps
-47.90.216.208,47493,US,alibaba cloud
-58.27.117.24,443,MY,tmnet
-47.250.37.87,443,MY,alibaba cloud 2
+172.232.234.198,443,ID,linode
+172.235.246.50,443,ID,linode 2
+203.194.112.119,8443,ID,cv rumahweb
+149.28.158.103,10030,SG,vultr holdings
+194.127.193.240,50791,SG,greencloud
+8.222.213.91,587,SG,alibaba cloud
+108.61.201.87,8443,JP,vultr holdings 2
+138.3.222.33,443,JP,oracle network
+107.173.149.215,443,US,racknerd
+216.24.181.49,49151,US,cluster logic
+47.250.132.147,443,MY,alibaba cloud 2
+47.254.235.252,443,MY,alibaba cloud 3
