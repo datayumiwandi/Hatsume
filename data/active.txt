@@ -1,13 +1,13 @@
-172.232.234.117,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-172.232.234.62,443,ID,linode 2
-172.235.246.50,443,ID,linode 3
-158.178.243.152,61731,SG,oracle corporation
-164.52.2.98,443,SG,uculsg
-47.237.149.38,8443,SG,alibaba cloud
-155.248.181.189,443,JP,oracle public
-64.110.104.30,443,JP,oracle corporation 2
-172.96.193.137,20408,US,cluster logic
-77.110.126.213,443,US,aeza international
-45.89.107.7,2053,MY,worktitans
-38.60.193.247,13300,MY,kaopu cloud
+84.247.150.170,8443,SG,contabo gmbh
+138.2.64.229,443,SG,oracle corporation
+138.2.89.238,43254,SG,oracle corporation 2
+168.138.193.174,11959,JP,oracle public
+49.212.133.94,443,JP,sakura internet
+5.181.3.169,2053,US,global connectivity
+31.57.63.147,2053,US,cgi global
+47.250.139.249,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
