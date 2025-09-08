@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-172.235.246.50,443,ID,linode
-194.36.179.17,8443,SG,first server
-138.2.69.236,23334,SG,oracle corporation
-8.222.218.155,443,SG,alibaba cloud
-141.147.188.120,443,JP,oracle corporation 2
-158.101.146.3,54516,JP,oracle public
-45.62.107.226,443,US,it7 networks
-138.128.247.246,443,US,cloud web
+172.232.234.198,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc 2
+206.84.101.83,8443,ID,mitra visioner
+104.248.145.216,443,SG,digitalocean
+103.195.191.55,443,SG,28 kallang
+47.236.71.6,443,SG,alibaba cloud
+168.138.198.7,27560,JP,oracle public
+168.138.192.16,54584,JP,oracle public 2
+107.174.156.95,443,US,racknerd
+45.45.218.183,443,US,hosthatch
 58.27.117.24,443,MY,tmnet
-45.89.107.7,2053,MY,worktitans
+47.254.206.121,443,MY,alibaba cloud 2
