@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-172.235.246.50,443,ID,linode
-172.232.234.198,443,ID,linode 2
-164.52.2.100,443,SG,uculsg
-129.150.36.188,53435,SG,oracle corporation
-194.127.193.240,50791,SG,greencloud
-147.45.49.80,2053,JP,global connectivity
-147.45.49.164,24443,JP,global connectivity 2
-77.110.109.79,443,US,aeza international
-67.226.221.254,80,US,securly inc
-155.254.60.225,443,MY,evoxt enterprise
-47.254.235.252,443,MY,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+47.236.29.162,443,SG,alibaba cloud
+5.34.176.119,81,SG,green floid
+194.36.179.17,2053,SG,first server
+156.231.117.209,443,JP,akile ltd
+43.133.10.236,33405,JP,6 collyer
+148.135.17.203,23469,US,multacom corporation
+15.204.10.80,36683,US,ovh us
+47.254.255.125,443,MY,alibaba cloud 2
+20.17.104.31,443,MY,microsoft corporation
