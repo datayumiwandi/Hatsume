@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-168.138.171.70,23280,SG,oracle public
-15.235.199.103,2053,SG,ovh singapore
-143.198.196.196,8443,SG,digitalocean
-141.147.188.120,443,JP,oracle corporation
-84.247.152.46,10045,JP,contabo gmbh
-172.236.251.37,443,US,linode
-204.110.220.77,80,US,securly inc
-47.254.235.252,443,MY,alibaba cloud
-45.89.107.7,2053,MY,worktitans
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
+159.223.68.23,443,SG,digitalocean
+91.192.81.154,2053,SG,melbikomas uab
+15.235.162.19,443,SG,ovh singapore
+13.230.34.30,443,JP,amazon data
+156.231.117.209,443,JP,akile ltd
+47.90.181.148,443,US,alibaba cloud
+152.67.248.2,53300,US,oracle public
+38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
