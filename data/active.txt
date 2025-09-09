@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-206.84.101.83,8443,ID,mitra visioner
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-47.236.21.74,443,SG,alibaba cloud
-8.219.63.1,443,SG,alibaba cloud 2
-143.198.196.196,8443,SG,digitalocean
-155.248.184.178,30011,JP,oracle public
-82.163.16.229,26803,JP,akile ltd
-149.18.36.176,443,US,logicweb inc
-80.209.242.177,8443,US,hostkey
-47.254.255.125,443,MY,alibaba cloud 3
-155.254.60.225,443,MY,evoxt enterprise
+172.232.234.198,443,ID,linode
+47.130.115.157,443,SG,amazon data
+139.162.53.195,8443,SG,1391620016
+138.2.64.229,443,SG,oracle corporation
+158.101.152.6,2919,JP,oracle public
+141.147.144.15,13357,JP,oracle corporation 2
+3.223.11.73,443,US,amazon data 2
+104.128.226.77,13579,US,hostus
+45.89.107.7,2053,MY,worktitans
+20.17.107.137,443,MY,microsoft corporation
