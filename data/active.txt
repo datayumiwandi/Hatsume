@@ -1,13 +1,13 @@
 206.84.101.83,8443,ID,mitra visioner
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 203.194.112.119,8443,ID,cv rumahweb
-172.232.234.198,443,ID,linode
-128.199.134.152,443,SG,digitalocean
-13.250.97.146,443,SG,amazon data
-168.138.165.174,443,SG,oracle public
-158.101.146.3,44872,JP,oracle public 2
-52.194.236.221,8443,JP,amazon data 2
-5.78.117.35,8443,US,hetzner online
-138.2.235.230,22731,US,oracle corporation
-47.254.206.121,443,MY,alibaba cloud
-20.17.107.137,443,MY,microsoft corporation
+152.42.241.71,2053,SG,digitalocean
+20.205.177.152,443,SG,microsoft corporation
+45.32.100.46,13802,SG,vultr holdings
+141.147.161.249,51037,JP,oracle corporation
+47.79.90.37,49153,JP,alibaba cloud
+45.151.133.104,16000,US,spartan host
+159.203.66.184,443,US,digitalocean 2
+20.17.107.137,443,MY,microsoft corporation 2
+155.254.60.225,443,MY,evoxt enterprise
