@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+156.244.1.250,8443,ID,lightnode
 172.232.234.198,443,ID,linode
-139.162.53.195,8443,SG,1391620016
-185.81.28.95,30503,SG,akile ltd
-111.119.215.93,443,SG,huaweicloudsg
-91.194.160.45,8443,JP,worktitans
-121.85.55.59,19842,JP,optage inc
-154.17.236.6,443,US,dmit cloud
-104.196.250.34,2087,US,google
+43.218.77.16,1443,ID,amazoncom inc
+152.42.241.71,2053,SG,digitalocean
+5.34.176.119,81,SG,green floid
+64.235.61.166,443,SG,singapore sg
+138.2.10.149,45638,JP,oracle corporation
+217.142.236.93,443,JP,oracle svenska
+77.110.124.132,443,US,aeza international
+142.171.36.3,43553,US,multacom corporation
 58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
