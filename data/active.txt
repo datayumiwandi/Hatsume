@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
-206.84.101.83,8443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-194.36.179.5,2053,SG,first server
-158.178.246.142,61731,SG,oracle corporation
-165.154.203.69,443,SG,scloud pte
-141.147.147.180,443,JP,oracle corporation 2
-217.142.243.226,443,JP,oracle svenska
-155.248.202.141,443,US,oracle public
-107.182.187.11,57050,US,it7 networks
-58.27.117.24,443,MY,tmnet
-47.250.139.59,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
+172.232.234.198,443,ID,linode
+194.127.193.240,50791,SG,greencloud
+158.178.243.152,61731,SG,oracle corporation
+66.42.61.1,443,SG,sgpvultrcust
+192.243.127.224,443,JP,it7 networks
+153.121.45.101,443,JP,sakura internet
+51.81.209.21,8443,US,ovh us
+54.151.41.196,443,US,amazoncom inc 2
+20.17.104.31,443,MY,microsoft corporation
+47.250.37.87,443,MY,alibaba cloud
