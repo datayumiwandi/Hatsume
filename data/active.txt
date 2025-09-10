@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode
-194.127.193.240,50791,SG,greencloud
-158.178.243.152,61731,SG,oracle corporation
-66.42.61.1,443,SG,sgpvultrcust
-192.243.127.224,443,JP,it7 networks
-153.121.45.101,443,JP,sakura internet
-51.81.209.21,8443,US,ovh us
-54.151.41.196,443,US,amazoncom inc 2
-20.17.104.31,443,MY,microsoft corporation
-47.250.37.87,443,MY,alibaba cloud
+203.194.112.119,2053,ID,cv rumahweb
+91.192.81.154,2053,SG,melbikomas uab
+160.22.79.155,443,SG,onidel pty
+128.199.128.28,123,SG,digitalocean
+138.3.222.124,46209,JP,oracle network
+168.138.213.1,50003,JP,oracle public
+74.48.96.113,443,US,multacom corporation
+92.118.112.62,2053,US,global internet
+47.254.255.125,443,MY,alibaba cloud
+47.250.59.132,443,MY,alibaba cloud 2
