@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-206.84.101.83,8443,ID,mitra visioner
 43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-111.119.215.93,443,SG,huaweicloudsg
-31.192.238.71,8443,SG,pdk
-143.198.196.196,8443,SG,digitalocean
-198.13.42.58,32954,JP,vultr holdings
-141.147.147.180,443,JP,oracle corporation
-205.172.56.128,2053,US,hostkey
-66.98.127.46,2053,US,cluster logic
-47.254.235.252,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+172.232.234.198,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+51.79.158.58,8443,SG,ovh singapore
+45.76.183.217,49292,SG,vultr holdings
+146.190.104.232,443,SG,digitalocean
+91.194.160.45,2053,JP,worktitans
+141.147.183.49,29876,JP,oracle corporation
+144.34.154.36,443,US,cluster logic
+192.3.81.151,443,US,racknerd
+47.250.139.59,443,MY,alibaba cloud
+20.17.107.137,443,MY,microsoft corporation
