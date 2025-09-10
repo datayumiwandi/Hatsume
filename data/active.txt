@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,8443,ID,cv rumahweb
-51.79.158.58,8443,SG,ovh singapore
-143.198.92.220,443,SG,digitalocean
-129.150.35.29,587,SG,oracle corporation
-147.45.49.80,8443,JP,global connectivity
-147.79.20.47,443,JP,bytevirt
-204.110.222.223,80,US,securly inc
-45.79.168.17,443,US,linode 2
-20.17.107.137,443,MY,microsoft corporation
-47.250.37.87,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+143.198.196.196,2053,SG,digitalocean
+146.190.107.103,443,SG,digitalocean 2
+15.235.192.85,443,SG,ovh singapore
+140.83.57.86,54322,JP,imported inetnum
+47.79.38.17,443,JP,alibaba cloud
+45.135.229.93,8443,US,gcore labs
+67.216.210.229,15677,US,cluster logic
+47.254.235.252,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 3
