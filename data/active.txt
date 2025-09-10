@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb 2
-111.119.215.93,443,SG,huaweicloudsg
-8.222.159.134,12483,SG,alibaba cloud
-4.194.170.167,443,SG,microsoft corporation
-141.147.152.229,23333,JP,oracle corporation
-178.157.56.26,443,JP,cluster logic
-77.91.126.60,8443,US,365partners inc
-74.48.82.247,22166,US,multacom corporation
-20.17.107.137,443,MY,microsoft corporation 2
-45.89.107.7,2053,MY,worktitans
+43.218.77.16,1443,ID,amazoncom inc
+8.219.63.1,443,SG,alibaba cloud
+64.235.43.213,443,SG,singapore sg
+43.156.116.194,443,SG,6 collyer
+64.176.42.125,10001,JP,vultr holdings
+155.248.184.178,30011,JP,oracle public
+89.208.240.188,8443,US,cluster logic
+97.64.18.60,443,US,it7 networks
+47.254.255.125,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
