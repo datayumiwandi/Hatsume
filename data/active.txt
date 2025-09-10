@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-206.84.101.83,8443,ID,mitra visioner
+103.6.207.108,8080,ID,pusat media
+172.232.234.198,443,ID,linode
 203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-167.253.158.63,8443,SG,365 group
-8.222.161.217,443,SG,alibaba cloud
-43.134.164.53,443,SG,6 collyer
-49.212.133.94,443,JP,sakura internet
-168.138.46.115,43138,JP,oracle public
-198.52.244.111,443,US,kamatera inc
-69.30.212.4,6643,US,wholesale internet
-47.250.139.249,443,MY,alibaba cloud 2
-47.250.37.87,443,MY,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc
+143.198.196.196,8443,SG,digitalocean
+158.178.243.152,61731,SG,oracle corporation
+103.229.96.157,443,SG,epsilon singapore
+13.230.34.30,443,JP,amazon data
+103.125.216.22,8443,JP,vpsservercom 24
+74.48.196.47,443,US,multacom corporation
+23.94.94.192,42539,US,racknerd
+47.250.139.249,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
