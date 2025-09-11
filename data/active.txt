@@ -1,13 +1,13 @@
 43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc 2
-8.219.155.21,443,SG,alibaba cloud
-13.250.31.132,443,SG,amazon data
-38.244.147.68,443,SG,3nt solutions
-43.165.183.43,443,JP,16 collyer
-132.226.8.109,43257,JP,oracle public
-45.12.91.74,8443,US,hostsymbol pte
-97.64.26.142,30840,US,it7 networks
-47.250.37.87,443,MY,alibaba cloud 2
-47.250.59.132,443,MY,alibaba cloud 3
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+64.49.14.41,2053,SG,internet utilities
+143.42.66.91,443,SG,viewqwest pte
+213.35.108.135,12596,SG,oracle svenska
+132.145.115.62,443,JP,oracle public
+154.31.114.136,443,JP,unknown
+142.171.30.213,993,US,multacom corporation
+45.66.249.52,443,US,bluevps ou
+47.250.139.59,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
