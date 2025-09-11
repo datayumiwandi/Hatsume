@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-43.156.107.236,12131,SG,6 collyer
-38.244.147.68,443,SG,3nt solutions
-8.222.159.134,12483,SG,alibaba cloud
-140.83.60.81,18443,JP,imported inetnum
-27.83.68.142,8443,JP,japan internet
-67.226.220.10,80,US,securly inc
-47.88.24.237,10443,US,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
-47.254.235.252,443,MY,alibaba cloud 4
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+194.36.179.5,2053,SG,first server
+43.128.95.110,40029,SG,6 collyer
+54.255.217.120,8192,SG,amazon data
+158.51.111.105,443,JP,ddps networks
+141.98.197.101,11665,JP,xtom japan
+157.230.176.99,443,US,digitalocean
+23.94.57.46,443,US,racknerd
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
