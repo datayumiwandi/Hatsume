@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-206.84.101.83,8443,ID,mitra visioner
 172.232.234.198,443,ID,linode
-167.253.158.63,8443,SG,365 group
-8.222.220.81,25435,SG,alibaba cloud
-178.128.86.3,443,SG,digitalocean
-132.145.126.40,32498,JP,oracle public
-168.138.46.115,43138,JP,oracle public 2
-216.45.62.16,443,US,null
-129.153.127.204,20756,US,oracle corporation
-155.254.60.225,443,MY,evoxt enterprise
-47.254.235.252,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+51.79.158.58,2053,SG,ovh singapore
+64.49.14.41,8443,SG,internet utilities
+8.222.159.134,12314,SG,alibaba cloud
+185.18.222.208,2053,JP,jurgita jurgaitiene
+147.45.49.193,2053,JP,global connectivity
+83.147.241.157,443,US,virtual machine
+172.82.16.38,27033,US,olink cloud
+47.254.206.121,443,MY,alibaba cloud 2
+45.89.107.7,2053,MY,worktitans
