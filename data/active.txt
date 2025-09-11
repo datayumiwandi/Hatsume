@@ -1,13 +1,13 @@
+206.84.101.83,8443,ID,mitra visioner
+203.194.112.119,8443,ID,cv rumahweb
+156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-172.232.234.198,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc 2
-172.235.246.50,443,ID,linode 2
-139.162.4.242,8443,SG,linode 3
-5.223.49.4,2053,SG,hetzner online
-68.183.233.152,2053,SG,digitalocean
-141.147.152.229,23333,JP,oracle corporation
-45.32.55.253,443,JP,vultr holdings
-204.110.223.86,80,US,securly inc
-107.172.190.130,8443,US,racknerd
-45.89.107.7,2053,MY,worktitans
-47.250.132.147,443,MY,alibaba cloud
+43.156.107.236,12131,SG,6 collyer
+38.244.147.68,443,SG,3nt solutions
+8.222.159.134,12483,SG,alibaba cloud
+140.83.60.81,18443,JP,imported inetnum
+27.83.68.142,8443,JP,japan internet
+67.226.220.10,80,US,securly inc
+47.88.24.237,10443,US,alibaba cloud 2
+47.254.206.121,443,MY,alibaba cloud 3
+47.254.235.252,443,MY,alibaba cloud 4
