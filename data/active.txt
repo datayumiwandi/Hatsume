@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.198,443,ID,linode
+103.6.207.108,8080,ID,pusat media
 206.84.101.83,8443,ID,mitra visioner
-47.237.149.38,8443,SG,alibaba cloud
-160.22.79.179,443,SG,onidel pty
-152.42.236.151,2053,SG,digitalocean
-150.230.5.34,45681,JP,oracle corporation
-64.176.55.11,29999,JP,the constant
-173.254.217.185,443,US,null
-148.135.68.228,2053,US,brander group
-47.250.139.249,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+92.112.22.94,443,SG,unknown
+47.236.71.6,443,SG,alibaba cloud
+152.42.241.71,2053,SG,digitalocean
+103.106.228.126,2053,JP,oneprovidercom tokyo
+141.147.168.141,443,JP,oracle corporation
+38.34.15.66,443,US,netlab
+138.128.247.246,443,US,cloud web
+45.89.107.7,2053,MY,worktitans
 38.60.193.247,13300,MY,kaopu cloud
