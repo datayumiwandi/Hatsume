@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
 172.232.234.198,443,ID,linode
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-194.36.179.17,8443,SG,first server
-140.245.97.193,443,SG,oracle corporation
-146.190.104.232,443,SG,digitalocean
-217.142.226.168,443,JP,oracle svenska
-103.125.216.22,443,JP,vpsservercom 24
-172.86.108.23,2053,US,routerhosting
-34.208.221.169,443,US,amazoncom inc
-20.17.107.137,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud
+47.237.149.38,8443,SG,alibaba cloud
+178.128.80.43,443,SG,digitalocean
+209.97.173.243,443,SG,digitalocean 2
+176.97.70.121,443,JP,3nt solutions
+208.75.133.227,443,JP,high sierra
+149.28.47.82,8443,US,vultr holdings
+198.96.88.148,443,US,interserver inc
+45.89.107.7,2053,MY,worktitans
+155.254.60.225,443,MY,evoxt enterprise
