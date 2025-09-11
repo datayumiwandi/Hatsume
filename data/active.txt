@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-206.84.101.83,8443,ID,mitra visioner
-8.219.58.164,57373,SG,alibaba cloud
-139.162.53.195,2053,SG,1391620016
-38.244.147.68,443,SG,3nt solutions
-210.138.37.53,443,JP,cdnetworks co
-158.101.77.33,443,JP,oracle public
-74.48.204.74,443,US,multacom corporation
-64.227.56.137,443,US,digitalocean
-45.89.107.7,2053,MY,worktitans
-47.250.139.249,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+172.232.234.198,443,ID,linode
+43.160.202.92,443,SG,6 collyer
+103.229.96.157,443,SG,epsilon singapore
+43.134.167.135,9950,SG,6 collyer 2
+141.147.168.141,443,JP,oracle corporation
+168.138.201.35,36637,JP,oracle public
+107.182.17.246,34401,US,cluster logic
+204.110.222.26,80,US,securly inc
+47.250.59.132,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
