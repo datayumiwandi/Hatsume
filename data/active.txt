@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-43.252.21.100,443,SG,specialist
-38.244.147.68,443,SG,3nt solutions
-45.32.100.46,13802,SG,vultr holdings
-147.45.49.193,2053,JP,global connectivity
-138.3.222.33,443,JP,oracle network
-204.152.222.187,443,US,quadranet dns
-206.237.112.80,443,US,nearoute
+52.74.101.26,443,SG,amazon technologies
+43.156.181.203,443,SG,16 collyer
+45.76.159.76,443,SG,vultr holdings
+192.243.127.224,443,JP,it7 networks
+109.61.109.42,443,JP,securebit ag
+64.227.56.137,443,US,digitalocean
+74.48.136.41,123,US,multacom corporation
 58.27.117.24,443,MY,tmnet
-38.60.193.247,13300,MY,kaopu cloud
+47.250.139.249,443,MY,alibaba cloud
