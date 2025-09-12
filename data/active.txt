@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-209.97.173.243,443,SG,digitalocean
-129.150.35.29,587,SG,oracle corporation
-8.219.155.21,443,SG,alibaba cloud
-103.125.216.22,8443,JP,vpsservercom 24
-141.147.183.49,29876,JP,oracle corporation 2
-204.110.220.0,80,US,securly inc
-23.95.193.203,443,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,1443,ID,amazoncom inc
+206.84.101.83,8443,ID,mitra visioner
+158.178.243.152,61731,SG,oracle corporation
+146.235.19.79,28983,SG,oracle corporation 2
+84.247.150.170,8443,SG,contabo gmbh
+158.101.152.6,2919,JP,oracle public
+152.70.82.101,18650,JP,oracle corporation 3
+93.179.98.217,15368,US,cluster logic
+204.110.220.215,80,US,securly inc
 58.27.117.24,443,MY,tmnet
+20.17.107.137,443,MY,microsoft corporation
