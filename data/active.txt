@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-172.235.246.50,443,ID,linode
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.0.67,443,SG,alibaba cloud
-149.28.158.103,10030,SG,vultr holdings
-128.199.255.155,8443,SG,digitalocean
-140.245.88.197,443,JP,oracle corporation
-219.117.2.190,48401,JP,jupiter telecommunications
-185.186.245.90,443,US,inxy ltd
-89.116.44.170,8443,US,ethernet servers
-38.60.193.247,13300,MY,kaopu cloud
-45.89.107.7,2053,MY,worktitans
+172.235.246.50,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+62.72.46.14,8443,SG,contabo gmbh
+168.138.171.70,23280,SG,oracle public
+161.117.249.114,2025,SG,1 raffles
+153.121.45.101,443,JP,sakura internet
+108.61.201.87,8443,JP,vultr holdings
+148.135.68.228,2053,US,brander group
+103.142.87.118,443,US,shengydhklimited
+47.254.235.252,443,MY,alibaba cloud
+20.17.107.137,443,MY,microsoft corporation
