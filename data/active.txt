@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
+206.84.101.83,8443,ID,mitra visioner
 149.129.250.8,443,ID,21f ciputra
-47.245.85.72,443,SG,alibaba cloud
-138.2.89.238,43254,SG,oracle corporation
-68.183.233.152,2053,SG,digitalocean
-176.97.70.119,443,JP,3nt solutions
-64.176.40.224,3533,JP,vultr holdings
-107.173.87.79,8443,US,racknerd
-63.209.32.91,4433,US,vultr holdings 2
+140.245.48.42,443,SG,oracle corporation
+84.247.150.170,8443,SG,contabo gmbh
+47.74.254.191,8900,SG,alibaba cloud
+147.79.20.47,443,JP,bytevirt
+172.104.117.43,12452,JP,linode
+23.105.192.140,443,US,it7 networks
+192.3.81.151,443,US,racknerd
 47.250.59.132,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+58.27.117.24,443,MY,tmnet
