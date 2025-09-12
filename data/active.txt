@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-43.134.167.135,9950,SG,6 collyer
-47.245.85.72,443,SG,alibaba cloud
-161.117.249.114,2025,SG,1 raffles
-176.97.70.166,443,JP,3nt solutions
-27.83.68.142,8443,JP,japan internet
-142.171.166.116,8443,US,multacom corporation
-5.180.24.230,8443,US,worktitans
-47.254.206.121,443,MY,alibaba cloud 2
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+160.22.79.155,443,SG,onidel pty
+143.198.196.196,2053,SG,digitalocean
+43.128.95.110,40029,SG,6 collyer
+132.145.115.62,443,JP,oracle public
+3.112.21.102,443,JP,amazon data
+74.48.221.141,26255,US,multacom corporation
+89.116.193.90,2083,US,sc lithuanian
+47.254.206.121,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
