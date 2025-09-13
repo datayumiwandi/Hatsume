@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
 172.232.234.198,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 172.232.234.62,443,ID,linode 2
-143.42.66.91,443,SG,viewqwest pte
-47.130.115.157,443,SG,amazon data
-47.245.95.160,1443,SG,alibaba cloud
-192.243.125.209,8443,JP,it7 networks
-103.125.216.22,443,JP,vpsservercom 24
-198.46.218.63,27149,US,racknerd
-35.185.54.229,27205,US,google
-20.17.104.31,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud 2
+3.0.50.69,443,SG,amazon data
+64.49.14.41,2053,SG,internet utilities
+20.205.177.152,443,SG,microsoft corporation
+84.247.152.46,10045,JP,contabo gmbh
+91.194.160.45,8443,JP,worktitans
+67.226.220.10,80,US,securly inc
+45.144.112.53,8443,US,internet utilities 2
+47.250.59.132,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
