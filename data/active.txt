@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-172.232.234.198,443,ID,linode
-203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-160.22.79.166,443,SG,onidel pty
-15.235.199.103,8443,SG,ovh singapore
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.198,443,ID,linode
+172.232.234.62,443,ID,linode 2
+143.42.66.91,443,SG,viewqwest pte
 47.130.115.157,443,SG,amazon data
-217.142.236.93,443,JP,oracle svenska
-141.147.168.141,443,JP,oracle corporation
-130.185.164.217,8443,US,allocation hb
-138.2.235.230,22731,US,oracle corporation 2
-47.254.235.252,443,MY,alibaba cloud
+47.245.95.160,1443,SG,alibaba cloud
+192.243.125.209,8443,JP,it7 networks
+103.125.216.22,443,JP,vpsservercom 24
+198.46.218.63,27149,US,racknerd
+35.185.54.229,27205,US,google
 20.17.104.31,443,MY,microsoft corporation
+47.254.206.121,443,MY,alibaba cloud 2
