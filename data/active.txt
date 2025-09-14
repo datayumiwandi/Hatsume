@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
 172.232.234.62,443,ID,linode
-203.194.112.119,2053,ID,cv rumahweb 2
-43.218.77.16,1443,ID,amazoncom inc
-194.156.163.45,443,SG,misaka network
-128.199.128.28,123,SG,digitalocean
-213.35.108.135,12596,SG,oracle svenska
-138.2.59.96,10129,JP,oracle corporation
-140.83.57.114,25965,JP,imported inetnum
-193.233.87.210,2053,US,vdskanet
-45.156.24.225,443,US,as56971 network
-45.89.107.7,2053,MY,worktitans
-47.250.132.147,443,MY,alibaba cloud
+149.28.158.103,10030,SG,vultr holdings
+104.43.91.69,443,SG,microsoft corporation
+38.244.147.68,443,SG,3nt solutions
+132.145.127.203,8443,JP,oracle public
+47.79.43.222,443,JP,alibaba cloud
+77.110.126.67,2053,US,aeza international
+107.174.81.44,2083,US,hostpapa
+47.250.37.87,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
