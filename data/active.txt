@@ -1,13 +1,13 @@
-172.232.234.62,443,ID,linode
-206.84.101.83,8443,ID,mitra visioner
 103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
-45.32.100.46,13802,SG,vultr holdings
-8.219.59.132,48130,SG,alibaba cloud
-5.34.176.119,81,SG,green floid
-147.45.49.80,8443,JP,global connectivity
-109.123.231.212,2053,JP,contabo gmbh
-64.44.177.238,10010,US,365 group
-69.30.212.5,6643,US,wholesale internet
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.59,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb 2
+194.36.179.5,2053,SG,first server
+152.42.241.71,2053,SG,digitalocean
+43.134.164.53,443,SG,6 collyer
+132.226.8.109,43257,JP,oracle public
+185.18.222.208,2053,JP,jurgita jurgaitiene
+172.245.131.101,8443,US,racknerd
+138.124.183.112,2053,US,worktitans
+47.254.206.121,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
