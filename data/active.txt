@@ -1,13 +1,13 @@
-172.232.234.62,443,ID,linode
 149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-152.42.241.71,2053,SG,digitalocean
-146.235.18.248,45137,SG,oracle corporation
-47.74.254.191,8900,SG,alibaba cloud
-15.168.175.167,2087,JP,amazon data
-152.70.82.101,18650,JP,oracle corporation 2
-43.153.78.145,443,US,6 collyer
-148.135.17.203,31147,US,multacom corporation
-20.17.104.31,443,MY,microsoft corporation
-38.60.193.247,13300,MY,kaopu cloud
+206.84.101.83,8443,ID,mitra visioner
+43.218.77.16,1443,ID,amazoncom inc
+158.178.246.142,61731,SG,oracle corporation
+4.194.170.167,443,SG,microsoft corporation
+146.190.107.103,443,SG,digitalocean
+147.79.20.47,443,JP,bytevirt
+113.37.149.36,12553,JP,arteria networks
+52.35.114.64,443,US,amazoncom inc 2
+172.236.251.37,443,US,linode
+155.254.60.225,443,MY,evoxt enterprise
+20.17.104.31,443,MY,microsoft corporation 2
