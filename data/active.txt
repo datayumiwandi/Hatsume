@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.62,443,ID,linode
 206.84.101.83,8443,ID,mitra visioner
-156.244.1.250,8443,ID,lightnode
+178.128.86.3,443,SG,digitalocean
 31.192.238.71,2053,SG,pdk
-15.235.162.19,443,SG,ovh singapore
-84.247.150.170,8443,SG,contabo gmbh
-91.194.160.45,2053,JP,worktitans
-168.138.198.7,27560,JP,oracle public
-142.171.156.141,21182,US,multacom corporation
-45.12.91.74,8443,US,hostsymbol pte
+8.219.0.67,443,SG,alibaba cloud
+138.2.16.61,443,JP,cloudflare inc
+3.112.21.102,443,JP,amazon data
+104.168.28.99,1366,US,racknerd
+167.88.160.144,2053,US,routerhosting
+47.250.139.249,443,MY,alibaba cloud 2
 20.17.107.137,443,MY,microsoft corporation
-155.254.60.225,443,MY,evoxt enterprise
