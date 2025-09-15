@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-8.222.159.134,12483,SG,alibaba cloud
-45.76.159.76,443,SG,vultr holdings
+161.117.81.228,4443,SG,1 raffles
 213.35.100.31,47112,SG,oracle svenska
-140.83.57.20,13118,JP,imported inetnum
-38.180.29.40,2053,JP,3nt solutions
-208.81.129.171,8443,US,plesklogin net
-142.171.89.242,443,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
+13.212.213.77,8443,SG,amazon data
+23.106.140.129,443,JP,it7 networks
+45.32.55.253,443,JP,vultr holdings
+192.227.178.102,2053,US,racknerd
+3.82.153.90,443,US,amazon data 2
+58.27.117.24,443,MY,tmnet
+47.250.59.132,443,MY,alibaba cloud
