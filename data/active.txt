@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-128.199.128.28,123,SG,digitalocean
-83.142.30.5,2096,SG,zappie host
-152.42.241.71,2053,SG,digitalocean 2
-168.138.213.1,50003,JP,oracle public
-84.247.152.46,10045,JP,contabo gmbh
-204.110.222.26,80,US,securly inc
-65.49.210.99,443,US,it7 networks
+203.194.112.119,2053,ID,cv rumahweb
+13.250.31.132,443,SG,amazon data
+47.245.85.72,443,SG,alibaba cloud
+8.219.126.137,491,SG,alibaba cloud 2
+103.125.216.22,443,JP,vpsservercom 24
+118.27.12.40,38443,JP,gmo internet
+144.168.56.119,40864,US,it7 networks
+67.226.221.161,80,US,securly inc
+45.89.107.7,2053,MY,worktitans
 38.60.193.247,13300,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud
