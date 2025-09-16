@@ -1,13 +1,13 @@
-206.84.101.83,8443,ID,mitra visioner
-43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-158.178.236.14,61731,SG,oracle corporation
-167.71.198.82,8443,SG,digitalocean
-43.134.164.53,443,SG,6 collyer
-140.83.37.134,46478,JP,imported inetnum
-168.138.201.35,36637,JP,oracle public
-64.137.9.20,443,US,3hcloud
-23.227.193.153,443,US,hivelocity inc
+156.244.1.250,8443,ID,lightnode
+206.84.101.83,8443,ID,mitra visioner
+13.250.131.37,443,SG,amazon data
+146.190.107.103,443,SG,digitalocean
+128.199.255.155,8443,SG,digitalocean 2
+212.52.0.61,1846,JP,prinode
+103.106.0.123,443,JP,worktitans
+104.234.50.115,2053,US,unknown
+192.210.196.158,36414,US,racknerd
 20.17.107.137,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
