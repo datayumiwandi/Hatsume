@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-143.42.66.91,443,SG,m1
-8.219.155.21,443,SG,alibaba cloud
-143.198.196.196,2053,SG,digitalocean
-147.45.49.11,8443,JP,global connectivity
-64.110.101.90,55007,JP,oracle corporation
-89.116.44.170,8443,US,ethernet servers
-77.91.126.60,2053,US,365partners inc
-47.254.235.252,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+178.128.124.97,443,SG,digitalocean
+138.2.95.61,1111,SG,oracle corporation
+172.104.40.56,587,SG,akamai connected
+8.216.121.234,51922,JP,alibaba cloud
+208.75.133.227,443,JP,high sierra
+38.180.137.75,443,US,3nt solutions
+107.172.191.216,8443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud 2
