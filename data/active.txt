@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-64.49.14.41,8443,SG,internet utilities
-43.156.181.203,443,SG,16 collyer
-8.222.161.217,443,SG,alibaba cloud
-27.83.68.142,8443,JP,japan internet
-23.106.140.129,443,JP,it7 networks
-95.181.173.157,443,US,aeza international
-107.175.158.215,443,US,hostpapa
-38.60.193.247,13300,MY,kaopu cloud
-20.17.107.137,443,MY,microsoft corporation
+203.194.112.119,8443,ID,cv rumahweb
+104.234.151.10,8443,SG,moechuang network
+47.236.119.190,51342,SG,alibaba cloud
+15.235.199.103,8443,SG,ovh singapore
+8.209.220.50,21273,JP,shiodome sumitomo
+147.45.49.11,2053,JP,global connectivity
+35.185.54.229,27205,US,google
+38.180.137.75,443,US,3nt solutions
+20.17.104.31,443,MY,microsoft corporation
+47.254.235.252,443,MY,alibaba cloud 2
