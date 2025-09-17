@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb 2
-128.199.128.28,123,SG,digitalocean
-45.76.183.217,49292,SG,vultr holdings
-8.219.126.137,491,SG,alibaba cloud
-147.45.49.11,2053,JP,global connectivity
-156.231.117.209,443,JP,akile ltd
-204.152.218.112,443,US,80vps
-107.172.108.219,38631,US,racknerd
-47.254.206.121,443,MY,alibaba cloud 2
-20.17.107.137,443,MY,microsoft corporation
+43.218.77.16,443,ID,amazoncom inc
+45.76.159.76,443,SG,vultr holdings
+194.36.178.36,8443,SG,first server
+91.192.81.154,2053,SG,melbikomas uab
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+155.248.184.178,30011,JP,oracle public
+74.48.4.205,12525,US,multacom corporation
+107.174.204.129,443,US,racknerd
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud
