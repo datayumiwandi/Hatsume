@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.156.181.203,443,SG,16 collyer
-5.34.176.119,81,SG,green floid
-91.192.81.154,2053,SG,melbikomas uab
-103.42.107.254,8443,JP,guangzhou linseek
-207.148.105.247,443,JP,tyovultrcust
-104.168.102.163,443,US,racknerd
-167.71.243.238,21857,US,digitalocean
-47.250.139.59,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+47.74.157.194,443,SG,alibaba cloud
+3.0.50.69,443,SG,amazon data
+8.222.159.134,12483,SG,alibaba cloud 2
+153.121.45.101,443,JP,sakura internet
+47.79.35.191,443,JP,alibaba cloud 3
+38.180.40.116,2053,US,3nt solutions
+91.149.239.206,443,US,bgnetwork
+47.250.37.87,443,MY,alibaba cloud 4
+20.17.107.137,443,MY,microsoft corporation
