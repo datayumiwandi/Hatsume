@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-158.178.246.142,61731,SG,oracle corporation
-178.128.80.43,443,SG,digitalocean
-8.219.59.132,48964,SG,alibaba cloud
-158.101.89.113,50443,JP,oracle public
-140.83.56.110,56417,JP,imported inetnum
-38.107.236.25,2053,US,3hcloud
-45.142.157.216,8443,US,spartan host
-47.254.235.252,443,MY,alibaba cloud 2
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+15.235.192.85,443,SG,ovh singapore
+52.76.110.129,20001,SG,amazon technologies
+47.236.119.190,51342,SG,alibaba cloud
+141.147.162.24,1235,JP,oracle corporation
+138.2.48.109,26412,JP,oracle corporation 2
+204.110.222.104,80,US,securly inc
+94.131.101.246,443,US,worktitans
+20.17.104.31,443,MY,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud 2
