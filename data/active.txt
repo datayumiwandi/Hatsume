@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
 156.244.1.250,8443,ID,lightnode
-15.235.199.103,8443,SG,ovh singapore
-83.142.30.5,2096,SG,zappie host
-167.99.73.22,443,SG,digitalocean
-176.97.70.51,2053,JP,3nt solutions
-139.162.102.152,7002,JP,akamai connected
-107.170.37.57,443,US,digitalocean 2
-162.120.69.89,8443,US,allocation hb
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+149.129.250.8,443,ID,21f ciputra
+139.162.4.242,8443,SG,linode
+213.35.100.31,47112,SG,oracle svenska
+159.223.68.23,443,SG,digitalocean
+47.79.90.37,49153,JP,alibaba cloud
+217.142.236.93,443,JP,oracle svenska 2
+5.78.77.41,2053,US,hetzner online
+107.175.158.215,443,US,hostpapa
+47.254.206.121,443,MY,alibaba cloud 2
+155.254.60.225,443,MY,evoxt enterprise
