@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-104.248.145.216,443,SG,digitalocean
-8.219.58.164,57373,SG,alibaba cloud
-13.212.213.77,8443,SG,amazon data
-202.84.53.85,19999,JP,azumino network
-138.2.10.217,27446,JP,oracle corporation
-154.21.86.85,443,US,dmit cloud
-149.28.62.21,443,US,vultr holdings
-155.254.60.225,443,MY,evoxt enterprise
-47.254.255.125,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+178.128.80.43,443,SG,digitalocean
+5.34.176.119,81,SG,green floid
+128.199.128.28,123,SG,digitalocean 2
+141.147.144.15,13357,JP,oracle corporation
+172.104.117.43,12452,JP,linode
+142.171.166.116,8443,US,multacom corporation
+192.9.156.27,587,US,oracle corporation 2
+47.254.206.121,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
