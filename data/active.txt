@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-104.43.91.69,443,SG,microsoft corporation
-8.222.220.81,25435,SG,alibaba cloud
-146.235.18.248,45137,SG,oracle corporation
-168.138.213.1,50003,JP,oracle public
-138.3.222.33,443,JP,oracle network
-43.153.105.7,443,US,6 collyer
-23.94.168.60,443,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+165.154.203.69,443,SG,scloud pte
+43.128.95.110,40029,SG,6 collyer
+168.138.189.91,443,SG,oracle public
+147.45.49.193,2053,JP,global connectivity
+47.79.90.37,49153,JP,alibaba cloud
+147.135.10.209,443,US,ovh us
+216.128.140.253,26376,US,the constant
+47.254.235.252,443,MY,alibaba cloud 2
 58.27.117.24,443,MY,tmnet
-47.254.206.121,443,MY,alibaba cloud 2
