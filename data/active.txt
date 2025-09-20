@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-111.119.215.93,443,SG,huaweicloudsg
-51.79.158.58,8443,SG,ovh singapore
-129.150.36.188,53435,SG,oracle corporation
-176.97.70.51,2053,JP,3nt solutions
-217.142.243.226,443,JP,oracle svenska
-74.48.30.121,8443,US,multacom corporation
-172.86.114.182,2053,US,routerhosting
+138.2.89.64,32962,SG,oracle corporation
+164.52.2.99,443,SG,uculsg
+43.128.95.110,40029,SG,6 collyer
+140.83.57.114,25965,JP,imported inetnum
+158.101.77.33,443,JP,oracle public
+47.90.250.235,35869,US,alibaba cloud
+145.223.74.232,443,US,unknown
+47.254.255.125,443,MY,alibaba cloud 2
 155.254.60.225,443,MY,evoxt enterprise
-47.254.255.125,443,MY,alibaba cloud
