@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
-43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-8.222.159.134,12314,SG,alibaba cloud
-43.160.202.92,443,SG,6 collyer
-146.190.107.103,443,SG,digitalocean
-219.117.2.190,57517,JP,jupiter telecommunications
-140.83.57.20,13118,JP,imported inetnum
-74.48.85.50,443,US,multacom corporation
-64.137.9.20,443,US,3hcloud
-58.27.117.24,443,MY,tmnet
-155.254.60.225,443,MY,evoxt enterprise
+172.232.234.198,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+92.112.22.94,443,SG,unknown
+64.235.43.144,443,SG,singapore sg
+139.59.104.25,2083,SG,digitalocean
+43.165.183.43,443,JP,16 collyer
+138.2.48.109,26412,JP,oracle corporation
+185.106.96.203,11338,US,sriyaan technology
+152.67.230.69,59674,US,cloudflare london
+20.17.104.31,443,MY,microsoft corporation
+47.250.139.249,443,MY,alibaba cloud
