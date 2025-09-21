@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 172.232.234.62,443,ID,linode
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-178.128.86.3,443,SG,digitalocean
-66.42.61.1,443,SG,sgpvultrcust
-43.156.181.203,443,SG,16 collyer
-45.77.25.6,27854,JP,vultr holdings
-176.97.70.166,443,JP,3nt solutions
-154.17.29.80,50235,US,dmit cloud
-91.236.230.237,443,US,bluevps ou
-47.254.206.121,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+152.42.236.151,2053,SG,digitalocean
+31.192.238.71,8443,SG,pdk
+165.154.203.69,443,SG,scloud pte
+13.230.34.30,443,JP,amazon data
+23.106.132.54,443,JP,it7 networks
+93.179.98.217,15368,US,cluster logic
+65.49.218.243,443,US,it7 networks 2
+155.254.60.225,443,MY,evoxt enterprise
+47.254.235.252,443,MY,alibaba cloud
