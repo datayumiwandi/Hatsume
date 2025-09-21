@@ -1,13 +1,13 @@
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-146.190.104.232,443,SG,digitalocean
-43.134.167.135,9950,SG,6 collyer
-47.237.149.38,8443,SG,alibaba cloud
-140.83.57.114,25965,JP,imported inetnum
-147.79.20.47,443,JP,bytevirt
-185.44.66.194,443,US,massivegrid ltd
-205.172.56.128,2053,US,hostkey
-47.250.37.87,443,MY,alibaba cloud 2
-47.250.132.147,443,MY,alibaba cloud 3
+158.178.246.142,61731,SG,oracle corporation
+149.28.158.103,10030,SG,vultr holdings
+54.255.217.120,8192,SG,amazon data
+141.147.188.120,443,JP,oracle corporation 2
+38.180.29.115,443,JP,3nt solutions
+172.83.159.4,16478,US,spartan host
+104.207.151.11,8443,US,vultr holdings 2
+47.250.37.87,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
