@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-20.205.177.152,443,SG,microsoft corporation
-64.235.61.166,443,SG,singapore sg
-160.22.79.166,443,SG,onidel pty
-132.226.8.109,43257,JP,oracle public
-158.101.89.113,50443,JP,oracle public 2
-77.110.119.35,8443,US,aeza international
-64.44.177.238,10010,US,365 group
-47.254.206.121,443,MY,alibaba cloud
-47.250.132.147,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+172.232.234.62,443,ID,linode
+203.194.112.119,2053,ID,cv rumahweb
+8.222.220.81,25435,SG,alibaba cloud
+5.34.176.119,81,SG,green floid
+43.134.164.53,443,SG,6 collyer
+132.145.126.40,32498,JP,oracle public
+109.123.231.212,443,JP,contabo gmbh
+192.210.202.233,8445,US,racknerd
+178.156.148.4,8443,US,hetzner online
+38.60.193.247,13300,MY,kaopu cloud
+47.250.139.59,443,MY,alibaba cloud 2
