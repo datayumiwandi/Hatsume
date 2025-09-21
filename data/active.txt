@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc 2
-64.235.43.213,443,SG,singapore sg
-138.2.89.238,43254,SG,oracle corporation
-47.245.95.160,1443,SG,alibaba cloud
-210.138.37.53,443,JP,cdnetworks co
-108.160.139.154,8443,JP,vultr holdings
-62.60.176.49,8443,US,smart digital
-129.159.118.130,18513,US,oracle corporation 2
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+128.199.128.28,123,SG,digitalocean
+178.128.80.43,443,SG,digitalocean 2
+143.198.196.196,2053,SG,digitalocean 3
+91.194.160.45,8443,JP,worktitans
+141.147.185.63,443,JP,oracle corporation
+52.43.90.185,443,US,amazon technologies
+192.74.225.146,34171,US,peg tech
+58.27.117.24,443,MY,tmnet
+20.17.104.31,443,MY,microsoft corporation
