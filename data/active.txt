@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 172.232.234.62,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-194.36.179.17,2053,SG,first server
-43.252.21.100,443,SG,specialist
-13.250.131.37,443,SG,amazon data
-141.147.185.63,443,JP,oracle corporation
-38.207.137.217,443,JP,nearoute
-103.142.87.118,443,US,shengydhklimited
-38.180.40.69,2053,US,3nt solutions
-47.250.139.249,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+43.134.164.53,443,SG,6 collyer
+138.2.69.236,23334,SG,oracle corporation
+31.192.238.71,8443,SG,pdk
+168.138.198.7,27560,JP,oracle public
+141.147.152.229,23333,JP,oracle corporation 2
+23.105.193.198,19960,US,it7 networks
+107.172.167.194,443,US,hostpapa
+20.17.104.31,443,MY,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud
