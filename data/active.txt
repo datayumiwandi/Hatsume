@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.62,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-52.76.110.129,20001,SG,amazon technologies
-8.219.0.67,443,SG,alibaba cloud
-8.222.220.81,25435,SG,alibaba cloud 2
-178.157.56.26,443,JP,cluster logic
-158.101.89.113,50443,JP,oracle public
-195.123.241.122,50008,US,total server
-45.144.112.54,8443,US,allocation hb
-47.254.255.125,443,MY,alibaba cloud 3
+156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+43.156.107.236,12131,SG,6 collyer
+43.134.167.135,9950,SG,6 collyer 2
+47.130.115.157,443,SG,amazon data
+168.138.198.7,27560,JP,oracle public
+176.97.70.119,443,JP,3nt solutions
+147.185.239.36,443,US,cloud web
+172.93.43.15,8443,US,cluster logic
 58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud
