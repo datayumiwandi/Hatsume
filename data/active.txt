@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-172.232.234.62,443,ID,linode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.71.6,443,SG,alibaba cloud
-152.42.236.151,2053,SG,digitalocean
-43.156.107.236,12131,SG,6 collyer
-138.2.18.82,8880,JP,oracle corporation
-193.246.161.65,54310,JP,akile ltd
-45.62.115.60,8443,US,it7 networks
-173.44.141.156,8443,US,winnebell network
-47.254.206.121,443,MY,alibaba cloud 2
-155.254.60.225,443,MY,evoxt enterprise
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc 2
+104.234.151.10,8443,SG,moechuang network
+104.248.145.216,443,SG,digitalocean
+13.250.14.76,443,SG,amazon data
+202.144.194.31,9998,JP,iptelecom japan
+45.77.25.6,48828,JP,vultr holdings
+174.137.59.73,443,US,cluster logic
+142.171.156.182,15801,US,multacom corporation
+47.254.206.121,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
