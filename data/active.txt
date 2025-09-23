@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-47.237.149.38,8443,SG,alibaba cloud
-111.119.215.93,443,SG,huaweicloudsg
-83.142.30.5,2096,SG,zappie host
-150.230.214.172,16957,JP,oracle corporation
-139.162.79.151,587,JP,akamai connected
-107.173.241.242,44250,US,hostpapa
-195.123.240.40,81,US,green floid
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+8.219.59.132,48130,SG,alibaba cloud
+194.36.179.5,2053,SG,first server
+31.192.238.71,2053,SG,pdk
+141.147.162.24,1235,JP,oracle corporation
+131.186.63.89,11655,JP,oracle public
+74.119.194.196,443,US,worktitans
+72.18.132.149,2053,US,exabytes network
 58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud 2
