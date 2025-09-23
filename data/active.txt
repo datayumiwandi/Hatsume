@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-157.20.104.30,443,SG,kuroitcom
-178.128.80.43,443,SG,digitalocean
+103.6.207.108,8080,ID,pusat media
+172.232.234.62,443,ID,linode
+31.192.238.71,8443,SG,pdk
+91.192.81.154,2053,SG,melbikomas uab
 5.223.49.4,2053,SG,hetzner online
-54.64.238.243,443,JP,amazon technologies
-210.231.178.90,443,JP,server hosting
-178.156.148.4,2053,US,hetzner online 2
-31.57.118.168,8443,US,cgi global
-47.254.206.121,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+141.147.185.63,443,JP,oracle corporation
+141.147.144.15,13357,JP,oracle corporation 2
+154.44.0.210,443,US,psinet inc
+199.115.231.188,12586,US,cluster logic
+20.17.104.31,443,MY,microsoft corporation
+47.250.132.147,443,MY,alibaba cloud
