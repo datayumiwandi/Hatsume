@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 172.232.234.62,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-5.223.49.4,2053,SG,hetzner online
-104.234.151.10,8443,SG,moechuang network
-138.2.64.229,443,SG,oracle corporation
-64.176.42.125,10001,JP,vultr holdings
-47.79.35.191,443,JP,alibaba cloud
-34.83.245.149,443,US,google
-149.18.36.150,443,US,logicweb inc
-47.250.37.87,443,MY,alibaba cloud 2
-47.250.139.59,443,MY,alibaba cloud 3
+152.42.241.71,2053,SG,digitalocean
+168.138.171.70,23280,SG,oracle public
+45.32.100.46,13802,SG,vultr holdings
+49.212.133.94,443,JP,sakura internet
+150.230.5.34,45681,JP,oracle corporation
+198.12.74.78,443,US,racknerd
+129.146.198.253,28443,US,oracle corporation 2
+47.250.139.249,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
