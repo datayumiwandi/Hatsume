@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-47.245.95.160,1443,SG,alibaba cloud
-168.138.181.188,61731,SG,oracle public
-13.250.31.132,443,SG,amazon data
-141.147.147.180,443,JP,oracle corporation
-160.251.142.232,443,JP,gmo internet
-172.86.114.182,2053,US,routerhosting
-154.23.243.87,443,US,kurun cloud
-47.250.37.87,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc
+140.245.48.42,443,SG,oracle corporation
+129.150.49.58,18650,SG,oracle corporation 2
+47.236.71.6,443,SG,alibaba cloud
+45.77.25.6,27854,JP,vultr holdings
+138.3.217.167,587,JP,oracle network
+199.119.137.90,2053,US,extravm
+206.237.112.80,443,US,nearoute
+20.17.104.31,443,MY,microsoft corporation
+155.254.60.225,443,MY,evoxt enterprise
