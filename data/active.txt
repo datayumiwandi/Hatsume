@@ -1,13 +1,13 @@
+172.232.234.62,443,ID,linode
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-103.229.96.157,443,SG,epsilon singapore
-54.255.217.120,8192,SG,amazon data
-13.212.213.77,8443,SG,amazon data 2
-150.230.5.34,45681,JP,oracle corporation
-172.104.117.43,12452,JP,linode
-194.135.104.96,443,US,baxet group
-129.153.112.108,3966,US,oracle corporation 2
+143.42.66.91,443,SG,m1
+138.2.69.236,23334,SG,oracle corporation
+158.178.229.178,443,SG,oracle corporation 2
+210.138.37.53,443,JP,cdnetworks co
+140.83.59.158,15805,JP,imported inetnum
+107.173.181.236,7700,US,racknerd
+216.225.197.195,443,US,ionos inc
 58.27.117.24,443,MY,tmnet
-47.250.132.147,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud
