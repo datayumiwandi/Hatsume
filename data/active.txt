@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 172.235.246.50,443,ID,linode
-156.244.1.250,8443,ID,lightnode
-128.199.134.152,443,SG,digitalocean
-20.205.177.152,443,SG,microsoft corporation
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+92.112.22.94,443,SG,unknown
 13.250.31.132,443,SG,amazon data
-131.186.63.89,11655,JP,oracle public
-176.97.70.121,443,JP,3nt solutions
-23.95.48.107,21278,US,racknerd
-165.232.129.138,443,US,digitalocean 2
-47.254.255.125,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+194.36.179.5,2053,SG,first server
+141.147.152.229,23333,JP,oracle corporation
+158.101.76.55,21953,JP,oracle public
+89.116.44.170,8443,US,ethernet servers
+35.197.23.75,443,US,google
+47.254.206.121,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
