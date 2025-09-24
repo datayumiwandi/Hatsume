@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-172.232.234.117,443,ID,linode
-172.235.246.50,443,ID,linode 2
-43.218.77.16,443,ID,amazoncom inc
-161.117.81.228,4443,SG,1 raffles
-194.36.179.17,2053,SG,first server
-43.252.21.100,443,SG,specialist
-20.78.59.52,443,JP,microsoft corporation
-103.106.0.123,443,JP,worktitans
-192.3.166.78,41095,US,racknerd
-199.119.137.109,2053,US,extravm
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.235.246.50,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc
+38.180.249.123,443,SG,3nt solutions
+3.0.50.69,443,SG,amazon data
+83.142.30.5,2096,SG,zappie host
+64.176.42.125,10001,JP,vultr holdings
+150.230.5.34,45681,JP,oracle corporation
+207.246.92.49,443,US,vultr holdings 2
+204.110.220.226,80,US,securly inc
+58.27.117.24,443,MY,tmnet
+47.250.59.132,443,MY,alibaba cloud
