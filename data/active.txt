@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-15.235.199.103,2053,SG,ovh singapore
-167.172.85.29,443,SG,digitalocean
-138.2.69.236,23334,SG,oracle corporation
-20.78.59.52,443,JP,microsoft corporation
-140.238.50.134,443,JP,oracle public
-104.168.56.93,12138,US,hostpapa
-148.135.59.166,22103,US,brander group
+13.250.14.76,443,SG,amazon data
+8.219.155.21,443,SG,alibaba cloud
+5.34.176.119,81,SG,green floid
+212.52.0.61,1846,JP,prinode
+138.2.49.197,587,JP,oracle corporation
+194.113.37.210,8443,US,cloudbackbone
+45.150.164.179,10369,US,spartan host
 155.254.60.225,443,MY,evoxt enterprise
-47.254.255.125,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
