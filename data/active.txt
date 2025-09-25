@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc 2
-152.42.236.151,8443,SG,digitalocean
-143.198.196.196,8443,SG,digitalocean 2
-92.112.22.94,443,SG,unknown
-109.123.231.212,443,JP,contabo gmbh
-132.145.126.40,32498,JP,oracle public
-144.168.62.245,443,US,it7 networks
-173.242.123.189,51042,US,cluster logic
-20.17.104.31,443,MY,microsoft corporation
-47.254.206.121,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+8.222.159.134,12314,SG,alibaba cloud
+158.178.246.142,61731,SG,oracle corporation
+47.130.35.116,8888,SG,amazon data
+154.31.114.136,443,JP,unknown
+150.230.7.216,443,JP,oracle corporation 2
+38.180.25.224,8443,US,3nt solutions
+142.171.147.201,20274,US,multacom corporation
+47.254.255.125,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
