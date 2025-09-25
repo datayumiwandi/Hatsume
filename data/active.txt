@@ -2,12 +2,12 @@
 43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-158.178.246.142,61731,SG,oracle corporation
-168.138.189.91,443,SG,oracle public
-8.219.126.137,491,SG,alibaba cloud
-49.212.133.94,443,JP,sakura internet
-202.84.53.85,19999,JP,azumino network
-67.209.179.237,30419,US,it7 networks
-144.126.132.39,8443,US,contabo inc
-47.250.139.249,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+138.2.69.236,23334,SG,oracle corporation
+104.248.145.216,443,SG,digitalocean
+168.138.181.188,61731,SG,oracle public
+64.176.39.147,16387,JP,the constant
+140.83.57.114,25965,JP,imported inetnum
+204.110.223.220,80,US,securly inc
+129.159.37.19,30488,US,oracle corporation 2
+47.250.139.249,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
