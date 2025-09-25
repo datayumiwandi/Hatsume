@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc 2
-185.114.78.230,443,SG,aryaka networks
-13.212.213.77,8443,SG,amazon data
-194.36.179.5,2053,SG,first server
-158.101.80.84,443,JP,oracle public
-141.147.144.15,13357,JP,oracle corporation
-89.116.193.90,2083,US,limestone networks
-107.182.27.151,443,US,cluster logic
-47.250.37.87,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+8.219.126.137,491,SG,alibaba cloud
+8.222.161.217,443,SG,alibaba cloud 2
+8.219.58.164,57373,SG,alibaba cloud 3
+219.117.2.190,57517,JP,jupiter telecommunications
+45.76.192.129,24434,JP,vultr holdings
+107.175.1.47,8443,US,racknerd
+107.151.216.140,443,US,zenlayer inc
+47.254.206.121,443,MY,alibaba cloud 4
 38.60.193.247,13300,MY,kaopu cloud
