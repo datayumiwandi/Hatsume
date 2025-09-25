@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
-64.49.14.41,8443,SG,internet utilities
-83.142.30.5,2096,SG,zappie host
-128.199.255.155,8443,SG,digitalocean
-217.142.226.168,443,JP,oracle svenska
-147.79.20.47,443,JP,bytevirt
-46.17.107.183,443,US,first server
-170.205.38.77,443,US,hosthatch
+8.222.159.134,12314,SG,alibaba cloud
+146.190.107.103,443,SG,digitalocean
+165.154.203.69,443,SG,scloud pte
+147.45.49.11,2053,JP,global connectivity
+158.101.77.33,443,JP,oracle public
+18.216.55.100,443,US,amazon technologies
+84.32.44.80,443,US,hosteons pte
+47.250.139.59,443,MY,alibaba cloud 2
 38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
