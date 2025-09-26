@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-15.235.199.103,8443,SG,ovh singapore
-8.219.126.137,491,SG,alibaba cloud
-47.74.157.194,443,SG,alibaba cloud 2
-168.138.193.174,11959,JP,oracle public
-132.226.7.217,443,JP,oracle public 2
-77.110.124.132,443,US,aeza international
-89.117.38.180,443,US,ethernet servers
-47.250.139.249,443,MY,alibaba cloud 3
-47.250.132.147,443,MY,alibaba cloud 4
+43.218.77.16,1443,ID,amazoncom inc
+164.52.2.98,443,SG,uculsg
+152.42.236.151,8443,SG,digitalocean
+143.198.196.196,8443,SG,digitalocean 2
+217.142.230.253,587,JP,oracle corporation
+64.176.40.224,3533,JP,vultr holdings
+162.120.69.89,8443,US,allocation hb
+89.185.80.35,2053,US,global connectivity
+47.250.139.249,443,MY,alibaba cloud
+47.250.59.132,443,MY,alibaba cloud 2
