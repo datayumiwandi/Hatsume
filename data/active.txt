@@ -1,13 +1,13 @@
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-43.128.95.110,40029,SG,6 collyer
-47.236.119.190,51342,SG,alibaba cloud
-47.236.29.162,443,SG,alibaba cloud 2
-155.248.184.178,30011,JP,oracle public
-132.226.8.109,43257,JP,oracle public 2
-208.81.129.171,2083,US,plesklogin net
-67.226.221.234,80,US,securly inc
-47.254.235.252,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+129.150.36.188,53435,SG,oracle corporation
+3.0.50.69,443,SG,amazon data
+47.236.29.162,443,SG,alibaba cloud
+3.112.21.102,443,JP,amazon data 2
+64.110.104.30,443,JP,oracle corporation 2
+192.74.225.146,34171,US,peg tech
+107.173.149.215,443,US,racknerd
 58.27.117.24,443,MY,tmnet
+20.17.104.31,443,MY,microsoft corporation
