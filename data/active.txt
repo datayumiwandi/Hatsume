@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-194.156.163.45,443,SG,misaka network
-8.219.126.137,491,SG,alibaba cloud
-185.114.78.230,443,SG,aryaka networks
-103.106.0.123,443,JP,worktitans
-154.31.114.136,443,JP,unknown
-38.180.6.206,443,US,3nt solutions
-23.152.200.133,443,US,365hosting
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+13.212.213.77,8443,SG,amazon data
+43.128.95.110,40029,SG,6 collyer
+8.219.0.67,443,SG,alibaba cloud
+140.83.57.20,13118,JP,imported inetnum
+207.148.105.247,443,JP,tyovultrcust
+148.135.76.112,443,US,brander group
+208.81.129.171,2053,US,plesklogin net
 47.254.255.125,443,MY,alibaba cloud 2
-47.250.37.87,443,MY,alibaba cloud 3
+155.254.60.225,443,MY,evoxt enterprise
