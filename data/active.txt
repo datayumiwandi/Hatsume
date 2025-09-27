@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
-43.156.107.236,12131,SG,6 collyer
-140.245.97.193,443,SG,oracle corporation
-104.234.151.10,8443,SG,moechuang network
-210.138.37.53,443,JP,cdnetworks co
-45.32.55.253,443,JP,vultr holdings
-38.92.26.211,443,US,fiberstate
-156.229.160.32,8080,US,akile ltd
-47.254.255.125,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc 2
+164.52.2.99,443,SG,uculsg
+138.2.64.229,443,SG,oracle corporation
+150.109.11.223,443,SG,16 collyer
+38.207.137.217,443,JP,nearoute
+132.145.127.203,2053,JP,oracle public
+5.8.63.23,443,US,iksfayviks
+172.245.64.141,443,US,racknerd
+47.250.139.59,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
