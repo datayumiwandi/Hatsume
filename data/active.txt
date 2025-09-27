@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-194.36.179.5,2053,SG,first server
-47.236.71.6,443,SG,alibaba cloud
-146.190.107.103,443,SG,digitalocean
-113.37.149.36,12553,JP,arteria networks
-150.230.204.21,10243,JP,oracle corporation
-199.119.137.90,2053,US,extravm
-88.210.37.244,8443,US,melbikomas uab
-47.250.139.249,443,MY,alibaba cloud 2
-47.250.132.147,443,MY,alibaba cloud 3
+160.22.79.166,443,SG,onidel pty
+64.235.43.144,443,SG,singapore sg
+146.235.19.79,28983,SG,oracle corporation
+47.79.90.37,49153,JP,alibaba cloud
+138.2.32.76,15821,JP,oracle corporation 2
+38.244.31.27,443,US,netlab
+107.175.254.239,39128,US,racknerd
+47.250.132.147,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
