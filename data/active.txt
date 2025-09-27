@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-45.76.179.81,443,SG,vultr holdings
-20.247.137.183,443,SG,microsoft corporation
-91.192.81.154,8443,SG,melbikomas uab
-140.83.57.20,13118,JP,imported inetnum
-154.85.20.249,443,JP,akile ltd
-107.151.216.42,443,US,zenlayer inc
-103.35.188.157,443,US,worktitans
-20.17.104.31,443,MY,microsoft corporation 2
-47.250.139.59,443,MY,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+43.156.107.236,12131,SG,6 collyer
+140.245.97.193,443,SG,oracle corporation
+104.234.151.10,8443,SG,moechuang network
+210.138.37.53,443,JP,cdnetworks co
+45.32.55.253,443,JP,vultr holdings
+38.92.26.211,443,US,fiberstate
+156.229.160.32,8080,US,akile ltd
+47.254.255.125,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
