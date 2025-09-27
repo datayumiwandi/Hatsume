@@ -1,13 +1,13 @@
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-47.130.35.116,8888,SG,amazon data
-194.36.179.17,8443,SG,first server
-160.22.79.155,443,SG,onidel pty
-141.147.152.229,23333,JP,oracle corporation
-176.97.70.166,443,JP,3nt solutions
-148.135.15.148,443,US,brander group
-173.249.210.20,11480,US,tzulo inc
-20.17.104.31,443,MY,microsoft corporation
-47.250.139.59,443,MY,alibaba cloud
+128.199.128.28,123,SG,digitalocean
+129.150.58.86,57621,SG,oracle corporation
+8.222.161.217,443,SG,alibaba cloud
+168.138.197.147,12345,JP,oracle public
+64.176.55.11,29999,JP,the constant
+216.158.232.43,8443,US,interserver inc
+104.168.56.93,12138,US,hostpapa
+58.27.117.24,443,MY,tmnet
+47.250.139.59,443,MY,alibaba cloud 2
