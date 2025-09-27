@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-38.180.249.123,443,SG,3nt solutions
-43.156.107.236,12131,SG,6 collyer
-38.244.147.68,2053,SG,3nt solutions 2
-138.3.222.33,443,JP,oracle network
-140.83.57.114,25965,JP,imported inetnum
-107.175.245.116,8443,US,racknerd
-20.84.117.28,443,US,microsoft corporation
-38.60.193.247,13300,MY,kaopu cloud
-47.250.59.132,443,MY,alibaba cloud
+43.218.77.16,1443,ID,amazoncom inc
+158.178.229.178,443,SG,oracle corporation
+160.22.79.155,443,SG,onidel pty
+149.28.158.103,10030,SG,vultr holdings
+103.232.213.117,8080,JP,kvmcloud network
+158.51.111.105,443,JP,ddps networks
+66.135.22.28,443,US,the constant
+172.93.46.36,8443,US,cluster logic
+47.250.37.87,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
