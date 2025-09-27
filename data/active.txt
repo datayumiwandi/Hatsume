@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-160.22.79.166,443,SG,onidel pty
+43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
+47.236.71.6,443,SG,alibaba cloud
 157.20.104.30,443,SG,kuroitcom
-91.192.81.154,2053,SG,melbikomas uab
-138.2.59.96,10129,JP,oracle corporation
-8.209.220.50,21273,JP,shiodome sumitomo
-45.32.131.28,31001,US,the constant
-159.203.82.74,443,US,digitalocean
-47.254.235.252,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+128.199.134.152,443,SG,digitalocean
+132.145.126.40,32498,JP,oracle public
+66.42.32.115,443,JP,tyovultrcust
+15.204.57.47,7267,US,ovh us
+67.209.179.237,30419,US,it7 networks
+47.250.139.59,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
