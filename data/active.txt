@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
-178.128.124.97,443,SG,digitalocean
-138.2.95.33,17465,SG,oracle corporation
-168.138.181.188,61731,SG,oracle public
-43.133.10.236,33405,JP,6 collyer
-38.180.29.115,443,JP,3nt solutions
-35.185.54.229,27271,US,google
-192.74.225.146,34172,US,peg tech
-47.254.235.252,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+91.192.81.154,8443,SG,melbikomas uab
+15.235.199.103,2053,SG,ovh singapore
+54.255.217.120,8192,SG,amazon data
+43.165.183.43,443,JP,16 collyer
+207.148.105.247,443,JP,tyovultrcust
+46.21.159.253,8443,US,hivelocity
+74.235.238.196,443,US,microsoft corporation
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
