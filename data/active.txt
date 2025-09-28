@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-167.71.198.82,8443,SG,digitalocean
-167.99.73.22,443,SG,digitalocean 2
-152.42.236.151,2053,SG,digitalocean 3
-140.238.50.134,443,JP,oracle public
-176.97.70.166,443,JP,3nt solutions
-46.21.159.253,8443,US,hivelocity
-104.167.197.130,8443,US,3hcloud
-155.254.60.225,443,MY,evoxt enterprise
-47.254.255.125,443,MY,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+209.97.173.243,443,SG,digitalocean
+164.52.2.99,443,SG,uculsg
+104.43.91.69,443,SG,microsoft corporation
+45.32.55.253,443,JP,vultr holdings
+108.160.141.198,443,JP,vultr holdings 2
+74.48.204.74,443,US,multacom corporation
+50.19.193.95,443,US,amazon data
+38.60.193.247,13300,MY,kaopu cloud
+47.254.235.252,443,MY,alibaba cloud
