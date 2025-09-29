@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-64.49.14.41,8443,SG,internet utilities
-167.99.73.22,443,SG,digitalocean
-157.20.104.30,443,SG,kuroitcom
-140.83.57.86,54322,JP,imported inetnum
-138.2.16.61,443,JP,cloudflare inc
-64.23.244.95,443,US,digitalocean 2
-194.54.144.61,8443,US,internet utilities 2
-47.254.206.121,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+143.42.66.91,443,SG,m1
+172.104.40.56,587,SG,linode
+194.36.179.5,2053,SG,first server
+45.32.49.72,9443,JP,vultr holdings
+140.83.57.20,13118,JP,imported inetnum
+192.3.155.217,443,US,racknerd
+93.179.98.217,15368,US,cluster logic
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
