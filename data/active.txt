@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-43.134.167.135,9950,SG,6 collyer
-66.42.61.1,443,SG,sgpvultrcust
-178.128.86.3,443,SG,digitalocean
-15.168.175.167,2087,JP,amazon data
-45.76.192.129,24434,JP,vultr holdings
-46.21.159.253,2053,US,hivelocity
-31.57.46.234,8443,US,cgi global
-47.250.139.249,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+172.235.246.50,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+64.235.43.144,443,SG,singapore sg
+139.180.215.77,57878,SG,sgpvultrcust
+139.180.159.133,443,SG,sgpvultrcust 2
+138.2.48.109,26412,JP,oracle corporation
+210.138.37.53,443,JP,cdnetworks co
+204.110.223.164,443,US,securly inc
+31.57.47.204,8443,US,cgi global
+38.60.193.247,13300,MY,kaopu cloud
+47.254.255.125,443,MY,alibaba cloud
