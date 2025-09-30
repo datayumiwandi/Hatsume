@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-172.232.234.117,443,ID,linode
-139.180.215.77,57878,SG,sgpvultrcust
-140.245.48.42,443,SG,oracle corporation
-38.244.147.68,443,SG,3nt solutions
-168.138.51.8,8443,JP,oracle public
-138.2.10.217,27446,JP,oracle corporation 2
-103.142.87.118,443,US,shengydhklimited
-69.197.140.66,8443,US,365 group
+43.218.77.16,443,ID,amazoncom inc 2
+43.156.116.194,443,SG,6 collyer
+64.235.61.166,443,SG,singapore sg
+165.154.203.69,443,SG,scloud pte
+150.230.204.21,10243,JP,oracle corporation
+219.117.2.190,48401,JP,jupiter telecommunications
+172.86.108.23,2053,US,routerhosting
+149.18.36.184,443,US,cogent communications
 47.250.139.59,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+20.17.104.31,443,MY,microsoft corporation
