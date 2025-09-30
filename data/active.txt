@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 172.232.234.117,443,ID,linode
-172.235.246.50,443,ID,linode 2
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+43.156.107.236,12131,SG,6 collyer
 152.42.236.151,2053,SG,digitalocean
-15.235.199.103,2053,SG,ovh singapore
-8.219.59.132,48964,SG,alibaba cloud
-168.138.197.147,12345,JP,oracle public
-47.79.90.37,49153,JP,alibaba cloud 2
-108.174.61.161,59581,US,racknerd
-141.11.208.77,443,US,virtual machine
-58.27.117.24,443,MY,tmnet
-47.250.37.87,443,MY,alibaba cloud 3
+64.235.43.213,443,SG,singapore sg
+210.231.178.90,443,JP,server hosting
+47.79.43.222,443,JP,alibaba cloud
+45.135.229.93,2053,US,gcore labs
+38.180.40.69,8443,US,3nt solutions
+47.254.235.252,443,MY,alibaba cloud 2
+47.250.139.59,443,MY,alibaba cloud 3
