@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
 172.235.246.50,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.59.132,48964,SG,alibaba cloud
-38.244.147.68,443,SG,3nt solutions
-8.222.213.91,587,SG,alibaba cloud 2
-64.110.101.90,55007,JP,oracle corporation
-103.42.107.254,8443,JP,guangzhou linseek
-172.96.209.184,53849,US,cluster logic
-172.233.200.194,587,US,linode 2
-47.250.139.59,443,MY,alibaba cloud 3
-155.254.60.225,443,MY,evoxt enterprise
+43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+167.71.198.82,8443,SG,digitalocean
+92.112.22.94,443,SG,unknown
+129.150.35.29,587,SG,oracle corporation
+176.97.70.119,443,JP,3nt solutions
+45.76.198.248,443,JP,vultr holdings
+66.253.7.79,443,US,i2000 inc
+64.225.2.218,2053,US,digitalocean 2
+47.254.235.252,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
