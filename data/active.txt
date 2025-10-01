@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
 156.244.1.250,8443,ID,lightnode
-8.222.218.155,443,SG,alibaba cloud
-104.234.151.10,8443,SG,moechuang network
-64.235.61.166,443,SG,singapore sg
-140.83.59.158,15805,JP,imported inetnum
-138.3.222.124,46209,JP,oracle network
-143.110.136.2,443,US,digitalocean
-23.95.91.159,443,US,racknerd
-155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+152.42.241.71,2053,SG,digitalocean
+8.219.63.1,443,SG,alibaba cloud
+143.198.196.196,2053,SG,digitalocean 2
+158.101.146.3,54516,JP,oracle public
+152.69.199.70,8443,JP,oracle corporation
+23.227.193.153,443,US,hivelocity inc
+173.254.217.185,443,US,null
+47.250.132.147,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
