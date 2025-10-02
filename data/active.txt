@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-213.35.108.135,12596,SG,oracle svenska
-66.42.61.1,443,SG,sgpvultrcust
-158.178.246.142,61731,SG,oracle corporation
-38.180.28.163,8443,JP,3nt solutions
-149.28.21.106,443,JP,vultr holdings
-144.34.184.181,33741,US,cluster logic
-198.98.61.220,443,US,frantech solutions
-47.250.139.249,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+43.218.77.16,1443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
+64.49.14.41,8443,SG,internet utilities
+43.156.107.236,12131,SG,6 collyer
+164.52.2.98,443,SG,uculsg
+150.230.5.34,45681,JP,oracle corporation
+138.2.10.149,45638,JP,oracle corporation 2
+45.150.65.39,8443,US,worktitans
+45.74.81.2,443,US,hotwire fision
+47.250.132.147,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
