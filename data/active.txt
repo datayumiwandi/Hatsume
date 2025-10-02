@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.222.220.81,25435,SG,alibaba cloud
-47.236.21.74,443,SG,alibaba cloud 2
-138.2.95.33,17465,SG,oracle corporation
-152.69.192.40,57005,JP,oracle corporation 2
-168.138.194.74,443,JP,oracle public
-67.226.221.164,80,US,securly inc
-67.226.222.243,80,US,securly inc 2
-47.254.235.252,443,MY,alibaba cloud 3
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+194.156.163.45,443,SG,misaka network
+168.138.165.174,443,SG,oracle public
+140.245.97.193,443,SG,oracle corporation
+8.209.220.50,21273,JP,shiodome sumitomo
+64.110.101.125,443,JP,oracle corporation 2
+23.137.132.67,443,US,888 ventures
+172.233.200.194,587,US,linode
+47.250.132.147,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
