@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+172.232.234.198,443,ID,linode
 149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.126.137,491,SG,alibaba cloud
-185.81.28.95,30503,SG,akile ltd
-129.150.49.58,18650,SG,oracle corporation
-141.147.161.249,51037,JP,oracle corporation 2
-132.145.116.185,443,JP,oracle public
-74.48.77.104,35273,US,multacom corporation
-148.135.22.233,48625,US,multacom corporation 2
-47.250.139.249,443,MY,alibaba cloud 2
-47.250.59.132,443,MY,alibaba cloud 3
+129.150.35.29,587,SG,oracle corporation
+128.199.134.152,443,SG,digitalocean
+146.235.19.79,28983,SG,oracle corporation 2
+158.101.80.84,443,JP,oracle public
+167.179.86.6,8443,JP,tyovultrcust
+34.69.150.180,443,US,google
+204.110.220.151,80,US,securly inc
+47.254.255.125,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
