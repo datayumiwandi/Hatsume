@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-172.232.234.198,443,ID,linode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-164.52.2.100,443,SG,uculsg
-51.79.158.58,8443,SG,ovh singapore
-111.119.215.93,443,SG,huaweicloudsg
-176.97.70.166,443,JP,3nt solutions
-23.106.132.54,443,JP,it7 networks
-198.12.120.132,2053,US,racknerd
-172.93.44.36,2443,US,cluster logic
-47.250.59.132,443,MY,alibaba cloud
+172.232.234.198,443,ID,linode
+103.6.207.108,8080,ID,pusat media
+52.76.110.129,20001,SG,amazon technologies
+47.236.71.6,443,SG,alibaba cloud
+150.109.11.223,443,SG,16 collyer
+132.145.127.203,2053,JP,oracle public
+152.69.199.70,8443,JP,oracle corporation
+172.245.62.25,2053,US,racknerd
+23.94.57.46,443,US,racknerd 2
 47.250.139.249,443,MY,alibaba cloud 2
+20.17.104.31,443,MY,microsoft corporation
