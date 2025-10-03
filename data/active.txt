@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-172.232.234.198,443,ID,linode
 156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-83.142.30.4,2096,SG,zappie host
-152.42.236.151,2053,SG,digitalocean
-160.22.79.155,443,SG,onidel pty
-47.79.35.191,443,JP,alibaba cloud
+172.232.234.198,443,ID,linode
+158.178.246.142,61731,SG,oracle corporation
+47.74.254.191,8900,SG,alibaba cloud
+8.222.161.217,443,SG,alibaba cloud 2
+147.45.49.11,8443,JP,global connectivity
 140.83.59.158,15805,JP,imported inetnum
-38.180.135.97,8443,US,3nt solutions
-67.226.221.26,80,US,securly inc
-47.254.206.121,443,MY,alibaba cloud 2
-155.254.60.225,443,MY,evoxt enterprise
+107.174.121.46,443,US,racknerd
+107.173.251.119,443,US,racknerd 2
+47.254.235.252,443,MY,alibaba cloud 3
+47.250.132.147,443,MY,alibaba cloud 4
