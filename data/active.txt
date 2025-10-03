@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 172.232.234.198,443,ID,linode
-51.79.158.58,8443,SG,ovh singapore
-140.245.97.193,443,SG,oracle corporation
-52.76.110.129,20001,SG,amazon technologies
-109.123.231.212,443,JP,contabo gmbh
-64.176.55.11,29999,JP,the constant
-92.118.10.56,443,US,first server
-54.167.43.59,443,US,amazon technologies 2
-47.254.206.121,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+38.180.249.123,443,SG,3nt solutions
+185.114.78.230,443,SG,aryaka networks
+43.134.167.135,9950,SG,6 collyer
+64.110.104.30,443,JP,oracle corporation
+147.45.49.11,2053,JP,global connectivity
+77.110.114.56,443,US,aeza international
+107.170.37.57,443,US,digitalocean
+47.254.255.125,443,MY,alibaba cloud
+20.17.104.31,443,MY,microsoft corporation
