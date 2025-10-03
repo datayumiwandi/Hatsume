@@ -1,13 +1,13 @@
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-172.232.234.198,443,ID,linode
-8.222.161.217,443,SG,alibaba cloud
-161.117.81.41,443,SG,1 raffles
-92.112.22.94,443,SG,unknown
-207.148.105.247,443,JP,tyovultrcust
-138.3.217.167,587,JP,oracle network
-23.94.5.177,4433,US,racknerd
-192.3.251.89,443,US,racknerd 2
-20.17.104.31,443,MY,microsoft corporation
+31.192.238.71,8443,SG,pdk
+43.156.181.203,443,SG,16 collyer
+143.198.92.220,443,SG,digitalocean
+132.145.115.62,443,JP,oracle public
+193.246.161.65,54310,JP,akile ltd
+5.78.77.41,2053,US,hetzner online
+199.195.253.235,443,US,frantech solutions
 38.60.193.247,13300,MY,kaopu cloud
+58.27.117.24,443,MY,tmnet
