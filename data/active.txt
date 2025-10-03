@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 172.232.234.198,443,ID,linode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-43.156.107.236,12131,SG,6 collyer
-31.192.238.71,8443,SG,pdk
-129.150.36.188,53435,SG,oracle corporation
-160.251.142.232,443,JP,gmo internet
-140.83.63.113,443,JP,imported inetnum
-104.168.35.194,56393,US,colocrossing
-97.64.26.142,30840,US,it7 networks
-47.250.139.59,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+64.235.61.166,443,SG,singapore sg
+47.130.35.116,8888,SG,amazon data
+91.192.81.154,8443,SG,melbikomas uab
+35.189.137.210,443,JP,google
+132.145.127.203,2053,JP,oracle public
+91.149.239.122,443,US,bgnetwork
+185.186.245.90,443,US,inxy ltd
+58.27.117.24,443,MY,tmnet
+47.250.132.147,443,MY,alibaba cloud
