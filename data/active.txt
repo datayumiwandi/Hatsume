@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 172.232.234.198,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc 2
-54.254.221.222,443,SG,amazon data
-168.138.171.70,23280,SG,oracle public
-62.72.46.14,8443,SG,contabo gmbh
-168.138.194.74,443,JP,oracle public 2
-140.238.62.82,1443,JP,oracle public 3
-38.180.40.72,8443,US,3nt solutions
-142.171.230.177,443,US,multacom corporation
-47.250.139.59,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+8.222.218.155,443,SG,alibaba cloud
+139.180.215.77,57878,SG,sgpvultrcust
+38.180.249.123,443,SG,3nt solutions
+185.18.222.208,2053,JP,jurgita jurgaitiene
+150.230.196.248,443,JP,oracle corporation
+149.18.36.230,443,US,cogent communications
+38.49.57.192,443,US,kurun cloud
+20.17.104.31,443,MY,microsoft corporation
+58.27.117.24,443,MY,tmnet
