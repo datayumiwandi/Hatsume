@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
 172.232.234.198,443,ID,linode
-8.222.218.155,443,SG,alibaba cloud
-139.180.215.77,57878,SG,sgpvultrcust
-38.180.249.123,443,SG,3nt solutions
-185.18.222.208,2053,JP,jurgita jurgaitiene
-150.230.196.248,443,JP,oracle corporation
-149.18.36.230,443,US,cogent communications
-38.49.57.192,443,US,kurun cloud
-20.17.104.31,443,MY,microsoft corporation
-58.27.117.24,443,MY,tmnet
+172.235.246.50,443,ID,linode 2
+103.6.207.108,8080,ID,pusat media
+43.156.107.236,12131,SG,6 collyer
+146.190.104.232,443,SG,digitalocean
+185.114.78.230,443,SG,aryaka networks
+141.147.183.49,29876,JP,oracle corporation
+150.230.63.93,443,JP,oracle corporation 2
+38.180.40.69,2053,US,3nt solutions
+204.110.222.104,443,US,securly inc
+47.250.132.147,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
