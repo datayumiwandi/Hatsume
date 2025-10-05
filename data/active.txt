@@ -1,13 +1,13 @@
-172.232.234.198,443,ID,linode
+43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+172.232.234.117,443,ID,linode
 149.129.250.8,443,ID,21f ciputra
-172.232.234.117,443,ID,linode 2
-43.218.77.16,1443,ID,amazoncom inc
-158.178.243.152,61731,SG,oracle corporation
-185.114.78.230,443,SG,aryaka networks
-13.250.31.132,443,SG,amazon data
-45.76.192.129,24434,JP,vultr holdings
-217.142.226.168,443,JP,oracle svenska
-208.81.129.171,2096,US,plesklogin net
-192.3.155.203,8443,US,racknerd
-47.254.235.252,443,MY,alibaba cloud
-20.17.104.31,443,MY,microsoft corporation
+152.42.236.151,2053,SG,digitalocean
+47.236.119.190,51342,SG,alibaba cloud
+45.76.159.76,443,SG,vultr holdings
+147.45.49.193,2053,JP,global connectivity
+35.78.229.176,443,JP,amazon data
+47.251.95.178,443,US,alibaba cloud 2
+45.154.214.190,12321,US,spartan host
+47.254.255.125,443,MY,alibaba cloud 3
+155.254.60.225,443,MY,evoxt enterprise
