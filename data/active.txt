@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
+172.232.234.117,443,ID,linode
 43.218.77.16,1443,ID,amazoncom inc
-47.236.119.190,51342,SG,alibaba cloud
-129.150.36.188,53435,SG,oracle corporation
-146.190.104.232,443,SG,digitalocean
-176.97.70.154,443,JP,3nt solutions
-109.61.109.42,443,JP,securebit ag
-164.90.151.177,2053,US,digitalocean 2
-103.35.190.187,8443,US,worktitans
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+149.129.250.8,443,ID,21f ciputra
+128.199.134.152,443,SG,digitalocean
+164.52.2.100,443,SG,uculsg
+160.22.79.155,443,SG,onidel pty
+38.180.28.163,2053,JP,3nt solutions
+103.42.107.254,8443,JP,guangzhou linseek
+198.200.41.16,12520,US,peg tech
+104.234.50.58,2053,US,unknown
+58.27.117.24,443,MY,tmnet
+20.17.104.31,443,MY,microsoft corporation
