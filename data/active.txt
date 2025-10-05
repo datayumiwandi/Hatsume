@@ -1,13 +1,13 @@
-172.232.234.117,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-129.150.58.86,57621,SG,oracle corporation
-128.199.134.152,443,SG,digitalocean
-158.178.236.14,61731,SG,oracle corporation 2
-103.106.0.123,443,JP,worktitans
-141.98.197.101,11665,JP,xtom japan
-167.99.58.113,2096,US,digitalocean 2
-172.206.209.177,443,US,microsoft
+103.6.207.108,8080,ID,pusat media
+172.232.234.117,443,ID,linode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.192.238.71,8443,SG,pdk
+43.156.107.236,12131,SG,6 collyer
+92.112.22.94,443,SG,unknown
+140.83.57.114,25965,JP,imported inetnum
+168.138.51.8,8443,JP,oracle public
+172.83.159.4,16478,US,spartan host
+129.159.118.130,18513,US,oracle corporation
+20.17.104.31,443,MY,microsoft corporation
 58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud
