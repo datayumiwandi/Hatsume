@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+172.232.234.62,443,ID,linode
 156.244.1.250,8443,ID,lightnode
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-172.232.234.117,443,ID,linode
-47.245.85.72,443,SG,alibaba cloud
-13.212.213.77,8443,SG,amazon data
-143.42.66.91,443,SG,m1
-38.207.137.217,443,JP,nearoute
-103.106.228.126,2053,JP,oneprovidercom tokyo
-45.32.132.35,443,US,the constant
-192.3.166.78,41095,US,racknerd
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+64.49.14.41,2053,SG,internet utilities
+62.72.46.14,8443,SG,contabo gmbh
+8.219.0.67,443,SG,alibaba cloud
+113.37.149.36,12553,JP,arteria networks
+168.138.46.115,43138,JP,oracle public
+23.94.248.150,8443,US,racknerd
+4.227.121.113,2083,US,microsoft corporation
+47.254.235.252,443,MY,alibaba cloud 2
+155.254.60.225,443,MY,evoxt enterprise
