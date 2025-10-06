@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-31.192.238.71,8443,SG,pdk
-128.199.134.152,443,SG,digitalocean
-8.222.220.81,25435,SG,alibaba cloud
-43.133.10.236,33405,JP,6 collyer
-13.230.34.30,443,JP,amazon data
-45.150.65.39,2053,US,worktitans
-149.18.36.154,443,US,cogent communications
-47.250.59.132,443,MY,alibaba cloud 2
-47.250.37.87,443,MY,alibaba cloud 3
+103.195.191.55,443,SG,28 kallang
+13.250.31.132,443,SG,amazon data
+138.2.69.236,23334,SG,oracle corporation
+141.147.185.63,443,JP,oracle corporation 2
+45.76.198.248,443,JP,vultr holdings
+104.194.86.189,443,US,it7 networks
+173.249.203.187,13071,US,tzulo inc
+58.27.117.24,443,MY,tmnet
+47.250.132.147,443,MY,alibaba cloud
