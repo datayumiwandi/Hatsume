@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
-43.252.21.100,443,SG,specialist
-43.128.95.110,40029,SG,6 collyer
-164.52.2.99,443,SG,uculsg
-138.2.59.96,10129,JP,oracle corporation
-192.243.127.224,443,JP,it7 networks
-165.1.79.60,8443,US,oracle corporation 2
-193.233.87.41,8443,US,vdskanet
-47.254.235.252,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+92.112.22.94,443,SG,unknown
+8.219.0.67,443,SG,alibaba cloud
+83.142.30.4,2096,SG,zappie host
+149.28.21.106,443,JP,vultr holdings
+38.180.29.115,443,JP,3nt solutions
+67.226.221.253,80,US,securly inc
+51.81.209.10,443,US,ovh us
+38.60.193.247,13300,MY,kaopu cloud
+47.250.37.87,443,MY,alibaba cloud 2
