@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-129.150.58.86,57621,SG,oracle corporation
-43.156.181.203,443,SG,16 collyer
-159.223.62.35,443,SG,digitalocean
-141.147.183.49,29876,JP,oracle corporation 2
-140.83.57.20,13118,JP,imported inetnum
-23.95.20.15,443,US,racknerd
-185.140.211.82,8443,US,melbikomas uab
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.165.174,443,SG,oracle public
+168.138.170.211,53702,SG,oracle public 2
+91.192.81.154,2053,SG,melbikomas uab
+158.101.76.55,21953,JP,oracle public 3
+132.145.127.203,8443,JP,oracle public 4
+192.3.81.151,443,US,racknerd
+77.110.114.56,443,US,aeza international
+47.250.59.132,443,MY,alibaba cloud
 155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
