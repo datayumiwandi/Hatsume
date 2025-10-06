@@ -1,13 +1,13 @@
-172.232.234.62,443,ID,linode
-36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-20.247.137.183,443,SG,microsoft corporation
-194.156.163.45,443,SG,misaka network
-152.42.241.71,2053,SG,digitalocean
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-82.163.16.69,8080,JP,akile ltd
-194.54.144.58,8443,US,internet utilities
-107.172.0.113,443,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc 2
+43.134.164.53,443,SG,6 collyer
+194.36.179.5,2053,SG,first server
+8.219.63.1,443,SG,alibaba cloud
+109.61.109.42,443,JP,securebit ag
+158.101.131.94,2083,JP,oracle public
+65.49.218.243,443,US,it7 networks
+97.64.23.95,8443,US,it7 networks 2
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud 2
