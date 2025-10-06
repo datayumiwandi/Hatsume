@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 172.232.234.62,443,ID,linode
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-83.142.30.5,2096,SG,zappie host
-43.252.21.100,443,SG,specialist
-103.195.191.55,443,SG,28 kallang
-141.147.147.180,443,JP,oracle corporation
-158.101.146.3,44872,JP,oracle public
-207.211.176.65,13425,US,oracle corporation 2
-66.98.127.46,2053,US,cluster logic
-155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+20.247.137.183,443,SG,microsoft corporation
+194.156.163.45,443,SG,misaka network
+152.42.241.71,2053,SG,digitalocean
+45.11.1.118,44004,JP,cegrgodigitalvm tokyo
+82.163.16.69,8080,JP,akile ltd
+194.54.144.58,8443,US,internet utilities
+107.172.0.113,443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud
