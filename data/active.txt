@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-178.128.80.43,443,SG,digitalocean
-213.35.100.31,47112,SG,oracle svenska
-152.42.241.71,2053,SG,digitalocean 2
-168.138.198.7,27560,JP,oracle public
-82.163.16.229,26803,JP,akile ltd
-15.204.10.80,24906,US,ovh us
-204.110.222.125,80,US,securly inc
-47.254.235.252,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.232.234.117,443,ID,linode
+139.59.104.25,2083,SG,digitalocean
+47.236.29.162,443,SG,alibaba cloud
+194.127.193.240,50791,SG,greencloud
+141.98.197.101,11665,JP,xtom japan
+108.160.141.198,443,JP,vultr holdings
+80.209.242.70,2053,US,hostkey
+172.206.209.177,443,US,microsoft
+47.254.235.252,443,MY,alibaba cloud 2
 155.254.60.225,443,MY,evoxt enterprise
