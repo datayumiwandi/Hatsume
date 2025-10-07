@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
-20.247.137.183,443,SG,microsoft corporation
-64.235.43.213,443,SG,singapore sg
-47.130.35.116,8888,SG,amazon data
-140.83.59.158,15805,JP,imported inetnum
-158.101.77.33,443,JP,oracle public
-172.234.197.154,587,US,linode
-82.117.252.189,81,US,green floid
-155.254.60.225,443,MY,evoxt enterprise
+149.129.250.8,443,ID,21f ciputra
+51.79.158.58,8443,SG,ovh singapore
+146.235.19.79,28983,SG,oracle corporation
+168.138.170.211,53702,SG,oracle public
+64.176.40.224,3533,JP,vultr holdings
+149.28.21.106,443,JP,vultr holdings 2
+104.234.50.58,2053,US,unknown
+104.234.50.221,2053,US,unknown 2
+58.27.117.24,443,MY,tmnet
 47.254.206.121,443,MY,alibaba cloud
