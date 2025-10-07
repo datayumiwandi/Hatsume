@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-139.162.4.242,8443,SG,linode
-8.222.218.155,443,SG,alibaba cloud
-128.199.134.152,443,SG,digitalocean
-109.123.231.212,443,JP,contabo gmbh
-138.2.12.103,14453,JP,cloudflare london
-31.57.46.184,2053,US,cgi global
-173.44.141.156,8443,US,winnebell network
-47.250.37.87,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+103.6.207.108,8080,ID,pusat media
+138.2.89.238,43254,SG,oracle corporation
+20.247.137.183,443,SG,microsoft corporation
+91.192.81.154,2053,SG,melbikomas uab
+132.145.127.203,2053,JP,oracle public
+5.180.76.44,443,JP,cegrgodigitalvm
+95.169.25.45,443,US,cluster logic
+54.203.85.46,443,US,amazoncom inc 2
+47.254.235.252,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
