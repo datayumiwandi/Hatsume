@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-146.190.104.232,443,SG,digitalocean
-45.76.179.81,443,SG,vultr holdings
-185.81.28.95,30503,SG,akile ltd
-212.52.0.61,1846,JP,prinode
-3.112.21.102,443,JP,amazon data
-52.12.162.159,443,US,amazon technologies
-193.122.152.253,443,US,oracle public
-47.254.255.125,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+139.180.215.77,57878,SG,sgpvultrcust
+138.2.89.238,43254,SG,oracle corporation
+138.2.69.236,23334,SG,oracle corporation 2
+149.28.21.106,443,JP,vultr holdings
+202.84.53.85,19999,JP,azumino network
+52.10.78.7,80,US,amazoncom inc 2
+138.124.187.19,2053,US,webhost
+47.254.206.121,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
