@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
-159.223.62.35,443,SG,digitalocean
-164.52.2.98,443,SG,uculsg
-83.142.30.5,2096,SG,zappie host
-193.246.161.65,54310,JP,akile ltd
-38.180.29.40,2053,JP,3nt solutions
-77.110.124.117,2096,US,aeza international
-66.63.166.25,443,US,racknerd
-47.254.235.252,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+43.218.77.16,443,ID,amazoncom inc
+172.232.234.198,443,ID,linode
+43.218.77.16,1443,ID,amazoncom inc 2
+91.192.81.154,8443,SG,melbikomas uab
+51.79.158.58,8443,SG,ovh singapore
+51.79.158.58,2053,SG,ovh singapore 2
+154.85.20.249,443,JP,akile ltd
+43.153.179.6,443,JP,16 collyer
+107.175.113.28,443,US,racknerd
+67.226.221.226,80,US,securly inc
+38.60.193.247,13300,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud
