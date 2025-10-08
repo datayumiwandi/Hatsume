@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+172.232.234.198,443,ID,linode
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,8443,ID,cv rumahweb
-168.138.185.234,443,SG,oracle public
-38.180.249.123,443,SG,3nt solutions
-194.127.193.124,24467,SG,greencloud
-153.121.45.101,443,JP,sakura internet
-138.2.10.217,27446,JP,oracle corporation
-172.93.43.112,443,US,cluster logic
-38.180.254.111,8443,US,3nt solutions 2
+185.81.28.95,30503,SG,akile ltd
+152.42.241.71,2053,SG,digitalocean
+168.138.181.188,61731,SG,oracle public
+15.168.175.167,2087,JP,amazon data
+141.147.161.249,51037,JP,oracle corporation
+45.154.214.190,12321,US,spartan host
+138.197.9.141,6000,US,digitalocean 2
 47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+47.250.139.249,443,MY,alibaba cloud 2
