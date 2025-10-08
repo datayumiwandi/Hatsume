@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb
-150.109.11.223,443,SG,16 collyer
-8.219.63.1,443,SG,alibaba cloud
-8.219.59.132,48964,SG,alibaba cloud 2
-64.176.42.125,10001,JP,vultr holdings
-140.83.56.110,56417,JP,imported inetnum
-142.171.3.165,443,US,multacom corporation
-20.62.172.88,443,US,microsoft corporation
-58.27.117.24,443,MY,tmnet
-47.254.206.121,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+185.114.78.230,443,SG,aryaka networks
+194.127.193.124,24467,SG,greencloud
+92.112.22.94,443,SG,unknown
+103.125.216.22,443,JP,vpsservercom 24
+54.64.238.243,443,JP,amazon technologies
+67.226.221.16,80,US,securly inc
+192.3.166.78,41095,US,racknerd
+47.250.59.132,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
