@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-129.150.36.188,53435,SG,oracle corporation
-8.222.213.91,587,SG,alibaba cloud
-168.138.170.211,53702,SG,oracle public
-109.61.109.42,443,JP,securebit ag
-176.97.70.119,443,JP,3nt solutions
-158.101.24.17,443,US,oracle public 2
-152.53.54.193,8443,US,netcup gmbh
-47.250.139.249,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+172.232.234.198,443,ID,linode
+156.244.1.250,8443,ID,lightnode
+8.222.161.217,443,SG,alibaba cloud
+194.36.179.17,8443,SG,first server
+160.22.79.179,443,SG,onidel pty
+156.231.117.209,443,JP,akile ltd
+49.212.133.94,443,JP,sakura internet
+185.143.223.145,8443,US,global connectivity
+43.153.105.7,443,US,6 collyer
 155.254.60.225,443,MY,evoxt enterprise
+47.254.235.252,443,MY,alibaba cloud 2
