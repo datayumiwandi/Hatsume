@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-138.2.95.61,1111,SG,oracle corporation
-83.142.30.5,2096,SG,zappie host
-152.42.236.151,2053,SG,digitalocean
-38.207.137.217,443,JP,nearoute
-176.97.70.119,443,JP,3nt solutions
-38.180.82.75,443,US,3nt solutions 2
-89.208.250.204,28268,US,cluster logic
-47.250.37.87,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+165.154.203.69,443,SG,scloud pte
+149.28.158.103,10030,SG,vultr holdings
+161.117.81.228,4443,SG,1 raffles
+168.138.51.8,8443,JP,oracle public
+47.79.35.191,443,JP,alibaba cloud
+104.160.47.72,18888,US,it7 networks
+5.161.151.221,2053,US,hetzner online
+20.17.104.31,443,MY,microsoft corporation
+155.254.60.225,443,MY,evoxt enterprise
