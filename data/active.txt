@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-202.73.51.244,443,SG,viewqwest pte
-168.138.171.70,23280,SG,oracle public
-45.76.179.81,443,SG,vultr holdings
-176.97.70.51,2053,JP,3nt solutions
-168.138.51.8,8443,JP,oracle public 2
-170.130.40.242,8443,US,eonix corporation
-5.78.77.41,2053,US,hetzner online
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+8.222.213.91,587,SG,alibaba cloud
+54.255.217.120,8192,SG,amazon data
+43.134.167.135,9950,SG,6 collyer
+38.180.29.40,2053,JP,3nt solutions
+158.101.154.245,47001,JP,oracle public
+172.208.36.45,443,US,microsoft
+72.18.132.149,8443,US,exabytes network
 155.254.60.225,443,MY,evoxt enterprise
-47.254.206.121,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
