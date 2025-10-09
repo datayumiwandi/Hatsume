@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-178.128.80.43,443,SG,digitalocean
-167.99.73.22,443,SG,digitalocean 2
-47.130.35.116,8888,SG,amazon data
-217.142.250.195,587,JP,oracle corporation
-168.138.194.74,443,JP,oracle public
-35.212.160.116,443,US,google
-134.209.166.201,8443,US,digitalocean 3
-47.254.255.125,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+172.235.246.50,443,ID,linode
+156.244.1.250,8443,ID,lightnode
+194.36.179.17,2053,SG,first server
+64.235.43.144,443,SG,singapore sg
+43.156.107.236,12131,SG,6 collyer
+150.230.59.15,8443,JP,oracle corporation
+27.83.68.142,8443,JP,japan internet
+103.35.190.104,8443,US,worktitans
+143.198.31.221,443,US,digitalocean
+47.250.59.132,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
