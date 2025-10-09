@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc 2
-43.156.116.194,443,SG,6 collyer
-194.36.179.17,8443,SG,first server
-160.22.79.155,443,SG,onidel pty
-141.147.152.229,23333,JP,oracle corporation
-43.153.179.6,443,JP,16 collyer
-199.119.137.109,2053,US,extravm
-107.172.146.13,443,US,hostpapa
-47.254.206.121,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc 2
+51.79.158.58,8443,SG,ovh singapore
+43.128.95.110,40029,SG,6 collyer
+8.222.220.81,25435,SG,alibaba cloud
+154.85.20.249,443,JP,akile ltd
+192.243.127.224,443,JP,it7 networks
+172.82.16.38,25950,US,olink cloud
+104.224.153.46,443,US,it7 networks 2
+47.250.139.59,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
