@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-165.154.203.69,443,SG,scloud pte
-149.28.158.103,10030,SG,vultr holdings
-161.117.81.228,4443,SG,1 raffles
-168.138.51.8,8443,JP,oracle public
-47.79.35.191,443,JP,alibaba cloud
-104.160.47.72,18888,US,it7 networks
-5.161.151.221,2053,US,hetzner online
-20.17.104.31,443,MY,microsoft corporation
-155.254.60.225,443,MY,evoxt enterprise
+45.32.100.46,13802,SG,vultr holdings
+143.198.196.196,8443,SG,digitalocean
+45.76.179.81,443,SG,vultr holdings 2
+158.101.131.94,2083,JP,oracle public
+138.2.12.103,14453,JP,cloudflare london
+142.171.85.230,28034,US,multacom corporation
+162.245.191.87,8443,US,interserver inc
+47.254.255.125,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
