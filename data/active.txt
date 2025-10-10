@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-8.222.218.155,443,SG,alibaba cloud
-47.236.29.162,443,SG,alibaba cloud 2
-168.138.185.234,443,SG,oracle public
-138.2.12.103,14453,JP,cloudflare london
-103.125.216.22,443,JP,vpsservercom 24
-193.32.177.101,443,US,baykov ilya
-35.175.188.144,9000,US,amazon technologies
-47.254.255.125,443,MY,alibaba cloud 3
-47.250.37.87,443,MY,alibaba cloud 4
+36.95.152.58,12137,ID,telekomunikasi indonesia
+20.247.137.183,443,SG,microsoft corporation
+161.117.81.228,4443,SG,1 raffles
+13.250.31.132,443,SG,amazon data
+103.106.228.126,2053,JP,oneprovidercom tokyo
+64.176.55.11,29999,JP,the constant
+107.172.137.69,2053,US,racknerd
+192.9.228.70,14123,US,oracle corporation
+47.250.59.132,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
