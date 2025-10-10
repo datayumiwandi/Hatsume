@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-8.219.1.169,443,SG,alibaba cloud
-47.236.119.190,51342,SG,alibaba cloud 2
-64.49.14.41,2053,SG,internet utilities
-158.51.111.105,443,JP,ddps networks
-217.142.226.168,443,JP,oracle svenska
-107.172.102.212,20700,US,racknerd
-74.48.4.205,12525,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
-47.250.59.132,443,MY,alibaba cloud 3
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+8.222.218.155,443,SG,alibaba cloud
+47.236.29.162,443,SG,alibaba cloud 2
+168.138.185.234,443,SG,oracle public
+138.2.12.103,14453,JP,cloudflare london
+103.125.216.22,443,JP,vpsservercom 24
+193.32.177.101,443,US,baykov ilya
+35.175.188.144,9000,US,amazon technologies
+47.254.255.125,443,MY,alibaba cloud 3
+47.250.37.87,443,MY,alibaba cloud 4
