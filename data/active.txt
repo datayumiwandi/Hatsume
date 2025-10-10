@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb 2
-161.117.81.228,4443,SG,1 raffles
-47.245.85.72,443,SG,alibaba cloud
-43.156.181.203,443,SG,16 collyer
-121.85.55.59,19842,JP,optage inc
-176.97.70.119,443,JP,3nt solutions
-38.135.122.193,443,US,cogent communications
-97.64.18.60,443,US,it7 networks
+203.194.112.119,8443,ID,cv rumahweb
+158.178.236.14,61731,SG,oracle corporation
+138.2.95.33,17465,SG,oracle corporation 2
+152.42.236.151,2053,SG,digitalocean
+150.230.204.21,10243,JP,oracle corporation 3
+176.97.70.51,2053,JP,3nt solutions
+185.106.96.203,11338,US,sriyaan technology
+67.226.221.100,80,US,securly inc
 58.27.117.24,443,MY,tmnet
-20.17.104.31,443,MY,microsoft corporation
+47.254.235.252,443,MY,alibaba cloud
