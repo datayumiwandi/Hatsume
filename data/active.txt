@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb
 172.235.246.50,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-158.178.246.142,61731,SG,oracle corporation
-129.150.35.29,587,SG,oracle corporation 2
-185.114.78.230,443,SG,aryaka networks
-156.231.117.209,443,JP,akile ltd
-47.79.43.222,443,JP,alibaba cloud
-34.218.130.79,443,US,amazon technologies
-88.210.37.244,2053,US,melbikomas uab
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+152.42.236.151,2053,SG,digitalocean
+47.74.254.191,8900,SG,alibaba cloud
+138.2.69.236,23334,SG,oracle corporation
+168.138.192.16,54584,JP,oracle public
+38.180.28.163,2053,JP,3nt solutions
+107.175.136.247,8443,US,racknerd
+77.110.119.35,8443,US,aeza international
 47.254.255.125,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
