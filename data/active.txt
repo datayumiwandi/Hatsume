@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-172.235.246.50,443,ID,linode
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-43.156.107.236,12131,SG,6 collyer
-15.235.192.85,443,SG,ovh singapore
-129.150.58.86,57621,SG,oracle corporation
-38.180.28.163,2053,JP,3nt solutions
-47.79.90.37,49153,JP,alibaba cloud
-104.167.197.130,2053,US,3hcloud
-192.227.178.102,2053,US,racknerd
-58.27.117.24,443,MY,tmnet
-47.254.206.121,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+92.112.22.94,443,SG,unknown
+161.117.81.228,4443,SG,1 raffles
+103.195.191.55,443,SG,28 kallang
+18.177.83.181,443,JP,amazon data
+132.145.116.185,443,JP,oracle public
+192.210.196.158,36414,US,racknerd
+23.106.155.178,802,US,it7 networks
+47.254.206.121,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
