@@ -1,7 +1,7 @@
-104.248.145.216,443,ID,digitalocean
-185.120.138.76,443,ID,melbikomas uab
-178.255.222.43,2053,ID,as56971 network
-89.22.232.156,443,ID,aeza international
+45.76.12.227,443,ID,vultr holdings
+103.137.249.117,443,ID,clodo cloud
+138.124.115.10,443,ID,aeza international
+103.249.134.151,443,ID,aeza international 2
 34.143.159.175,443,SG,google
-204.110.220.214,80,US,securly inc
-204.110.220.23,80,US,securly inc 2
+204.110.220.23,80,US,securly inc
+143.198.49.152,443,US,digitalocean
