@@ -1,7 +1,7 @@
-89.22.238.165,443,ID,aeza international
-199.119.137.90,8443,ID,extravm
-202.61.200.220,8080,ID,netcup gmbh
-87.117.247.27,443,ID,iomart managed
+198.57.46.6,443,ID,secure dragon
+193.228.193.118,8443,ID,internet utilities
+143.42.55.161,443,ID,linode
+193.188.20.213,443,ID,aeza international
 34.143.159.175,443,SG,google
-143.198.49.152,443,US,digitalocean
-204.110.220.184,80,US,securly inc
+204.110.220.4,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
