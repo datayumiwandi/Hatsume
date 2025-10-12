@@ -1,7 +1,7 @@
-185.254.97.252,2013,ID,dataforest gmbh
-79.137.205.25,443,ID,aeza international
-194.76.217.59,443,ID,aeza international 2
-212.113.116.100,443,ID,aeza international 3
+95.181.167.66,443,ID,aeza international
+89.22.228.34,8443,ID,aeza international 2
+185.20.225.208,8443,ID,regru hosting
+5.182.86.207,443,ID,aeza international 3
 34.143.159.175,443,SG,google
+143.198.49.152,443,US,digitalocean
 204.110.220.184,80,US,securly inc
-162.216.231.152,8443,US,wargaming usa
