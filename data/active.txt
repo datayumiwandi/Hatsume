@@ -1,7 +1,7 @@
-198.57.46.6,443,ID,secure dragon
-193.228.193.118,8443,ID,internet utilities
-143.42.55.161,443,ID,linode
-193.188.20.213,443,ID,aeza international
+62.60.186.115,8443,ID,smart digital
+176.124.207.164,2053,ID,aeza international
+57.128.183.35,8443,ID,ovh ltd
+213.108.23.82,443,ID,aeza international 2
 34.143.159.175,443,SG,google
-204.110.220.4,80,US,securly inc
 162.216.231.152,8443,US,wargaming usa
+204.110.220.184,80,US,securly inc
