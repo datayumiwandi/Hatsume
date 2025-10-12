@@ -1,7 +1,7 @@
-45.76.12.227,443,ID,vultr holdings
-103.137.249.117,443,ID,clodo cloud
-138.124.115.10,443,ID,aeza international
-103.249.134.151,443,ID,aeza international 2
+57.129.63.123,8443,ID,ovh gmbh
+138.124.102.108,8443,ID,aeza international
+217.144.186.57,443,ID,aeza international 2
+185.193.159.19,8443,ID,allocation hb
 34.143.159.175,443,SG,google
-204.110.220.23,80,US,securly inc
 143.198.49.152,443,US,digitalocean
+204.110.220.23,80,US,securly inc
