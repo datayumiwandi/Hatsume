@@ -1,7 +1,7 @@
-62.60.186.115,8443,ID,smart digital
-176.124.207.164,2053,ID,aeza international
-57.128.183.35,8443,ID,ovh ltd
-213.108.23.82,443,ID,aeza international 2
+50.112.33.254,443,ID,amazoncom inc
+5.180.30.249,2096,ID,worktitans
+213.176.112.185,8443,ID,aeza international
+193.42.60.194,8443,ID,racknerd
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-204.110.220.184,80,US,securly inc
+204.110.220.23,80,US,securly inc
+204.110.220.214,80,US,securly inc 2
