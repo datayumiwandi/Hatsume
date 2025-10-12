@@ -1,7 +1,7 @@
-50.112.33.254,443,ID,amazoncom inc
-5.180.30.249,2096,ID,worktitans
-213.176.112.185,8443,ID,aeza international
-193.42.60.194,8443,ID,racknerd
+84.252.74.134,8443,ID,first server
+185.193.158.67,8443,ID,allocation hb
+90.156.250.220,8443,ID,vk cloud
+57.129.63.53,8443,ID,ovh gmbh
 34.143.159.175,443,SG,google
 204.110.220.23,80,US,securly inc
-204.110.220.214,80,US,securly inc 2
+204.110.220.4,80,US,securly inc 2
