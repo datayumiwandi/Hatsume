@@ -1,7 +1,7 @@
-95.181.167.66,443,ID,aeza international
-89.22.228.34,8443,ID,aeza international 2
-185.20.225.208,8443,ID,regru hosting
-5.182.86.207,443,ID,aeza international 3
+104.248.145.216,443,ID,digitalocean
+185.120.138.76,443,ID,melbikomas uab
+178.255.222.43,2053,ID,as56971 network
+89.22.232.156,443,ID,aeza international
 34.143.159.175,443,SG,google
-143.198.49.152,443,US,digitalocean
-204.110.220.184,80,US,securly inc
+204.110.220.214,80,US,securly inc
+204.110.220.23,80,US,securly inc 2
