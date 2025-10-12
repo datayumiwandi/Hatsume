@@ -1,7 +1,7 @@
-57.129.63.123,8443,ID,ovh gmbh
-138.124.102.108,8443,ID,aeza international
-217.144.186.57,443,ID,aeza international 2
-185.193.159.19,8443,ID,allocation hb
+89.22.238.165,443,ID,aeza international
+199.119.137.90,8443,ID,extravm
+202.61.200.220,8080,ID,netcup gmbh
+87.117.247.27,443,ID,iomart managed
 34.143.159.175,443,SG,google
 143.198.49.152,443,US,digitalocean
-204.110.220.23,80,US,securly inc
+204.110.220.184,80,US,securly inc
