@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-38.180.249.123,443,SG,3nt solutions
-143.42.66.91,443,SG,viewqwest pte
-160.22.79.179,443,SG,onidel pty
-147.79.20.47,443,JP,bytevirt
-109.123.231.212,443,JP,contabo gmbh
-216.128.140.253,26376,US,the constant
-144.126.147.42,443,US,contabo inc
+43.218.77.16,443,ID,amazoncom inc 2
+64.235.61.166,443,SG,singapore sg
+104.234.151.10,8443,SG,moechuang network
+13.250.131.37,443,SG,amazon data
+45.32.49.72,9443,JP,vultr holdings
+64.176.55.11,29999,JP,the constant
+38.180.146.215,443,US,3nt solutions
+165.1.65.220,55200,US,oracle corporation
 47.254.206.121,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+47.254.235.252,443,MY,alibaba cloud 2
