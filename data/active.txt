@@ -1,7 +1,7 @@
-54.148.167.46,443,ID,amazoncom inc
-185.245.107.12,8443,ID,amsterdam netherlands
-62.60.231.131,443,ID,aeza international
-51.75.30.55,2053,ID,ovh sas
+164.92.139.175,18443,ID,digitalocean
+172.245.55.114,443,ID,racknerd
+193.107.109.111,8443,ID,hostiko
+57.128.183.59,443,ID,ovh ltd
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
-204.110.220.4,80,US,securly inc 2
+204.110.220.214,80,US,securly inc
+204.110.220.23,80,US,securly inc 2
