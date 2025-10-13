@@ -1,7 +1,7 @@
-51.91.251.144,443,ID,ovh sas
-77.110.109.78,443,ID,aeza international
-185.104.151.176,8443,ID,aeza international 2
-80.76.33.220,2053,ID,first server
+78.153.136.94,443,ID,aeza international
+37.120.187.246,2001,ID,netcup gmbh
+54.220.80.89,2053,ID,amazoncom inc
+62.60.248.171,443,ID,aeza international 2
 34.143.159.175,443,SG,google
 204.110.220.4,80,US,securly inc
 204.110.220.184,80,US,securly inc 2
