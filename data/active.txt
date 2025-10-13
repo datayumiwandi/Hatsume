@@ -1,7 +1,7 @@
-188.253.27.51,8443,ID,sia veesp
-45.134.15.157,443,ID,aeza international
-109.248.162.204,443,ID,cgi global
-89.208.97.86,443,ID,aeza international 2
+129.154.223.89,15800,ID,oracle corporation
+57.129.137.243,8443,ID,ovh ltd
+77.221.151.57,2053,ID,aeza group
+211.33.238.198,12295,ID,korea telecom
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 204.110.220.23,80,US,securly inc
+143.198.49.152,443,US,digitalocean
