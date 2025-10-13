@@ -1,7 +1,7 @@
-37.1.210.238,443,ID,iroko networks
-152.228.135.96,8443,ID,ovh sas
-5.178.110.34,2053,ID,ahbr
-85.239.147.71,8443,ID,aeza international
+209.141.33.79,2053,ID,buyvm services
+62.60.233.201,4445,ID,global connectivity
+129.226.155.16,29443,ID,16 collyer
+95.217.195.186,2053,ID,hetzner online
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
-204.110.220.184,80,US,securly inc
+204.110.220.214,80,US,securly inc
