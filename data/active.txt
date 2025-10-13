@@ -1,7 +1,7 @@
-77.87.122.19,8443,ID,turunc smart
-83.228.205.127,443,ID,infomaniak network
-185.242.107.130,39506,ID,sia veesp
-141.94.222.33,2053,ID,ovh sas
+83.147.216.120,443,ID,aeza international
+95.181.174.59,443,ID,aeza international 2
+152.228.216.146,443,ID,ovh sas
+46.226.167.159,443,ID,aeza international 3
 34.143.159.175,443,SG,google
 204.110.220.23,80,US,securly inc
 143.198.49.152,443,US,digitalocean
