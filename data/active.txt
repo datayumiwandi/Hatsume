@@ -1,7 +1,7 @@
-212.193.2.98,443,ID,baxet group
-47.81.9.160,443,ID,alibaba cloud
-45.76.179.81,443,ID,vultr holdings
-31.58.137.166,2053,ID,cgi global
+62.60.186.151,443,ID,aeza international
+167.172.105.45,443,ID,digitalocean
+212.34.143.131,8443,ID,amsterdam netherlands
+81.19.139.197,8443,ID,global connectivity
 34.143.159.175,443,SG,google
 204.110.220.23,80,US,securly inc
-143.198.49.152,443,US,digitalocean
+162.216.231.152,8443,US,wargaming usa
