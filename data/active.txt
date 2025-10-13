@@ -1,7 +1,7 @@
-51.178.37.247,2053,ID,ovh sas
-211.59.232.85,12171,ID,sk broadband
-54.37.90.205,8080,ID,ovh gmbh
-194.58.98.15,8443,ID,regru hosting
+193.109.120.96,2053,ID,bluevps ou
+103.80.86.12,443,ID,soltia consulting
+80.79.123.100,443,ID,aktsiaselts wavecom
+49.12.45.20,443,ID,hetzner online
 34.143.159.175,443,SG,google
-204.110.220.4,80,US,securly inc
-204.110.220.23,80,US,securly inc 2
+162.216.231.152,8443,US,wargaming usa
+204.110.220.184,80,US,securly inc
