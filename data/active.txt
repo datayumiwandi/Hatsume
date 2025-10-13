@@ -1,7 +1,7 @@
-89.23.113.222,2053,ID,global internet
-89.208.97.49,443,ID,aeza international
-80.76.34.202,8443,ID,first server
-163.5.207.235,443,ID,serva one
+45.145.43.205,2053,ID,dataforest gmbh
+51.91.255.163,443,ID,ovh sas
+185.157.213.128,443,ID,amsterdam netherlands
+46.29.234.155,8443,ID,global connectivity
 34.143.159.175,443,SG,google
-143.198.49.152,443,US,digitalocean
+23.94.255.195,443,US,racknerd
 204.110.220.214,80,US,securly inc
