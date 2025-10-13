@@ -1,7 +1,7 @@
-95.182.99.23,8443,ID,cgi global
-109.120.187.1,443,ID,aeza international
-185.218.3.138,443,ID,worktitans
-85.192.31.9,443,ID,aeza international 2
+89.23.113.222,2053,ID,global internet
+89.208.97.49,443,ID,aeza international
+80.76.34.202,8443,ID,first server
+163.5.207.235,443,ID,serva one
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
-204.110.220.4,80,US,securly inc 2
+143.198.49.152,443,US,digitalocean
+204.110.220.214,80,US,securly inc
