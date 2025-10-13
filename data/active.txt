@@ -1,7 +1,7 @@
-129.154.223.89,15800,ID,oracle corporation
-57.129.137.243,8443,ID,ovh ltd
-77.221.151.57,2053,ID,aeza group
-211.33.238.198,12295,ID,korea telecom
+89.169.35.83,443,ID,aeza international
+185.193.158.80,8443,ID,allocation hb
+178.208.75.155,8443,ID,iron hosting
+94.228.162.91,2053,ID,pronet
 34.143.159.175,443,SG,google
+162.216.231.152,8443,US,wargaming usa
 204.110.220.23,80,US,securly inc
-143.198.49.152,443,US,digitalocean
