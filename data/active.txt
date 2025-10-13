@@ -1,7 +1,7 @@
-103.249.132.122,8443,ID,aeza international
-62.60.234.179,8443,ID,global connectivity
-157.230.127.100,8443,ID,digitalocean
-139.144.77.176,443,ID,linode
+94.228.170.109,443,ID,aeza international
+31.57.61.93,2053,ID,cgi global
+85.239.144.230,443,ID,aeza international 2
+51.250.15.177,8443,ID,yandexcloud
 34.143.159.175,443,SG,google
 204.110.220.184,80,US,securly inc
 162.216.231.152,8443,US,wargaming usa
