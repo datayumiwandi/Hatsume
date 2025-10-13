@@ -1,7 +1,7 @@
-147.45.76.67,443,ID,aeza international
-219.151.148.63,10021,ID,chinanet chongqing
-77.91.78.221,443,ID,aeza international 2
-77.221.153.168,443,ID,aeza international 3
+206.189.24.227,443,ID,digitalocean
+195.245.239.195,443,ID,snowd security
+45.76.100.173,443,ID,vultr holdings
+212.34.141.73,8443,ID,amsterdam netherlands
 34.143.159.175,443,SG,google
-204.110.220.23,80,US,securly inc
-143.198.49.152,443,US,digitalocean
+143.198.49.152,443,US,digitalocean 2
+162.216.231.152,8443,US,wargaming usa
