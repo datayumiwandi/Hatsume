@@ -1,7 +1,7 @@
-213.176.93.16,8443,ID,aeza international
-5.101.82.23,8443,ID,petersburg internet
-146.59.233.202,2053,ID,ovh sas
-15.204.30.136,443,ID,ovh us
+62.60.179.4,443,ID,aeza international
+85.192.29.4,443,ID,aeza international 2
+109.107.185.106,8443,ID,amsterdam netherlands
+109.107.166.23,443,ID,amsterdam netherlands 2
 34.143.159.175,443,SG,google
+162.216.231.152,8443,US,wargaming usa
 204.110.220.184,80,US,securly inc
-204.110.220.23,80,US,securly inc 2
