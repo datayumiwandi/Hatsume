@@ -1,7 +1,7 @@
-185.128.104.82,443,ID,aeza international
-176.105.253.98,443,ID,breezle
-194.9.6.73,555,ID,dataforest gmbh
-35.175.188.144,9000,ID,amazon technologies
+54.148.167.46,443,ID,amazoncom inc
+185.245.107.12,8443,ID,amsterdam netherlands
+62.60.231.131,443,ID,aeza international
+51.75.30.55,2053,ID,ovh sas
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-204.110.220.214,80,US,securly inc
+204.110.220.184,80,US,securly inc
+204.110.220.4,80,US,securly inc 2
