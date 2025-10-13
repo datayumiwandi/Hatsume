@@ -1,7 +1,7 @@
-67.226.220.10,443,ID,securly inc
-162.120.69.89,8443,ID,allocation hb
-185.231.68.113,444,ID,podaon sia
-138.124.127.21,443,ID,aeza international
+103.249.132.122,8443,ID,aeza international
+62.60.234.179,8443,ID,global connectivity
+157.230.127.100,8443,ID,digitalocean
+139.144.77.176,443,ID,linode
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc 2
-204.110.220.23,80,US,securly inc 3
+204.110.220.184,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
