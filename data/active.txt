@@ -1,7 +1,7 @@
-84.252.74.134,8443,ID,first server
-185.193.158.67,8443,ID,allocation hb
-90.156.250.220,8443,ID,vk cloud
-57.129.63.53,8443,ID,ovh gmbh
+95.182.99.23,8443,ID,cgi global
+109.120.187.1,443,ID,aeza international
+185.218.3.138,443,ID,worktitans
+85.192.31.9,443,ID,aeza international 2
 34.143.159.175,443,SG,google
-204.110.220.23,80,US,securly inc
+204.110.220.184,80,US,securly inc
 204.110.220.4,80,US,securly inc 2
