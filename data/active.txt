@@ -1,7 +1,7 @@
-57.128.177.176,443,ID,ovh ltd
-45.133.245.50,8443,ID,pservers enterprise
-82.115.5.141,8443,ID,sia veesp
-5.144.179.113,2053,ID,hostvdscom cloud
+37.1.210.238,443,ID,iroko networks
+152.228.135.96,8443,ID,ovh sas
+5.178.110.34,2053,ID,ahbr
+85.239.147.71,8443,ID,aeza international
 34.143.159.175,443,SG,google
-204.110.220.214,80,US,securly inc
 23.94.255.195,443,US,racknerd
+204.110.220.184,80,US,securly inc
