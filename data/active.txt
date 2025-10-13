@@ -1,7 +1,7 @@
-62.60.186.151,443,ID,aeza international
-167.172.105.45,443,ID,digitalocean
-212.34.143.131,8443,ID,amsterdam netherlands
-81.19.139.197,8443,ID,global connectivity
+109.120.135.127,443,ID,aeza international
+185.253.44.97,443,ID,friendhosting ltd
+77.246.105.38,2053,ID,amsterdam netherlands
+89.22.224.221,2053,ID,aeza international 2
 34.143.159.175,443,SG,google
-204.110.220.23,80,US,securly inc
+143.198.49.152,443,US,digitalocean
 162.216.231.152,8443,US,wargaming usa
