@@ -1,7 +1,7 @@
-62.60.179.4,443,ID,aeza international
-85.192.29.4,443,ID,aeza international 2
-109.107.185.106,8443,ID,amsterdam netherlands
-109.107.166.23,443,ID,amsterdam netherlands 2
+109.120.151.118,443,ID,aeza international
+138.124.18.230,443,ID,aeza international 2
+89.163.213.208,2083,ID,wiit ag
+77.110.102.251,443,ID,aeza international 3
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 204.110.220.184,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
