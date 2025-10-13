@@ -1,7 +1,7 @@
-45.10.41.205,443,ID,jsc timeweb
-185.221.162.83,2053,ID,first server
-91.103.253.165,443,ID,aeza international
-212.34.146.245,2053,ID,amsterdam netherlands
+91.103.253.57,2053,ID,hypercore ltd
+45.134.15.122,443,ID,aeza international
+77.72.18.212,8443,ID,melbikomas uab
+220.79.29.86,12404,ID,korea telecom
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
-204.110.220.23,80,US,securly inc
+204.110.220.184,80,US,securly inc
