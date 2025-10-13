@@ -1,7 +1,7 @@
-89.169.35.83,443,ID,aeza international
-185.193.158.80,8443,ID,allocation hb
-178.208.75.155,8443,ID,iron hosting
-94.228.162.91,2053,ID,pronet
+147.45.76.67,443,ID,aeza international
+219.151.148.63,10021,ID,chinanet chongqing
+77.91.78.221,443,ID,aeza international 2
+77.221.153.168,443,ID,aeza international 3
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 204.110.220.23,80,US,securly inc
+143.198.49.152,443,US,digitalocean
