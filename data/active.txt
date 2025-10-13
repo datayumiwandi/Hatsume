@@ -1,7 +1,7 @@
-89.22.230.197,443,ID,aeza international
-47.76.218.163,443,ID,alibaba cloud
-143.42.55.176,443,ID,linode
-172.245.131.101,8443,ID,racknerd
+212.193.2.98,443,ID,baxet group
+47.81.9.160,443,ID,alibaba cloud
+45.76.179.81,443,ID,vultr holdings
+31.58.137.166,2053,ID,cgi global
 34.143.159.175,443,SG,google
 204.110.220.23,80,US,securly inc
 143.198.49.152,443,US,digitalocean
