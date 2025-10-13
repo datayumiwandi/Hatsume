@@ -1,7 +1,7 @@
-91.103.253.57,2053,ID,hypercore ltd
-45.134.15.122,443,ID,aeza international
-77.72.18.212,8443,ID,melbikomas uab
-220.79.29.86,12404,ID,korea telecom
+77.87.122.25,2053,ID,turunc smart
+147.45.74.206,443,ID,aeza international
+213.176.114.105,443,ID,aeza international 2
+185.21.12.206,8443,ID,amsterdam netherlands
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 204.110.220.184,80,US,securly inc
+204.110.220.4,80,US,securly inc 2
