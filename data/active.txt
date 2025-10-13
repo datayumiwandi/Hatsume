@@ -1,7 +1,7 @@
-94.177.8.11,444,ID,alwyzon trading
-180.149.37.24,2053,ID,gcore labs
-89.169.53.242,443,ID,aeza international
-188.165.26.178,2053,ID,ovh sas
+188.116.21.237,2053,ID,iroko networks
+62.60.251.250,443,ID,aeza international
+147.45.116.50,24443,ID,global connectivity
+95.216.187.134,8443,ID,hetzner online
 34.143.159.175,443,SG,google
 204.110.220.184,80,US,securly inc
-162.216.231.152,8443,US,wargaming usa
+204.110.220.23,80,US,securly inc 2
