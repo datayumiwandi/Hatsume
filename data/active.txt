@@ -1,7 +1,7 @@
-45.145.43.205,2053,ID,dataforest gmbh
-51.91.255.163,443,ID,ovh sas
-185.157.213.128,443,ID,amsterdam netherlands
-46.29.234.155,8443,ID,global connectivity
+95.164.55.78,443,ID,qwins ltd
+61.73.36.4,36863,ID,korea telecom
+119.201.165.50,50001,ID,korea telecom 2
+185.82.126.247,2053,ID,sia nano
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
-204.110.220.214,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
+143.198.49.152,443,US,digitalocean
