@@ -1,7 +1,7 @@
-77.73.67.136,5913,ID,amsterdam netherlands
-217.144.187.230,2053,ID,aeza international
-57.129.137.236,8443,ID,ovh ltd
-46.8.69.8,443,ID,cgi global
+67.226.220.10,443,ID,securly inc
+162.120.69.89,8443,ID,allocation hb
+185.231.68.113,444,ID,podaon sia
+138.124.127.21,443,ID,aeza international
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-204.110.220.23,80,US,securly inc
+204.110.220.184,80,US,securly inc 2
+204.110.220.23,80,US,securly inc 3
