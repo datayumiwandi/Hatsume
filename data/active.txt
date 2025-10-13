@@ -1,7 +1,7 @@
-209.141.33.79,2053,ID,buyvm services
-62.60.233.201,4445,ID,global connectivity
-129.226.155.16,29443,ID,16 collyer
-95.217.195.186,2053,ID,hetzner online
+89.22.230.197,443,ID,aeza international
+47.76.218.163,443,ID,alibaba cloud
+143.42.55.176,443,ID,linode
+172.245.131.101,8443,ID,racknerd
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
-204.110.220.214,80,US,securly inc
+204.110.220.23,80,US,securly inc
+143.198.49.152,443,US,digitalocean
