@@ -1,7 +1,7 @@
-77.87.122.25,2053,ID,turunc smart
-147.45.74.206,443,ID,aeza international
-213.176.114.105,443,ID,aeza international 2
-185.21.12.206,8443,ID,amsterdam netherlands
+51.91.251.144,443,ID,ovh sas
+77.110.109.78,443,ID,aeza international
+185.104.151.176,8443,ID,aeza international 2
+80.76.33.220,2053,ID,first server
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
-204.110.220.4,80,US,securly inc 2
+204.110.220.4,80,US,securly inc
+204.110.220.184,80,US,securly inc 2
