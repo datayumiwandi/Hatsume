@@ -1,7 +1,7 @@
-109.120.151.118,443,ID,aeza international
-138.124.18.230,443,ID,aeza international 2
-89.163.213.208,2083,ID,wiit ag
-77.110.102.251,443,ID,aeza international 3
+154.16.16.24,443,ID,rack400com netherlands
+147.45.75.146,2053,ID,aeza international
+77.110.103.50,443,ID,aeza international 2
+195.58.39.2,443,ID,nuxtcloud hosting
 34.143.159.175,443,SG,google
 204.110.220.184,80,US,securly inc
-162.216.231.152,8443,US,wargaming usa
+204.110.220.23,80,US,securly inc 2
