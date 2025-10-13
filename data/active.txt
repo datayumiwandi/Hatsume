@@ -1,7 +1,7 @@
-95.164.55.78,443,ID,qwins ltd
-61.73.36.4,36863,ID,korea telecom
-119.201.165.50,50001,ID,korea telecom 2
-185.82.126.247,2053,ID,sia nano
+57.128.177.176,443,ID,ovh ltd
+45.133.245.50,8443,ID,pservers enterprise
+82.115.5.141,8443,ID,sia veesp
+5.144.179.113,2053,ID,hostvdscom cloud
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-143.198.49.152,443,US,digitalocean
+204.110.220.214,80,US,securly inc
+23.94.255.195,443,US,racknerd
