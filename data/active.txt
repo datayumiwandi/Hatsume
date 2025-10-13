@@ -1,7 +1,7 @@
-154.16.16.24,443,ID,rack400com netherlands
-147.45.75.146,2053,ID,aeza international
-77.110.103.50,443,ID,aeza international 2
-195.58.39.2,443,ID,nuxtcloud hosting
+94.177.8.11,444,ID,alwyzon trading
+180.149.37.24,2053,ID,gcore labs
+89.169.53.242,443,ID,aeza international
+188.165.26.178,2053,ID,ovh sas
 34.143.159.175,443,SG,google
 204.110.220.184,80,US,securly inc
-204.110.220.23,80,US,securly inc 2
+162.216.231.152,8443,US,wargaming usa
