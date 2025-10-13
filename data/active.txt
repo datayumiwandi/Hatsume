@@ -1,7 +1,7 @@
-193.109.120.96,2053,ID,bluevps ou
-103.80.86.12,443,ID,soltia consulting
-80.79.123.100,443,ID,aktsiaselts wavecom
-49.12.45.20,443,ID,hetzner online
+188.132.192.194,8443,ID,tradezone
+178.236.243.153,443,ID,itgarage hosting
+57.128.183.137,443,ID,ovh ltd
+85.239.144.40,443,ID,aeza international
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-204.110.220.184,80,US,securly inc
+204.110.220.23,80,US,securly inc
+204.110.220.4,80,US,securly inc 2
