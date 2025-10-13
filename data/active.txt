@@ -1,7 +1,7 @@
-164.92.139.175,18443,ID,digitalocean
-172.245.55.114,443,ID,racknerd
-193.107.109.111,8443,ID,hostiko
-57.128.183.59,443,ID,ovh ltd
+51.178.37.247,2053,ID,ovh sas
+211.59.232.85,12171,ID,sk broadband
+54.37.90.205,8080,ID,ovh gmbh
+194.58.98.15,8443,ID,regru hosting
 34.143.159.175,443,SG,google
-204.110.220.214,80,US,securly inc
+204.110.220.4,80,US,securly inc
 204.110.220.23,80,US,securly inc 2
