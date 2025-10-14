@@ -1,7 +1,7 @@
-213.176.65.36,443,ID,aeza international
-51.195.44.12,8443,ID,ovh gmbh
-34.83.245.149,443,ID,google
-69.12.83.246,8443,ID,hostpapa
-34.143.159.175,443,SG,google 2
+185.193.158.77,8443,ID,allocation hb
+94.228.163.66,2053,ID,pronet
+79.137.248.211,2053,ID,aeza international
+5.252.118.210,2053,ID,hypercore ltd
+34.143.159.175,443,SG,google
 204.110.220.4,80,US,securly inc
 23.94.255.195,443,US,racknerd
