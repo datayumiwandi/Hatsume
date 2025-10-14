@@ -1,7 +1,7 @@
-45.156.23.237,8443,ID,as56971 network
-185.127.17.163,4903,ID,omc computers
-89.110.121.16,2053,ID,amsterdam netherlands
-94.177.8.2,131,ID,alwyzon trading
+89.208.107.247,2053,ID,aeza group
+47.112.125.103,443,ID,aliyun computing
+212.34.152.143,443,ID,amsterdam netherlands
+147.135.10.209,443,ID,ovh us
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
