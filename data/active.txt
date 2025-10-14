@@ -1,7 +1,7 @@
-93.185.163.205,2087,ID,gijsbertus henricus
-146.59.238.27,2053,ID,ovh sas
-83.147.252.97,443,ID,aeza international
-51.75.67.84,8443,ID,ovh gmbh
+141.94.204.200,8443,ID,ovh sas
+94.131.117.210,443,ID,worktitans
+213.176.95.155,443,ID,aeza international
+45.82.161.177,8443,ID,gcore labs
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
+204.110.220.184,80,US,securly inc
