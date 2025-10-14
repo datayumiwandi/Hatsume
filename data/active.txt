@@ -1,7 +1,7 @@
-185.252.144.185,8443,ID,first server
-164.92.151.83,443,ID,digitalocean
-194.226.169.243,443,ID,aeza international
-185.162.10.111,2053,ID,hosting provider
+95.182.120.208,8443,ID,ildar gilmutdinov
+74.48.142.15,6061,ID,multacom corporation
+193.33.195.28,8443,ID,amsterdam netherlands
+46.32.186.234,8443,ID,sia veesp
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
-204.110.220.214,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
