@@ -1,6 +1,7 @@
-107.172.43.162,443,ID,racknerd
-77.238.237.179,443,ID,servers tech
-152.53.12.245,8443,ID,powered by
-195.245.239.128,8443,ID,snowd security
+143.20.236.96,8443,ID,allocation hb
+47.76.218.163,443,ID,alibaba cloud
+141.94.220.64,2053,ID,ovh sas
+93.152.217.57,443,ID,global connectivity
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
+204.110.220.184,80,US,securly inc
+204.110.220.214,80,US,securly inc 2
