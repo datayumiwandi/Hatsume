@@ -1,7 +1,7 @@
-185.193.158.77,8443,ID,allocation hb
-94.228.163.66,2053,ID,pronet
-79.137.248.211,2053,ID,aeza international
-5.252.118.210,2053,ID,hypercore ltd
+35.176.187.206,443,ID,amazon data
+5.75.196.236,2096,ID,hetzner online
+51.77.140.23,8443,ID,ovh sas
+62.60.159.114,443,ID,aeza international
 34.143.159.175,443,SG,google
-204.110.220.4,80,US,securly inc
+162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
