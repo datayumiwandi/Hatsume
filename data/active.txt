@@ -1,6 +1,6 @@
-85.133.204.233,2083,ID,respina networks
-57.129.137.208,443,ID,ovh ltd
-143.20.236.102,8443,ID,allocation hb
-143.20.213.246,8443,ID,allocation hb 2
+77.91.75.118,443,ID,worktitans
+213.183.51.253,2053,ID,melbicom infrastructure
+109.120.138.153,2053,ID,aeza international
+202.150.185.128,10073,ID,hyundai communications
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
