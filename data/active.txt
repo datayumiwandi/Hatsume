@@ -1,7 +1,7 @@
-5.161.176.159,50121,ID,hetzner online
-77.110.98.203,443,ID,aeza international
-94.177.8.16,444,ID,alwyzon trading
-146.59.159.111,2053,ID,ovh sas
+167.99.73.22,443,ID,digitalocean
+209.200.246.103,443,ID,regxa
+85.192.61.212,443,ID,aeza international
+94.159.105.204,443,ID,h2nexus ltd
 34.143.159.175,443,SG,google
 204.110.220.184,80,US,securly inc
-23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
