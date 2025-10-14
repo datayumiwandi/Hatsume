@@ -1,7 +1,7 @@
-193.123.81.105,443,ID,oracle corporation
-91.92.35.206,443,ID,aeza international
-51.89.22.80,2053,ID,ovh gmbh
-89.116.193.90,2083,ID,limestone networks
+109.120.132.186,2053,ID,aeza international
+109.107.185.16,443,ID,amsterdam netherlands
+91.186.217.186,443,ID,aeza international 2
+185.114.72.148,443,ID,first server
 34.143.159.175,443,SG,google
-204.110.220.4,80,US,securly inc
 23.94.255.195,443,US,racknerd
+204.110.220.4,80,US,securly inc
