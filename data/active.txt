@@ -1,6 +1,6 @@
-155.138.128.135,443,ID,vultr holdings
-213.176.114.105,443,ID,aeza international
-185.233.203.53,443,ID,first server
-72.13.122.137,443,ID,total uptime
+138.124.52.77,443,ID,aeza international
+89.40.14.253,8443,ID,uab interneto
+185.232.204.191,443,ID,individual entrepreneur
+185.21.14.203,8443,ID,amsterdam netherlands
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
