@@ -1,6 +1,6 @@
-77.91.75.118,443,ID,worktitans
-213.183.51.253,2053,ID,melbicom infrastructure
-109.120.138.153,2053,ID,aeza international
-202.150.185.128,10073,ID,hyundai communications
+107.172.43.162,443,ID,racknerd
+77.238.237.179,443,ID,servers tech
+152.53.12.245,8443,ID,powered by
+195.245.239.128,8443,ID,snowd security
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
