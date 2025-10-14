@@ -1,7 +1,7 @@
-194.50.153.37,443,ID,aleksei fedorov
-89.110.69.110,8443,ID,amsterdam netherlands
-62.60.228.176,443,ID,aeza international
-193.228.193.117,8443,ID,allocation hb
+45.156.23.237,8443,ID,as56971 network
+185.127.17.163,4903,ID,omc computers
+89.110.121.16,2053,ID,amsterdam netherlands
+94.177.8.2,131,ID,alwyzon trading
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
 23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
