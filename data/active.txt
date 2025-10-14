@@ -1,6 +1,6 @@
-104.168.62.4,443,ID,racknerd
-31.172.70.183,443,ID,fornex hosting
-47.251.74.98,49200,ID,alibaba cloud
-51.195.116.16,2053,ID,ovh gmbh
+85.133.204.233,2083,ID,respina networks
+57.129.137.208,443,ID,ovh ltd
+143.20.236.102,8443,ID,allocation hb
+143.20.213.246,8443,ID,allocation hb 2
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
