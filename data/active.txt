@@ -1,6 +1,6 @@
-132.145.127.203,8443,ID,oracle public
-45.136.50.241,2053,ID,iroko networks
-91.99.168.100,443,ID,hetzner online
-5.35.70.137,443,ID,servers tech
+104.168.62.4,443,ID,racknerd
+31.172.70.183,443,ID,fornex hosting
+47.251.74.98,49200,ID,alibaba cloud
+51.195.116.16,2053,ID,ovh gmbh
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
