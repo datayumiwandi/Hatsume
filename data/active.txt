@@ -1,7 +1,7 @@
-51.38.50.52,8443,ID,ovh sas
-176.126.83.146,2053,ID,oneprovidercom florence
-146.255.188.51,443,ID,aleksei fedorov
-45.138.74.106,2053,ID,hypercore ltd
+185.252.144.185,8443,ID,first server
+164.92.151.83,443,ID,digitalocean
+194.226.169.243,443,ID,aeza international
+185.162.10.111,2053,ID,hosting provider
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
 204.110.220.214,80,US,securly inc
