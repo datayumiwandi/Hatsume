@@ -1,7 +1,7 @@
-91.232.114.118,443,ID,telemagic
-171.22.117.101,443,ID,worktitans
-5.61.45.128,443,ID,iroko networks
-89.169.55.54,443,ID,aeza international
+193.123.81.105,443,ID,oracle corporation
+91.92.35.206,443,ID,aeza international
+51.89.22.80,2053,ID,ovh gmbh
+89.116.193.90,2083,ID,limestone networks
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
+204.110.220.4,80,US,securly inc
 23.94.255.195,443,US,racknerd
