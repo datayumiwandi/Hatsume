@@ -1,7 +1,7 @@
-102.215.228.237,8443,ID,boa ivcsub1
-185.212.113.33,2053,ID,lt mbmmlirutis
-138.3.217.167,587,ID,oracle network
-51.75.24.59,2053,ID,ovh sas
+91.103.140.82,443,ID,aeza international
+77.105.137.63,8443,ID,amsterdam netherlands
+213.176.92.252,443,ID,aeza international 2
+149.18.36.170,443,ID,cogent communications
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
-162.216.231.152,8443,US,wargaming usa
+204.110.220.214,80,US,securly inc
+204.110.220.184,80,US,securly inc 2
