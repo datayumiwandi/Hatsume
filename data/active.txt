@@ -1,7 +1,7 @@
-77.91.78.221,443,ID,aeza international
-176.222.55.24,8443,ID,hostkey
-179.43.156.113,13338,ID,layer inc
-206.81.26.62,44322,ID,digitalocean
-34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
-204.110.220.23,80,US,securly inc 2
+213.176.65.36,443,ID,aeza international
+51.195.44.12,8443,ID,ovh gmbh
+34.83.245.149,443,ID,google
+69.12.83.246,8443,ID,hostpapa
+34.143.159.175,443,SG,google 2
+204.110.220.4,80,US,securly inc
+23.94.255.195,443,US,racknerd
