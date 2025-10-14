@@ -1,7 +1,7 @@
-89.208.107.247,2053,ID,aeza group
-47.112.125.103,443,ID,aliyun computing
-212.34.152.143,443,ID,amsterdam netherlands
-147.135.10.209,443,ID,ovh us
+152.228.134.239,443,ID,ovh sas
+185.157.213.236,8443,ID,amsterdam netherlands
+91.84.101.135,443,ID,amsterdam netherlands 2
+89.110.115.110,8443,ID,servers tech
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
-162.216.231.152,8443,US,wargaming usa
+204.110.220.184,80,US,securly inc
