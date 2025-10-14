@@ -1,6 +1,6 @@
-138.124.52.77,443,ID,aeza international
-89.40.14.253,8443,ID,uab interneto
-185.232.204.191,443,ID,individual entrepreneur
-185.21.14.203,8443,ID,amsterdam netherlands
+89.208.113.12,443,ID,aeza international
+167.71.64.37,2053,ID,digitalocean
+85.193.90.131,8443,ID,jsc timeweb
+47.89.150.45,28626,ID,alibaba cloud
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
