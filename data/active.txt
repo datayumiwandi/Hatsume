@@ -1,6 +1,6 @@
-192.46.235.227,443,ID,linode
-43.198.204.35,443,ID,amazoncom inc
-62.210.215.47,443,ID,scaleway dedibox
-203.18.98.204,2053,ID,as56971 cloud
+95.216.100.16,8443,ID,hetzner online
+116.93.199.28,30012,ID,sk broadband
+45.8.146.42,2053,ID,worktitans
+93.123.30.32,443,ID,baykov ilya
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
