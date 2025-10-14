@@ -1,6 +1,6 @@
-89.208.113.12,443,ID,aeza international
-167.71.64.37,2053,ID,digitalocean
-85.193.90.131,8443,ID,jsc timeweb
-47.89.150.45,28626,ID,alibaba cloud
+64.188.76.196,443,ID,1cent host
+89.169.35.36,2053,ID,aeza international
+143.20.213.10,8443,ID,allocation hb
+207.246.98.244,443,ID,vultr holdings
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
