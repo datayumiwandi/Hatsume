@@ -1,6 +1,6 @@
-64.188.76.196,443,ID,1cent host
-89.169.35.36,2053,ID,aeza international
-143.20.213.10,8443,ID,allocation hb
-207.246.98.244,443,ID,vultr holdings
+132.145.127.203,8443,ID,oracle public
+45.136.50.241,2053,ID,iroko networks
+91.99.168.100,443,ID,hetzner online
+5.35.70.137,443,ID,servers tech
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
