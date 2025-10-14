@@ -1,7 +1,7 @@
-141.94.77.169,8443,ID,ovh sas
-51.75.24.227,2053,ID,ovh sas 2
-95.163.176.4,8443,ID,aeza international
-176.124.220.185,443,ID,aeza international 2
+95.181.160.87,443,ID,aeza international
+51.195.119.175,2053,ID,ovh gmbh
+65.109.167.54,443,ID,hetzner online
+194.58.68.96,443,ID,baxet group
 34.143.159.175,443,SG,google
-204.110.220.214,80,US,securly inc
 23.94.255.195,443,US,racknerd
+204.110.220.214,80,US,securly inc
