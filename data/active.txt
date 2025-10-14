@@ -1,7 +1,7 @@
-152.228.134.239,443,ID,ovh sas
-185.157.213.236,8443,ID,amsterdam netherlands
-91.84.101.135,443,ID,amsterdam netherlands 2
-89.110.115.110,8443,ID,servers tech
+5.161.176.159,50121,ID,hetzner online
+77.110.98.203,443,ID,aeza international
+94.177.8.16,444,ID,alwyzon trading
+146.59.159.111,2053,ID,ovh sas
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 204.110.220.184,80,US,securly inc
+23.94.255.195,443,US,racknerd
