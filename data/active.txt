@@ -1,6 +1,6 @@
-95.216.100.16,8443,ID,hetzner online
-116.93.199.28,30012,ID,sk broadband
-45.8.146.42,2053,ID,worktitans
-93.123.30.32,443,ID,baykov ilya
+155.138.128.135,443,ID,vultr holdings
+213.176.114.105,443,ID,aeza international
+185.233.203.53,443,ID,first server
+72.13.122.137,443,ID,total uptime
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
