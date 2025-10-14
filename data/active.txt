@@ -1,7 +1,7 @@
-91.103.140.82,443,ID,aeza international
-77.105.137.63,8443,ID,amsterdam netherlands
-213.176.92.252,443,ID,aeza international 2
-149.18.36.170,443,ID,cogent communications
+82.152.8.178,2053,ID,spectrum interactive
+212.34.152.143,8443,ID,amsterdam netherlands
+94.198.221.96,443,ID,jsc timeweb
+89.110.79.35,443,ID,amsterdam netherlands 2
 34.143.159.175,443,SG,google
 204.110.220.214,80,US,securly inc
 204.110.220.184,80,US,securly inc 2
