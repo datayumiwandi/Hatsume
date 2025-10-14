@@ -1,7 +1,7 @@
-35.176.187.206,443,ID,amazon data
-5.75.196.236,2096,ID,hetzner online
-51.77.140.23,8443,ID,ovh sas
-62.60.159.114,443,ID,aeza international
+51.158.204.196,8443,ID,scaleway amsterdam
+135.125.191.59,443,ID,ovh gmbh
+152.70.101.24,16077,ID,oracle corporation
+23.88.97.94,8443,ID,hetzner online
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
