@@ -1,7 +1,7 @@
-141.94.204.200,8443,ID,ovh sas
-94.131.117.210,443,ID,worktitans
-213.176.95.155,443,ID,aeza international
-45.82.161.177,8443,ID,gcore labs
+194.50.153.37,443,ID,aleksei fedorov
+89.110.69.110,8443,ID,amsterdam netherlands
+62.60.228.176,443,ID,aeza international
+193.228.193.117,8443,ID,allocation hb
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 204.110.220.184,80,US,securly inc
+23.94.255.195,443,US,racknerd
