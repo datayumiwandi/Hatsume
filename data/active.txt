@@ -1,7 +1,7 @@
-91.184.250.194,2053,ID,smartape ou
-185.251.91.218,443,ID,sprinthostru
-141.95.127.113,8443,ID,ovh gmbh
-77.238.232.164,2053,ID,servers tech
+102.215.228.237,8443,ID,boa ivcsub1
+185.212.113.33,2053,ID,lt mbmmlirutis
+138.3.217.167,587,ID,oracle network
+51.75.24.59,2053,ID,ovh sas
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
 23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
