@@ -1,7 +1,7 @@
-27.100.189.152,50000,ID,kctv jeju
-89.110.83.150,443,ID,servers tech
-185.193.158.67,8443,ID,allocation hb
-188.130.154.231,2053,ID,cgi global
+141.94.77.169,8443,ID,ovh sas
+51.75.24.227,2053,ID,ovh sas 2
+95.163.176.4,8443,ID,aeza international
+176.124.220.185,443,ID,aeza international 2
 34.143.159.175,443,SG,google
 204.110.220.214,80,US,securly inc
-204.110.220.184,80,US,securly inc 2
+23.94.255.195,443,US,racknerd
