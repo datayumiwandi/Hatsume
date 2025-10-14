@@ -1,7 +1,7 @@
-51.158.204.196,8443,ID,scaleway amsterdam
-135.125.191.59,443,ID,ovh gmbh
-152.70.101.24,16077,ID,oracle corporation
-23.88.97.94,8443,ID,hetzner online
+91.232.114.118,443,ID,telemagic
+171.22.117.101,443,ID,worktitans
+5.61.45.128,443,ID,iroko networks
+89.169.55.54,443,ID,aeza international
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
+23.94.255.195,443,US,racknerd
