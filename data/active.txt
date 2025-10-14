@@ -1,7 +1,7 @@
-95.182.120.208,8443,ID,ildar gilmutdinov
-74.48.142.15,6061,ID,multacom corporation
-193.33.195.28,8443,ID,amsterdam netherlands
-46.32.186.234,8443,ID,sia veesp
+198.46.218.175,8443,ID,racknerd
+94.142.136.122,443,ID,first server
+212.113.106.40,2053,ID,aeza international
+195.200.17.15,2053,ID,amsterdam netherlands
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
+23.94.255.195,443,US,racknerd 2
