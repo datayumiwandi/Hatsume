@@ -1,7 +1,7 @@
-132.226.21.116,6056,ID,oracle public
-38.180.6.191,443,ID,3nt solutions
-45.43.91.164,443,ID,first server
-40.113.60.248,2053,ID,microsoft corporation
+91.107.155.128,8443,ID,hetzner online
+109.122.199.50,443,ID,waicore ltd
+5.61.41.183,443,ID,iroko networks
+147.45.243.116,443,ID,timeweb llp
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
+23.94.255.195,443,US,racknerd
