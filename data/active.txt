@@ -1,6 +1,7 @@
-109.120.185.156,443,ID,aeza international
-5.178.110.28,2053,ID,witine
-94.232.40.10,443,ID,rocketcloudru
-51.83.40.171,8443,ID,ovh sas
+91.84.100.152,8443,ID,amsterdam netherlands
+5.180.182.245,8443,ID,omc computers
+147.45.42.173,443,ID,aeza international
+143.20.236.150,8443,ID,allocation hb
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
+23.94.255.195,443,US,racknerd
