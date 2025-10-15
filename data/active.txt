@@ -1,7 +1,7 @@
-116.203.187.199,443,ID,hetzner online
-51.195.148.73,8443,ID,ovh ltd
-212.80.218.161,2053,ID,serverio technologijos
-195.54.175.128,8443,ID,iroko networks
+115.23.196.54,50001,ID,korea telecom
+217.144.187.242,8443,ID,aeza international
+119.197.255.195,30036,ID,korea telecom 2
+45.156.27.152,2053,ID,as56971 network
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
