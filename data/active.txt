@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb 2
-51.79.158.58,2053,SG,ovh singapore
-38.180.249.123,443,SG,3nt solutions
-194.36.179.17,8443,SG,first server
-141.147.162.24,1235,JP,oracle corporation
-176.97.70.154,443,JP,3nt solutions 2
-149.28.76.213,443,US,vultr holdings
-198.12.89.147,443,US,hostpapa
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+194.233.67.216,8443,SG,contabo asia
+68.183.227.216,443,SG,digitalocean
+160.22.79.166,443,SG,onidel pty
+168.138.46.67,443,JP,oracle public
+47.79.38.17,443,JP,alibaba cloud
+23.94.186.81,2096,US,racknerd
+107.174.242.151,34561,US,racknerd 2
+163.61.102.13,443,MY,terabix technologies
+155.254.60.225,443,MY,evoxt enterprise
