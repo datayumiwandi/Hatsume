@@ -1,6 +1,6 @@
-5.34.215.84,443,ID,sia veesp
-118.40.126.7,50001,ID,korea telecom
-165.232.68.225,443,ID,digitalocean
-161.35.197.90,443,ID,digitalocean 2
+45.87.154.216,443,ID,worktitans
+185.164.163.170,443,ID,vps1 network
+45.12.255.177,443,ID,snowd security
+143.20.149.2,8443,ID,uqidc
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
