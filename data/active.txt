@@ -1,6 +1,6 @@
-83.229.87.63,443,ID,omc computers
-109.120.151.26,8443,ID,aeza international
-77.238.233.226,2053,ID,servers tech
-45.9.74.238,443,ID,pservers enterprise
+5.34.215.84,443,ID,sia veesp
+118.40.126.7,50001,ID,korea telecom
+165.232.68.225,443,ID,digitalocean
+161.35.197.90,443,ID,digitalocean 2
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
