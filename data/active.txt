@@ -1,7 +1,7 @@
-185.188.181.218,2053,ID,pservers enterprise
-3.0.50.69,443,ID,amazon data
-185.148.14.40,443,ID,kirino
-51.81.125.242,2053,ID,ovh us
+103.113.69.63,443,ID,worktitans
+3.126.159.12,443,ID,a100 row
+45.134.14.108,443,ID,aeza international
+45.95.174.14,443,ID,mos operations
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
