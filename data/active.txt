@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-64.49.14.41,2053,SG,internet utilities
-43.156.107.236,12131,SG,6 collyer
-144.24.78.162,443,SG,zenla1
-160.16.123.65,443,JP,sakura internet
-217.142.250.195,587,JP,oracle corporation
-69.30.212.6,6643,US,wholesale internet
-45.156.24.61,2053,US,as56971 network
-47.254.255.125,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb 2
+51.79.158.58,2053,SG,ovh singapore
+38.180.249.123,443,SG,3nt solutions
+194.36.179.17,8443,SG,first server
+141.147.162.24,1235,JP,oracle corporation
+176.97.70.154,443,JP,3nt solutions 2
+149.28.76.213,443,US,vultr holdings
+198.12.89.147,443,US,hostpapa
+38.60.193.247,13300,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud
