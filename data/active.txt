@@ -1,7 +1,7 @@
-94.177.8.60,137,ID,alwyzon trading
-31.133.0.55,8443,ID,bartosz waszak
-94.142.138.2,2053,ID,hypercore ltd
-143.20.213.32,8443,ID,allocation hb
+79.137.205.128,443,ID,aeza group
+108.61.170.114,443,ID,vultr holdings
+152.53.14.140,2053,ID,powered by
+188.132.192.194,2053,ID,tradezone
 34.143.159.175,443,SG,google
-23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
+23.94.255.195,443,US,racknerd
