@@ -1,7 +1,7 @@
-79.137.205.128,443,ID,aeza group
-108.61.170.114,443,ID,vultr holdings
-152.53.14.140,2053,ID,powered by
-188.132.192.194,2053,ID,tradezone
+217.60.37.196,2053,ID,cgi global
+94.177.8.3,131,ID,alwyzon trading
+194.233.172.47,443,ID,linode
+79.137.206.238,443,ID,aeza international
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
