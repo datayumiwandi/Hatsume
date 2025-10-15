@@ -1,13 +1,13 @@
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-168.138.171.70,23280,SG,oracle public
-54.255.217.120,8192,SG,amazon data
-152.42.236.151,8443,SG,digitalocean
-202.182.122.164,443,JP,vultr holdings
-158.51.111.105,443,JP,ddps networks
-138.124.183.112,2053,US,worktitans
-216.167.83.144,443,US,ntt america
-45.89.107.118,443,MY,worktitans 2
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
+47.236.71.6,443,SG,alibaba cloud
+8.222.161.217,443,SG,alibaba cloud 2
+51.79.158.58,2053,SG,ovh singapore
+103.125.216.22,443,JP,vpsservercom 24
+150.230.214.172,16957,JP,oracle corporation
+107.161.168.45,443,US,yottasrc hosting
+128.203.252.97,443,US,microsoft corp
 45.159.51.121,32199,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud 3
