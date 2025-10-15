@@ -1,7 +1,7 @@
-95.164.34.32,443,ID,worktitans
-193.176.153.198,443,ID,as56971 network
-94.141.103.60,8443,ID,dpkgsoft international
-31.220.42.149,2053,ID,hosthatch inc
+132.226.21.116,6056,ID,oracle public
+38.180.6.191,443,ID,3nt solutions
+45.43.91.164,443,ID,first server
+40.113.60.248,2053,ID,microsoft corporation
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
