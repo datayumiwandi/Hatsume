@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-143.198.92.220,443,SG,digitalocean
-38.244.147.68,2053,SG,3nt solutions
-43.156.107.236,12131,SG,6 collyer
-38.207.137.217,443,JP,nearoute
-152.69.199.70,8443,JP,oracle corporation
-104.234.50.158,2053,US,unknown
-142.171.220.62,16402,US,multacom corporation
-47.254.235.252,443,MY,alibaba cloud
-163.61.102.13,443,MY,terabix technologies
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+156.244.1.250,8443,ID,lightnode
+8.222.213.91,587,SG,alibaba cloud
+124.156.202.172,443,SG,16 collyer
+8.222.218.155,443,SG,alibaba cloud 2
+38.180.28.163,2053,JP,3nt solutions
+198.13.42.58,32954,JP,vultr holdings
+162.120.69.92,8443,US,internet utilities
+172.245.62.25,2053,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
+45.159.51.121,32199,MY,kaopu cloud 2
