@@ -1,7 +1,6 @@
-77.233.221.253,8443,ID,jsc timeweb
-212.111.82.142,443,ID,amsterdam netherlands
-45.145.43.205,8443,ID,dataforest gmbh
-77.238.233.27,443,ID,servers tech
+57.128.183.77,8443,ID,ovh ltd
+109.120.158.109,2053,ID,digital fze
+89.19.44.122,2053,ID,fra customers
+128.199.32.21,443,ID,digitalocean
 34.143.159.175,443,SG,google
-204.110.220.184,80,US,securly inc
-23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
