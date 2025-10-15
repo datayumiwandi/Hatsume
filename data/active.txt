@@ -1,6 +1,6 @@
-57.128.183.77,8443,ID,ovh ltd
-109.120.158.109,2053,ID,digital fze
-89.19.44.122,2053,ID,fra customers
-128.199.32.21,443,ID,digitalocean
+83.229.87.63,443,ID,omc computers
+109.120.151.26,8443,ID,aeza international
+77.238.233.226,2053,ID,servers tech
+45.9.74.238,443,ID,pservers enterprise
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
