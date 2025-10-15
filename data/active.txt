@@ -1,7 +1,7 @@
-115.23.196.54,50001,ID,korea telecom
-217.144.187.242,8443,ID,aeza international
-119.197.255.195,30036,ID,korea telecom 2
-45.156.27.152,2053,ID,as56971 network
+92.246.141.33,443,ID,dpkgsoft international
+104.234.50.215,2053,ID,unknown
+217.142.236.93,443,ID,oracle svenska
+52.19.138.237,8443,ID,amazon data
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
