@@ -1,6 +1,6 @@
-45.87.154.216,443,ID,worktitans
-185.164.163.170,443,ID,vps1 network
-45.12.255.177,443,ID,snowd security
-143.20.149.2,8443,ID,uqidc
+31.57.62.224,2053,ID,cgi global
+95.142.41.132,443,ID,iron hosting
+185.103.252.54,2053,ID,first server
+68.183.15.133,443,ID,digitalocean
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
