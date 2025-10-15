@@ -1,6 +1,6 @@
-129.146.254.25,443,ID,oracle corporation
-188.241.241.32,2053,ID,hfm srl
-5.178.110.211,2053,ID,ahbr
-93.183.89.163,443,ID,amsterdam netherlands
+109.120.185.156,443,ID,aeza international
+5.178.110.28,2053,ID,witine
+94.232.40.10,443,ID,rocketcloudru
+51.83.40.171,8443,ID,ovh sas
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
