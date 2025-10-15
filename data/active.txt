@@ -1,6 +1,6 @@
-31.57.62.224,2053,ID,cgi global
-95.142.41.132,443,ID,iron hosting
-185.103.252.54,2053,ID,first server
-68.183.15.133,443,ID,digitalocean
+129.146.254.25,443,ID,oracle corporation
+188.241.241.32,2053,ID,hfm srl
+5.178.110.211,2053,ID,ahbr
+93.183.89.163,443,ID,amsterdam netherlands
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
