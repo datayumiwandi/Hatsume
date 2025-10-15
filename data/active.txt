@@ -1,7 +1,13 @@
-217.60.37.196,2053,ID,cgi global
-94.177.8.3,131,ID,alwyzon trading
-194.233.172.47,443,ID,linode
-79.137.206.238,443,ID,aeza international
-34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
-23.94.255.195,443,US,racknerd
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+64.49.14.41,2053,SG,internet utilities
+43.156.107.236,12131,SG,6 collyer
+144.24.78.162,443,SG,zenla1
+160.16.123.65,443,JP,sakura internet
+217.142.250.195,587,JP,oracle corporation
+69.30.212.6,6643,US,wholesale internet
+45.156.24.61,2053,US,as56971 network
+47.254.255.125,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
