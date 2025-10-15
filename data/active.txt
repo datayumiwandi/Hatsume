@@ -1,7 +1,7 @@
-92.246.141.33,443,ID,dpkgsoft international
-104.234.50.215,2053,ID,unknown
-217.142.236.93,443,ID,oracle svenska
-52.19.138.237,8443,ID,amazon data
+95.164.34.32,443,ID,worktitans
+193.176.153.198,443,ID,as56971 network
+94.141.103.60,8443,ID,dpkgsoft international
+31.220.42.149,2053,ID,hosthatch inc
 34.143.159.175,443,SG,google
 23.94.255.195,443,US,racknerd
 162.216.231.152,8443,US,wargaming usa
