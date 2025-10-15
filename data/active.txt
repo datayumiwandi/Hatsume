@@ -1,7 +1,7 @@
-62.60.186.97,443,ID,aeza international
-45.38.143.122,8443,ID,egihosting
-89.110.112.225,8443,ID,amsterdam netherlands
-83.147.241.157,443,ID,virtual machine
+212.113.102.61,2053,ID,aeza international
+138.124.117.221,443,ID,aeza international 2
+5.188.190.161,8443,ID,gcore labs
+3.67.232.136,443,ID,a100 row
 34.143.159.175,443,SG,google
-162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
+162.216.231.152,8443,US,wargaming usa
