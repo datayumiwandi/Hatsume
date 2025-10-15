@@ -1,7 +1,7 @@
-146.59.228.153,8443,ID,ovh sas
-31.56.146.173,8443,ID,cgi global
-89.110.108.206,8443,ID,amsterdam netherlands
-185.213.208.87,8443,ID,podaon sia
+116.203.187.199,443,ID,hetzner online
+51.195.148.73,8443,ID,ovh ltd
+212.80.218.161,2053,ID,serverio technologijos
+195.54.175.128,8443,ID,iroko networks
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
