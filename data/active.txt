@@ -1,7 +1,7 @@
-91.107.155.128,8443,ID,hetzner online
-109.122.199.50,443,ID,waicore ltd
-5.61.41.183,443,ID,iroko networks
-147.45.243.116,443,ID,timeweb llp
+62.60.186.97,443,ID,aeza international
+45.38.143.122,8443,ID,egihosting
+89.110.112.225,8443,ID,amsterdam netherlands
+83.147.241.157,443,ID,virtual machine
 34.143.159.175,443,SG,google
 162.216.231.152,8443,US,wargaming usa
 23.94.255.195,443,US,racknerd
