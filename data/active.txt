@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-164.52.2.99,443,SG,uculsg
-143.42.66.91,443,SG,viewqwest pte
-164.52.2.100,443,SG,uculsg 2
-141.147.144.15,13357,JP,oracle corporation
-203.137.166.120,50090,JP,idc frontier
-31.57.46.184,2053,US,cgi global
-129.158.198.241,2053,US,oracle corporation 2
-47.250.132.147,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+129.150.36.188,53435,SG,oracle corporation
+160.22.79.155,443,SG,onidel pty
+167.99.73.22,443,SG,digitalocean
+207.148.113.196,443,JP,vultr holdings
+151.248.68.11,2053,JP,datacamp
+77.110.122.153,2053,US,aeza international
+199.115.231.188,12586,US,cluster logic
+47.250.139.59,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
