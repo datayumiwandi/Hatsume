@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.29.162,443,SG,alibaba cloud
-51.79.158.58,2053,SG,ovh singapore
-157.20.104.30,443,SG,kuroitcom
-152.69.192.40,57005,JP,oracle corporation
-45.32.55.253,443,JP,vultr holdings
-74.48.86.121,12222,US,multacom corporation
-45.82.161.177,8443,US,gcore labs
-45.89.107.118,443,MY,worktitans
-163.61.102.13,443,MY,terabix technologies
+43.218.77.16,1443,ID,amazoncom inc
+139.59.104.29,443,SG,digitalocean
+20.205.177.152,443,SG,microsoft corporation
+45.207.216.139,443,SG,moedove broadband
+23.106.132.54,443,JP,it7 networks
+15.168.175.167,2087,JP,amazon data
+149.28.92.56,443,US,vultr holdings
+65.49.216.135,8443,US,it7 networks 2
+155.254.60.225,443,MY,evoxt enterprise
+47.250.139.249,443,MY,alibaba cloud
