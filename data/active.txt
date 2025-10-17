@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-158.178.229.178,443,SG,oracle corporation
-139.99.124.165,443,SG,ovh singapor
-43.156.27.180,8443,SG,aceville pteltd
-152.70.101.24,16037,JP,oracle corporation 2
-104.238.151.229,443,JP,vultr holdings
-159.60.146.81,443,US,f5 xc
-165.232.129.138,443,US,digitalocean
-47.254.255.125,443,MY,alibaba cloud
-45.159.51.121,32199,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+47.130.35.116,8888,SG,amazon data
+47.245.95.160,1443,SG,alibaba cloud
+45.76.179.81,443,SG,vultr holdings
+8.209.220.50,21273,JP,shiodome sumitomo
+103.75.118.144,2053,JP,oneprovidercom japan
+107.151.216.142,443,US,zenlayer inc
+31.220.31.67,443,US,hostinger international
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud 2
