@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-152.42.241.71,2053,SG,digitalocean
-8.222.218.155,443,SG,alibaba cloud
-8.219.59.132,48964,SG,alibaba cloud 2
-152.70.101.24,16028,JP,oracle corporation
-151.248.68.11,2053,JP,datacamp
-66.112.218.132,8443,US,it7 networks
-40.160.9.31,443,US,ovh us
-38.60.193.247,13300,MY,kaopu cloud
-163.61.102.13,443,MY,terabix technologies
+43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+104.43.91.69,443,SG,microsoft corporation
+194.233.67.216,8443,SG,contabo asia
+194.36.179.5,2053,SG,first server
+47.79.41.201,443,JP,alibaba cloud
+176.97.70.51,2053,JP,3nt solutions
+104.167.198.164,8443,US,3hcloud
+142.171.3.228,443,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud 2
