@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-45.32.100.46,13802,SG,vultr holdings
-5.34.176.119,81,SG,green floid
-178.128.80.43,443,SG,digitalocean
-109.123.231.212,443,JP,contabo gmbh
-8.211.16.138,443,JP,alibaba cloud
-134.209.166.201,8443,US,digitalocean 2
-188.40.57.101,443,US,datacamp
-45.159.51.121,32199,MY,kaopu cloud
-47.250.37.87,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.195.191.55,443,SG,28 kallang
+167.71.198.82,8443,SG,digitalocean
+83.142.30.4,2096,SG,zappie host
+151.248.68.11,2083,JP,datacamp
+45.77.25.6,27854,JP,vultr holdings
+204.110.222.187,80,US,securly inc
+5.161.241.58,8443,US,hetzner online
+45.89.107.118,443,MY,worktitans
+47.250.139.249,443,MY,alibaba cloud
