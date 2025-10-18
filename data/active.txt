@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
-104.43.91.69,443,SG,microsoft corporation
-194.233.67.216,8443,SG,contabo asia
-194.36.179.5,2053,SG,first server
-47.79.41.201,443,JP,alibaba cloud
-176.97.70.51,2053,JP,3nt solutions
-104.167.198.164,8443,US,3hcloud
-142.171.3.228,443,US,multacom corporation
-58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+203.194.112.119,2053,ID,cv rumahweb 2
+43.218.77.16,1443,ID,amazoncom inc
+103.229.96.157,443,SG,epsilon singapore
+129.150.58.86,57621,SG,oracle corporation
+104.248.159.99,443,SG,digitalocean
+141.147.162.24,1235,JP,oracle corporation 2
+149.28.25.176,443,JP,the constant
+159.69.162.184,43200,US,lixux ou
+40.160.9.31,443,US,ovh us
+45.159.51.121,32199,MY,kaopu cloud
+47.254.255.125,443,MY,alibaba cloud
