@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-68.183.227.216,443,SG,digitalocean
-51.79.158.58,2053,SG,ovh singapore
-140.245.53.45,443,SG,oracle corporation
-158.101.71.226,8443,JP,oracle public
-138.2.12.103,14453,JP,cloudflare london
-34.208.221.169,443,US,amazoncom inc
-52.10.78.7,80,US,amazoncom inc 2
-45.89.107.118,443,MY,worktitans
-47.250.139.59,443,MY,alibaba cloud
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb
+64.235.61.166,443,SG,singapore sg
+43.156.116.194,443,SG,6 collyer
+213.35.107.73,443,SG,oracle svenska
+167.179.86.6,8443,JP,tyovultrcust
+153.121.45.101,443,JP,sakura internet
+204.13.153.239,59060,US,multacom corporation
+63.142.251.8,443,US,nodisto it
+47.250.132.147,443,MY,alibaba cloud
+47.250.37.87,443,MY,alibaba cloud 2
