@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-168.138.170.211,53702,SG,oracle public
-47.236.119.190,51342,SG,alibaba cloud
-52.76.110.129,20001,SG,amazon technologies
-176.97.70.51,2053,JP,3nt solutions
-193.246.161.65,54310,JP,akile ltd
-38.60.91.95,443,US,kurun cloud
-159.69.162.184,43009,US,leaseweb usa
-47.250.59.132,443,MY,alibaba cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+188.166.249.31,443,SG,digitalocean
+206.189.85.0,443,SG,digitalocean 2
+128.199.125.131,443,SG,digitalocean 3
+210.231.178.90,443,JP,server hosting
+64.110.101.31,8443,JP,oracle corporation
+46.17.107.183,443,US,first server
+169.244.242.249,8443,US,foxcroft academy
 155.254.60.225,443,MY,evoxt enterprise
+45.89.107.118,443,MY,worktitans
