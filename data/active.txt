@@ -1,13 +1,13 @@
+203.194.112.119,2053,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-139.177.185.88,443,SG,akamai connected
-68.183.227.180,443,SG,digitalocean
-45.88.42.34,8443,SG,datacamp
-172.105.226.139,443,JP,akamai connected 2
-202.182.122.164,443,JP,vultr holdings
-74.48.4.29,37731,US,multacom corporation
-45.82.161.170,8443,US,gcore labs
-45.159.51.121,32199,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+39.108.184.201,443,SG,alibaba cloud
+5.223.47.32,443,SG,hetzner online
+194.127.193.124,24467,SG,greencloud
+167.179.96.121,443,JP,vultr holdings
+8.209.4.13,443,JP,alibaba cloud 2
+159.60.146.81,443,US,f5 xc
+66.112.217.201,443,US,it7 networks
+163.61.102.13,443,MY,terabix technologies
+47.254.235.252,443,MY,alibaba cloud 3
