@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
-43.252.21.100,443,SG,specialist
-129.150.36.188,53435,SG,oracle corporation
-139.180.154.158,443,SG,vultr holdings
-152.70.101.24,16031,JP,oracle corporation 2
-18.205.113.91,443,JP,kddi corporation
-40.160.5.11,443,US,ovh us
-5.102.102.96,8443,US,internet utilities
-45.89.107.118,443,MY,worktitans
+146.235.18.248,45137,SG,oracle corporation
+13.250.131.37,443,SG,amazon data
+150.109.11.223,443,SG,16 collyer
+121.85.55.59,19842,JP,optage inc
+168.138.51.8,8443,JP,oracle public
+64.44.86.201,44759,US,nexeon technologies
+142.171.220.62,16403,US,multacom corporation
+163.61.102.13,443,MY,terabix technologies
 58.27.117.24,443,MY,tmnet
