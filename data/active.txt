@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-213.35.108.135,12596,SG,oracle svenska
+203.194.112.119,8443,ID,cv rumahweb 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
 139.180.159.133,443,SG,sgpvultrcust
-31.192.238.71,2053,SG,pdk
-167.179.110.68,8443,JP,vultr holdings
-152.70.101.24,16001,JP,oracle corporation
-198.98.61.220,443,US,frantech solutions
-45.12.91.74,443,US,hostsymbol pte
-45.159.51.121,32199,MY,kaopu cloud
-58.27.117.24,443,MY,tmnet
+194.36.179.17,8443,SG,first server
+194.233.67.216,8443,SG,contabo asia
+168.138.46.115,43138,JP,oracle public
+8.209.4.13,443,JP,alibaba cloud
+96.126.112.12,38298,US,linode
+18.236.13.188,443,US,amazon technologies
+47.254.255.125,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
