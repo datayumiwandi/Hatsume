@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.21.74,443,SG,alibaba cloud
-164.52.2.100,443,SG,uculsg
-143.198.92.220,443,SG,digitalocean
-140.83.57.114,25965,JP,imported inetnum
-47.79.43.222,443,JP,alibaba cloud 2
-142.171.220.62,16922,US,multacom corporation
-107.151.216.127,443,US,zenlayer inc
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+203.194.112.119,2053,ID,cv rumahweb
+15.235.192.85,443,SG,ovh singapore
+64.235.45.169,443,SG,singapore sg
+167.99.73.22,443,SG,digitalocean
+38.207.137.217,443,JP,nearoute
+141.147.161.249,51037,JP,oracle corporation
+46.17.107.183,443,US,first server
+129.159.37.19,30488,US,oracle corporation 2
+45.89.107.118,443,MY,worktitans
+38.60.193.247,13300,MY,kaopu cloud
