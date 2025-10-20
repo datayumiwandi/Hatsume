@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
 203.194.112.119,2053,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-168.138.181.188,61731,SG,oracle public
-139.162.4.242,8443,SG,linode
-152.42.241.71,8443,SG,digitalocean
-103.125.216.22,8443,JP,vpsservercom 24
-108.61.126.17,443,JP,vultr holdings
-67.226.221.100,80,US,securly inc
-142.171.220.62,16007,US,multacom corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.236.21.74,443,SG,alibaba cloud
+164.52.2.100,443,SG,uculsg
+143.198.92.220,443,SG,digitalocean
+140.83.57.114,25965,JP,imported inetnum
+47.79.43.222,443,JP,alibaba cloud 2
+142.171.220.62,16922,US,multacom corporation
+107.151.216.127,443,US,zenlayer inc
+58.27.117.24,443,MY,tmnet
 45.159.51.121,32199,MY,kaopu cloud
-163.61.102.13,443,MY,terabix technologies
