@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-139.180.159.133,443,SG,sgpvultrcust
-165.154.203.69,443,SG,scloud pte
-129.150.35.29,587,SG,oracle corporation
-141.147.185.63,443,JP,oracle corporation 2
-202.55.27.166,443,JP,clara online
-74.48.133.115,443,US,multacom corporation
-40.160.8.49,443,US,ovh us
-163.61.102.13,443,MY,terabix technologies
-47.254.206.121,443,MY,alibaba cloud
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+161.117.81.228,4443,SG,1 raffles
+158.178.243.152,61731,SG,oracle corporation
+138.2.78.38,1443,SG,oracle corporation 2
+203.137.166.120,50090,JP,idc frontier
+158.101.77.33,443,JP,oracle public
+204.110.222.65,80,US,securly inc
+20.246.127.166,443,US,microsoft corporation
+45.89.107.118,443,MY,worktitans
+47.250.139.59,443,MY,alibaba cloud
