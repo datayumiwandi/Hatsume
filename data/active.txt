@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
-64.235.61.166,443,SG,singapore sg
-47.74.254.191,8900,SG,alibaba cloud
-139.180.154.158,443,SG,vultr holdings
-141.147.162.24,1235,JP,oracle corporation
-141.147.185.63,443,JP,oracle corporation 2
-104.168.248.86,443,US,hostwinds
-194.54.144.58,8443,US,allocation hb
+203.194.112.119,2053,ID,cv rumahweb
+156.244.1.250,8443,ID,lightnode
+104.248.159.99,443,SG,digitalocean
+168.138.165.174,443,SG,oracle public
+5.223.47.32,443,SG,hetzner online
+151.248.68.11,2083,JP,datacamp
+167.179.110.68,8443,JP,vultr holdings
+155.248.198.56,34488,US,oracle public 2
+130.185.164.212,8443,US,allocation hb
+45.89.107.118,443,MY,worktitans
 58.27.117.24,443,MY,tmnet
-163.61.102.13,443,MY,terabix technologies
