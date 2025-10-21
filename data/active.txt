@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
 103.6.207.108,8080,ID,pusat media
-168.138.181.188,61731,SG,oracle public
-43.156.27.180,8443,SG,aceville pteltd
-168.138.170.211,53702,SG,oracle public 2
-45.77.25.6,48828,JP,vultr holdings
-147.79.20.47,443,JP,bytevirt
-45.151.132.228,19034,US,spartan host
-148.135.15.148,443,US,brander group
-47.254.235.252,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb 2
+43.128.95.110,40029,SG,6 collyer
+43.134.164.53,443,SG,6 collyer 2
+8.219.54.136,443,SG,alibaba cloud
+64.176.42.125,10008,JP,the constant
+167.179.110.68,8443,JP,vultr holdings
+98.98.79.196,443,US,cloudflare london
+107.174.63.237,443,US,racknerd
+47.250.132.147,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
