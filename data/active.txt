@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb
-43.156.181.203,443,SG,16 collyer
-143.198.196.196,8443,SG,digitalocean
-168.138.189.91,443,SG,oracle public
-108.61.201.87,8443,JP,vultr holdings
-152.70.101.24,16666,JP,oracle corporation
-62.60.177.42,443,US,aeza international
-104.234.50.59,2053,US,unknown
+164.52.2.98,443,SG,uculsg
+138.2.89.238,43254,SG,oracle corporation
+111.119.215.93,443,SG,huaweicloudsg
+193.123.161.116,443,JP,oracle corporation 2
+158.101.71.226,8443,JP,oracle public
+40.160.4.199,443,US,ovh us
+107.173.87.79,8443,US,racknerd
+47.250.37.87,443,MY,alibaba cloud
 38.60.193.247,13300,MY,kaopu cloud
-47.250.59.132,443,MY,alibaba cloud
