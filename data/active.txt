@@ -1,13 +1,13 @@
 203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-8.222.218.155,443,SG,alibaba cloud
-168.138.181.188,61731,SG,oracle public
-43.134.164.53,443,SG,6 collyer
-138.3.222.124,46209,JP,oracle network
-113.37.149.36,12553,JP,arteria networks
-45.62.107.226,443,US,it7 networks
-162.216.231.41,443,US,wargaming usa
-45.89.107.118,443,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud 2
+156.244.1.250,8443,ID,lightnode
+45.88.42.34,8443,SG,datacamp
+185.81.28.95,30503,SG,akile ltd
+104.234.233.57,35911,SG,unknown
+212.52.0.61,1846,JP,prinode
+151.248.68.11,8443,JP,datacamp 2
+104.194.69.254,8443,US,it7 networks
+142.171.220.62,16992,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
