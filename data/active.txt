@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,2053,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-8.222.213.91,587,SG,alibaba cloud
-5.34.176.119,81,SG,green floid
-38.244.147.68,2053,SG,3nt solutions
-47.79.43.222,443,JP,alibaba cloud 2
-141.147.185.63,443,JP,oracle corporation
-154.64.239.21,443,US,psinet inc
-40.160.4.165,443,US,ovh us
-47.250.37.87,443,MY,alibaba cloud 3
-163.61.102.13,443,MY,terabix technologies
+168.138.170.211,53702,SG,oracle public
+47.236.119.190,51342,SG,alibaba cloud
+68.183.227.216,443,SG,digitalocean
+54.64.238.243,443,JP,amazon technologies
+141.147.152.229,23333,JP,oracle corporation
+107.174.131.26,443,US,hostpapa
+172.96.194.124,34555,US,cluster logic
+47.250.59.132,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 3
