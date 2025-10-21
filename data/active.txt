@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
-203.194.112.119,2053,ID,cv rumahweb 2
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-45.207.216.139,443,SG,moedove broadband
-68.183.227.216,443,SG,digitalocean
-68.183.235.240,443,SG,digitalocean 2
-45.32.252.168,443,JP,vultr holdings
-147.45.49.11,2053,JP,global connectivity
-209.126.12.41,443,US,contabo inc
-130.185.164.210,8443,US,allocation hb
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+8.222.213.91,587,SG,alibaba cloud
+5.34.176.119,81,SG,green floid
+38.244.147.68,2053,SG,3nt solutions
+47.79.43.222,443,JP,alibaba cloud 2
+141.147.185.63,443,JP,oracle corporation
+154.64.239.21,443,US,psinet inc
+40.160.4.165,443,US,ovh us
+47.250.37.87,443,MY,alibaba cloud 3
+163.61.102.13,443,MY,terabix technologies
