@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
 203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb 2
-152.42.241.71,8443,SG,digitalocean
-8.219.59.132,48964,SG,alibaba cloud
-143.198.92.220,443,SG,digitalocean 2
-210.138.37.53,443,JP,cdnetworks co
-147.45.49.11,8443,JP,global connectivity
-74.48.81.93,443,US,multacom corporation
-38.135.122.193,443,US,cogent communications
-47.254.235.252,443,MY,alibaba cloud 2
+103.229.96.157,443,SG,epsilon singapore
+140.245.97.193,443,SG,oracle corporation
+34.143.159.175,443,SG,google
+5.180.76.44,443,JP,cegrgodigitalvm
+138.2.48.109,26412,JP,oracle corporation 2
+37.1.208.111,2053,US,iroko networks
+192.227.138.249,2053,US,racknerd
+45.159.51.121,32199,MY,kaopu cloud
 58.27.117.24,443,MY,tmnet
