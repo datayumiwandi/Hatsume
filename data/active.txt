@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-68.183.227.216,443,SG,digitalocean
-54.255.217.120,8192,SG,amazon data
-3.0.50.69,443,SG,amazon data 2
-113.37.149.36,12553,JP,arteria networks
-152.69.199.70,8443,JP,oracle corporation
-172.235.40.214,36768,US,linode
-185.186.245.40,81,US,inxy ltd
-163.61.102.13,443,MY,terabix technologies
-45.89.107.118,443,MY,worktitans
+149.129.250.8,443,ID,21f ciputra
+103.6.207.108,8080,ID,pusat media
+139.177.185.196,443,SG,akamai connected
+194.36.179.17,2053,SG,first server
+152.42.236.151,2053,SG,digitalocean
+212.52.0.61,1846,JP,prinode
+47.79.42.197,443,JP,alibaba cloud
+89.116.171.101,443,US,ethernet servers
+23.95.14.50,55555,US,racknerd
+47.250.139.249,443,MY,alibaba cloud 2
+47.250.37.87,443,MY,alibaba cloud 3
