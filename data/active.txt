@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
 203.194.112.119,8443,ID,cv rumahweb 2
-149.129.250.8,443,ID,21f ciputra
-150.109.11.223,443,SG,16 collyer
-157.20.104.30,443,SG,kuroitcom
-164.52.2.98,443,SG,uculsg
-35.78.229.176,443,JP,amazon data
-140.83.57.20,13118,JP,imported inetnum
-178.157.50.134,443,US,cluster logic
-38.180.82.166,8443,US,3nt solutions
-45.159.51.121,32199,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+152.42.241.71,8443,SG,digitalocean
+8.219.59.132,48964,SG,alibaba cloud
+143.198.92.220,443,SG,digitalocean 2
+210.138.37.53,443,JP,cdnetworks co
+147.45.49.11,8443,JP,global connectivity
+74.48.81.93,443,US,multacom corporation
+38.135.122.193,443,US,cogent communications
+47.254.235.252,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
