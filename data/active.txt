@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.237.149.38,8443,SG,alibaba cloud
-68.183.227.180,443,SG,digitalocean
-128.199.125.131,443,SG,digitalocean 2
-202.84.53.85,19999,JP,azumino network
-168.138.213.1,50003,JP,oracle public
-20.246.127.166,443,US,microsoft corporation
-54.153.59.106,80,US,amazon technologies
+203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+129.150.35.29,587,SG,oracle corporation
+139.59.104.29,443,SG,digitalocean
+83.142.30.134,2096,SG,zappie host
+151.248.68.11,8443,JP,datacamp
+138.2.32.76,15821,JP,oracle corporation 2
+47.89.150.45,21575,US,alibaba cloud
+38.107.236.57,443,US,3hcloud
 47.254.235.252,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+47.250.132.147,443,MY,alibaba cloud 3
