@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-194.233.67.216,8443,SG,contabo asia
-165.154.203.69,443,SG,scloud pte
-8.219.126.137,491,SG,alibaba cloud
-140.83.57.114,25965,JP,imported inetnum
-45.77.25.6,48828,JP,vultr holdings
-104.194.86.235,443,US,it7 networks
-142.171.220.62,16026,US,multacom corporation
+139.99.124.165,443,SG,ovh singapor
+164.52.2.98,443,SG,uculsg
+38.244.147.68,2053,SG,3nt solutions
+132.145.127.203,8443,JP,oracle public
+5.180.76.44,443,JP,cegrgodigitalvm
+142.171.212.153,10041,US,multacom corporation
+204.110.223.138,80,US,securly inc
 45.89.107.118,443,MY,worktitans
-47.254.206.121,443,MY,alibaba cloud 2
+47.254.206.121,443,MY,alibaba cloud
