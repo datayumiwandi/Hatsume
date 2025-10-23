@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-43.156.181.203,443,SG,16 collyer
-129.226.150.167,443,SG,6 collyer
-103.195.191.55,443,SG,28 kallang
-103.106.0.123,443,JP,worktitans
-141.147.185.15,443,JP,oracle corporation
-107.175.111.182,8443,US,racknerd
-142.171.220.62,16403,US,multacom corporation
+43.218.77.16,1443,ID,amazoncom inc
+157.20.104.30,443,SG,kuroitcom
+45.88.42.34,8443,SG,datacamp
+194.233.67.216,8443,SG,contabo asia
+109.123.231.212,2053,JP,contabo gmbh
+152.70.101.24,16666,JP,oracle corporation
+143.20.207.86,8443,US,allocation hb
+23.94.239.120,443,US,hostpapa
 155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+163.61.102.13,443,MY,terabix technologies
