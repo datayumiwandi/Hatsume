@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-203.194.112.119,8443,ID,cv rumahweb
-64.49.14.41,8443,SG,internet utilities
-68.183.227.180,443,SG,digitalocean
-139.177.185.196,443,SG,akamai connected
-3.112.21.102,443,JP,amazon data
-168.138.46.67,443,JP,oracle public
-193.93.55.146,443,US,virtual machine
-206.223.84.247,443,US,atlantic cellular
-47.250.59.132,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.129.250.8,443,ID,21f ciputra
+124.156.202.172,443,SG,16 collyer
+194.36.179.17,8443,SG,first server
+45.88.42.34,2053,SG,datacamp
+109.123.231.212,443,JP,contabo gmbh
+54.64.238.243,443,JP,amazon technologies
+103.177.80.51,443,US,cloud computing
+129.213.22.27,11650,US,oracle public
+47.250.139.59,443,MY,alibaba cloud
+163.61.102.13,443,MY,terabix technologies
