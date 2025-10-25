@@ -1,13 +1,13 @@
+203.194.112.119,8443,ID,cv rumahweb
 156.244.1.250,8443,ID,lightnode
-203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
 43.218.77.16,1443,ID,amazoncom inc
-158.178.236.14,61731,SG,oracle corporation
-213.35.107.73,443,SG,oracle svenska
-139.99.124.165,443,SG,ovh singapor
-138.3.222.33,443,JP,oracle network
-150.230.5.34,45681,JP,oracle corporation 2
-193.233.87.41,8443,US,vdskanet
-207.246.98.244,443,US,vultr holdings
-47.250.37.87,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.236.71.6,443,SG,alibaba cloud
+185.81.28.95,30503,SG,akile ltd
+140.245.53.45,443,SG,oracle corporation
+152.70.101.24,16043,JP,oracle corporation 2
+151.248.68.11,2053,JP,datacamp
+195.123.240.40,81,US,green floid
+64.44.86.201,44759,US,nexeon technologies
+163.61.102.13,443,MY,terabix technologies
+38.60.193.247,13300,MY,kaopu cloud
