@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-167.71.198.82,8443,SG,digitalocean
-104.43.91.69,443,SG,microsoft corporation
-168.138.165.174,443,SG,oracle public
-8.209.220.50,21273,JP,shiodome sumitomo
-45.77.9.114,443,JP,vultr holdings
-37.1.208.111,2053,US,iroko networks
-77.91.126.60,8443,US,365partners inc
-47.250.139.59,443,MY,alibaba cloud
+149.129.250.8,443,ID,21f ciputra
+66.42.51.60,8443,SG,sgpvultrcust
+64.235.61.166,443,SG,singapore sg
+128.199.125.131,443,SG,digitalocean
+43.165.183.43,443,JP,16 collyer
+202.84.53.85,12145,JP,azumino network
+172.235.32.226,443,US,linode
+143.20.207.141,8443,US,internet utilities
+163.61.102.13,443,MY,terabix technologies
 45.89.107.118,443,MY,worktitans
