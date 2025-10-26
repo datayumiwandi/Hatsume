@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.78.38,1443,SG,oracle corporation
-38.244.147.68,443,SG,3nt solutions
-138.2.64.229,443,SG,oracle corporation 2
-172.105.199.137,443,JP,akamai connected
-152.70.101.24,16993,JP,oracle corporation 3
-46.17.107.63,443,US,first server
-172.235.54.221,443,US,linode
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+91.192.81.154,8443,SG,melbikomas uab
+3.0.50.69,443,SG,amazon data
+43.156.107.236,12131,SG,6 collyer
+45.76.192.129,24434,JP,vultr holdings
+158.101.77.33,443,JP,oracle public
+20.246.127.166,443,US,microsoft corporation
+172.82.16.38,27050,US,olink cloud
+45.89.107.118,443,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud
