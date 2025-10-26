@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-140.245.97.193,443,SG,oracle corporation
-47.237.149.38,8443,SG,alibaba cloud
-138.2.69.236,23334,SG,oracle corporation 2
-109.123.231.212,2053,JP,contabo gmbh
-45.32.55.253,443,JP,vultr holdings
-141.11.234.238,443,US,virtual machine
-47.253.87.21,52315,US,alibaba cloud 2
-163.61.102.13,443,MY,terabix technologies
-47.254.206.121,443,MY,alibaba cloud 3
+156.244.1.250,8443,ID,lightnode
+203.194.112.119,8443,ID,cv rumahweb
+47.236.71.6,443,SG,alibaba cloud
+43.252.21.100,443,SG,specialist
+168.138.165.174,443,SG,oracle public
+167.179.110.68,8443,JP,vultr holdings
+152.69.192.40,57005,JP,oracle corporation
+15.204.72.194,443,US,ovh us
+38.107.236.57,443,US,3hcloud
+58.27.117.24,443,MY,tmnet
+47.254.235.252,443,MY,alibaba cloud 2
