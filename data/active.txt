@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-129.150.58.86,57621,SG,oracle corporation
-43.134.164.53,443,SG,6 collyer
-152.42.241.71,2053,SG,digitalocean
-152.70.101.24,16072,JP,oracle corporation 2
-176.97.70.51,2053,JP,3nt solutions
-195.123.241.122,50008,US,total server
-142.171.220.62,16041,US,multacom corporation
-45.89.107.118,443,MY,worktitans
-155.254.60.225,443,MY,evoxt enterprise
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
+168.138.171.70,23280,SG,oracle public
+164.52.2.98,443,SG,uculsg
+13.250.31.132,443,SG,amazon data
+152.70.101.24,16043,JP,oracle corporation
+138.2.10.149,45638,JP,oracle corporation 2
+92.53.183.82,8443,US,internet utilities
+159.69.162.184,10020,US,hostpapa
+47.250.132.147,443,MY,alibaba cloud
+47.250.59.132,443,MY,alibaba cloud 2
