@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-128.199.172.224,443,SG,digitalocean
-138.2.78.38,1443,SG,oracle corporation
-178.128.80.43,443,SG,digitalocean 2
-45.32.55.253,443,JP,vultr holdings
-151.248.68.11,2053,JP,datacamp
-143.42.4.6,443,US,linode
-172.86.73.221,443,US,routerhosting
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+45.76.183.217,49292,SG,vultr holdings
+167.99.73.22,443,SG,digitalocean
+45.88.42.34,2053,SG,datacamp
+217.142.250.195,587,JP,oracle corporation
+45.32.252.168,443,JP,vultr holdings 2
+45.82.161.177,8443,US,gcore labs
+62.60.177.31,443,US,aeza international
+58.27.117.24,443,MY,tmnet
+47.250.132.147,443,MY,alibaba cloud
