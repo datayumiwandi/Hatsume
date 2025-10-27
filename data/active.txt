@@ -1,13 +1,13 @@
+203.194.112.119,8443,ID,cv rumahweb
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-140.245.48.42,443,SG,oracle corporation
-152.42.236.151,2053,SG,digitalocean
-138.2.78.38,1443,SG,oracle corporation 2
-141.147.168.141,443,JP,oracle corporation 3
-152.70.101.24,16096,JP,oracle corporation 4
-107.174.131.26,443,US,hostpapa
-192.9.138.69,21009,US,oracle corporation 5
-155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+203.194.112.119,2053,ID,cv rumahweb 2
+194.36.179.17,8443,SG,first server
+47.236.21.74,443,SG,alibaba cloud
+139.99.124.165,443,SG,ovh singapor
+64.110.104.30,443,JP,oracle corporation
+151.248.68.11,8443,JP,datacamp
+152.70.125.165,32174,US,oracle corporation 2
+92.53.183.136,8443,US,internet utilities
+47.254.255.125,443,MY,alibaba cloud 2
+47.254.206.121,443,MY,alibaba cloud 3
