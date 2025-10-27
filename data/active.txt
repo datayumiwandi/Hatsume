@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-156.244.1.250,8443,ID,lightnode
-192.46.231.158,443,SG,akamai connected
-47.245.95.160,1443,SG,alibaba cloud
-164.52.2.100,443,SG,uculsg
-45.32.49.72,9443,JP,vultr holdings
-168.138.46.115,43138,JP,oracle public
-45.154.214.116,443,US,spartan host
-208.81.129.171,2053,US,plesklogin net
-38.60.193.247,13300,MY,kaopu cloud
-45.159.51.121,32199,MY,kaopu cloud 2
+203.194.112.119,8443,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,2053,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+103.195.191.55,443,SG,28 kallang
+13.250.31.132,443,SG,amazon data
+194.127.193.124,24467,SG,greencloud
+43.224.34.60,443,JP,vultr holdings
+140.238.37.103,14782,JP,oracle public
+172.245.232.173,443,US,brainstorm network
+159.69.162.184,43333,US,revolution business
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
