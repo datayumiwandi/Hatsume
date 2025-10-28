@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-152.42.241.71,2053,SG,digitalocean
-150.109.11.223,443,SG,16 collyer
-91.192.81.154,2053,SG,melbikomas uab
-138.2.48.109,26412,JP,oracle corporation
-202.55.27.166,443,JP,clara online
-35.171.140.167,443,US,amazon data
-107.172.190.130,2053,US,racknerd
+203.194.112.119,2053,ID,cv rumahweb
+209.97.173.243,443,SG,digitalocean
+104.234.151.10,8443,SG,moechuang network
+43.156.107.236,12131,SG,6 collyer
+47.79.90.82,8843,JP,alibaba cloud
+45.76.198.248,443,JP,vultr holdings
+107.174.181.116,443,US,racknerd
+192.34.81.163,443,US,boston fiber
 45.89.107.118,443,MY,worktitans
-163.61.102.13,443,MY,terabix technologies
+155.254.60.225,443,MY,evoxt enterprise
