@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-47.236.21.74,443,SG,alibaba cloud
-54.255.217.120,8192,SG,amazon data
-168.138.171.70,23280,SG,oracle public
-45.63.123.176,443,JP,vultr holdings
-23.106.140.129,443,JP,it7 networks
-193.233.87.41,2053,US,vdskanet
-46.17.107.63,443,US,first server
-45.89.107.118,443,MY,worktitans
-58.27.117.24,443,MY,tmnet
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,1443,ID,amazoncom inc 2
+103.195.191.55,443,SG,28 kallang
+47.130.35.116,8888,SG,amazon data
+158.178.246.142,61731,SG,oracle corporation
+124.156.238.155,443,JP,6 collyer
+45.76.111.190,443,JP,vultr holdings
+38.59.241.157,443,US,multacom corporation
+199.119.137.109,2053,US,extravm
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
