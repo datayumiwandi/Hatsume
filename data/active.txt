@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-143.198.92.220,443,SG,digitalocean
-139.177.185.88,443,SG,akamai connected
-185.81.28.95,30503,SG,akile ltd
-158.101.77.33,443,JP,oracle public
-108.61.126.17,443,JP,vultr holdings
+149.129.250.8,443,ID,21f ciputra
+13.250.31.132,443,SG,amazon data
+178.128.80.43,443,SG,digitalocean
+164.52.2.99,443,SG,uculsg
+124.156.238.155,443,JP,6 collyer
+167.179.116.28,443,JP,the constant
+130.185.164.211,8443,US,brander group
 138.124.187.19,8443,US,webhost
-192.3.81.151,443,US,racknerd
-47.250.132.147,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+47.250.59.132,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
