@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,8443,ID,cv rumahweb 2
-152.42.236.151,8443,SG,digitalocean
-139.177.185.196,443,SG,akamai connected
-168.138.171.70,23280,SG,oracle public
-152.70.101.24,16007,JP,oracle corporation
-172.104.116.214,443,JP,akamai connected 2
-104.194.86.106,9443,US,it7 networks
-192.9.135.182,7800,US,oracle corporation 2
-163.61.102.13,443,MY,terabix technologies
-38.60.193.247,13300,MY,kaopu cloud
+103.195.191.55,443,SG,28 kallang
+139.99.124.165,443,SG,ovh singapor
+143.198.196.196,2053,SG,digitalocean
+140.238.50.134,443,JP,oracle public
+139.162.108.5,443,JP,akamai connected
+52.89.97.12,443,US,amazoncom inc 3
+23.146.72.60,8443,US,kuxueyunnetwork us
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
