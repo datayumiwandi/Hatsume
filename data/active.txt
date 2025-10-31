@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-104.248.159.99,443,SG,digitalocean
-47.74.157.194,443,SG,alibaba cloud
-47.236.29.162,443,SG,alibaba cloud 2
-168.138.51.8,8443,JP,oracle public
-103.125.216.22,8443,JP,vpsservercom 24
-158.101.39.0,42979,US,oracle public 2
-172.82.16.38,27043,US,olink cloud
-45.159.51.121,32199,MY,kaopu cloud
+8.219.155.21,443,SG,alibaba cloud
+68.183.235.240,443,SG,digitalocean
+129.226.150.167,443,SG,6 collyer
+202.182.122.164,443,JP,vultr holdings
+38.180.28.163,8443,JP,3nt solutions
+129.146.46.164,443,US,oracle corporation
+192.3.155.203,443,US,racknerd
+155.254.60.225,443,MY,evoxt enterprise
 45.89.107.118,443,MY,worktitans
