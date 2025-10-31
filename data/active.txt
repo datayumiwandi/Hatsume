@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.219.58.164,57373,SG,alibaba cloud
-138.2.78.38,1443,SG,oracle corporation
-8.219.126.137,491,SG,alibaba cloud 2
-35.78.229.176,443,JP,amazon data
-152.70.101.24,16040,JP,oracle corporation 2
-104.168.117.110,443,US,racknerd
-172.83.159.4,27398,US,spartan host
-47.254.206.121,443,MY,alibaba cloud 3
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+8.219.59.132,48130,SG,alibaba cloud
+129.150.36.188,53435,SG,oracle corporation
+66.42.51.60,8443,SG,sgpvultrcust
+167.179.116.28,443,JP,the constant
+172.105.226.139,443,JP,akamai connected
+40.160.9.151,443,US,ovh us
+45.151.132.228,19034,US,spartan host
+155.254.60.225,443,MY,evoxt enterprise
+45.89.107.118,443,MY,worktitans
