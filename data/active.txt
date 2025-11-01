@@ -1,13 +1,13 @@
-203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,2053,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc 2
-38.244.147.68,2053,SG,3nt solutions
-8.219.58.164,57373,SG,alibaba cloud
-13.250.31.132,443,SG,amazon data
-172.105.199.137,443,JP,akamai connected
-138.2.12.103,14453,JP,cloudflare london
-172.82.16.38,25953,US,olink cloud
-45.146.82.107,35292,US,aiyun network
-47.250.132.147,443,MY,alibaba cloud 2
-45.89.107.118,443,MY,worktitans
+209.97.173.243,443,SG,digitalocean
+150.109.11.223,443,SG,16 collyer
+104.234.233.57,35911,SG,unknown
+152.70.101.24,16096,JP,oracle corporation
+118.21.134.114,12553,JP,arteria networks
+216.128.140.253,26376,US,the constant
+172.86.106.68,8443,US,routerhosting
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
