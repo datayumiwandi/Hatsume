@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-139.177.185.196,443,SG,akamai connected
-45.88.42.34,2053,SG,datacamp
-47.74.157.194,443,SG,alibaba cloud
-152.70.101.24,16030,JP,oracle corporation
-113.37.149.36,12553,JP,arteria networks
-37.1.208.111,2053,US,iroko networks
-147.75.230.33,443,US,aryaka networks
-47.254.206.121,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+149.129.250.8,443,ID,21f ciputra
+91.192.81.154,8443,SG,melbikomas uab
+158.178.243.152,61731,SG,oracle corporation
+152.42.236.151,2053,SG,digitalocean
+153.121.45.101,443,JP,sakura internet
+152.70.101.24,16666,JP,oracle corporation 2
+43.231.235.172,443,US,cloud web
+192.81.214.125,443,US,digitalocean 2
+47.250.59.132,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
