@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-31.192.238.71,8443,SG,pdk
-38.244.147.68,443,SG,3nt solutions
-168.138.170.211,53702,SG,oracle public
-8.211.16.138,443,JP,alibaba cloud
-141.147.147.180,443,JP,oracle corporation
-107.172.191.216,8443,US,racknerd
-40.160.5.2,443,US,ovh us
-47.254.235.252,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+139.177.185.196,443,SG,akamai connected
+45.88.42.34,2053,SG,datacamp
+47.74.157.194,443,SG,alibaba cloud
+152.70.101.24,16030,JP,oracle corporation
+113.37.149.36,12553,JP,arteria networks
+37.1.208.111,2053,US,iroko networks
+147.75.230.33,443,US,aryaka networks
+47.254.206.121,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
