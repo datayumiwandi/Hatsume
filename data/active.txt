@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-168.138.181.188,61731,SG,oracle public
-104.248.159.99,443,SG,digitalocean
-83.142.30.134,2096,SG,zappie host
-139.162.79.151,587,JP,akamai connected
-47.79.42.197,443,JP,alibaba cloud
-40.160.5.93,443,US,ovh us
-155.248.214.92,52580,US,oracle corporation
-47.250.37.87,443,MY,alibaba cloud 2
-47.250.139.59,443,MY,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc 2
+45.32.100.46,13802,SG,vultr holdings
+39.108.184.201,443,SG,alibaba cloud
+43.252.21.100,443,SG,specialist
+202.84.53.85,19999,JP,azumino network
+168.138.197.147,12345,JP,oracle public
+142.171.228.35,2053,US,multacom corporation
+52.55.146.127,443,US,amazon data
+47.250.139.249,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
