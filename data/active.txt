@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-139.177.185.196,443,SG,akamai connected
-45.76.183.217,49292,SG,vultr holdings
-167.99.73.22,443,SG,digitalocean
+203.194.112.119,2053,ID,cv rumahweb
+103.195.191.55,443,SG,28 kallang
+43.252.21.100,443,SG,specialist
+124.156.202.172,443,SG,16 collyer
+172.104.116.38,443,JP,akamai connected
 150.230.59.15,8443,JP,oracle corporation
-158.101.77.33,443,JP,oracle public
-159.69.162.184,43008,US,leaseweb usa
-45.62.107.226,443,US,it7 networks
-45.159.51.121,32199,MY,kaopu cloud
-47.250.139.59,443,MY,alibaba cloud
+45.144.112.55,8443,US,brander group
+143.20.207.35,8443,US,brander group 2
+38.60.193.247,13300,MY,kaopu cloud
+58.27.117.24,443,MY,tmnet
