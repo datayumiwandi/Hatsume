@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
-139.177.185.196,443,SG,akamai connected
-83.142.30.4,2096,SG,zappie host
-129.150.35.29,587,SG,oracle corporation
-172.104.117.43,12452,JP,linode
-168.138.197.147,12345,JP,oracle public
-134.195.211.127,443,US,cloudcone
-159.54.175.77,443,US,oracle corporation 2
-45.89.107.118,443,MY,worktitans
-47.250.132.147,443,MY,alibaba cloud
+103.6.207.108,8080,ID,pusat media
+149.129.250.8,443,ID,21f ciputra
+203.194.112.119,8443,ID,cv rumahweb 2
+43.252.21.100,443,SG,specialist
+139.162.4.242,8443,SG,linode
+194.36.179.17,2053,SG,first server
+207.148.113.196,443,JP,vultr holdings
+150.230.5.34,45681,JP,oracle corporation
+107.174.131.26,443,US,hostpapa
+208.81.129.171,2087,US,plesklogin net
+38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
