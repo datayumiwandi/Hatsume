@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-92.112.22.94,443,SG,unknown
-45.88.42.34,8443,SG,datacamp
-68.183.227.180,443,SG,digitalocean
-38.180.28.163,2053,JP,3nt solutions
-172.104.117.43,12452,JP,linode
-142.171.220.62,16085,US,multacom corporation
-162.120.69.85,8443,US,brander group
-47.250.59.132,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+103.6.207.108,8080,ID,pusat media
+128.199.216.53,443,SG,digitalocean
+152.42.236.151,2053,SG,digitalocean 2
+64.235.45.169,443,SG,singapore sg
+152.69.192.40,57005,JP,oracle corporation
+176.97.70.51,2053,JP,3nt solutions
+38.59.241.157,443,US,multacom corporation
+38.107.236.57,443,US,3hcloud
+47.250.132.147,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
