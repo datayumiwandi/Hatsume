@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-203.194.112.119,8443,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-203.194.112.119,2053,ID,cv rumahweb 2
-128.199.134.152,443,SG,digitalocean
-168.138.189.91,443,SG,oracle public
-138.2.69.236,23334,SG,oracle corporation
-141.147.159.250,443,JP,oracle corporation 2
-168.138.198.7,27560,JP,oracle public 2
-5.102.102.104,8443,US,brander group
-45.82.161.142,8443,US,gcore labs
-47.250.132.147,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb 2
+139.177.185.196,443,SG,akamai connected
+13.250.131.37,443,SG,amazon data
+5.34.176.119,81,SG,green floid
+45.77.25.6,48828,JP,vultr holdings
+202.55.27.166,443,JP,clara online
+47.90.181.148,443,US,alibaba cloud
+92.53.183.231,8443,US,brander group
+47.250.132.147,443,MY,alibaba cloud 2
+163.61.102.13,443,MY,terabix technologies
