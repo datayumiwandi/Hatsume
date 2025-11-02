@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc 2
-5.34.176.119,81,SG,green floid
-185.81.28.95,30503,SG,akile ltd
-143.42.66.91,443,SG,m1
-118.27.12.40,38443,JP,gmo internet
-64.176.42.125,10001,JP,vultr holdings
-142.171.220.62,16007,US,multacom corporation
-20.84.117.28,443,US,microsoft corporation
-45.159.51.121,32199,MY,kaopu cloud
-163.61.102.13,443,MY,terabix technologies
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+203.194.112.119,8443,ID,cv rumahweb 2
+157.20.104.30,443,SG,kuroitcom
+128.199.134.152,443,SG,digitalocean
+8.219.59.132,48130,SG,alibaba cloud
+8.209.4.205,443,JP,alibaba cloud 2
+43.224.34.60,443,JP,vultr holdings
+31.59.40.130,8443,US,cgi global
+172.86.106.68,2053,US,routerhosting
+47.250.139.59,443,MY,alibaba cloud 3
+155.254.60.225,443,MY,evoxt enterprise
