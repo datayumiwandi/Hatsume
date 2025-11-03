@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 203.194.112.119,2053,ID,cv rumahweb
 203.194.112.119,8443,ID,cv rumahweb 2
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-91.192.81.154,2053,SG,melbikomas uab
-139.59.104.29,443,SG,digitalocean
-213.35.107.73,443,SG,oracle svenska
-43.153.179.6,443,JP,16 collyer
-158.101.131.94,2083,JP,oracle public
-77.110.124.146,443,US,aeza international
-104.168.248.86,443,US,hostwinds
-47.254.235.252,443,MY,alibaba cloud
-163.61.102.13,443,MY,terabix technologies
+140.245.48.42,443,SG,oracle corporation
+20.247.137.183,443,SG,microsoft corporation
+168.138.181.188,61731,SG,oracle public
+84.247.152.46,10045,JP,contabo gmbh
+202.182.116.249,8443,JP,vultr holdings
+138.2.232.156,28163,US,oracle corporation 2
+159.203.150.39,443,US,digitalocean
+155.254.60.225,443,MY,evoxt enterprise
+47.254.255.125,443,MY,alibaba cloud
