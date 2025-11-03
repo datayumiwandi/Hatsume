@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-143.198.92.220,443,SG,digitalocean
-8.219.59.132,48964,SG,alibaba cloud
-139.180.159.133,443,SG,sgpvultrcust
-138.2.59.96,10129,JP,oracle corporation
-8.209.4.13,443,JP,alibaba cloud 2
-107.172.180.56,443,US,racknerd
-74.211.111.128,443,US,cluster logic
-47.250.37.87,443,MY,alibaba cloud 3
-45.89.107.118,443,MY,worktitans
+149.129.250.8,443,ID,21f ciputra
+194.233.67.216,8443,SG,contabo asia
+111.119.215.93,443,SG,huaweicloudsg
+68.183.227.216,443,SG,digitalocean
+160.16.123.65,443,JP,sakura internet
+35.78.229.176,443,JP,amazon data
+35.209.104.104,8090,US,google
+104.207.151.11,8443,US,vultr holdings
+47.250.59.132,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
