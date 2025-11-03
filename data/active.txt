@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
 203.194.112.119,2053,ID,cv rumahweb
-149.129.250.8,443,ID,21f ciputra
-194.233.67.216,8443,SG,contabo asia
-111.119.215.93,443,SG,huaweicloudsg
-68.183.227.216,443,SG,digitalocean
-160.16.123.65,443,JP,sakura internet
-35.78.229.176,443,JP,amazon data
-35.209.104.104,8090,US,google
-104.207.151.11,8443,US,vultr holdings
+103.6.207.108,8080,ID,pusat media
+104.43.91.69,443,SG,microsoft corporation
+138.2.89.238,43254,SG,oracle corporation
+64.235.61.166,443,SG,singapore sg
+172.105.226.139,443,JP,akamai connected
+185.184.223.85,8443,JP,xtom
+142.147.94.108,10086,US,xtom 2
+192.18.138.215,1111,US,oracle corporation 2
+45.89.107.118,443,MY,worktitans
 47.250.59.132,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
