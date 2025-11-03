@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-203.194.112.119,2053,ID,cv rumahweb
-36.95.152.58,12137,ID,telekomunikasi indonesia
-31.192.238.71,8443,SG,pdk
-194.36.179.17,2053,SG,first server
-103.195.191.55,443,SG,28 kallang
-141.147.159.250,443,JP,oracle corporation
-47.79.90.37,49153,JP,alibaba cloud
-40.160.5.99,443,US,ovh us
-141.148.164.46,57239,US,oracle corporation 2
-155.254.60.225,443,MY,evoxt enterprise
-163.61.102.13,443,MY,terabix technologies
+203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,2053,ID,cv rumahweb 2
+51.79.158.58,2053,SG,ovh singapore
+104.248.145.216,443,SG,digitalocean
+8.219.59.132,48964,SG,alibaba cloud
+103.106.0.123,443,JP,worktitans
+141.147.185.63,443,JP,oracle corporation
+142.171.220.62,16601,US,multacom corporation
+5.102.102.210,8443,US,brander group
+47.250.59.132,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 3
