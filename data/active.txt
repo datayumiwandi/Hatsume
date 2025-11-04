@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
-43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 149.129.250.8,443,ID,21f ciputra
-36.95.152.58,12137,ID,telekomunikasi indonesia
-124.156.202.172,443,SG,16 collyer
-139.59.104.29,443,SG,digitalocean
-45.76.183.217,49292,SG,vultr holdings
-113.37.149.36,12553,JP,arteria networks
-15.168.175.167,2087,JP,amazon data
-38.180.137.75,443,US,3nt solutions
-3.86.85.68,443,US,amazon data 2
-45.159.51.121,32199,MY,kaopu cloud
-38.60.193.247,13300,MY,kaopu cloud 2
+203.194.112.119,2053,ID,cv rumahweb
+43.218.77.16,443,ID,amazoncom inc
+139.99.124.165,443,SG,ovh singapor
+150.109.11.223,443,SG,16 collyer
+158.178.229.178,443,SG,oracle corporation
+52.194.236.221,8443,JP,amazon data
+150.230.59.15,8443,JP,oracle corporation 2
+107.172.201.15,8443,US,racknerd
+67.226.221.1,80,US,securly inc
+163.61.102.13,443,MY,terabix technologies
+47.254.235.252,443,MY,alibaba cloud
