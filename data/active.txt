@@ -1,13 +1,13 @@
-203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-203.194.112.119,2053,ID,cv rumahweb 2
+203.194.112.119,8443,ID,cv rumahweb
 43.218.77.16,443,ID,amazoncom inc 2
-213.35.107.73,443,SG,oracle svenska
-138.2.69.236,23334,SG,oracle corporation
-140.245.48.42,443,SG,oracle corporation 2
-141.98.197.101,11665,JP,xtom japan
-152.70.101.24,16056,JP,oracle corporation 3
-31.57.63.147,8443,US,cgi global
-172.233.131.73,443,US,linode
-163.61.102.13,443,MY,terabix technologies
-155.254.60.225,443,MY,evoxt enterprise
+104.43.91.69,443,SG,microsoft corporation
+104.234.233.57,35911,SG,unknown
+8.222.220.81,25435,SG,alibaba cloud
+45.32.55.253,443,JP,vultr holdings
+45.32.49.72,9443,JP,vultr holdings 2
+38.180.40.72,8443,US,3nt solutions
+103.170.72.129,27053,US,corenet inc
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
