@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-139.177.185.196,443,SG,akamai connected
-138.2.69.236,23334,SG,oracle corporation
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb
+34.143.159.175,443,SG,google
+138.2.78.38,1443,SG,oracle corporation
 52.76.110.129,20001,SG,amazon technologies
-141.147.161.249,51037,JP,oracle corporation 2
-113.37.149.36,12553,JP,arteria networks
-23.177.40.8,443,US,unknown
-104.234.50.154,2053,US,unknown 2
-38.60.193.247,13300,MY,kaopu cloud
+140.238.37.103,14782,JP,oracle public
+103.238.129.215,42734,JP,bytevirt
+89.116.44.170,2053,US,ethernet servers
+74.48.4.205,12525,US,multacom corporation
 45.89.107.118,443,MY,worktitans
+47.250.139.249,443,MY,alibaba cloud
