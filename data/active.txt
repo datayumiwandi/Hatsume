@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 203.194.112.119,8443,ID,cv rumahweb 2
-104.248.159.99,443,SG,digitalocean
-143.198.92.220,443,SG,digitalocean 2
-129.226.150.167,443,SG,6 collyer
-172.104.127.132,443,JP,linode
-138.2.39.24,443,JP,oracle corporation
-23.94.123.164,443,US,hurricane electric
-47.89.150.45,21575,US,alibaba cloud
-58.27.117.24,443,MY,tmnet
+43.218.77.16,1443,ID,amazoncom inc
+13.250.131.37,443,SG,amazon data
+5.34.176.119,81,SG,green floid
+64.235.61.166,443,SG,singapore sg
+172.105.199.91,443,JP,akamai connected
+43.133.10.236,33405,JP,6 collyer
+107.151.216.221,443,US,zenlayer inc
+89.116.44.170,2053,US,ethernet servers
+47.254.255.125,443,MY,alibaba cloud
 163.61.102.13,443,MY,terabix technologies
