@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-43.156.181.203,443,SG,16 collyer
-160.22.79.155,443,SG,onidel pty
-128.199.134.152,443,SG,digitalocean
-149.28.25.176,443,JP,the constant
-84.247.152.46,10045,JP,contabo gmbh
-154.21.88.22,443,US,multacom corporation
-63.209.32.91,4433,US,vultr holdings
-38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+167.99.73.22,443,SG,digitalocean
+91.192.81.154,8443,SG,melbikomas uab
+128.199.128.28,123,SG,digitalocean 2
+8.211.16.138,443,JP,alibaba cloud
+152.69.199.70,8443,JP,oracle corporation
+74.121.150.129,8443,US,it7 networks
+142.171.147.243,8443,US,multacom corporation
+47.250.139.249,443,MY,alibaba cloud 2
+47.254.255.125,443,MY,alibaba cloud 3
