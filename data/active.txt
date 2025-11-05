@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-203.194.112.119,2053,ID,cv rumahweb
-47.130.35.116,8888,SG,amazon data
-104.248.145.216,443,SG,digitalocean
-188.166.249.31,443,SG,digitalocean 2
-153.121.45.101,443,JP,sakura internet
-18.183.158.211,443,JP,amazon data 2
-107.174.36.87,443,US,cloudflare london
-103.56.60.156,6034,US,iroko networks
+43.218.77.16,443,ID,amazoncom inc
+203.194.112.119,8443,ID,cv rumahweb
+43.218.77.16,1443,ID,amazoncom inc 2
+157.20.104.30,443,SG,kuroitcom
+167.71.198.82,8443,SG,digitalocean
+45.32.100.46,13802,SG,vultr holdings
+212.52.0.61,1846,JP,prinode
+140.238.50.134,443,JP,oracle public
+45.146.82.107,35292,US,aiyun network
+104.194.69.254,8443,US,it7 networks
+47.250.37.87,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
-47.250.132.147,443,MY,alibaba cloud
