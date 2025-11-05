@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-203.194.112.119,8443,ID,cv rumahweb
-194.127.193.240,50791,SG,greencloud
-47.74.254.191,8900,SG,alibaba cloud
-146.235.19.79,28983,SG,oracle corporation
-153.121.45.101,443,JP,sakura internet
-18.183.158.211,443,JP,amazon data
-92.53.183.89,8443,US,brander group
-204.110.220.67,80,US,securly inc
-47.250.132.147,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+152.42.241.71,2053,SG,digitalocean
+51.79.158.58,2053,SG,ovh singapore
+213.35.100.31,47112,SG,oracle svenska
+45.76.198.248,443,JP,vultr holdings
+151.248.68.11,2053,JP,datacamp
+92.53.183.29,8443,US,brander group
+138.2.231.58,45638,US,oracle corporation
+47.250.132.147,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
