@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-128.199.128.28,123,SG,digitalocean
-165.154.203.69,443,SG,scloud pte
-66.42.51.60,8443,SG,sgpvultrcust
-8.209.4.13,443,JP,alibaba cloud
-147.45.49.11,8443,JP,global connectivity
-31.57.118.168,2053,US,cgi global
-172.86.110.196,443,US,routerhosting
-47.250.59.132,443,MY,alibaba cloud 2
-47.250.139.249,443,MY,alibaba cloud 3
+203.194.112.119,2053,ID,cv rumahweb
+36.95.152.58,12137,ID,telekomunikasi indonesia
+203.194.112.119,8443,ID,cv rumahweb 2
+43.218.77.16,443,ID,amazoncom inc
+164.52.2.100,443,SG,uculsg
+150.109.11.223,443,SG,16 collyer
+92.112.22.94,443,SG,unknown
+141.147.162.24,1235,JP,oracle corporation
+141.147.178.249,37043,JP,oracle corporation 2
+50.112.33.254,443,US,amazoncom inc 2
+148.135.59.174,54824,US,brander group
+47.250.132.147,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
