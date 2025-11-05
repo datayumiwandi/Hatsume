@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 203.194.112.119,2053,ID,cv rumahweb
-203.194.112.119,8443,ID,cv rumahweb 2
-161.117.81.228,4443,SG,1 raffles
-158.178.229.178,443,SG,oracle corporation
-92.112.22.94,443,SG,unknown
-139.162.108.5,443,JP,akamai connected
-167.179.110.68,8443,JP,vultr holdings
-142.171.220.62,16800,US,multacom corporation
-167.99.58.113,443,US,digitalocean
-47.254.235.252,443,MY,alibaba cloud
-163.61.102.13,443,MY,terabix technologies
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc 2
+64.235.61.166,443,SG,singapore sg
+157.20.104.30,443,SG,kuroitcom
+128.199.128.28,123,SG,digitalocean
+47.79.41.201,443,JP,alibaba cloud
+150.230.5.34,45681,JP,oracle corporation
+172.245.232.173,443,US,brainstorm network
+40.160.5.32,443,US,ovh us
+47.250.139.59,443,MY,alibaba cloud 2
+45.89.107.118,443,MY,worktitans
