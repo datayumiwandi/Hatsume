@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-31.192.238.71,2053,SG,pdk
-92.112.22.94,443,SG,unknown
-194.36.179.17,2053,SG,first server
-43.153.155.49,443,JP,16 collyer
-64.110.101.90,55007,JP,oracle corporation
-147.135.77.109,443,US,ovh us
-198.46.143.134,443,US,racknerd
-45.89.107.118,443,MY,worktitans
-38.60.193.247,13300,MY,kaopu cloud
+149.129.250.8,443,ID,21f ciputra
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+194.36.179.5,2053,SG,first server
+8.222.220.81,25435,SG,alibaba cloud
+104.234.233.57,35911,SG,unknown
+84.247.152.46,10045,JP,contabo gmbh
+203.137.166.120,50090,JP,idc frontier
+5.102.102.3,8443,US,brander group
+195.211.98.153,2053,US,green floid
+47.250.139.249,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
