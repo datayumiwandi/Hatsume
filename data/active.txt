@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 203.194.112.119,8443,ID,cv rumahweb
+149.129.250.8,443,ID,21f ciputra
 43.218.77.16,443,ID,amazoncom inc
-83.142.30.129,2096,SG,gsl networks
-124.156.202.172,443,SG,16 collyer
-152.42.241.71,8443,SG,digitalocean
-192.243.127.224,443,JP,it7 networks
-139.162.108.5,443,JP,akamai connected
-107.175.1.47,8443,US,racknerd
-52.43.90.185,443,US,amazon technologies
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+68.183.235.165,443,SG,digitalocean
+15.235.192.85,443,SG,ovh singapore
+43.156.116.194,443,SG,6 collyer
+149.28.21.106,443,JP,vultr holdings
+138.2.5.136,443,JP,cloudflare london
+74.48.133.115,443,US,multacom corporation
+104.234.50.198,2053,US,unknown
+47.254.206.121,443,MY,alibaba cloud
+163.61.102.13,443,MY,terabix technologies
