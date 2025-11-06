@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-149.129.250.8,443,ID,21f ciputra
+43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-128.199.125.131,443,SG,digitalocean
-167.71.198.82,8443,SG,digitalocean 2
-185.81.28.95,30503,SG,akile ltd
-64.176.36.17,443,JP,the constant
-124.156.238.155,443,JP,6 collyer
-103.124.105.222,443,US,hosteonscom
-45.138.27.90,443,US,itglobalcom nl
-58.27.117.24,443,MY,tmnet
-47.250.59.132,443,MY,alibaba cloud
+43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+194.156.163.45,443,SG,misaka network
+4.194.131.141,8081,SG,microsoft corporation
+31.192.238.71,2053,SG,pdk
+147.45.49.11,2053,JP,global connectivity
+139.162.108.5,443,JP,akamai connected
+107.175.245.68,50242,US,racknerd
+172.83.159.4,41389,US,spartan host
+47.250.37.87,443,MY,alibaba cloud
+47.250.59.132,443,MY,alibaba cloud 2
