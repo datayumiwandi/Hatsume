@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
 43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-66.42.51.60,8443,SG,sgpvultrcust
-140.245.48.42,443,SG,oracle corporation
-165.154.203.69,443,SG,scloud pte
-8.209.220.50,21273,JP,shiodome sumitomo
-152.70.101.24,16056,JP,oracle corporation 2
-31.57.118.168,8443,US,cgi global
-64.64.228.98,2053,US,cluster logic
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc 2
+15.235.192.85,443,SG,ovh singapore
+104.248.159.99,443,SG,digitalocean
+167.99.73.22,443,SG,digitalocean 2
+152.70.101.24,16001,JP,oracle corporation
+210.138.37.53,443,JP,cdnetworks co
+80.251.219.120,14105,US,cluster logic
+62.164.130.49,8443,US,clouvider virtual
 155.254.60.225,443,MY,evoxt enterprise
+45.89.107.118,443,MY,worktitans
