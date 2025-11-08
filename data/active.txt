@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc 2
-128.199.216.53,443,SG,digitalocean
-143.198.196.196,8443,SG,digitalocean 2
-5.34.176.119,81,SG,green floid
-108.61.126.17,443,JP,vultr holdings
-172.105.199.91,443,JP,akamai connected
-51.81.209.21,2053,US,ovh us
-141.148.181.105,38945,US,oracle corporation
+68.183.235.165,443,SG,digitalocean
+150.109.11.223,443,SG,16 collyer
+138.2.64.229,443,SG,oracle corporation
+118.27.12.40,38443,JP,gmo internet
+158.101.154.245,47001,JP,oracle public
+192.243.112.82,443,US,it7 networks
+104.167.198.164,8443,US,3hcloud
+45.159.51.121,32199,MY,kaopu cloud
 47.250.139.59,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans
