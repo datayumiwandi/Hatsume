@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
 149.129.250.8,443,ID,21f ciputra
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-194.127.193.240,50791,SG,greencloud
-143.42.66.91,443,SG,m1
-138.2.89.64,32962,SG,oracle corporation
-203.137.166.120,50090,JP,idc frontier
-152.70.101.24,16028,JP,oracle corporation 2
-23.137.132.67,443,US,888 ventures
-104.234.50.11,2053,US,unknown
-47.250.132.147,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.170.211,53702,SG,oracle public
+38.244.147.68,2053,SG,3nt solutions
+83.142.30.129,2096,SG,gsl networks
+152.70.101.24,16037,JP,oracle corporation
+45.32.49.72,9443,JP,vultr holdings
+204.110.222.174,80,US,securly inc
+142.171.88.226,443,US,multacom corporation
+47.254.206.121,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
