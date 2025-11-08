@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
 43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-139.177.185.196,443,SG,akamai connected
-164.52.2.99,443,SG,uculsg
-152.42.236.151,8443,SG,digitalocean
-152.70.82.101,18650,JP,oracle corporation
-138.2.5.136,443,JP,cloudflare london
-54.189.161.131,48850,US,amazoncom inc 3
-104.224.181.22,443,US,it7 networks
-47.250.132.147,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+43.134.164.53,443,SG,6 collyer
+185.81.28.95,30503,SG,akile ltd
+194.233.67.216,8443,SG,contabo asia
+160.16.123.65,443,JP,sakura internet
+168.138.46.67,443,JP,oracle public
+15.204.10.80,49404,US,ovh us
+80.209.242.156,2053,US,hostkey
+47.250.37.87,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
