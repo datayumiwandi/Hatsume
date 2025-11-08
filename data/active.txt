@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-178.128.80.43,443,SG,digitalocean
-168.138.171.70,23280,SG,oracle public
-158.178.243.152,61731,SG,oracle corporation
-47.74.8.30,2443,JP,alibaba cloud
-38.180.28.163,2053,JP,3nt solutions
-193.122.195.166,52557,US,oracle public 2
-142.171.220.62,16095,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+43.218.77.16,1443,ID,amazoncom inc 2
+8.222.218.155,443,SG,alibaba cloud
+146.235.19.79,28983,SG,oracle corporation
+47.74.254.191,8900,SG,alibaba cloud 2
+108.160.141.198,443,JP,vultr holdings
+103.106.228.126,2053,JP,oneprovidercom tokyo
+154.21.86.85,443,US,dmit cloud
+35.212.208.244,443,US,google
+163.61.102.13,443,MY,terabix technologies
+45.159.51.121,32199,MY,kaopu cloud
