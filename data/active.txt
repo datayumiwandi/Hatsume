@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-13.212.213.77,8443,SG,amazon data
-139.180.159.133,443,SG,sgpvultrcust
-158.178.229.178,443,SG,oracle corporation
-176.97.70.51,2053,JP,3nt solutions
-152.70.101.24,16004,JP,oracle corporation 2
-198.200.41.16,12520,US,peg tech
-107.174.131.26,443,US,hostpapa
-47.250.37.87,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+47.236.119.190,51342,SG,alibaba cloud
+128.199.172.224,443,SG,digitalocean
+83.142.30.4,2096,SG,zappie host
+35.78.229.176,443,JP,amazon data
+152.69.199.70,8443,JP,oracle corporation
+45.77.4.176,36983,US,vultr holdings
+149.28.76.213,443,US,vultr holdings 2
+38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
