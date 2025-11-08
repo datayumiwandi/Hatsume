@@ -1,13 +1,13 @@
-149.129.250.8,443,ID,21f ciputra
-43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-158.178.229.178,443,SG,oracle corporation
-138.2.78.38,1443,SG,oracle corporation 2
-64.235.45.169,443,SG,singapore sg
-141.98.197.101,11665,JP,xtom japan
-43.133.10.236,33405,JP,6 collyer
-69.166.235.237,8443,US,unknown
-77.110.109.80,2053,US,aeza international
-163.61.102.13,443,MY,terabix technologies
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+149.129.250.8,443,ID,21f ciputra
+168.138.170.211,53702,SG,oracle public
+38.244.147.68,2053,SG,3nt solutions
+129.150.49.58,18650,SG,oracle corporation
+45.76.198.248,443,JP,vultr holdings
+43.224.34.60,443,JP,vultr holdings 2
+107.173.149.215,443,US,racknerd
+155.138.238.22,8443,US,vultr holdings 3
 47.254.235.252,443,MY,alibaba cloud
+47.250.37.87,443,MY,alibaba cloud 2
