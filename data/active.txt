@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-64.235.45.169,443,SG,singapore sg
-194.127.193.240,50791,SG,greencloud
-103.195.191.55,443,SG,28 kallang
-18.177.83.181,443,JP,amazon data
-108.160.141.198,443,JP,vultr holdings
-216.24.178.29,443,US,cluster logic
-142.171.220.62,16002,US,multacom corporation
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc 2
+138.2.69.236,23334,SG,oracle corporation
+139.180.159.133,443,SG,sgpvultrcust
+178.128.86.3,443,SG,digitalocean
+43.165.183.43,443,JP,16 collyer
+152.70.101.24,16096,JP,oracle corporation 2
+192.9.157.150,57783,US,oracle corporation 3
+72.18.83.132,16232,US,cloudcone
+47.254.235.252,443,MY,alibaba cloud
 163.61.102.13,443,MY,terabix technologies
-47.254.255.125,443,MY,alibaba cloud
