@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-8.222.218.155,443,SG,alibaba cloud
-15.235.192.85,443,SG,ovh singapore
-194.36.179.17,2053,SG,first server
-138.2.59.96,10129,JP,oracle corporation
-138.2.12.103,14453,JP,cloudflare london
-89.116.44.170,2053,US,ethernet servers
-147.135.77.109,443,US,ovh us
-47.250.132.147,443,MY,alibaba cloud 2
-47.250.59.132,443,MY,alibaba cloud 3
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+139.177.185.196,443,SG,akamai connected
+138.2.78.38,1443,SG,oracle corporation
+167.88.172.224,443,SG,routerhosting
+168.138.198.7,27560,JP,oracle public
+38.180.28.163,8443,JP,3nt solutions
+35.175.188.144,9000,US,amazon technologies
+40.160.10.31,443,US,ovh us
+47.250.37.87,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
