@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-43.156.116.194,443,SG,6 collyer
-168.138.170.211,53702,SG,oracle public
-13.250.31.132,443,SG,amazon data
-138.2.12.103,14453,JP,cloudflare london
-141.98.197.101,11665,JP,xtom japan
-3.86.231.180,443,US,amazon data 2
-45.32.210.244,443,US,the constant
-47.254.206.121,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+66.42.51.60,8443,SG,sgpvultrcust
+129.150.35.29,587,SG,oracle corporation
+64.235.61.166,443,SG,singapore sg
+103.125.216.22,8443,JP,vpsservercom 24
+45.76.111.190,443,JP,vultr holdings
+195.123.240.40,81,US,green floid
+43.130.134.123,65001,US,6 collyer
 155.254.60.225,443,MY,evoxt enterprise
+45.89.107.118,443,MY,worktitans
