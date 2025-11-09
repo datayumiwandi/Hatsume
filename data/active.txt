@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-160.22.79.155,443,SG,onidel pty
-64.235.43.144,443,SG,singapore sg
-194.127.193.240,50791,SG,greencloud
-152.70.101.24,16666,JP,oracle corporation
-152.70.101.24,16404,JP,oracle corporation 2
-178.157.50.134,443,US,cluster logic
-142.171.228.35,8443,US,multacom corporation
-45.159.51.121,32199,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud
+103.6.207.108,8080,ID,pusat media
+91.192.81.154,8443,SG,melbikomas uab
+138.2.95.33,17465,SG,oracle corporation
+165.154.203.69,443,SG,scloud pte
+152.70.82.101,18650,JP,oracle corporation 2
+45.77.25.6,27854,JP,vultr holdings
+18.236.13.188,443,US,amazon technologies
+178.156.139.174,443,US,hetzner online
+45.89.107.118,443,MY,worktitans
+38.60.193.247,13300,MY,kaopu cloud
