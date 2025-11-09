@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc 2
-68.183.235.240,443,SG,digitalocean
-103.229.96.157,443,SG,epsilon singapore
-68.183.235.165,443,SG,digitalocean 2
-158.101.76.55,21953,JP,oracle public
-15.168.175.167,2087,JP,amazon data
-142.171.220.62,16402,US,multacom corporation
-104.168.58.31,443,US,racknerd
-47.250.37.87,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+8.222.218.155,443,SG,alibaba cloud
+15.235.192.85,443,SG,ovh singapore
+194.36.179.17,2053,SG,first server
+138.2.59.96,10129,JP,oracle corporation
+138.2.12.103,14453,JP,cloudflare london
+89.116.44.170,2053,US,ethernet servers
+147.135.77.109,443,US,ovh us
+47.250.132.147,443,MY,alibaba cloud 2
+47.250.59.132,443,MY,alibaba cloud 3
