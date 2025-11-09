@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-160.22.79.155,443,SG,onidel pty
-158.178.236.14,61731,SG,oracle corporation
-213.35.107.73,443,SG,oracle svenska
-54.64.238.243,443,JP,amazon technologies
-18.205.113.91,443,JP,kddi corporation
-31.44.5.73,443,US,itglobalcom nl
-198.12.74.78,443,US,racknerd
-47.254.235.252,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+34.143.159.175,443,SG,google
+167.71.198.82,8443,SG,digitalocean
+146.235.19.79,28983,SG,oracle corporation
+138.2.59.96,10129,JP,oracle corporation 2
+152.70.101.24,16072,JP,oracle corporation 3
+170.205.38.77,443,US,hosthatch
+5.102.102.97,8443,US,brander group
+163.61.102.13,443,MY,terabix technologies
+45.159.51.121,32199,MY,kaopu cloud
