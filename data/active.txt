@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-13.212.213.77,8443,SG,amazon data
-104.234.233.57,35911,SG,unknown
-64.235.45.169,443,SG,singapore sg
-168.138.51.8,8443,JP,oracle public
-147.45.49.164,24443,JP,global connectivity
-23.152.200.8,8443,US,365hosting
-185.186.245.42,81,US,inxy ltd
-47.254.255.125,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc 2
+138.2.64.229,443,SG,oracle corporation
+139.99.124.165,443,SG,ovh singapor
+31.192.238.71,2053,SG,pdk
+109.123.231.212,443,JP,contabo gmbh
+138.2.59.96,10129,JP,oracle corporation 2
+146.190.55.58,443,US,digitalocean
+35.212.160.116,443,US,google
+58.27.117.24,443,MY,tmnet
+163.61.102.13,443,MY,terabix technologies
