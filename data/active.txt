@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-83.142.30.129,2096,SG,gsl networks
-8.219.126.137,491,SG,alibaba cloud
-139.177.185.88,443,SG,akamai connected
-152.70.101.24,16001,JP,oracle corporation
-109.123.231.212,2053,JP,contabo gmbh
-192.3.155.217,443,US,racknerd
-54.148.167.46,443,US,amazoncom inc 3
-47.254.235.252,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+167.71.198.82,8443,SG,digitalocean
+146.235.19.79,28983,SG,oracle corporation
+209.97.173.243,443,SG,digitalocean 2
+168.138.197.147,12345,JP,oracle public
+202.182.116.249,8443,JP,vultr holdings
+130.185.164.216,8443,US,internet utilities
+40.160.14.31,443,US,ovh us
+155.254.60.225,443,MY,evoxt enterprise
+47.254.206.121,443,MY,alibaba cloud
