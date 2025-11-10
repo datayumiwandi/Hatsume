@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc 2
-52.76.110.129,20001,SG,amazon technologies
-185.81.28.95,30503,SG,akile ltd
-143.42.66.91,443,SG,m1
-47.79.35.191,443,JP,alibaba cloud
-217.142.250.195,587,JP,oracle corporation
-207.211.176.65,13425,US,oracle corporation 2
-107.172.132.165,43333,US,hostpapa
-47.250.139.59,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.28.158.103,10030,SG,vultr holdings
+213.35.108.135,12596,SG,oracle svenska
+178.128.86.3,443,SG,digitalocean
+45.32.49.72,9443,JP,vultr holdings 2
+64.176.42.125,10001,JP,vultr holdings 3
+74.48.179.37,32380,US,multacom corporation
+34.105.49.234,443,US,google
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
