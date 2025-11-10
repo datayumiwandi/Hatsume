@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.130.35.116,8888,SG,amazon data
-43.156.116.194,443,SG,6 collyer
-64.235.45.169,443,SG,singapore sg
-152.70.101.24,16048,JP,oracle corporation
-45.77.25.6,27854,JP,vultr holdings
-45.151.132.228,19034,US,spartan host
-40.160.5.207,443,US,ovh us
+104.234.233.57,35911,SG,unknown
+139.59.104.29,443,SG,digitalocean
+139.180.154.158,443,SG,vultr holdings
+152.70.101.24,16077,JP,oracle corporation
+203.137.166.120,50090,JP,idc frontier
+147.135.78.66,443,US,ovh us
+40.160.14.130,443,US,ovh us 2
 155.254.60.225,443,MY,evoxt enterprise
-163.61.102.13,443,MY,terabix technologies
+45.159.51.121,32199,MY,kaopu cloud
