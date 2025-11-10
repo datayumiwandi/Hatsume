@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-103.229.96.157,443,SG,epsilon singapore
-91.192.81.154,8443,SG,melbikomas uab
-213.35.107.73,443,SG,oracle svenska
-152.70.101.24,16054,JP,oracle corporation
-152.70.101.24,16028,JP,oracle corporation 2
-107.151.182.253,443,US,cloudflare inc
-137.184.122.138,443,US,digitalocean
-47.254.206.121,443,MY,alibaba cloud
+20.247.137.183,443,SG,microsoft corporation
+194.156.163.45,443,SG,misaka network
+138.2.95.33,17465,SG,oracle corporation
+138.3.217.167,587,JP,oracle network
+84.247.152.46,10045,JP,contabo gmbh
+108.174.61.161,59581,US,racknerd
+138.124.187.19,2053,US,webhost
 163.61.102.13,443,MY,terabix technologies
+38.60.193.247,13300,MY,kaopu cloud
