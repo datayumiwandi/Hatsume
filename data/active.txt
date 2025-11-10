@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
-36.95.152.58,12137,ID,telekomunikasi indonesia
-152.42.241.71,8443,SG,digitalocean
-143.198.92.220,443,SG,digitalocean 2
-129.150.58.86,57621,SG,oracle corporation
-109.123.231.212,2053,JP,contabo gmbh
-152.70.101.24,16055,JP,oracle corporation 2
-142.171.220.62,16027,US,multacom corporation
-74.48.221.141,26255,US,multacom corporation 2
+103.6.207.108,8080,ID,pusat media
+103.229.96.157,443,SG,epsilon singapore
+91.192.81.154,8443,SG,melbikomas uab
+213.35.107.73,443,SG,oracle svenska
+152.70.101.24,16054,JP,oracle corporation
+152.70.101.24,16028,JP,oracle corporation 2
+107.151.182.253,443,US,cloudflare inc
+137.184.122.138,443,US,digitalocean
 47.254.206.121,443,MY,alibaba cloud
 163.61.102.13,443,MY,terabix technologies
