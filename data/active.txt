@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-160.22.79.155,443,SG,onidel pty
-104.248.145.216,443,SG,digitalocean
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc 2
+66.42.51.60,8443,SG,sgpvultrcust
+152.42.241.71,8443,SG,digitalocean
 43.156.181.203,443,SG,16 collyer
-118.27.12.40,38443,JP,gmo internet
-18.183.158.211,443,JP,amazon data
-47.251.95.178,443,US,alibaba cloud
-40.160.5.90,443,US,ovh us
-45.89.107.118,443,MY,worktitans
-47.254.206.121,443,MY,alibaba cloud 2
+160.16.123.65,443,JP,sakura internet
+140.83.60.81,18443,JP,imported inetnum
+34.74.139.91,443,US,google
+5.102.102.104,8443,US,brander group
+155.254.60.225,443,MY,evoxt enterprise
+45.159.51.121,32199,MY,kaopu cloud
