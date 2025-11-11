@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-8.222.220.81,25435,SG,alibaba cloud
-68.183.227.180,443,SG,digitalocean
-4.194.131.141,8081,SG,microsoft corporation
-202.84.53.85,19999,JP,azumino network
-103.125.216.22,8443,JP,vpsservercom 24
-107.161.168.45,443,US,yottasrc hosting
-45.158.127.48,443,US,serva one
-47.254.235.252,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+43.218.77.16,1443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+52.76.110.129,20001,SG,amazon technologies
+185.81.28.95,30503,SG,akile ltd
+8.219.126.137,491,SG,alibaba cloud
+160.16.123.65,443,JP,sakura internet
+47.79.35.191,443,JP,alibaba cloud 2
+92.118.10.102,8443,US,first server
+148.135.59.174,54824,US,brander group
+47.250.132.147,443,MY,alibaba cloud 3
+47.254.206.121,443,MY,alibaba cloud 4
