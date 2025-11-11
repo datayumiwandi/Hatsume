@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc
-52.76.110.129,20001,SG,amazon technologies
-198.1.244.129,443,SG,zenlayer singapore
-43.128.95.110,40029,SG,6 collyer
-47.79.35.191,443,JP,alibaba cloud
-152.70.101.24,16004,JP,oracle corporation
-23.94.5.177,4433,US,racknerd
-172.245.148.211,443,US,racknerd 2
-45.159.51.121,32199,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud 2
+43.218.77.16,1443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
+194.36.179.5,2053,SG,first server
+139.59.104.29,443,SG,digitalocean
+143.198.92.220,443,SG,digitalocean 2
+152.70.101.24,16077,JP,oracle corporation
+138.2.10.149,45638,JP,oracle corporation 2
+172.245.110.38,443,US,racknerd
+103.170.72.129,25950,US,anycast
+47.254.206.121,443,MY,alibaba cloud
+163.61.102.13,443,MY,terabix technologies
