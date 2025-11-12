@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
-66.42.51.60,8443,SG,sgpvultrcust
-43.252.21.100,443,SG,specialist
-3.0.50.69,443,SG,amazon data
-203.137.166.120,50090,JP,idc frontier
-193.123.161.116,443,JP,oracle corporation
-104.168.102.163,443,US,cloudflare london
-23.94.213.132,27149,US,hostpapa
-47.250.132.147,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc 2
+47.74.157.194,443,SG,alibaba cloud
+194.127.193.124,24467,SG,greencloud
+152.42.236.151,2053,SG,digitalocean
+138.2.10.149,45638,JP,oracle corporation
+168.138.213.1,50003,JP,oracle public
+47.254.27.159,2087,US,alibaba cloud 2
+47.88.24.237,10444,US,alibaba cloud 3
+47.250.59.132,443,MY,alibaba cloud 4
+38.60.193.247,13300,MY,kaopu cloud
