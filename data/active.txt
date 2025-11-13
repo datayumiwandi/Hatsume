@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-139.162.4.242,8443,SG,linode
-178.128.86.3,443,SG,digitalocean
-83.142.30.4,2096,SG,zappie host
-168.138.46.67,443,JP,oracle public
-103.106.0.123,443,JP,worktitans
-172.93.46.36,8443,US,cluster logic
-23.94.5.177,4433,US,racknerd
-45.159.51.121,32199,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc 2
+103.6.207.108,8080,ID,pusat media
+178.128.80.43,443,SG,digitalocean
+139.177.185.196,443,SG,akamai connected
+47.74.254.191,8900,SG,alibaba cloud
+152.70.101.24,16031,JP,oracle corporation
+141.147.162.24,1235,JP,oracle corporation 2
+5.78.114.254,443,US,hetzner online
+142.171.220.62,16056,US,multacom corporation
+45.89.107.118,443,MY,worktitans
+47.250.37.87,443,MY,alibaba cloud 2
