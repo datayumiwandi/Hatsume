@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
-138.2.64.229,443,SG,oracle corporation
-194.156.163.45,443,SG,misaka network
-8.222.218.155,443,SG,alibaba cloud
-153.121.45.101,443,JP,sakura internet
-158.101.89.113,50443,JP,oracle public
-206.237.112.80,443,US,nearoute
-66.112.217.201,443,US,it7 networks
-47.250.139.59,443,MY,alibaba cloud 2
-155.254.60.225,443,MY,evoxt enterprise
+103.6.207.108,8080,ID,pusat media
+43.156.181.203,443,SG,16 collyer
+68.183.235.240,443,SG,digitalocean
+168.138.170.211,53702,SG,oracle public
+152.69.199.70,8443,JP,oracle corporation
+168.138.51.8,8443,JP,oracle public 2
+80.210.62.74,8080,US,digitalocean 2
+50.112.33.254,443,US,amazoncom inc 3
+163.61.102.13,443,MY,terabix technologies
+47.250.139.249,443,MY,alibaba cloud
