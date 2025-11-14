@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-129.150.35.29,587,SG,oracle corporation
-51.79.158.58,8443,SG,ovh singapore
-140.245.97.193,443,SG,oracle corporation 2
-217.142.250.195,587,JP,oracle corporation 3
-138.2.18.82,8880,JP,oracle corporation 4
-45.151.133.125,41389,US,spartan host
-204.110.220.139,80,US,securly inc
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
+138.2.69.236,23334,SG,oracle corporation
+139.59.104.29,443,SG,digitalocean
+43.134.164.53,443,SG,6 collyer
+45.76.111.190,443,JP,vultr holdings
+18.205.113.91,443,JP,kddi corporation
+207.246.92.49,443,US,vultr holdings 2
+204.110.220.68,80,US,securly inc
 47.254.255.125,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+163.61.102.13,443,MY,terabix technologies
