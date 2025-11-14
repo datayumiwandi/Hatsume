@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-68.183.235.165,443,SG,digitalocean
-138.2.89.238,43254,SG,oracle corporation
-152.42.236.151,2053,SG,digitalocean 2
-149.28.21.106,443,JP,vultr holdings
-150.230.59.15,8443,JP,oracle corporation 2
-107.172.191.216,8443,US,racknerd
-88.210.37.244,8443,US,melbikomas uab
-45.89.107.118,443,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+161.117.81.228,4443,SG,1 raffles
+104.234.151.10,8443,SG,moechuang network
+31.192.238.71,8443,SG,pdk
+108.61.201.87,8443,JP,vultr holdings
+193.246.161.65,54310,JP,akile ltd
+208.86.224.187,443,US,blueficity
+103.175.79.10,443,US,mumara 10317579024
+155.254.60.225,443,MY,evoxt enterprise
+45.159.51.121,32199,MY,kaopu cloud
