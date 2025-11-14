@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-156.244.1.250,8443,ID,lightnode
-140.245.53.45,443,SG,oracle corporation
-167.99.73.22,443,SG,digitalocean
-161.117.81.228,4443,SG,1 raffles
-152.70.101.24,16007,JP,oracle corporation 2
-121.85.55.59,19842,JP,optage inc
-18.222.50.18,443,US,amazon technologies
-142.171.220.62,16403,US,multacom corporation
-163.61.102.13,443,MY,terabix technologies
-47.250.139.249,443,MY,alibaba cloud
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+138.2.89.64,32962,SG,oracle corporation
+104.234.151.10,8443,SG,moechuang network
+194.156.163.45,443,SG,misaka network
+139.162.102.152,7002,JP,akamai connected
+141.147.161.249,51037,JP,oracle corporation 2
+40.160.14.244,443,US,ovh us
+142.171.85.230,28034,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+45.159.51.121,32199,MY,kaopu cloud
