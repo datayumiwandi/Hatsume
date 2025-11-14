@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-68.183.235.240,443,SG,digitalocean
-213.35.100.31,47112,SG,oracle svenska
-47.236.119.190,51342,SG,alibaba cloud
-172.104.117.43,12452,JP,linode
-84.247.152.46,10045,JP,contabo gmbh
-40.160.5.253,443,US,ovh us
-185.186.245.45,81,US,inxy ltd
+103.6.207.108,8080,ID,pusat media
+83.142.30.4,2096,SG,zappie host
+43.252.21.100,443,SG,specialist
+68.183.235.165,443,SG,digitalocean
+212.52.0.61,1846,JP,prinode
+121.85.55.59,19842,JP,optage inc
+143.20.207.86,8443,US,brander group
+154.21.90.8,2443,US,dmit cloud
 45.89.107.118,443,MY,worktitans
-47.250.139.249,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud
