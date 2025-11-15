@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-209.97.173.243,443,SG,digitalocean
-124.156.202.172,443,SG,16 collyer
+43.218.77.16,443,ID,amazoncom inc
 5.34.176.119,81,SG,green floid
-138.3.222.124,46209,JP,oracle network
-52.194.236.221,8443,JP,amazon data
-67.226.221.91,80,US,securly inc
-185.72.8.152,443,US,baxet group
-47.250.59.132,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+128.199.172.224,443,SG,digitalocean
+140.245.97.193,443,SG,oracle corporation
+138.2.16.61,443,JP,oracle corporation 2
+168.138.197.147,12345,JP,oracle public
+34.82.76.253,443,US,google
+67.226.222.2,443,US,securly inc
+47.250.132.147,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
