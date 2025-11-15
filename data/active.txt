@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-64.235.61.166,443,SG,singapore sg
-152.42.236.151,2053,SG,digitalocean
-157.20.104.30,443,SG,kuroitcom
-140.238.37.103,14782,JP,oracle public
-64.176.36.17,443,JP,the constant
-23.95.132.60,443,US,hostpapa
-38.180.137.75,443,US,3nt solutions
-47.254.235.252,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+194.36.179.17,2053,SG,first server
+165.154.203.69,443,SG,scloud pte
+128.199.125.131,443,SG,digitalocean
+103.75.118.144,2053,JP,oneprovidercom japan
+47.79.41.201,443,JP,alibaba cloud
+5.161.138.191,2083,US,hetzner online
+66.103.201.224,8443,US,multacom corporation
+47.250.37.87,443,MY,alibaba cloud 2
+47.250.139.249,443,MY,alibaba cloud 3
