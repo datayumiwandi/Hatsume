@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-138.2.69.236,23334,SG,oracle corporation
-194.127.193.240,50791,SG,greencloud
-47.74.254.191,8900,SG,alibaba cloud
-210.231.178.90,443,JP,server hosting
-193.246.161.65,54310,JP,akile ltd
-75.58.51.64,443,US,att enterprises
-148.177.146.71,443,US,johnson johnson
-47.250.139.59,443,MY,alibaba cloud 2
-45.159.51.121,32199,MY,kaopu cloud
+91.192.81.154,8443,SG,melbikomas uab
+20.205.177.152,443,SG,microsoft corporation
+138.2.89.64,32962,SG,oracle corporation
+8.209.220.50,21273,JP,shiodome sumitomo
+47.79.90.82,8843,JP,alibaba cloud
+40.160.5.132,443,US,ovh us
+46.21.159.136,443,US,hivelocity
+47.250.132.147,443,MY,alibaba cloud 2
+47.250.139.59,443,MY,alibaba cloud 3
