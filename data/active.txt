@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc 2
-8.222.218.155,443,SG,alibaba cloud
-194.36.179.17,2053,SG,first server
-140.245.97.193,443,SG,oracle corporation
-118.27.12.40,38443,JP,gmo internet
-147.45.49.11,2053,JP,global connectivity
-77.91.126.60,8443,US,365partners inc
-92.53.183.230,8443,US,internet utilities
-163.61.102.13,443,MY,terabix technologies
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+104.248.145.216,443,SG,digitalocean
+194.36.179.17,8443,SG,first server
+194.233.67.216,8443,SG,contabo asia
+210.138.37.53,443,JP,cdnetworks co
+168.138.213.1,50003,JP,oracle public
+63.209.32.91,4433,US,vultr holdings
+193.233.87.41,8443,US,vdskanet
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
