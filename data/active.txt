@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-83.142.30.129,2096,SG,gsl networks
-45.32.100.46,13802,SG,vultr holdings
-194.36.179.17,8443,SG,first server
-168.138.197.147,12345,JP,oracle public
-154.31.114.136,443,JP,unknown
-65.49.195.163,14828,US,it7 networks
-40.160.8.108,443,US,ovh us
-38.60.193.247,13300,MY,kaopu cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+158.178.229.178,443,SG,oracle corporation
+152.42.236.151,2053,SG,digitalocean
+43.156.116.194,443,SG,6 collyer
+140.83.57.183,22735,JP,imported inetnum
+141.147.162.24,1235,JP,oracle corporation 2
+204.110.222.174,80,US,securly inc
+154.21.201.83,443,US,netlab
 155.254.60.225,443,MY,evoxt enterprise
+47.254.206.121,443,MY,alibaba cloud
