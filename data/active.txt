@@ -1,13 +1,13 @@
+43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-47.74.157.194,443,SG,alibaba cloud
-164.52.2.99,443,SG,uculsg
-128.199.125.131,443,SG,digitalocean
-64.110.101.90,55007,JP,oracle corporation
-140.238.37.103,14782,JP,oracle public
-47.98.190.71,443,US,alibaba cloud 2
-67.209.183.236,443,US,hurricane electric
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+64.235.43.144,443,SG,singapore sg
+47.236.119.190,51342,SG,alibaba cloud
+168.138.165.174,443,SG,oracle public
+202.84.53.85,12145,JP,azumino network
+38.180.28.163,2053,JP,3nt solutions
+103.35.188.120,8443,US,worktitans
+87.251.79.180,8443,US,huize holdings
+155.254.60.225,443,MY,evoxt enterprise
+45.159.51.121,32199,MY,kaopu cloud
