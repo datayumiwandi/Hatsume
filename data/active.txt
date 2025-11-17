@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-194.127.193.124,24467,SG,greencloud
-20.247.137.183,443,SG,microsoft corporation
-129.150.49.58,18650,SG,oracle corporation
-47.79.35.191,443,JP,alibaba cloud
-140.238.62.82,1443,JP,oracle public
-148.135.52.250,48993,US,brander group
-152.70.143.65,2053,US,oracle corporation 2
-45.159.51.121,32199,MY,kaopu cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+139.177.185.196,443,SG,akamai connected
+8.222.218.155,443,SG,alibaba cloud
+138.2.95.33,17465,SG,oracle corporation
+45.76.198.248,443,JP,vultr holdings
+147.45.49.11,2053,JP,global connectivity
+45.82.161.169,8443,US,gcore labs
+93.93.205.246,443,US,omc computers
 47.250.139.59,443,MY,alibaba cloud 2
+47.250.139.249,443,MY,alibaba cloud 3
