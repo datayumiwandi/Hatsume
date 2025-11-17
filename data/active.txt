@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-213.35.108.135,12596,SG,oracle svenska
-138.2.89.238,43254,SG,oracle corporation
-178.128.80.43,443,SG,digitalocean
-147.45.49.11,2053,JP,global connectivity
-103.75.118.144,2053,JP,oneprovidercom japan
-142.171.220.62,16922,US,multacom corporation
-107.173.155.242,2087,US,racknerd
-47.250.139.59,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+138.2.69.236,23334,SG,oracle corporation
+143.198.92.220,443,SG,digitalocean
+5.34.176.119,81,SG,green floid
+160.16.123.65,443,JP,sakura internet
+140.83.83.65,9872,JP,oracle corporation 2
+77.110.114.41,2053,US,aeza international
+97.64.18.60,443,US,it7 networks
+58.27.117.24,443,MY,tmnet
+47.254.206.121,443,MY,alibaba cloud
