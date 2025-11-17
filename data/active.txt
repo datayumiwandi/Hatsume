@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-138.2.78.38,1443,SG,oracle corporation
-104.43.91.69,443,SG,microsoft corporation
-47.74.254.191,8900,SG,alibaba cloud
-140.83.57.183,22735,JP,imported inetnum
-35.78.229.176,443,JP,amazon data
-45.45.218.183,443,US,hosthatch
-198.46.218.63,27149,US,racknerd
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud 2
+167.71.198.82,8443,SG,digitalocean
+104.234.151.10,8443,SG,moechuang network
+91.192.81.154,2053,SG,melbikomas uab
+138.2.16.61,443,JP,oracle corporation
+158.101.76.55,21953,JP,oracle public
+142.171.220.62,16922,US,multacom corporation
+38.180.254.111,8443,US,3nt solutions
+47.250.139.59,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
