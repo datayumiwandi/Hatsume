@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
-164.52.2.98,443,SG,uculsg
-178.128.80.43,443,SG,digitalocean
-138.2.64.229,443,SG,oracle corporation
-141.147.185.63,443,JP,oracle corporation 2
-167.179.86.6,8443,JP,tyovultrcust
-185.186.245.40,81,US,inxy ltd
-80.209.242.156,2053,US,hostkey
-47.250.132.147,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.74.157.194,443,SG,alibaba cloud
+68.183.235.165,443,SG,digitalocean
+194.127.193.240,50791,SG,greencloud
+8.216.121.234,51922,JP,alibaba cloud 2
+138.2.5.136,443,JP,cloudflare london
+174.137.61.42,443,US,cluster logic
+162.216.231.41,443,US,wargaming usa
+58.27.117.24,443,MY,tmnet
+47.250.37.87,443,MY,alibaba cloud 3
