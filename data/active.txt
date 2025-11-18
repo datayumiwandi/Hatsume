@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-149.28.158.103,10030,SG,vultr holdings
-47.236.71.6,443,SG,alibaba cloud
-128.199.125.131,443,SG,digitalocean
-141.147.178.249,37043,JP,oracle corporation
-47.79.42.197,443,JP,alibaba cloud 2
-104.234.50.138,2053,US,unknown
-40.160.10.179,443,US,ovh us
-47.250.59.132,443,MY,alibaba cloud 3
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,1443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc 2
+51.79.158.58,8443,SG,ovh singapore
+83.142.30.4,2096,SG,zappie host
+139.59.104.29,443,SG,digitalocean
+193.246.161.65,54310,JP,akile ltd
+140.83.83.65,9872,JP,oracle corporation
+142.171.220.62,16098,US,multacom corporation
+156.229.160.32,8080,US,akile ltd 2
+47.254.206.121,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
