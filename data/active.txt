@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc 2
-31.192.238.71,2053,SG,pdk
-178.128.80.43,443,SG,digitalocean
-45.76.183.217,49292,SG,vultr holdings
-18.205.113.91,443,JP,kddi corporation
-108.160.141.198,443,JP,vultr holdings 2
-45.146.82.107,35292,US,aiyun network
-142.171.220.62,16104,US,multacom corporation
-58.27.117.24,443,MY,tmnet
-47.250.139.59,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+160.22.79.155,443,SG,onidel pty
+103.229.96.157,443,SG,epsilon singapore
+68.183.227.216,443,SG,digitalocean
+152.69.199.70,8443,JP,oracle corporation
+108.61.201.87,8443,JP,vultr holdings
+142.171.220.62,17000,US,multacom corporation
+65.49.223.222,443,US,it7 networks
+47.250.37.87,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
