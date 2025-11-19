@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-104.234.151.10,8443,SG,moechuang network
-161.117.81.228,4443,SG,1 raffles
-194.36.179.17,2053,SG,first server
-210.231.178.90,443,JP,server hosting
-202.84.53.85,12145,JP,azumino network
-5.102.102.56,8443,US,brander group
-198.98.61.220,443,US,frantech solutions
-155.254.60.225,443,MY,evoxt enterprise
-47.250.132.147,443,MY,alibaba cloud
+43.134.164.53,443,SG,6 collyer
+146.235.19.79,28983,SG,oracle corporation
+188.166.249.31,443,SG,digitalocean
+168.138.197.147,12345,JP,oracle public
+140.83.57.114,25965,JP,imported inetnum
+23.169.184.123,443,US,nexuswave technologies
+80.209.242.177,2053,US,hostkey
+47.250.139.249,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
