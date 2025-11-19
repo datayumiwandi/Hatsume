@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-34.143.159.175,443,SG,google
-139.59.104.29,443,SG,digitalocean
-8.219.58.164,57373,SG,alibaba cloud
-160.16.123.65,443,JP,sakura internet
-139.162.102.152,7002,JP,akamai connected
-142.171.220.62,16800,US,multacom corporation
-104.168.56.93,12138,US,hostpapa
-58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+15.235.192.85,443,SG,ovh singapore
+66.42.51.60,8443,SG,sgpvultrcust
+52.76.110.129,20001,SG,amazon technologies
+210.138.37.53,443,JP,cdnetworks co
+210.231.178.90,443,JP,server hosting
+5.78.49.104,443,US,hetzner online
+194.113.37.210,8443,US,cloudbackbone
+47.250.139.249,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
