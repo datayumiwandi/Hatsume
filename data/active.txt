@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc 2
-213.35.100.31,47112,SG,oracle svenska
-5.223.47.32,443,SG,hetzner online
-15.235.192.85,443,SG,ovh singapore
-202.182.116.249,8443,JP,vultr holdings
-18.205.113.91,443,JP,kddi corporation
-129.153.214.71,16666,US,oracle corporation
-107.175.219.216,443,US,racknerd
-47.254.206.121,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+68.183.227.216,443,SG,digitalocean
+188.166.249.31,443,SG,digitalocean 2
+51.79.158.58,8443,SG,ovh singapore
+118.21.134.114,12553,JP,arteria networks
+152.70.82.101,18650,JP,oracle corporation
+198.98.51.17,2083,US,frantech solutions
+165.227.3.141,443,US,digitalocean 3
+45.89.107.118,443,MY,worktitans
+45.159.51.121,32199,MY,kaopu cloud
