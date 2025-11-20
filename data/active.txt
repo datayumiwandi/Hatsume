@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-5.223.47.32,443,SG,hetzner online
-139.99.124.165,443,SG,ovh singapor
-209.97.173.243,443,SG,digitalocean
-202.182.116.249,8443,JP,vultr holdings
-35.78.229.176,443,JP,amazon data
-38.107.236.57,443,US,3hcloud
-143.20.207.86,8443,US,brander group
-47.250.37.87,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+194.233.67.216,8443,SG,contabo asia
+157.20.104.30,443,SG,kuroitcom
+167.88.172.224,443,SG,routerhosting
+45.32.55.253,443,JP,vultr holdings
+45.76.111.190,443,JP,vultr holdings 2
+31.57.118.168,2053,US,cgi global
+23.105.197.36,443,US,it7 networks
+47.250.139.59,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
