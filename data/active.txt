@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc 2
-138.2.95.61,1111,SG,oracle corporation
-178.128.80.43,443,SG,digitalocean
-138.2.89.64,32962,SG,oracle corporation 2
-152.70.101.24,16030,JP,oracle corporation 3
-140.238.38.81,587,JP,cloudflare inc
-31.57.46.189,443,US,cgi global
-107.172.100.43,26001,US,racknerd
-58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud
+31.192.238.71,2053,SG,pdk
+20.205.177.152,443,SG,microsoft corporation
+168.138.171.70,23280,SG,oracle public
+140.83.57.20,13118,JP,imported inetnum
+45.76.198.248,443,JP,vultr holdings
+23.227.193.153,443,US,hivelocity inc
+40.160.5.99,443,US,ovh us
+47.254.206.121,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
