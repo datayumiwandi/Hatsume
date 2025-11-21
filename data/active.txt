@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-167.88.172.224,443,SG,routerhosting
-164.52.2.100,443,SG,uculsg
-47.236.71.6,443,SG,alibaba cloud
-113.37.149.36,12553,JP,arteria networks
-118.27.12.40,38443,JP,gmo internet
-162.248.227.118,2053,US,hosting solution
-45.82.161.178,8443,US,gcore labs
-45.159.51.121,32199,MY,kaopu cloud
-58.27.117.24,443,MY,tmnet
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+194.233.67.216,8443,SG,contabo asia
+104.234.233.57,35911,SG,unknown
+8.219.126.137,491,SG,alibaba cloud
+103.75.118.144,2053,JP,oneprovidercom japan
+138.2.10.149,45638,JP,oracle corporation
+120.26.61.84,443,US,alibaba cloud 2
+172.93.231.224,443,US,nexeon technologies
+38.60.193.247,13300,MY,kaopu cloud
+47.250.59.132,443,MY,alibaba cloud 3
