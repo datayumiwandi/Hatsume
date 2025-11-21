@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-158.178.229.178,443,SG,oracle corporation
-64.235.45.169,443,SG,singapore sg
-43.156.116.194,443,SG,6 collyer
-167.179.110.68,8443,JP,vultr holdings
-176.97.70.51,2053,JP,3nt solutions
-199.195.254.21,443,US,frantech solutions
-15.204.10.80,49404,US,ovh us
-38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+165.154.203.69,443,SG,scloud pte
+167.88.172.224,443,SG,routerhosting
+139.177.185.88,443,SG,akamai connected
+138.3.217.167,587,JP,oracle network
+47.74.8.30,2443,JP,alibaba cloud
+37.123.192.147,443,US,kirino
+23.177.40.8,443,US,unknown
+47.250.37.87,443,MY,alibaba cloud 2
+45.159.51.121,32199,MY,kaopu cloud
