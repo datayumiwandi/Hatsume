@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc 2
-156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+158.178.229.178,443,SG,oracle corporation
+64.235.45.169,443,SG,singapore sg
 43.156.116.194,443,SG,6 collyer
-68.183.227.180,443,SG,digitalocean
-213.35.107.73,443,SG,oracle svenska
-152.70.101.24,16072,JP,oracle corporation
-150.230.214.172,16957,JP,oracle corporation 2
-107.175.254.239,39128,US,racknerd
-95.163.203.38,2053,US,cluster logic
+167.179.110.68,8443,JP,vultr holdings
+176.97.70.51,2053,JP,3nt solutions
+199.195.254.21,443,US,frantech solutions
+15.204.10.80,49404,US,ovh us
 38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud
