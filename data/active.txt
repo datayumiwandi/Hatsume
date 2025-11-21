@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-165.154.203.69,443,SG,scloud pte
-129.150.58.86,57621,SG,oracle corporation
-13.250.31.132,443,SG,amazon data
-152.70.101.24,16048,JP,oracle corporation 2
-152.70.101.24,16666,JP,oracle corporation 3
-142.171.220.62,16056,US,multacom corporation
-107.174.93.186,52995,US,racknerd
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
+34.143.159.175,443,SG,google
+194.36.179.17,2053,SG,first server
+104.234.151.10,8443,SG,moechuang network
+64.176.42.125,10008,JP,the constant
+18.177.83.181,443,JP,amazon data
+192.243.115.180,443,US,it7 networks
+69.30.212.5,6643,US,wholesale internet
+47.250.139.249,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
