@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-129.150.35.29,587,SG,oracle corporation
-194.127.193.240,50791,SG,greencloud
-13.250.131.37,443,SG,amazon data
-154.31.114.136,443,JP,unknown
-149.28.21.106,443,JP,vultr holdings
-67.226.220.10,443,US,securly inc
-141.11.234.238,443,US,virtual machine
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+45.32.100.46,13802,SG,vultr holdings
+64.235.43.144,443,SG,singapore sg
+128.199.134.152,443,SG,digitalocean
+210.138.37.53,443,JP,cdnetworks co
+152.70.101.24,16043,JP,oracle corporation
+142.171.89.242,443,US,multacom corporation
+107.172.201.15,8443,US,racknerd
 47.250.139.249,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+47.254.235.252,443,MY,alibaba cloud 2
