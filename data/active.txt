@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-129.226.150.167,443,SG,6 collyer
-124.156.202.172,443,SG,16 collyer
-152.42.236.151,8443,SG,digitalocean
-64.176.36.17,443,JP,the constant
-168.138.192.16,54584,JP,oracle public
-46.17.107.199,443,US,first server
-149.248.21.85,11146,US,vultr holdings
+43.218.77.16,443,ID,amazoncom inc 2
+194.127.193.124,24467,SG,greencloud
+103.229.96.157,443,SG,epsilon singapore
+158.178.229.178,443,SG,oracle corporation
+45.32.55.253,443,JP,vultr holdings
+168.138.198.7,27560,JP,oracle public
+45.135.229.93,2053,US,gcore labs
+80.209.243.159,443,US,hostkey
 47.254.235.252,443,MY,alibaba cloud
 47.250.139.59,443,MY,alibaba cloud 2
