@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-168.138.165.174,443,SG,oracle public
-31.192.238.71,2053,SG,pdk
-139.162.4.242,8443,SG,linode
-158.101.146.3,54516,JP,oracle public 2
-138.3.222.33,443,JP,oracle network
-74.48.83.62,443,US,multacom corporation
-178.157.50.134,443,US,cluster logic
-47.250.139.249,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans
+8.219.126.137,491,SG,alibaba cloud
+129.226.150.167,443,SG,6 collyer
+160.22.79.155,443,SG,onidel pty
+158.101.152.6,2919,JP,oracle public
+103.125.216.22,8443,JP,vpsservercom 24
+45.82.161.175,8443,US,gcore labs
+142.171.220.62,16104,US,multacom corporation
+45.159.51.121,32199,MY,kaopu cloud
+47.254.235.252,443,MY,alibaba cloud 2
