@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-139.162.4.242,8443,SG,linode
-138.2.89.238,43254,SG,oracle corporation
-138.2.78.38,1443,SG,oracle corporation 2
-168.138.213.1,50003,JP,oracle public
-45.77.9.114,443,JP,vultr holdings
-89.36.163.29,8443,US,melbikomas uab
-89.116.44.170,8443,US,ethernet servers
-47.250.132.147,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+43.218.77.16,443,ID,amazoncom inc 2
+146.235.18.248,45137,SG,oracle corporation
+164.52.2.98,443,SG,uculsg
+38.244.147.68,2053,SG,3nt solutions
+108.61.201.87,8443,JP,vultr holdings
+149.28.21.106,443,JP,vultr holdings 2
+199.119.137.109,2053,US,extravm
+45.150.65.231,443,US,worktitans
+47.254.235.252,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
