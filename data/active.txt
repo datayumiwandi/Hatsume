@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,443,ID,amazoncom inc
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
-5.223.47.32,443,SG,hetzner online
-164.52.2.99,443,SG,uculsg
-64.235.43.144,443,SG,singapore sg
-138.2.10.149,45638,JP,oracle corporation
-150.230.204.21,10243,JP,oracle corporation 2
-159.65.162.90,4431,US,digitalocean
-80.209.240.188,2053,US,hostkey
-47.250.59.132,443,MY,alibaba cloud
-47.250.132.147,443,MY,alibaba cloud 2
+103.6.207.108,8080,ID,pusat media
+138.2.64.229,443,SG,oracle corporation
+68.183.227.216,443,SG,digitalocean
+194.36.179.5,2053,SG,first server
+64.176.55.11,29999,JP,the constant
+140.83.59.158,15805,JP,imported inetnum
+47.57.181.17,443,US,alibaba cloud
+194.113.37.242,8443,US,cloudbackbone
+47.250.59.132,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
