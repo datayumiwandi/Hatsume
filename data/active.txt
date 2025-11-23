@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-152.42.236.151,8443,SG,digitalocean
-185.81.28.95,30503,SG,akile ltd
-129.150.58.86,57621,SG,oracle corporation
-45.77.25.6,48828,JP,vultr holdings
-64.176.42.125,10001,JP,vultr holdings 2
-104.168.87.41,16443,US,racknerd
-38.180.25.224,2053,US,3nt solutions
-45.159.51.121,32199,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
+43.218.77.16,1443,ID,amazoncom inc 2
+178.128.86.3,443,SG,digitalocean
+138.2.78.38,1443,SG,oracle corporation
+140.245.48.42,443,SG,oracle corporation 2
+43.165.183.43,443,JP,16 collyer
+140.83.60.81,18443,JP,imported inetnum
+35.247.124.181,443,US,google
+79.133.110.101,81,US,gcore labs
+155.254.60.225,443,MY,evoxt enterprise
+45.89.107.118,443,MY,worktitans
