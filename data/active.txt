@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-8.222.220.81,25435,SG,alibaba cloud
-194.127.193.124,24467,SG,greencloud
-157.20.104.30,443,SG,kuroitcom
-103.106.228.126,2053,JP,oneprovidercom tokyo
-45.76.111.190,443,JP,vultr holdings
-205.185.116.48,17008,US,frantech solutions
-132.145.217.215,11082,US,oracle public
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+104.234.233.57,35911,SG,unknown
+168.138.189.91,443,SG,oracle public
+167.99.73.22,443,SG,digitalocean
+47.79.42.197,443,JP,alibaba cloud
+45.32.49.72,9443,JP,vultr holdings
+82.117.252.189,81,US,green floid
+66.103.201.224,8443,US,multacom corporation
+58.27.117.24,443,MY,tmnet
 155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
