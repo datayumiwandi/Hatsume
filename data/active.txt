@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-68.183.227.216,443,SG,digitalocean
-91.192.81.154,8443,SG,melbikomas uab
-138.2.89.238,43254,SG,oracle corporation
-138.3.222.33,443,JP,oracle network
-212.52.0.61,1846,JP,prinode
-54.153.59.106,80,US,amazon technologies
-43.153.78.145,443,US,6 collyer
-47.254.235.252,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+43.218.77.16,1443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+104.234.151.10,8443,SG,moechuang network
+47.236.119.190,51342,SG,alibaba cloud
+38.244.147.68,2053,SG,3nt solutions
+141.147.178.249,37043,JP,oracle corporation
+152.70.82.101,18650,JP,oracle corporation 2
+120.26.61.84,443,US,alibaba cloud 2
+130.185.164.216,8443,US,internet utilities
+47.254.255.125,443,MY,alibaba cloud 3
+47.254.235.252,443,MY,alibaba cloud 4
