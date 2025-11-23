@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc 2
-3.0.50.69,443,SG,amazon data
-139.177.185.88,443,SG,akamai connected
-8.222.220.81,25435,SG,alibaba cloud
-140.83.57.20,13118,JP,imported inetnum
-217.142.230.253,587,JP,oracle corporation
-89.208.240.188,8443,US,cluster logic
-44.228.63.60,80,US,amazoncom inc 3
-47.250.139.249,443,MY,alibaba cloud 2
-47.254.255.125,443,MY,alibaba cloud 3
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+103.6.207.108,8080,ID,pusat media
+164.52.2.98,443,SG,uculsg
+4.194.131.141,8081,SG,microsoft corporation
+45.32.100.46,13802,SG,vultr holdings
+131.186.63.89,11655,JP,oracle public
+158.101.89.113,50443,JP,oracle public 2
+67.226.220.10,443,US,securly inc
+104.160.47.72,18888,US,it7 networks
+47.250.59.132,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
