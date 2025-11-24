@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-156.244.1.250,8443,ID,lightnode
-129.150.35.29,587,SG,oracle corporation
+103.6.207.108,8080,ID,pusat media
+104.234.233.57,35911,SG,unknown
 83.142.30.4,2096,SG,zappie host
-160.22.79.155,443,SG,onidel pty
-176.97.70.51,2053,JP,3nt solutions
-45.76.192.129,24434,JP,vultr holdings
-104.167.198.164,8443,US,3hcloud
-92.53.183.143,8443,US,internet utilities
-45.159.51.121,32199,MY,kaopu cloud
+3.0.50.69,443,SG,amazon data
+121.85.55.59,19842,JP,optage inc
+217.142.250.195,587,JP,oracle corporation
+170.130.40.242,8443,US,eonix corporation
+150.230.33.247,19131,US,oracle corporation 2
 45.89.107.118,443,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud
