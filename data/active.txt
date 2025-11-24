@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-194.127.193.124,24467,SG,greencloud
-3.0.50.69,443,SG,amazon data
-4.194.131.141,8081,SG,microsoft corporation
-158.101.146.3,44872,JP,oracle public
-155.248.181.189,443,JP,oracle public 2
-47.251.95.178,443,US,alibaba cloud
-142.171.220.62,16992,US,multacom corporation
-47.254.206.121,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+129.226.150.167,443,SG,6 collyer
+143.198.92.220,443,SG,digitalocean
+165.154.203.69,443,SG,scloud pte
+45.76.111.190,443,JP,vultr holdings
+103.125.216.22,8443,JP,vpsservercom 24
+107.174.192.67,42522,US,racknerd
+92.53.183.50,8443,US,brander group
+47.254.255.125,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
