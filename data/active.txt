@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-103.6.207.108,8080,ID,pusat media
-178.128.80.43,443,SG,digitalocean
-143.198.92.220,443,SG,digitalocean 2
-185.81.28.95,30503,SG,akile ltd
-140.238.62.82,1443,JP,oracle public
-140.238.37.103,14782,JP,oracle public 2
-23.95.113.61,443,US,racknerd
-49.51.197.141,443,US,tencent cloud
-58.27.117.24,443,MY,tmnet
-47.250.59.132,443,MY,alibaba cloud
+160.22.79.155,443,SG,onidel pty
+165.154.203.69,443,SG,scloud pte
+194.127.193.240,50791,SG,greencloud
+150.230.204.21,10243,JP,oracle corporation
+147.45.49.11,2053,JP,global connectivity
+144.172.93.50,2053,US,routerhosting
+193.122.152.253,443,US,oracle public
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
