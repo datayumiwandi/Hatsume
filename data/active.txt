@@ -1,13 +1,13 @@
 43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc 2
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.119.190,51342,SG,alibaba cloud
-38.244.147.68,2053,SG,3nt solutions
-68.183.227.180,443,SG,digitalocean
-38.180.28.163,2053,JP,3nt solutions 2
-121.85.55.59,19842,JP,optage inc
-40.160.5.190,443,US,ovh us
-150.136.254.79,443,US,oracle public
-47.254.235.252,443,MY,alibaba cloud 2
-45.89.107.118,443,MY,worktitans
+43.218.77.16,443,ID,amazoncom inc 2
+128.199.134.152,443,SG,digitalocean
+124.156.202.172,443,SG,16 collyer
+3.0.50.69,443,SG,amazon data
+18.205.113.91,443,JP,cable tv
+82.163.16.229,26803,JP,akile ltd
+142.171.220.62,16601,US,multacom corporation
+193.233.204.4,443,US,baxet group
+47.254.206.121,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
