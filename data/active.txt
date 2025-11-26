@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-139.177.185.196,443,SG,akamai connected
-168.138.189.91,443,SG,oracle public
-38.244.147.68,443,SG,3nt solutions
-140.83.57.114,25965,JP,imported inetnum
-47.74.8.30,2443,JP,alibaba cloud
-167.99.58.113,2096,US,digitalocean
-18.211.215.95,443,US,amazon data
-47.254.235.252,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+104.248.145.216,443,SG,digitalocean
+129.150.35.29,587,SG,oracle corporation
+43.252.21.100,443,SG,specialist
+64.110.104.30,443,JP,oracle corporation 2
+139.162.79.151,587,JP,1391620016
+172.206.209.177,443,US,microsoft
+74.48.141.167,8443,US,multacom corporation
+155.254.60.225,443,MY,evoxt enterprise
+38.60.193.247,13300,MY,kaopu cloud
