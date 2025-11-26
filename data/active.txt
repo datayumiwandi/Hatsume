@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-138.2.64.229,443,SG,oracle corporation
-91.192.81.154,2053,SG,melbikomas uab
-140.245.48.42,443,SG,oracle corporation 2
-47.74.8.30,2443,JP,alibaba cloud
-118.27.12.40,38443,JP,gmo internet
-209.126.12.41,443,US,contabo inc
-104.234.50.138,2053,US,unknown
-58.27.117.24,443,MY,tmnet
-47.250.132.147,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+149.28.158.103,10030,SG,vultr holdings
+143.198.92.220,443,SG,digitalocean
+194.127.193.240,50791,SG,greencloud
+141.147.162.24,1235,JP,oracle corporation
+18.183.158.211,443,JP,amazon data
+45.82.161.170,8443,US,gcore labs
+146.190.55.58,443,US,digitalocean 2
+47.250.139.59,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
