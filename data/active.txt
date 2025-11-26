@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
 43.218.77.16,443,ID,amazoncom inc 2
-128.199.134.152,443,SG,digitalocean
-124.156.202.172,443,SG,16 collyer
-3.0.50.69,443,SG,amazon data
-18.205.113.91,443,JP,cable tv
-82.163.16.229,26803,JP,akile ltd
-142.171.220.62,16601,US,multacom corporation
-193.233.204.4,443,US,baxet group
+43.252.21.100,443,SG,specialist
+168.138.165.174,443,SG,oracle public
+164.52.2.100,443,SG,uculsg
+172.104.117.43,12452,JP,linode
+152.70.101.24,16031,JP,oracle corporation
+34.105.49.234,443,US,google
+142.171.220.62,16098,US,multacom corporation
 47.254.206.121,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+155.254.60.225,443,MY,evoxt enterprise
