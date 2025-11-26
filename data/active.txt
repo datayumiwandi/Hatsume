@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-168.138.170.211,53702,SG,oracle public
-139.99.124.165,443,SG,ovh singapor
-91.192.81.154,2053,SG,melbikomas uab
-152.70.101.24,16401,JP,oracle corporation
-158.101.154.245,47001,JP,oracle public 2
-104.234.50.198,2053,US,unknown
-164.90.151.177,2053,US,digitalocean
-47.254.255.125,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+47.236.119.190,51342,SG,alibaba cloud
+38.244.147.68,2053,SG,3nt solutions
+68.183.227.180,443,SG,digitalocean
+38.180.28.163,2053,JP,3nt solutions 2
+121.85.55.59,19842,JP,optage inc
+40.160.5.190,443,US,ovh us
+150.136.254.79,443,US,oracle public
+47.254.235.252,443,MY,alibaba cloud 2
+45.89.107.118,443,MY,worktitans
