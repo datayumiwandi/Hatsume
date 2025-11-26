@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-167.99.73.22,443,SG,digitalocean
-138.2.64.229,443,SG,oracle corporation
-129.150.36.188,53435,SG,oracle corporation 2
-168.138.198.7,27560,JP,oracle public
-152.70.101.24,16001,JP,oracle corporation 3
-5.102.102.33,8443,US,brander group
-104.234.50.221,2053,US,unknown
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
+83.142.30.134,2096,SG,zappie host
+129.226.150.167,443,SG,6 collyer
+139.162.4.242,8443,SG,linode
+139.162.102.152,7002,JP,akamai connected
+147.45.49.11,8443,JP,global connectivity
+34.212.240.129,443,US,amazon technologies
+172.86.88.47,8443,US,routerhosting
 155.254.60.225,443,MY,evoxt enterprise
 45.89.107.118,443,MY,worktitans
