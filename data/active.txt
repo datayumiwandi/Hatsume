@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc 2
-54.255.217.120,8192,SG,amazon data
-168.138.189.91,443,SG,oracle public
-178.128.80.43,443,SG,digitalocean
-140.83.83.65,9872,JP,oracle corporation
-152.70.82.101,18650,JP,oracle corporation 2
-104.194.69.254,8443,US,it7 networks
-45.135.229.93,8443,US,gcore labs
-47.254.255.125,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+8.219.58.164,57373,SG,alibaba cloud
+188.166.249.31,443,SG,digitalocean
+165.154.203.69,443,SG,scloud pte
+82.163.16.229,26803,JP,akile ltd
+152.69.192.40,57005,JP,oracle corporation
+148.135.59.166,22103,US,brander group
+5.78.77.41,8443,US,hetzner online
+47.250.139.249,443,MY,alibaba cloud 2
+47.250.37.87,443,MY,alibaba cloud 3
