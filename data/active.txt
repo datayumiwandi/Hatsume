@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-138.2.95.33,17465,SG,oracle corporation
-143.42.66.91,443,SG,m1
-167.71.198.82,8443,SG,digitalocean
-172.104.117.43,12452,JP,linode
-18.183.158.211,443,JP,amazon data
-54.149.11.131,80,US,amazon technologies
-69.30.212.4,6643,US,wholesale internet
-47.254.235.252,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+13.250.131.37,443,SG,amazon data
+178.128.80.43,443,SG,digitalocean
+194.127.193.124,24467,SG,greencloud
+203.137.166.120,50090,JP,idc frontier
+109.123.231.212,443,JP,contabo gmbh
+156.229.160.32,8080,US,akile ltd
+40.160.5.228,443,US,ovh us
+47.254.255.125,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
