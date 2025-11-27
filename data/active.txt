@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-13.212.213.77,8443,SG,amazon data
-83.142.30.4,2096,SG,zappie host
-104.234.151.10,8443,SG,moechuang network
-158.101.76.55,21953,JP,oracle public
-202.84.53.85,12145,JP,azumino network
-199.195.254.21,443,US,frantech solutions
-149.28.94.52,443,US,vultr holdings
-45.89.107.118,443,MY,worktitans
-47.254.206.121,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+34.143.159.175,443,SG,google
+5.223.47.32,443,SG,hetzner online
+138.2.95.61,1111,SG,oracle corporation
+18.205.113.91,443,JP,kddi corporation
+43.165.183.43,443,JP,16 collyer
+31.57.46.189,443,US,cgi global
+89.116.44.170,2053,US,ethernet servers
+47.254.235.252,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
