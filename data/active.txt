@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-38.244.147.68,2053,SG,3nt solutions
-194.36.179.17,2053,SG,first server
-13.212.213.77,8443,SG,amazon data
-35.78.229.176,443,JP,amazon data 2
-140.83.57.114,25965,JP,imported inetnum
-107.174.93.186,52995,US,racknerd
-104.234.50.51,2053,US,unknown
-47.254.235.252,443,MY,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+138.2.78.38,1443,SG,oracle corporation
+168.138.171.70,23280,SG,oracle public
+66.42.51.60,8443,SG,sgpvultrcust
+38.180.28.163,2053,JP,3nt solutions
+141.147.178.249,37043,JP,oracle corporation 2
+142.171.89.242,443,US,multacom corporation
+166.88.159.214,443,US,ace data
 38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
