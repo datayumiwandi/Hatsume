@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-168.138.170.211,53702,SG,oracle public
-194.36.179.5,2053,SG,first server
-213.35.100.31,47112,SG,oracle svenska
+43.218.77.16,443,ID,amazoncom inc
+31.97.50.106,443,ID,hostinger international
+168.138.189.91,443,SG,oracle public
+185.81.28.95,30503,SG,akile ltd
+149.28.158.103,10030,SG,vultr holdings
 141.147.152.229,23333,JP,oracle corporation
-45.11.1.118,44004,JP,cegrgodigitalvm tokyo
-38.180.146.215,443,US,3nt solutions
-5.102.102.119,8443,US,brander group
-47.250.132.147,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+217.142.250.195,587,JP,oracle corporation 2
+75.58.51.64,443,US,att enterprises
+5.102.102.227,8443,US,brander group
+47.254.235.252,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
