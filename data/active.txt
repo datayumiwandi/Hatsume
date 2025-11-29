@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-185.81.28.95,30503,SG,akile ltd
-68.183.227.216,443,SG,digitalocean
-188.166.249.31,443,SG,digitalocean 2
-152.70.101.24,16063,JP,oracle corporation
-153.121.45.101,443,JP,sakura internet
-38.180.6.191,443,US,3nt solutions
-142.171.3.228,443,US,multacom corporation
+36.95.152.58,12137,ID,telekomunikasi indonesia
+83.142.30.129,2096,SG,gsl networks
+140.245.48.42,443,SG,oracle corporation
+43.134.164.53,443,SG,6 collyer
+35.78.229.176,443,JP,amazon data
+152.70.101.24,16054,JP,oracle corporation 2
+5.78.77.41,2053,US,hetzner online
+37.1.209.186,443,US,iroko networks
+155.254.60.225,443,MY,evoxt enterprise
 47.250.139.59,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
