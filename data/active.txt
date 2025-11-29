@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-13.250.31.132,443,SG,amazon data
-64.235.45.169,443,SG,singapore sg
-31.192.238.71,8443,SG,pdk
-140.83.59.158,15805,JP,imported inetnum
-152.70.101.24,16401,JP,oracle corporation
-103.35.188.120,8443,US,worktitans
-23.95.56.195,443,US,racknerd
-47.250.59.132,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+68.183.227.180,443,SG,digitalocean
+3.0.50.69,443,SG,amazon data
+194.36.179.17,2053,SG,first server
+103.238.129.215,42734,JP,bytevirt
+167.179.86.6,8443,JP,tyovultrcust
+173.249.209.140,32037,US,tzulo inc
+143.42.190.254,443,US,linode
+47.250.139.59,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
