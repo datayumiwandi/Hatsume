@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-83.142.30.4,2096,SG,zappie host
-139.99.124.165,443,SG,ovh singapor
-194.36.179.17,2053,SG,first server
-138.3.222.124,46209,JP,oracle network
-103.75.118.144,2053,JP,oneprovidercom japan
-45.76.232.169,22711,US,vultr holdings
-129.158.198.241,8443,US,oracle corporation
-47.254.206.121,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+213.35.100.31,47112,SG,oracle svenska
+104.43.91.69,443,SG,microsoft corporation
+51.79.158.58,8443,SG,ovh singapore
+45.32.49.72,9443,JP,vultr holdings
+158.101.154.245,47001,JP,oracle public
+18.214.69.202,443,US,amazon technologies
+45.135.229.93,8443,US,gcore labs
+47.254.255.125,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
