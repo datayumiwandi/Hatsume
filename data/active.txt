@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-138.2.64.229,443,SG,oracle corporation
-185.81.28.95,30503,SG,akile ltd
-160.22.79.155,443,SG,onidel pty
-185.184.223.85,8443,JP,xtom
-140.238.38.81,587,JP,cloudflare inc
-143.244.190.195,443,US,digitalocean
-198.12.95.66,8443,US,hostpapa
-47.254.206.121,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+68.183.227.216,443,SG,digitalocean
+129.150.36.188,53435,SG,oracle corporation
+168.138.189.91,443,SG,oracle public
+149.28.21.106,443,JP,vultr holdings
+158.101.89.113,50443,JP,oracle public 2
+107.174.121.46,443,US,racknerd
+5.102.102.33,8443,US,brander group
+47.250.59.132,443,MY,alibaba cloud
+47.250.37.87,443,MY,alibaba cloud 2
