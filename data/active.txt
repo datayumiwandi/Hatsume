@@ -1,13 +1,13 @@
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-83.142.30.129,2096,SG,gsl networks
-140.245.48.42,443,SG,oracle corporation
-43.134.164.53,443,SG,6 collyer
-35.78.229.176,443,JP,amazon data
-152.70.101.24,16054,JP,oracle corporation 2
-5.78.77.41,2053,US,hetzner online
-37.1.209.186,443,US,iroko networks
-155.254.60.225,443,MY,evoxt enterprise
-47.250.139.59,443,MY,alibaba cloud
+104.234.151.10,8443,SG,moechuang network
+188.166.249.31,443,SG,digitalocean
+152.42.236.151,2053,SG,digitalocean 2
+167.179.110.68,8443,JP,vultr holdings
+109.123.231.212,443,JP,contabo gmbh
+5.102.102.97,8443,US,brander group
+169.244.242.249,8443,US,foxcroft academy
+47.250.132.147,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans
