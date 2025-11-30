@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 43.218.77.16,1443,ID,amazoncom inc
-43.218.77.16,443,ID,amazoncom inc 2
-164.52.2.99,443,SG,uculsg
-8.219.58.164,57373,SG,alibaba cloud
-194.36.179.17,2053,SG,first server
-210.138.37.53,443,JP,cdnetworks co
-103.106.0.123,443,JP,worktitans
-96.45.184.78,10911,US,cluster logic
-107.173.86.106,443,US,cloudflare inc
+129.150.35.29,587,SG,oracle corporation
+20.247.137.183,443,SG,microsoft corporation
+45.76.183.217,49292,SG,vultr holdings
+64.110.104.30,443,JP,oracle corporation 2
+212.52.0.61,1846,JP,prinode
+107.172.43.162,443,US,racknerd
+107.161.168.45,443,US,yottasrc hosting
 38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud 2
+155.254.60.225,443,MY,evoxt enterprise
