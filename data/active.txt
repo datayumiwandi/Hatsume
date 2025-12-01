@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
-143.42.66.91,443,SG,viewqwest pte
-138.2.78.38,1443,SG,oracle corporation
-152.42.236.151,2053,SG,digitalocean
-43.165.183.43,443,JP,16 collyer
-18.183.158.211,443,JP,amazon data
-52.146.7.187,443,US,microsoft corporation
-147.75.230.33,443,US,aryaka networks
-47.254.235.252,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+83.142.30.4,2096,SG,zappie host
+47.74.157.194,443,SG,alibaba cloud
+139.180.159.133,443,SG,sgpvultrcust
+140.83.59.158,15805,JP,imported inetnum
+212.52.0.61,1846,JP,prinode
+198.98.61.220,443,US,frantech solutions
+5.181.3.73,443,US,global connectivity
+45.89.107.118,443,MY,worktitans
+47.254.235.252,443,MY,alibaba cloud 2
