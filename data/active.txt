@@ -1,13 +1,13 @@
+43.218.77.16,1443,ID,amazoncom inc
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc
-43.218.77.16,1443,ID,amazoncom inc 2
-83.142.30.4,2096,SG,zappie host
-47.74.157.194,443,SG,alibaba cloud
-139.180.159.133,443,SG,sgpvultrcust
-140.83.59.158,15805,JP,imported inetnum
-212.52.0.61,1846,JP,prinode
-198.98.61.220,443,US,frantech solutions
-5.181.3.73,443,US,global connectivity
-45.89.107.118,443,MY,worktitans
-47.254.235.252,443,MY,alibaba cloud 2
+43.218.77.16,443,ID,amazoncom inc 2
+38.244.147.68,443,SG,3nt solutions
+194.36.179.17,8443,SG,first server
+194.233.67.216,8443,SG,contabo asia
+152.70.101.24,16031,JP,oracle corporation
+139.162.102.152,7002,JP,akamai connected
+44.227.209.152,443,US,amazoncom inc 3
+45.32.131.28,31001,US,the constant
+45.159.51.121,32199,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud
