@@ -1,13 +1,13 @@
-43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-20.205.177.152,443,SG,microsoft corporation
-194.127.193.240,50791,SG,greencloud
-31.192.238.71,2053,SG,pdk
-138.2.10.149,45638,JP,oracle corporation
-158.101.76.55,21953,JP,oracle public
-159.54.175.77,443,US,oracle corporation 2
-139.60.162.153,443,US,hostkey
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+168.138.171.70,23280,SG,oracle public
+128.199.216.53,443,SG,digitalocean
+168.138.165.174,443,SG,oracle public 2
+138.2.32.76,15821,JP,oracle corporation
+139.162.102.152,7002,JP,akamai connected
+178.157.50.134,443,US,cluster logic
+192.69.93.205,443,US,cluster logic 2
+47.254.206.121,443,MY,alibaba cloud
 155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
