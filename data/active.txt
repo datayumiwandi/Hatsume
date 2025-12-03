@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-152.42.236.151,2053,SG,digitalocean
-68.183.227.180,443,SG,digitalocean 2
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,443,ID,amazoncom inc
+31.97.50.106,443,ID,hostinger international
 43.134.164.53,443,SG,6 collyer
+213.35.100.31,47112,SG,oracle svenska
+47.236.71.6,443,SG,alibaba cloud
 160.16.123.65,443,JP,sakura internet
-47.79.43.222,443,JP,alibaba cloud
-95.163.203.38,2053,US,cluster logic
-185.255.198.123,443,US,back waves
-45.89.107.118,443,MY,worktitans
-38.60.193.247,13300,MY,kaopu cloud
+138.2.49.197,587,JP,oracle corporation
+23.95.189.91,443,US,racknerd
+107.172.137.69,8443,US,racknerd 2
+47.250.139.59,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 3
