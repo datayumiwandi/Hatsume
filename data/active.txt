@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-31.97.50.106,443,ID,hostinger international
-43.218.77.16,1443,ID,amazoncom inc 2
-91.192.81.154,2053,SG,melbikomas uab
-167.71.198.82,8443,SG,digitalocean
-47.236.71.6,443,SG,alibaba cloud
-152.70.101.24,16993,JP,oracle corporation
-138.2.16.61,443,JP,oracle corporation 2
-50.228.203.26,443,US,comcast cable
-142.171.220.62,16030,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+66.42.51.60,8443,SG,sgpvultrcust
+143.198.92.220,443,SG,digitalocean
+139.99.124.165,443,SG,ovh singapor
+160.16.123.65,443,JP,sakura internet
+192.243.127.224,443,JP,it7 networks
+107.175.245.116,8443,US,racknerd
+23.95.56.195,443,US,racknerd 2
+47.250.139.249,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
