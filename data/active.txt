@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 31.97.50.106,443,ID,hostinger international
-64.235.61.166,443,SG,singapore sg
-129.150.49.58,18650,SG,oracle corporation
-20.247.137.183,443,SG,microsoft corporation
-103.75.118.144,2053,JP,oneprovidercom japan
-202.84.53.85,19999,JP,azumino network
-129.153.127.204,20756,US,oracle corporation 2
-65.49.192.12,443,US,it7 networks
-58.27.117.24,443,MY,tmnet
-47.254.255.125,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+178.128.80.43,443,SG,digitalocean
+51.79.158.58,2053,SG,ovh singapore
+104.248.145.216,443,SG,digitalocean 2
+150.230.214.172,16957,JP,oracle corporation
+152.70.101.24,16096,JP,oracle corporation 2
+129.153.74.179,443,US,oracle corporation 3
+5.78.49.104,443,US,hetzner online
+47.250.59.132,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
