@@ -1,13 +1,13 @@
-43.218.77.16,1443,ID,amazoncom inc
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc 2
-143.42.66.91,443,SG,m1
-194.127.193.124,24467,SG,greencloud
-160.22.79.155,443,SG,onidel pty
-138.3.222.33,443,JP,oracle network
-152.70.101.24,16077,JP,oracle corporation
-40.160.15.246,443,US,ovh us
-47.89.150.45,21575,US,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
-45.89.107.118,443,MY,worktitans
+43.218.77.16,1443,ID,amazoncom inc
+140.245.53.45,443,SG,oracle corporation
+140.245.48.42,443,SG,oracle corporation 2
+66.42.51.60,8443,SG,sgpvultrcust
+8.216.121.234,51922,JP,alibaba cloud
+138.2.59.96,10129,JP,oracle corporation 3
+40.160.14.31,443,US,ovh us
+172.83.159.4,16478,US,spartan host
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
