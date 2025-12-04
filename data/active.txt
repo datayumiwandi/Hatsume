@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,1443,ID,amazoncom inc
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,443,ID,amazoncom inc 2
-83.142.30.134,2096,SG,zappie host
-31.192.238.71,8443,SG,pdk
-138.2.69.236,23334,SG,oracle corporation
-149.28.21.106,443,JP,vultr holdings
-103.106.228.126,2053,JP,oneprovidercom tokyo
-142.171.220.62,16092,US,multacom corporation
-72.13.122.137,443,US,total uptime
-47.250.139.249,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+31.97.50.106,443,ID,hostinger international
+43.218.77.16,443,ID,amazoncom inc
+43.218.77.16,1443,ID,amazoncom inc 2
+43.252.21.100,443,SG,specialist
+209.97.173.243,443,SG,digitalocean
+13.250.31.132,443,SG,amazon data
+140.238.38.81,587,JP,cloudflare inc
+140.83.57.20,13118,JP,imported inetnum
+154.40.46.28,46757,US,netlab global
+5.181.3.73,443,US,global connectivity
+47.250.37.87,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
