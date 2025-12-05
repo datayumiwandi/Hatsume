@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-66.42.51.60,8443,SG,sgpvultrcust
-140.245.48.42,443,SG,oracle corporation
-64.235.43.144,443,SG,singapore sg
-152.70.101.24,16063,JP,oracle corporation 2
-45.63.123.176,443,JP,vultr holdings
-23.105.192.140,443,US,it7 networks
-35.212.133.89,443,US,google
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+129.150.49.58,18650,SG,oracle corporation
+213.35.100.31,47112,SG,oracle svenska
+140.245.48.42,443,SG,oracle corporation 2
+139.162.79.151,587,JP,akamai connected
+202.182.116.249,8443,JP,vultr holdings
+132.226.119.111,24361,US,oracle public
+198.96.88.148,443,US,interserver inc
 45.159.51.121,32199,MY,kaopu cloud
-45.89.107.118,443,MY,worktitans
+47.254.206.121,443,MY,alibaba cloud
