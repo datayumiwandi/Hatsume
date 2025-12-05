@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+43.218.77.16,1443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-139.59.104.29,443,SG,digitalocean
-167.71.198.82,8443,SG,digitalocean 2
-15.235.192.85,443,SG,ovh singapore
-168.138.192.16,54584,JP,oracle public
-82.163.16.229,26803,JP,akile ltd
-158.101.39.0,42979,US,oracle public 2
-193.32.177.79,443,US,baykov ilya
-47.254.235.252,443,MY,alibaba cloud
-47.250.37.87,443,MY,alibaba cloud 2
+129.150.35.29,587,SG,oracle corporation
+34.143.159.175,443,SG,google
+213.35.100.31,47112,SG,oracle svenska
+113.37.149.36,12553,JP,arteria networks
+138.2.5.136,443,JP,cloudflare london
+107.174.81.44,2083,US,hostpapa
+172.245.182.112,443,US,hostpapa 2
+58.27.117.24,443,MY,tmnet
+47.250.132.147,443,MY,alibaba cloud
