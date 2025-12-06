@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-38.244.147.68,443,SG,3nt solutions
-47.74.254.191,8900,SG,alibaba cloud
-4.194.131.141,8081,SG,microsoft corporation
-103.75.118.144,2053,JP,oneprovider.com -
-153.121.45.101,443,JP,sakura internet
-170.130.40.242,8443,US,eonix corporation
-143.20.207.5,8443,US,internet utilities
-47.250.37.87,443,MY,alibaba cloud 2
-47.254.235.252,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+185.81.28.95,30503,SG,akile ltd
+13.212.213.77,8443,SG,amazon data
+194.36.179.17,8443,SG,first server
+124.156.238.155,443,JP,6 collyer
+141.147.185.15,443,JP,oracle corporation
+23.94.123.164,443,US,hurricane electric
+45.83.140.133,2053,US,worktitans b.v.
+47.250.139.59,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
