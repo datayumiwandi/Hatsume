@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
-104.248.145.216,443,SG,digitalocean
-194.36.179.17,8443,SG,first server
-91.192.81.154,2053,SG,melbikomas uab
-138.2.32.76,15821,JP,oracle corporation
-152.70.101.24,16800,JP,oracle corporation 2
-198.98.61.220,443,US,frantech solutions
-159.69.162.184,42443,US,corporate network
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+52.76.110.129,20001,SG,amazon technologies
+140.245.53.45,443,SG,oracle corporation
+8.222.220.81,25435,SG,alibaba cloud
+140.238.50.134,443,JP,oracle public
+152.70.101.24,16063,JP,oracle corporation 2
+172.82.16.113,18003,US,olink cloud
+38.180.40.72,2053,US,3nt solutions
+47.250.37.87,443,MY,alibaba cloud 2
+47.250.139.59,443,MY,alibaba cloud 3
