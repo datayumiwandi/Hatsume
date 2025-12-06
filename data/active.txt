@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.71.6,443,SG,alibaba cloud
-104.234.233.57,35911,SG,unknown
-213.35.100.31,47112,SG,oracle svenska
-140.238.50.134,443,JP,oracle public
-158.101.146.3,54516,JP,oracle public 2
-173.44.141.156,8443,US,winnebell network
-142.171.220.62,16033,US,multacom corporation
-47.250.59.132,443,MY,alibaba cloud 2
-47.250.37.87,443,MY,alibaba cloud 3
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+3.0.50.69,443,SG,amazon data
+20.205.177.152,443,SG,microsoft corporation
+38.244.147.68,443,SG,3nt solutions
+152.69.192.40,57005,JP,oracle corporation
+38.180.28.163,8443,JP,3nt solutions 2
+45.82.161.142,8443,US,g-core labs
+159.69.162.184,42424,US,corporate network
+38.60.193.247,13300,MY,kaopu cloud
+47.250.37.87,443,MY,alibaba cloud
