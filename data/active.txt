@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,443,ID,amazoncom inc
-156.244.1.250,8443,ID,lightnode
-158.178.229.178,443,SG,oracle corporation
-194.36.179.5,2053,SG,first server
-188.166.249.31,443,SG,digitalocean
-152.70.101.24,16096,JP,oracle corporation 2
-103.75.118.144,2053,JP,oneprovidercom japan
-143.244.147.218,443,US,digitalocean 2
-38.244.31.27,443,US,netlab
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
+66.42.51.60,8443,SG,sgpvultrcust
+43.156.116.194,443,SG,6 collyer
+68.183.227.180,443,SG,digitalocean
+152.70.101.24,16666,JP,oracle corporation
+141.147.152.229,23333,JP,oracle corporation 2
+165.227.11.101,443,US,digitalocean 2
+95.85.93.180,443,US,gcore labs
+47.250.139.249,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
