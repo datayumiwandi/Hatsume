@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.127.193.240,50791,SG,greencloud
-47.236.119.190,51342,SG,alibaba cloud
-83.142.30.134,2096,SG,zappie host
-138.2.12.103,14453,JP,cloudflare london
-141.147.178.249,37043,JP,oracle corporation
-52.146.7.187,443,US,microsoft corporation
-23.94.43.51,443,US,racknerd
+43.218.77.16,1443,ID,amazoncom inc
+31.97.50.106,443,ID,hostinger international
+104.234.233.57,35911,SG,unknown
+167.88.172.224,443,SG,routerhosting
+64.235.45.169,443,SG,singapore sg
+45.32.55.253,443,JP,vultr holdings
+210.138.37.53,443,JP,cdnetworks co
+193.32.177.101,443,US,baykov ilya
+64.181.218.67,443,US,oracle corporation
+47.254.235.252,443,MY,alibaba cloud
 38.60.193.247,13300,MY,kaopu cloud
-47.254.235.252,443,MY,alibaba cloud 2
