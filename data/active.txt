@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-146.235.18.248,45137,SG,oracle corporation
-213.35.108.135,12596,SG,oracle svenska
-43.156.116.194,443,SG,6 collyer
-212.52.0.61,1846,JP,prinode
-43.165.183.43,443,JP,16 collyer
-107.173.147.41,35398,US,racknerd
-96.126.112.12,38298,US,linode
-58.27.117.24,443,MY,tmnet
+43.156.181.203,443,SG,16 collyer
+138.2.69.236,23334,SG,oracle corporation
+194.36.179.17,8443,SG,first server
+154.31.114.136,443,JP,unknown
+140.238.50.134,443,JP,oracle public
+142.171.220.62,17000,US,multacom corporation
+45.151.133.104,16000,US,spartan host
 155.254.60.225,443,MY,evoxt enterprise
+58.27.117.24,443,MY,tmnet
