@@ -1,13 +1,13 @@
+31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
-31.192.238.71,2053,SG,pdk
-129.226.150.167,443,SG,6 collyer
-8.222.220.81,25435,SG,alibaba cloud
-8.216.121.234,51922,JP,alibaba cloud 2
-140.83.57.114,25965,JP,imported inetnum
-148.135.106.200,443,US,brander group
-192.9.157.150,57783,US,oracle corporation
-47.250.37.87,443,MY,alibaba cloud 3
-47.250.139.59,443,MY,alibaba cloud 4
+52.76.110.129,20001,SG,amazon technologies
+194.127.193.240,50791,SG,greencloud
+213.35.100.31,47112,SG,oracle svenska
+140.83.57.183,22735,JP,imported inetnum
+153.121.45.101,443,JP,sakura internet
+23.95.48.132,2083,US,racknerd
+74.48.179.37,36460,US,multacom corporation
+47.250.139.59,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
