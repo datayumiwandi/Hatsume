@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.189.91,443,SG,oracle public
 38.244.147.68,2053,SG,3nt solutions
-51.79.158.58,8443,SG,ovh singapore
-143.42.66.91,443,SG,viewqwest pte
-152.70.101.24,16007,JP,oracle corporation
-38.180.29.40,2053,JP,3nt solutions 2
-107.175.1.47,8443,US,racknerd
-185.255.198.123,443,US,back waves
-38.60.193.247,13300,MY,kaopu cloud
-45.159.51.121,32199,MY,kaopu cloud 2
+52.76.110.129,20001,SG,amazon technologies
+152.70.101.24,16048,JP,oracle corporation
+158.101.152.6,2919,JP,oracle public 2
+52.41.218.4,443,US,amazon technologies 2
+130.185.164.217,8443,US,internet utilities
+45.89.107.118,443,MY,worktitans b.v.
+47.254.255.125,443,MY,alibaba cloud
