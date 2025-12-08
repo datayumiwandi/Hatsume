@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-43.156.181.203,443,SG,16 collyer
-194.36.179.17,2053,SG,first server
-20.205.177.152,443,SG,microsoft corporation
-103.106.228.126,2053,JP,oneprovider.com -
-124.156.238.155,443,JP,6 collyer
-74.48.96.113,443,US,multacom corporation
-193.32.177.79,443,US,baykov ilya
-38.60.193.247,13300,MY,kaopu cloud
+31.97.50.106,443,ID,hostinger international
+20.247.137.183,443,SG,microsoft corporation
+194.36.179.17,8443,SG,first server
+146.235.19.79,28983,SG,oracle corporation
+18.183.158.211,443,JP,amazon data
+138.2.16.61,443,JP,oracle corporation 2
+104.168.248.86,443,US,hostwinds llc.
+159.69.162.184,42443,US,corporate network
+47.250.139.249,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
