@@ -1,13 +1,13 @@
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-15.235.192.85,443,SG,ovh singapore
-38.244.147.68,2053,SG,3nt solutions
-66.42.51.60,8443,SG,sgpvultrcust
-152.70.101.24,16077,JP,oracle corporation
-82.163.16.229,26803,JP,akile ltd
-185.186.245.206,81,US,inxy ltd.
-192.9.135.182,7800,US,oracle corporation 2
-155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+103.6.207.108,8080,ID,pusat media
+168.138.171.70,23280,SG,oracle public
+103.229.96.157,443,SG,epsilon singapore
+31.192.238.71,2053,SG,pdk
+109.123.231.212,2053,JP,contabo gmbh
+141.147.144.15,13357,JP,oracle corporation
+142.171.220.62,16403,US,multacom corporation
+15.204.205.208,449,US,ovh us
+47.254.206.121,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
