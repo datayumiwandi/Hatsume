@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
+156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-13.250.31.132,443,SG,amazon data
-140.245.48.42,443,SG,oracle corporation
-66.42.51.60,8443,SG,sgpvultrcust
-154.31.114.136,443,JP,unknown
-138.2.16.61,443,JP,oracle corporation 2
-148.135.4.230,30472,US,brander group
-104.243.24.63,8443,US,cluster logic
+36.95.152.58,12137,ID,telekomunikasi indonesia
+165.154.203.69,443,SG,scloud pte
+194.36.179.17,8443,SG,first server
+13.250.131.37,443,SG,amazon data
+138.2.32.76,15821,JP,oracle corporation
+113.37.149.36,12553,JP,arteria networks
+40.160.5.11,443,US,ovh us
+96.126.112.12,38298,US,linode
 45.89.107.118,443,MY,worktitans b.v.
-45.159.51.121,32199,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
