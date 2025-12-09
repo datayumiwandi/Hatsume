@@ -2,12 +2,12 @@
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
-52.76.110.129,20001,SG,amazon technologies
+13.212.213.77,8443,SG,amazon data
 51.79.158.58,8443,SG,ovh singapore
-213.35.100.31,47112,SG,oracle svenska
-64.110.104.30,443,JP,oracle corporation
-109.123.231.212,443,JP,contabo gmbh
-34.83.245.149,443,US,google
-142.171.220.62,16402,US,multacom corporation
-45.159.51.121,32199,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+8.222.218.155,443,SG,alibaba cloud
+82.163.16.229,26803,JP,akile ltd
+168.138.51.8,8443,JP,oracle public
+142.171.75.222,17628,US,multacom corporation
+80.251.223.106,443,US,it7 networks
+38.60.193.247,13300,MY,kaopu cloud
+47.254.255.125,443,MY,alibaba cloud 2
