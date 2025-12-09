@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-140.245.53.45,443,SG,oracle corporation
-139.177.185.88,443,SG,akamai connected
-31.192.238.71,2053,SG,pdk
-158.101.146.3,54516,JP,oracle public
-64.110.104.30,443,JP,oracle corporation 2
-150.230.33.247,19131,US,oracle corporation 3
-209.141.33.79,2053,US,buyvm services
+164.52.2.98,443,SG,ucul-sg
+213.35.108.135,12596,SG,oracle svenska
+51.79.158.58,8443,SG,ovh singapore
+172.104.117.43,12452,JP,linode
+152.69.199.70,8443,JP,oracle corporation
+129.159.37.19,30488,US,oracle corporation 2
+143.42.4.41,443,US,linode 2
+47.254.206.121,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
-45.89.107.118,443,MY,worktitans b.v.
