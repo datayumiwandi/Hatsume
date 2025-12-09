@@ -2,12 +2,12 @@
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-54.255.217.120,8192,SG,amazon data
-104.43.91.69,443,SG,microsoft corporation
-31.192.238.71,8443,SG,pdk
-150.230.204.21,10243,JP,oracle corporation
-168.138.192.16,54584,JP,oracle public
-43.130.134.123,65001,US,6 collyer
-104.234.50.69,2053,US,unknown
-47.250.59.132,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+15.235.192.85,443,SG,ovh singapore
+194.36.179.17,2053,SG,first server
+13.212.213.77,8443,SG,amazon data
+217.142.250.195,587,JP,oracle corporation
+154.31.114.136,443,JP,unknown
+93.179.98.217,15368,US,cluster logic
+107.172.132.165,43333,US,hostpapa
+47.250.132.147,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
