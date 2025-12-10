@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-38.180.249.123,443,SG,3nt solutions
-129.150.58.86,57621,SG,oracle corporation
-43.156.116.194,443,SG,6 collyer
-113.37.149.36,12553,JP,arteria networks
-47.74.8.30,2443,JP,alibaba cloud
-52.230.146.177,443,US,microsoft corporation
-138.124.183.112,2053,US,worktitans b.v.
-45.89.107.118,443,MY,worktitans b.v. 2
-47.254.255.125,443,MY,alibaba cloud 2
+31.97.50.106,443,ID,hostinger international
+139.177.185.88,443,SG,akamai connected
+140.245.53.45,443,SG,oracle corporation
+138.2.64.229,443,SG,oracle corporation 2
+8.216.121.234,51922,JP,alibaba cloud
+109.123.231.212,443,JP,contabo gmbh
+69.197.140.66,8443,US,365 group
+142.171.220.62,16057,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+47.250.139.249,443,MY,alibaba cloud 2
