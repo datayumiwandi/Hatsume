@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.95.61,1111,SG,oracle corporation
-124.156.202.172,443,SG,16 collyer
-129.226.150.167,443,SG,6 collyer
-109.123.231.212,443,JP,contabo gmbh
-138.2.18.82,8880,JP,oracle corporation 2
-142.147.94.108,10086,US,riven
-170.106.152.78,443,US,16 collyer 2
+103.6.207.108,8080,ID,pusat media
+31.97.50.106,443,ID,hostinger international
+43.156.181.203,443,SG,16 collyer
+13.250.31.132,443,SG,amazon data
+47.130.35.116,8888,SG,amazon data 2
+18.183.158.211,443,JP,amazon data 3
+141.147.147.180,443,JP,oracle corporation
+142.171.220.62,16069,US,multacom corporation
+107.174.204.129,443,US,racknerd
+38.60.193.247,13300,MY,kaopu cloud
 45.89.107.118,443,MY,worktitans b.v.
-47.254.235.252,443,MY,alibaba cloud
