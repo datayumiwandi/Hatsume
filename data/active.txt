@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-64.235.43.144,443,SG,singapore sg
-38.180.249.123,443,SG,3nt solutions
-164.52.2.100,443,SG,ucul-sg
-132.145.127.203,2053,JP,oracle public
-152.70.101.24,16401,JP,oracle corporation
-107.174.131.26,443,US,hostpapa
-178.156.139.174,443,US,hetzner online
-38.60.193.247,13300,MY,kaopu cloud
-47.250.59.132,443,MY,alibaba cloud
+164.52.2.98,443,SG,ucul-sg
+140.245.48.42,443,SG,oracle corporation
+150.109.11.223,443,SG,16 collyer
+152.70.101.24,16666,JP,oracle corporation 2
+45.11.1.118,44004,JP,cegrgo-digitalvm -
+142.171.220.62,16089,US,multacom corporation
+38.180.91.119,2053,US,3nt solutions
+45.89.107.118,443,MY,worktitans b.v.
+47.250.132.147,443,MY,alibaba cloud
