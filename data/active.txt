@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-51.79.158.58,8443,SG,ovh singapore
-38.180.249.123,443,SG,3nt solutions
-150.109.11.223,443,SG,16 collyer
-138.2.10.217,27446,JP,oracle corporation
-138.3.222.33,443,JP,oracle network
-45.82.161.177,8443,US,g-core labs
-142.171.220.62,16006,US,multacom corporation
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+104.234.151.10,8443,SG,moechuang network
+138.2.89.238,43254,SG,oracle corporation
+140.245.48.42,443,SG,oracle corporation 2
+140.238.37.103,14782,JP,oracle public
+152.70.101.24,16037,JP,oracle corporation 3
+195.123.241.122,50008,US,total server
+107.172.167.194,443,US,hostpapa
+47.254.255.125,443,MY,alibaba cloud
+38.60.193.247,13300,MY,kaopu cloud
