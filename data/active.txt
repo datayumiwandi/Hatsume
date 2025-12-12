@@ -2,12 +2,12 @@
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-51.79.158.58,8443,SG,ovh singapore
-129.150.35.29,587,SG,oracle corporation
-213.35.108.135,12596,SG,oracle svenska
-160.16.123.65,443,JP,sakura internet
-154.31.114.136,443,JP,unknown
-142.171.220.62,16091,US,multacom corporation
-77.110.114.56,443,US,aeza international
-47.254.206.121,443,MY,alibaba cloud
-47.250.132.147,443,MY,alibaba cloud 2
+66.42.51.60,8443,SG,sgpvultrcust
+31.192.238.71,2053,SG,pdk
+140.245.53.45,443,SG,oracle corporation
+152.70.101.24,16030,JP,oracle corporation 2
+45.11.1.118,44004,JP,cegrgo-digitalvm -
+77.91.126.60,2053,US,365.partners inc
+141.11.95.10,18443,US,virtual machine
+38.60.193.247,13300,MY,kaopu cloud
+47.250.37.87,443,MY,alibaba cloud
