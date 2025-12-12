@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-104.43.91.69,443,SG,microsoft corporation
-138.2.78.38,1443,SG,oracle corporation
-164.52.2.99,443,SG,ucul-sg
-140.83.57.114,25965,JP,imported inetnum
-185.18.222.208,2053,JP,jurgita jurgaitiene
-193.32.177.101,443,US,baykov ilya
-199.119.137.77,2053,US,extravm
-45.159.51.121,32199,MY,kaopu cloud
-47.250.37.87,443,MY,alibaba cloud
+103.6.207.108,8080,ID,pusat media
+31.97.50.106,443,ID,hostinger international
+13.212.213.77,8443,SG,amazon data
+39.108.184.201,443,SG,alibaba cloud
+138.2.64.229,443,SG,oracle corporation
+45.11.1.118,44004,JP,cegrgo-digitalvm -
+158.101.152.6,2919,JP,oracle public
+217.60.249.83,8443,US,cgi global
+142.171.220.62,16072,US,multacom corporation
+38.60.193.247,13300,MY,kaopu cloud
+45.159.51.121,32199,MY,kaopu cloud 2
