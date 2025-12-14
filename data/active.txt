@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-168.138.189.91,443,SG,oracle public
-5.223.47.32,443,SG,hetzner online
-194.127.193.124,24467,SG,greencloud
-141.147.147.180,443,JP,oracle corporation
-131.186.63.89,11655,JP,oracle public 2
-142.171.220.62,16022,US,multacom corporation
-35.167.93.200,443,US,amazon technologies
-45.89.107.118,443,MY,worktitans b.v.
-47.250.132.147,443,MY,alibaba cloud
+129.150.36.188,53435,SG,oracle corporation
+43.156.116.194,443,SG,6 collyer
+47.236.71.6,443,SG,alibaba cloud
+103.125.216.22,8443,JP,vpsserver.com 24
+47.79.41.201,443,JP,alibaba cloud 2
+103.175.79.10,443,US,mumara 103.175.79.024
+195.123.240.40,81,US,green floid
+47.254.255.125,443,MY,alibaba cloud 3
+47.250.132.147,443,MY,alibaba cloud 4
