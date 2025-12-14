@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.127.193.240,50791,SG,greencloud
-164.52.2.99,443,SG,ucul-sg
+47.130.35.116,8888,SG,amazon data
 139.177.185.88,443,SG,akamai connected
-132.145.127.203,2053,JP,oracle public
-82.163.16.229,26803,JP,akile ltd
-45.11.230.7,443,US,kuroit
-43.231.235.172,443,US,cloud web
+38.244.147.68,443,SG,3nt solutions
+138.3.222.33,443,JP,oracle network
+132.145.127.203,8443,JP,oracle public
+141.148.181.105,38945,US,oracle corporation
+170.106.152.78,443,US,16 collyer
 58.27.117.24,443,MY,tmnet
-47.254.235.252,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud
