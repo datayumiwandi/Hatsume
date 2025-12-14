@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-103.229.96.157,443,SG,epsilon singapore
-8.219.58.164,57373,SG,alibaba cloud
+168.138.189.91,443,SG,oracle public
+5.223.47.32,443,SG,hetzner online
 194.127.193.124,24467,SG,greencloud
-152.70.101.24,16043,JP,oracle corporation
-152.70.101.24,16666,JP,oracle corporation 2
-142.171.220.62,16104,US,multacom corporation
-172.206.209.177,443,US,microsoft
-47.250.59.132,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+141.147.147.180,443,JP,oracle corporation
+131.186.63.89,11655,JP,oracle public 2
+142.171.220.62,16022,US,multacom corporation
+35.167.93.200,443,US,amazon technologies
+45.89.107.118,443,MY,worktitans b.v.
+47.250.132.147,443,MY,alibaba cloud
