@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-104.234.233.57,35911,SG,unknown
-5.34.176.119,81,SG,green floid
-138.2.69.236,23334,SG,oracle corporation
-43.133.10.236,33405,JP,6 collyer
-45.11.1.118,44004,JP,cegrgo-digitalvm -
-46.17.107.183,443,US,first server
-45.82.161.169,8443,US,g-core labs
-45.89.107.118,443,MY,worktitans b.v.
-47.254.206.121,443,MY,alibaba cloud
+143.42.66.91,443,SG,m1
+194.127.193.240,50791,SG,greencloud
+129.150.36.188,53435,SG,oracle corporation
+152.70.101.24,16055,JP,oracle corporation 2
+113.37.149.36,12553,JP,arteria networks
+38.59.241.157,443,US,multacom corporation
+107.182.179.27,2443,US,it7 networks
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
