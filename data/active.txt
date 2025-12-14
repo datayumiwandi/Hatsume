@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-47.236.71.6,443,SG,alibaba cloud
-124.156.202.172,443,SG,16 collyer
-43.252.21.100,443,SG,specialist
-141.98.197.101,11665,JP,xtom japan
-141.147.161.249,51037,JP,oracle corporation
-54.149.11.131,80,US,amazon technologies
-107.174.204.129,443,US,racknerd
-47.250.37.87,443,MY,alibaba cloud 2
-47.250.132.147,443,MY,alibaba cloud 3
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
+138.2.69.236,23334,SG,oracle corporation
+213.35.100.31,47112,SG,oracle svenska
+164.52.2.98,443,SG,ucul-sg
+203.137.166.120,50090,JP,idc frontier
+131.186.63.89,11655,JP,oracle public
+206.223.84.247,443,US,atlantic cellular
+142.171.220.62,16023,US,multacom corporation
+47.250.59.132,443,MY,alibaba cloud
+47.250.139.59,443,MY,alibaba cloud 2
