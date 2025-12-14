@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
+104.234.233.57,35911,SG,unknown
 5.34.176.119,81,SG,green floid
-38.244.147.68,2053,SG,3nt solutions
-66.42.51.60,8443,SG,sgpvultrcust
-158.101.80.84,443,JP,oracle public
-168.138.46.115,43138,JP,oracle public 2
-91.149.239.70,443,US,bg-network
-31.169.125.168,443,US,baykov ilya
+138.2.69.236,23334,SG,oracle corporation
+43.133.10.236,33405,JP,6 collyer
+45.11.1.118,44004,JP,cegrgo-digitalvm -
+46.17.107.183,443,US,first server
+45.82.161.169,8443,US,g-core labs
+45.89.107.118,443,MY,worktitans b.v.
 47.254.206.121,443,MY,alibaba cloud
-47.254.235.252,443,MY,alibaba cloud 2
