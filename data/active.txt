@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
-160.22.79.155,443,SG,onidel pty
-168.138.171.70,23280,SG,oracle public
+31.97.50.106,443,ID,hostinger international
+156.244.1.250,8443,ID,lightnode
+138.2.78.38,1443,SG,oracle corporation
 165.154.203.69,443,SG,scloud pte
-132.145.127.203,2053,JP,oracle public 2
-139.162.102.152,7002,JP,akamai connected
-51.81.209.21,8443,US,ovh us
-47.99.108.15,443,US,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+66.42.51.60,8443,SG,sgpvultrcust
+152.70.101.24,16028,JP,oracle corporation 2
+103.106.0.123,443,JP,worktitans b.v.
+193.32.177.79,443,US,baykov ilya
+144.34.239.81,443,US,cluster logic
+47.254.255.125,443,MY,alibaba cloud
+47.254.206.121,443,MY,alibaba cloud 2
