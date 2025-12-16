@@ -2,12 +2,12 @@
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-39.108.184.201,443,SG,alibaba cloud
-213.35.100.31,47112,SG,oracle svenska
-47.236.119.190,51342,SG,alibaba cloud 2
-47.79.90.37,49153,JP,alibaba cloud 3
-150.230.5.34,45681,JP,oracle corporation
-142.171.85.230,28034,US,multacom corporation
-23.94.122.243,29500,US,hostpapa
-47.254.255.125,443,MY,alibaba cloud 4
-45.159.51.121,32199,MY,kaopu cloud
+139.180.159.133,443,SG,sgpvultrcust
+8.222.220.81,25435,SG,alibaba cloud
+168.138.184.172,443,SG,oracle public
+82.163.16.229,26803,JP,akile ltd
+141.147.152.229,23333,JP,oracle corporation
+104.168.35.194,56393,US,colocrossing
+3.86.231.180,443,US,amazon data
+47.254.255.125,443,MY,alibaba cloud 2
+155.254.60.225,443,MY,evoxt enterprise
