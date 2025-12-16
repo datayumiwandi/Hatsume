@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-194.127.193.124,24467,SG,greencloud
-140.245.97.193,443,SG,oracle corporation
-160.22.79.155,443,SG,onidel pty
-43.133.10.236,33405,JP,6 collyer
-158.101.80.84,443,JP,oracle public
-138.128.247.246,443,US,cloud web
-45.151.133.125,16478,US,spartan host
+51.79.158.58,8443,SG,ovh singapore
+104.234.151.10,8443,SG,moechuang network
+138.2.95.33,17465,SG,oracle corporation
+140.238.50.134,443,JP,oracle public
+23.106.132.54,443,JP,it7 networks
+192.9.157.150,57783,US,oracle corporation 2
+37.123.192.147,443,US,kirino
 47.250.37.87,443,MY,alibaba cloud
 47.254.206.121,443,MY,alibaba cloud 2
