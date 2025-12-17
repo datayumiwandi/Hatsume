@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-43.156.116.194,443,SG,6 collyer
-124.156.202.172,443,SG,16 collyer
-31.192.238.71,2053,SG,pdk
-150.230.214.172,16957,JP,oracle corporation
-152.70.101.24,16037,JP,oracle corporation 2
-172.245.182.112,443,US,hostpapa
-15.204.10.80,36683,US,ovh us
-45.89.107.118,443,MY,worktitans b.v.
-45.159.51.121,32199,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+146.235.18.248,45137,SG,oracle corporation
+129.226.150.167,443,SG,6 collyer
+167.88.172.224,443,SG,routerhosting
+138.2.48.109,26412,JP,oracle corporation 2
+140.83.57.114,25965,JP,imported inetnum
+34.212.240.129,443,US,amazon technologies
+92.118.10.102,2053,US,first server
+155.254.60.225,443,MY,evoxt enterprise
+47.254.235.252,443,MY,alibaba cloud
