@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.222.220.81,25435,SG,alibaba cloud
-138.2.95.61,1111,SG,oracle corporation
-8.219.58.164,57373,SG,alibaba cloud 2
-155.248.181.189,443,JP,oracle public
-45.11.1.118,44004,JP,cegrgo-digitalvm -
-107.175.136.247,8443,US,racknerd
-158.101.11.204,15805,US,oracle public 2
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+31.97.50.106,443,ID,hostinger international
+43.156.116.194,443,SG,6 collyer
+124.156.202.172,443,SG,16 collyer
+31.192.238.71,2053,SG,pdk
+150.230.214.172,16957,JP,oracle corporation
+152.70.101.24,16037,JP,oracle corporation 2
+172.245.182.112,443,US,hostpapa
+15.204.10.80,36683,US,ovh us
+45.89.107.118,443,MY,worktitans b.v.
+45.159.51.121,32199,MY,kaopu cloud
