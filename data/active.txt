@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-43.252.21.100,443,SG,specialist
-8.219.58.164,57373,SG,alibaba cloud
-168.138.171.70,23280,SG,oracle public
-202.84.53.85,19999,JP,azumino network
-138.2.39.24,443,JP,oracle corporation
-192.18.138.215,1111,US,oracle corporation 2
-195.123.240.40,81,US,green floid
-155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
+31.97.50.106,443,ID,hostinger international
+36.95.152.58,12137,ID,telekomunikasi indonesia
+5.34.176.119,81,SG,green floid
+103.229.96.157,443,SG,epsilon singapore
+13.250.131.37,443,SG,amazon data
+64.110.104.30,443,JP,oracle corporation
+43.133.10.236,33405,JP,6 collyer
+194.113.37.210,8443,US,cloudbackbone
+184.95.40.67,443,US,secured servers
+45.89.107.118,443,MY,worktitans b.v.
+58.27.117.24,443,MY,tt dotcom
