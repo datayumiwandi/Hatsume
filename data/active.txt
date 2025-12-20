@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-47.74.157.194,443,SG,alibaba cloud
-47.236.119.190,51342,SG,alibaba cloud 2
-5.223.47.32,443,SG,hetzner online
-158.101.152.6,2919,JP,oracle public
-150.230.5.34,45681,JP,oracle corporation
-198.98.61.220,443,US,frantech solutions
-80.209.240.99,443,US,hostkey
+31.192.238.71,8443,SG,pdk
+158.178.229.178,443,SG,oracle corporation
+8.222.220.81,25435,SG,alibaba cloud
+158.101.154.245,47001,JP,oracle public
+168.138.192.16,54584,JP,oracle public 2
+18.222.50.18,443,US,amazon technologies
+5.78.50.75,443,US,hetzner online
+47.254.235.252,443,MY,alibaba cloud 2
 47.250.139.249,443,MY,alibaba cloud 3
-47.250.139.59,443,MY,alibaba cloud 4
