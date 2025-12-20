@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-104.43.91.69,443,SG,microsoft corporation
-168.138.170.211,53702,SG,oracle public
-138.2.89.238,43254,SG,oracle corporation
-140.238.37.103,14782,JP,oracle public 2
-141.147.147.180,443,JP,oracle corporation 2
-74.48.145.83,31556,US,multacom corporation
-45.82.161.177,8443,US,g-core labs
-47.254.235.252,443,MY,alibaba cloud
+38.180.249.123,443,SG,3nt solutions
+164.52.2.98,443,SG,ucul-sg
+194.36.179.17,8443,SG,first server
+152.70.101.24,16048,JP,oracle corporation
+217.142.250.195,587,JP,oracle corporation 2
+52.230.146.177,443,US,microsoft corporation
+192.3.45.148,443,US,racknerd
+45.159.51.121,32199,MY,kaopu cloud
 155.254.60.225,443,MY,evoxt enterprise
