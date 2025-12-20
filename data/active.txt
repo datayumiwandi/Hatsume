@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-158.178.229.178,443,SG,oracle corporation
-143.42.66.91,443,SG,m1
-8.222.220.81,25435,SG,alibaba cloud
-158.101.77.33,443,JP,oracle public
-158.101.154.245,47001,JP,oracle public 2
-174.137.61.42,443,US,cluster logic
-23.94.56.111,20338,US,racknerd
-47.250.59.132,443,MY,alibaba cloud 2
-47.254.206.121,443,MY,alibaba cloud 3
+194.127.193.240,50791,SG,greencloud
+139.99.124.165,443,SG,ovh singapor
+5.223.47.32,443,SG,hetzner online
+158.101.80.84,443,JP,oracle public
+141.147.183.49,29876,JP,oracle corporation
+192.210.181.182,443,US,racknerd
+129.213.22.27,11650,US,oracle public 2
+155.254.60.225,443,MY,evoxt enterprise
+47.250.59.132,443,MY,alibaba cloud
