@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-91.192.81.154,8443,SG,melbikomas uab
-168.138.165.174,443,SG,oracle public
-138.2.64.229,443,SG,oracle corporation
-152.70.101.24,16030,JP,oracle corporation 2
-152.69.199.70,8443,JP,oracle corporation 3
-193.233.87.67,8443,US,vdska-net
-40.160.4.221,443,US,ovh us
-38.60.193.247,13300,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+31.97.50.106,443,ID,hostinger international
+104.234.151.10,8443,SG,moechuang network
+168.138.170.211,53702,SG,oracle public
+104.43.91.69,443,SG,microsoft corporation
+38.180.29.40,2053,JP,3nt solutions
+35.78.229.176,443,JP,amazon data
+91.149.239.64,443,US,bg-network
+91.149.239.198,443,US,bg-network 2
+58.27.117.24,443,MY,tmnet
+45.89.107.118,443,MY,worktitans b.v.
