@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
-5.223.47.32,443,SG,hetzner online
-20.247.137.183,443,SG,microsoft corporation
-47.74.254.191,8900,SG,alibaba cloud
-47.74.8.30,2443,JP,alibaba cloud 2
-152.70.101.24,16800,JP,oracle corporation
-47.253.87.21,52315,US,alibaba cloud 3
-107.173.147.41,27170,US,racknerd
-47.254.235.252,443,MY,alibaba cloud 4
+91.192.81.154,8443,SG,melbikomas uab
+168.138.165.174,443,SG,oracle public
+138.2.64.229,443,SG,oracle corporation
+152.70.101.24,16030,JP,oracle corporation 2
+152.69.199.70,8443,JP,oracle corporation 3
+193.233.87.67,8443,US,vdska-net
+40.160.4.221,443,US,ovh us
 38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
