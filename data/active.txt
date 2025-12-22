@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-168.138.171.70,23280,SG,oracle public
-185.81.28.95,30503,SG,akile ltd
-124.156.202.172,443,SG,16 collyer
-152.70.82.101,18650,JP,oracle corporation
-154.31.114.136,443,JP,unknown
-38.180.82.166,8443,US,3nt solutions
-91.149.239.122,443,US,bg-network
-47.254.206.121,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+140.245.48.42,443,SG,oracle corporation
+129.150.36.188,53435,SG,oracle corporation 2
+47.236.119.190,51342,SG,alibaba cloud
+43.165.183.43,443,JP,16 collyer
+158.101.146.3,44872,JP,oracle public
+89.116.44.170,8443,US,ethernet servers
+23.95.48.132,2083,US,racknerd
+47.250.139.59,443,MY,alibaba cloud 2
+45.89.107.118,443,MY,worktitans b.v.
