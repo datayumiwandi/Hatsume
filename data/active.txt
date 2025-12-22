@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-164.52.2.98,443,SG,ucul-sg
-31.192.238.71,8443,SG,pdk
-139.177.185.88,443,SG,akamai connected
-152.70.101.24,16030,JP,oracle corporation
-103.75.118.144,2053,JP,oneprovider.com -
-23.94.5.177,4433,US,racknerd
-23.94.122.243,29500,US,hostpapa
+156.244.1.250,8443,ID,lightnode
+146.235.19.79,28983,SG,oracle corporation
+168.138.171.70,23280,SG,oracle public
+167.88.172.224,443,SG,routerhosting
+141.147.147.180,443,JP,oracle corporation 2
+152.70.101.24,16028,JP,oracle corporation 3
+96.45.184.78,10911,US,cluster logic
+37.1.208.111,2053,US,iroko networks
 47.254.206.121,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+58.27.117.24,443,MY,tmnet
