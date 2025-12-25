@@ -2,12 +2,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-52.76.110.129,20001,SG,amazon technologies
-43.134.164.53,443,SG,6 collyer
-168.138.171.70,23280,SG,oracle public
-167.179.116.28,443,JP,tyovultrcust
-47.79.35.191,443,JP,alibaba cloud
-167.88.160.144,8443,US,routerhosting
-142.171.220.62,16083,US,multacom corporation
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+129.150.35.29,587,SG,oracle corporation
+129.150.49.58,18650,SG,oracle corporation 2
+140.245.48.42,443,SG,oracle corporation 3
+152.70.101.24,16056,JP,oracle corporation 4
+131.186.63.89,11655,JP,oracle public
+45.82.161.178,8443,US,g-core labs
+89.36.163.29,2053,US,melbikomas uab
+38.60.193.247,13300,MY,kaopu cloud
+47.254.235.252,443,MY,alibaba cloud
