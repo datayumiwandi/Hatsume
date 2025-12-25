@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-51.79.158.58,2053,SG,ovh singapore
-91.192.81.154,2053,SG,melbikomas uab
-13.212.213.77,8443,SG,amazon data
-152.70.101.24,16077,JP,oracle corporation
-103.238.129.215,42734,JP,bytevirt
-51.81.209.21,8443,US,ovh us
-31.169.125.168,443,US,baykov ilya
-58.27.117.24,443,MY,tmnet
+36.95.152.58,12137,ID,telekomunikasi indonesia
+168.138.171.70,23280,SG,oracle public
+47.130.35.116,8888,SG,amazon data
+213.35.100.31,47112,SG,oracle svenska
+152.70.101.24,16054,JP,oracle corporation
+150.230.59.15,8443,JP,oracle corporation 2
+172.235.40.214,36768,US,linode
+142.171.220.62,16077,US,multacom corporation
 45.159.51.121,32199,MY,kaopu cloud
+47.254.206.121,443,MY,alibaba cloud
