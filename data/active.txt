@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.71.6,443,SG,alibaba cloud
-164.52.2.98,443,SG,ucul-sg
+31.97.50.106,443,ID,hostinger international
+51.79.158.58,8443,SG,ovh singapore
 104.234.151.10,8443,SG,moechuang network
-47.74.8.30,2443,JP,alibaba cloud 2
-141.147.183.49,29876,JP,oracle corporation
-172.245.182.112,443,US,hostpapa
-192.227.237.81,443,US,hostpapa 2
-47.254.206.121,443,MY,alibaba cloud 3
+5.34.176.119,81,SG,green floid
+150.230.204.21,10243,JP,oracle corporation
+103.106.228.126,2053,JP,oneprovider.com -
+45.156.24.61,8443,US,as56971 network
+104.224.181.22,443,US,it7 networks
 38.60.193.247,13300,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
