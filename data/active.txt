@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+104.234.233.57,35911,SG,unknown
+34.143.159.175,443,SG,google
 52.76.110.129,20001,SG,amazon technologies
-104.234.151.10,8443,SG,moechuang network
-146.235.19.79,28983,SG,oracle corporation
-138.2.39.24,443,JP,oracle corporation 2
-132.145.127.203,2053,JP,oracle public
+152.69.199.70,8443,JP,oracle corporation
+38.180.29.40,2053,JP,3nt solutions
 66.85.139.204,443,US,secured servers
-103.35.190.104,8443,US,worktitans b.v.
-47.254.235.252,443,MY,alibaba cloud
+104.168.87.155,3306,US,hurricane electric
 45.159.51.121,32199,MY,kaopu cloud
+47.250.139.59,443,MY,alibaba cloud
