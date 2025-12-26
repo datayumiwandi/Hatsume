@@ -1,13 +1,13 @@
+36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 194.36.179.5,2053,SG,first server
-139.177.185.88,443,SG,akamai connected
-168.138.171.70,23280,SG,oracle public
-152.70.101.24,16993,JP,oracle corporation
-138.2.61.180,443,JP,oracle corporation 2
-72.18.132.149,2053,US,exabytes network
-64.64.228.98,8443,US,cluster logic
+213.35.108.135,12596,SG,oracle svenska
+104.234.233.57,35911,SG,unknown
+152.70.101.24,16043,JP,oracle corporation
+168.138.198.7,27560,JP,oracle public
+199.119.137.77,2053,US,extravm
+31.57.63.147,8443,US,cgi global
 45.89.107.118,443,MY,worktitans b.v.
-45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud
