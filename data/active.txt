@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-47.236.71.6,443,SG,alibaba cloud
-47.74.254.191,8900,SG,alibaba cloud 2
-140.245.48.42,443,SG,oracle corporation
-138.2.49.197,587,JP,oracle corporation 2
-124.156.238.155,443,JP,6 collyer
-91.149.239.122,443,US,bg-network
-23.94.57.46,443,US,racknerd
-47.254.255.125,443,MY,alibaba cloud 3
-58.27.117.24,443,MY,tmnet
+43.156.116.194,443,SG,6 collyer
+213.35.108.135,12596,SG,oracle svenska
+194.36.179.5,2053,SG,first server
+147.45.49.164,24443,JP,global connectivity
+47.79.35.191,443,JP,alibaba cloud
+47.90.140.40,44203,US,alibaba cloud 2
+142.171.220.62,16008,US,multacom corporation
+47.250.139.249,443,MY,alibaba cloud 3
+47.250.139.59,443,MY,alibaba cloud 4
