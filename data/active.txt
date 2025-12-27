@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-47.236.71.6,443,SG,alibaba cloud
-146.235.19.79,28983,SG,oracle corporation
-213.35.108.135,12596,SG,oracle svenska
-38.180.29.40,2053,JP,3nt solutions
-154.31.114.136,443,JP,unknown
-18.211.215.95,443,US,amazon technologies
-45.8.157.39,443,US,nktelecom inc
-47.254.255.125,443,MY,alibaba cloud 2
-47.250.59.132,443,MY,alibaba cloud 3
+103.6.207.108,8080,ID,pusat media
+165.154.203.69,443,SG,scloud pte
+104.234.151.10,8443,SG,moechuang network
+167.88.172.224,443,SG,routerhosting
+141.147.183.49,29876,JP,oracle corporation
+185.18.222.208,2053,JP,jurgita jurgaitiene
+88.210.37.244,2053,US,melbikomas uab
+74.121.150.129,8443,US,it7 networks
+47.250.139.59,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
