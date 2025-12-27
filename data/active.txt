@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
+31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
-34.143.159.175,443,SG,google
-138.2.78.38,1443,SG,oracle corporation
-194.36.179.17,8443,SG,first server
-141.147.178.249,37043,JP,oracle corporation 2
-202.84.53.85,19999,JP,azumino network
-142.171.166.116,8443,US,multacom corporation
-82.117.252.189,81,US,green floid
-45.89.107.118,443,MY,worktitans b.v.
-38.60.193.247,13300,MY,kaopu cloud
+156.244.1.250,8443,ID,lightnode
+168.138.171.70,23280,SG,oracle public
+139.177.185.88,443,SG,akamai connected
+167.88.172.224,443,SG,routerhosting
+124.156.238.155,443,JP,6 collyer
+38.180.28.163,8443,JP,3nt solutions
+144.126.132.39,8443,US,contabo inc.
+74.48.136.105,16004,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+45.159.51.121,32199,MY,kaopu cloud
