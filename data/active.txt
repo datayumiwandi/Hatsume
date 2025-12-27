@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 47.74.254.191,8900,SG,alibaba cloud
-140.245.53.45,443,SG,oracle corporation
-8.222.220.81,25435,SG,alibaba cloud 2
-109.123.231.212,2053,JP,contabo gmbh
-167.179.116.28,443,JP,tyovultrcust
-142.171.220.62,16071,US,multacom corporation
-143.20.207.112,8443,US,internet utilities
-47.254.255.125,443,MY,alibaba cloud 3
-47.250.139.249,443,MY,alibaba cloud 4
+194.127.193.124,24467,SG,greencloud
+194.127.193.240,50791,SG,greencloud 2
+109.123.231.212,443,JP,contabo gmbh
+158.101.146.3,54516,JP,oracle public
+148.135.110.150,48503,US,brander group
+91.90.195.38,443,US,friendhosting ltd
+47.250.132.147,443,MY,alibaba cloud 2
+47.250.139.249,443,MY,alibaba cloud 3
