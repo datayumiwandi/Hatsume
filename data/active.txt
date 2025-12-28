@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-160.22.79.155,443,SG,onidel pty
-139.177.185.88,443,SG,akamai connected
-13.250.131.37,443,SG,amazon data
-150.230.59.15,8443,JP,oracle corporation
-3.112.21.102,443,JP,amazon data 2
-107.174.198.228,8443,US,hostpapa
-104.168.87.155,3306,US,hurricane electric
-38.60.193.247,13300,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+139.180.159.133,443,SG,sgpvultrcust
+34.143.159.175,443,SG,google
+43.134.164.53,443,SG,6 collyer
+141.98.197.101,11665,JP,xtom japan
+152.69.199.70,8443,JP,oracle corporation
+193.233.87.9,8443,US,vdska-net
+132.226.119.111,24361,US,oracle public
+47.254.235.252,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
