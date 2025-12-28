@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-43.134.164.53,443,SG,6 collyer
-194.36.179.17,2053,SG,first server
-5.223.47.32,443,SG,hetzner online
-138.3.222.33,443,JP,oracle network
-158.101.154.245,47001,JP,oracle public
-89.36.163.29,8443,US,melbikomas uab
-46.17.107.199,443,US,first server 2
-155.254.60.225,443,MY,evoxt enterprise
-38.60.193.247,13300,MY,kaopu cloud
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+143.42.66.91,443,SG,m1
+5.34.176.119,81,SG,green floid
+3.0.50.69,443,SG,amazon data
+138.2.18.82,8880,JP,oracle corporation
+152.70.101.24,16007,JP,oracle corporation 2
+34.194.76.43,443,US,amazon data 2
+45.82.161.169,8443,US,g-core labs
+45.159.51.121,32199,MY,kaopu cloud
+58.27.117.24,443,MY,tmnet
