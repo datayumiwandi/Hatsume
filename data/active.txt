@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+139.177.185.88,443,SG,akamai connected
+3.0.50.69,443,SG,amazon data
 31.192.238.71,2053,SG,pdk
-31.192.238.71,8443,SG,pdk 2
-138.2.64.229,443,SG,oracle corporation
-152.70.101.24,16666,JP,oracle corporation 2
-152.70.101.24,16054,JP,oracle corporation 3
-92.118.10.173,443,US,first server
-103.175.79.10,443,US,mumara 103.175.79.024
+3.112.21.102,443,JP,amazon data 2
+38.180.28.163,2053,JP,3nt solutions
+23.177.40.8,443,US,unknown
+155.248.214.92,52580,US,oracle corporation
 45.89.107.118,443,MY,worktitans b.v.
 38.60.193.247,13300,MY,kaopu cloud
