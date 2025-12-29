@@ -2,12 +2,12 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-51.79.158.58,2053,SG,ovh singapore
-31.192.238.71,8443,SG,pdk
-138.2.95.33,17465,SG,oracle corporation
-43.133.10.236,33405,JP,6 collyer
-152.70.101.24,16077,JP,oracle corporation 2
-104.194.69.254,8443,US,it7 networks
-35.185.54.229,27251,US,google
-45.159.51.121,32199,MY,kaopu cloud
+168.138.165.174,443,SG,oracle public
+160.22.79.155,443,SG,onidel pty
+139.177.185.88,443,SG,akamai connected
+202.84.53.85,12145,JP,azumino network
+141.147.185.15,443,JP,oracle corporation
+152.70.113.150,52125,US,oracle corporation 2
+107.173.192.46,443,US,racknerd
+47.254.235.252,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
