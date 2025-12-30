@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-38.180.249.123,443,SG,3nt solutions
-129.150.36.188,53435,SG,oracle corporation
-139.177.185.88,443,SG,akamai connected
-172.104.117.43,12452,JP,linode
-140.83.57.20,13118,JP,imported inetnum
-107.172.102.212,20700,US,racknerd
-20.83.160.84,443,US,microsoft corporation
-47.254.235.252,443,MY,alibaba cloud
-47.254.206.121,443,MY,alibaba cloud 2
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+213.35.100.31,47112,SG,oracle svenska
+31.192.238.71,8443,SG,pdk
+129.150.58.86,57621,SG,oracle corporation
+202.84.53.85,19999,JP,azumino network
+152.70.101.24,16048,JP,oracle corporation 2
+98.158.193.72,443,US,internet brands
+148.135.110.150,48503,US,brander group
+47.254.255.125,443,MY,alibaba cloud
+47.254.235.252,443,MY,alibaba cloud 2
