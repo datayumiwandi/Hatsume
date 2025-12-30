@@ -2,12 +2,12 @@
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-47.236.71.6,443,SG,alibaba cloud
-64.235.43.144,443,SG,singapore sg
-138.2.95.61,1111,SG,oracle corporation
-8.209.220.50,21273,JP,shiodome sumitomo
+194.36.179.17,8443,SG,first server
+164.52.2.98,443,SG,ucul-sg
+213.35.108.135,12596,SG,oracle svenska
+168.138.51.8,8443,JP,oracle public
 45.11.1.118,44004,JP,cegrgo-digitalvm -
-43.153.78.145,443,US,6 collyer
-193.233.204.4,443,US,baxet group
-47.254.235.252,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+152.67.248.2,53300,US,oracle public 2
+185.106.95.249,443,US,gtelcom
+58.27.117.24,443,MY,tmnet
+155.254.60.225,443,MY,evoxt enterprise
