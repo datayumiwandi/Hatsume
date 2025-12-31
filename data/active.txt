@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-38.180.249.123,443,SG,3nt solutions
-8.222.220.81,25435,SG,alibaba cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+31.97.50.106,443,ID,hostinger international
+103.229.96.157,443,SG,epsilon singapore
 194.36.179.17,2053,SG,first server
-203.137.166.120,50090,JP,idc frontier
-47.79.90.37,49153,JP,alibaba cloud 2
-72.13.122.137,443,US,total uptime
-64.181.247.243,443,US,oracle corporation
-38.60.193.247,13300,MY,kaopu cloud
-47.254.206.121,443,MY,alibaba cloud 3
+104.43.91.69,443,SG,microsoft corporation
+152.70.101.24,16055,JP,oracle corporation
+158.101.77.33,443,JP,oracle public
+86.104.72.16,443,US,worktitans b.v.
+107.172.137.69,8443,US,racknerd
+47.254.206.121,443,MY,alibaba cloud
+58.27.117.24,443,MY,tmnet
