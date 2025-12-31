@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-43.156.116.194,443,SG,6 collyer
-103.229.96.157,443,SG,epsilon singapore
-167.88.172.224,443,SG,routerhosting
-207.148.113.196,443,JP,tyovultrcust
-103.106.0.123,443,JP,worktitans b.v.
-77.110.109.7,443,US,aeza international
-74.48.140.177,443,US,multacom corporation
-47.254.206.121,443,MY,alibaba cloud
-45.159.51.121,32199,MY,kaopu cloud
+31.97.50.106,443,ID,hostinger international
+156.244.1.250,8443,ID,lightnode
+36.95.152.58,12137,ID,telekomunikasi indonesia
+104.43.91.69,443,SG,microsoft corporation
+185.81.28.95,30503,SG,akile ltd
+168.138.170.211,53702,SG,oracle public
+43.133.10.236,33405,JP,6 collyer
+141.147.183.49,29876,JP,oracle corporation
+141.11.95.10,18443,US,virtual machine
+173.249.201.109,54443,US,tzulo-djc
+58.27.117.24,443,MY,tmnet
+45.89.107.118,443,MY,worktitans b.v.
