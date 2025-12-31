@@ -1,13 +1,13 @@
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+138.2.89.238,43254,SG,oracle corporation
 194.127.193.240,50791,SG,greencloud
-160.22.79.155,443,SG,onidel pty
-124.156.202.172,443,SG,16 collyer
-152.70.101.24,16040,JP,oracle corporation
-64.110.101.31,8443,JP,oracle corporation 2
-143.20.207.86,8443,US,brander group
-104.168.204.49,443,US,hostwinds llc.
-58.27.117.24,443,MY,tmnet
+194.36.179.17,2053,SG,first server
+138.2.18.82,8880,JP,oracle corporation 2
+202.84.53.85,12145,JP,azumino network
+148.135.110.150,48503,US,brander group
+52.55.146.127,443,US,amazon data
 45.159.51.121,32199,MY,kaopu cloud
+47.250.139.59,443,MY,alibaba cloud
