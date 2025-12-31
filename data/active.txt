@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
+38.180.249.123,443,SG,3nt solutions
 66.42.51.60,8443,SG,sgpvultrcust
-104.234.233.57,35911,SG,unknown
-64.235.43.144,443,SG,singapore sg
-152.69.192.40,57005,JP,oracle corporation
-47.79.35.191,443,JP,alibaba cloud
-32.215.228.26,443,US,universal service
-18.216.55.100,443,US,amazon technologies
-45.89.107.118,443,MY,worktitans b.v.
+43.134.164.53,443,SG,6 collyer
+140.83.57.114,25965,JP,imported inetnum
+38.180.28.163,8443,JP,3nt solutions 2
+74.48.179.37,36460,US,multacom corporation
+20.84.117.28,443,US,microsoft corporation
+47.254.206.121,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
