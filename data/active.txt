@@ -1,11 +1,11 @@
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-3.0.50.69,443,SG,amazon data
-168.138.170.211,53702,SG,oracle public
-138.2.78.38,1443,SG,oracle corporation
-47.79.90.37,49153,JP,alibaba cloud
-168.138.192.16,54584,JP,oracle public 2
-172.245.148.211,443,US,racknerd
-20.221.72.207,443,US,microsoft corporation
-45.89.107.118,443,MY,worktitans b.v.
-45.159.51.121,32199,MY,kaopu cloud
+66.42.51.60,8443,SG,sgpvultrcust
+194.127.193.124,24467,SG,greencloud
+43.156.116.194,443,SG,6 collyer
+152.70.101.24,16054,JP,oracle corporation
+141.147.183.49,29876,JP,oracle corporation 2
+192.9.145.87,13611,US,oracle corporation 3
+31.220.31.67,443,US,hostinger international 2
+155.254.60.225,443,MY,evoxt enterprise
+47.254.206.121,443,MY,alibaba cloud
