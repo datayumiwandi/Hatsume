@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-165.154.203.69,443,SG,scloud pte
-91.192.81.154,2053,SG,melbikomas uab
-129.150.35.29,587,SG,oracle corporation
-217.142.236.93,443,JP,oracle svenska
-140.83.59.158,15805,JP,imported inetnum
-91.236.230.237,443,US,bluevps ou
-54.153.59.106,80,US,amazon technologies
-47.254.235.252,443,MY,alibaba cloud
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+194.127.193.240,50791,SG,greencloud
+31.192.238.71,2053,SG,pdk
+213.35.108.135,12596,SG,oracle svenska
+47.79.42.197,443,JP,alibaba cloud
+138.2.49.197,587,JP,oracle corporation
+18.235.208.126,443,US,amazon data
+142.171.220.62,16083,US,multacom corporation
+47.250.139.249,443,MY,alibaba cloud 2
 155.254.60.225,443,MY,evoxt enterprise
