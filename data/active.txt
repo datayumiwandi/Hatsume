@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
+43.252.21.100,443,SG,specialist
 124.156.202.172,443,SG,16 collyer
-103.229.96.157,443,SG,epsilon singapore
-13.250.31.132,443,SG,amazon data
-47.79.35.191,443,JP,alibaba cloud
-43.133.10.236,33405,JP,6 collyer
-52.41.218.4,443,US,amazon technologies
-195.123.240.40,81,US,green floid
+104.43.91.69,443,SG,microsoft corporation
+152.70.101.24,16096,JP,oracle corporation
+141.147.162.24,1235,JP,oracle corporation 2
+144.172.101.205,443,US,routerhosting
+80.209.240.99,443,US,hostkey
 58.27.117.24,443,MY,tmnet
-47.254.206.121,443,MY,alibaba cloud 2
+38.60.193.247,13300,MY,kaopu cloud
