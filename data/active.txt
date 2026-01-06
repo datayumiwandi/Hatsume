@@ -2,12 +2,12 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-20.247.137.183,443,SG,microsoft corporation
-104.43.91.69,443,SG,microsoft corporation 2
-104.234.233.57,35911,SG,unknown
-138.2.32.76,15821,JP,oracle corporation
-172.104.117.43,12452,JP,linode
-142.171.220.62,16922,US,multacom corporation
-23.94.56.111,20338,US,racknerd
-47.254.255.125,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+194.127.193.240,50791,SG,greencloud
+51.79.158.58,2053,SG,ovh singapore
+164.52.2.100,443,SG,ucul-sg
+150.230.5.34,45681,JP,oracle corporation
+43.165.183.43,443,JP,16 collyer
+45.151.133.125,16478,US,spartan host
+146.235.209.40,58869,US,oracle corporation 2
+47.250.59.132,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
