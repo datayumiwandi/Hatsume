@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-103.229.96.157,443,SG,epsilon singapore
-185.81.28.95,30503,SG,akile ltd
-51.79.158.58,8443,SG,ovh singapore
-138.3.222.33,443,JP,oracle network
-217.142.230.253,587,JP,oracle corporation
-142.171.220.62,16051,US,multacom corporation
-65.49.192.225,58564,US,it7 networks
-47.250.139.249,443,MY,alibaba cloud
-45.159.51.121,32199,MY,kaopu cloud
+138.2.64.229,443,SG,oracle corporation
+168.138.171.70,23280,SG,oracle public
+34.143.159.175,443,SG,google
+38.180.28.163,2053,JP,3nt solutions
+140.83.57.183,22735,JP,imported inetnum
+47.252.4.59,38181,US,alibaba cloud
+142.171.220.62,16096,US,multacom corporation
+58.27.117.24,443,MY,tmnet
+47.254.255.125,443,MY,alibaba cloud 2
