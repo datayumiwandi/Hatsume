@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-20.247.137.183,443,SG,microsoft corporation
-5.34.176.119,81,SG,green floid
 194.36.179.17,8443,SG,first server
-152.70.101.24,16087,JP,oracle corporation
-141.147.185.63,443,JP,oracle corporation 2
-107.173.192.46,443,US,racknerd
-158.101.39.0,42979,US,oracle public
+20.247.137.183,443,SG,microsoft corporation
+139.177.185.88,443,SG,akamai connected
+141.147.185.63,443,JP,oracle corporation
+3.112.21.102,443,JP,amazon data
+64.181.247.243,443,US,oracle corporation 2
+154.40.46.28,46757,US,netlab global
+58.27.117.24,443,MY,tmnet
 38.60.193.247,13300,MY,kaopu cloud
-45.159.51.121,32199,MY,kaopu cloud 2
