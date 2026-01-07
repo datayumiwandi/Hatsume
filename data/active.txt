@@ -1,13 +1,13 @@
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
-129.226.150.167,443,SG,6 collyer
-129.150.35.29,587,SG,oracle corporation
-168.138.189.91,443,SG,oracle public
-47.74.8.30,2443,JP,alibaba cloud
-103.125.216.22,8443,JP,vpsserver.com 24
-107.172.180.56,443,US,racknerd
-185.186.245.90,443,US,inxy ltd.
-47.254.255.125,443,MY,alibaba cloud 2
-47.250.59.132,443,MY,alibaba cloud 3
+194.127.193.240,50791,SG,greencloud
+34.143.159.175,443,SG,google
+185.81.28.95,30503,SG,akile ltd
+139.162.102.152,7002,JP,akamai connected
+217.142.230.253,587,JP,oracle corporation
+185.162.216.47,2053,US,dedfiberco
+154.21.90.8,2443,US,dmit cloud
+47.250.139.59,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
