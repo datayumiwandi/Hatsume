@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-129.150.36.188,53435,SG,oracle corporation
-168.138.170.211,53702,SG,oracle public
-213.35.100.31,47112,SG,oracle svenska
-193.123.161.116,443,JP,oracle corporation 2
-138.3.222.33,443,JP,oracle network
-47.102.212.166,443,US,amazon technologies
-74.48.142.15,6061,US,multacom corporation
-47.250.139.59,443,MY,alibaba cloud
-45.89.107.118,443,MY,worktitans b.v.
+43.134.164.53,443,SG,6 collyer
+51.79.158.58,2053,SG,ovh singapore
+194.36.179.17,8443,SG,first server
+103.106.228.126,2053,JP,oneprovider.com -
+141.147.147.180,443,JP,oracle corporation
+192.243.112.82,443,US,it7 networks
+74.48.221.141,26255,US,multacom corporation
+155.254.60.225,443,MY,evoxt.com
+47.250.139.249,443,MY,alibaba cloud
