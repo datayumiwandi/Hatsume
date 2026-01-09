@@ -1,12 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-20.247.137.183,443,SG,microsoft corporation
-43.134.164.53,443,SG,6 collyer
-31.192.238.71,2053,SG,pdk
-141.147.144.15,13357,JP,oracle corporation
-8.209.220.50,21273,JP,shiodome sumitomo
-142.171.220.62,16046,US,multacom corporation
-143.42.4.34,443,US,linode
+103.6.207.108,8080,ID,pusat media
+31.97.50.106,443,ID,hostinger international
+156.244.1.250,8443,ID,lightnode
+140.245.53.45,443,SG,oracle corporation
+54.255.217.120,8192,SG,amazon data
+213.35.108.135,12596,SG,oracle svenska
+152.70.101.24,16038,JP,oracle corporation 2
+141.147.152.229,23333,JP,oracle corporation 3
+104.167.197.86,8443,US,3hcloud
+209.141.33.79,2053,US,buyvm services
 58.27.117.24,443,MY,tmnet
-47.254.255.125,443,MY,alibaba cloud
+45.89.107.118,443,MY,worktitans b.v.
