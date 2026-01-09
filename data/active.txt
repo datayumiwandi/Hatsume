@@ -1,13 +1,13 @@
 103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-156.244.1.250,8443,ID,lightnode
-104.234.151.10,8443,SG,moechuang network
-31.192.238.71,2053,SG,pdk
-168.138.165.174,443,SG,oracle public
-158.101.77.33,443,JP,oracle public 2
-38.180.28.163,8443,JP,3nt solutions
-193.32.177.101,443,US,baykov ilya
-45.15.124.7,12217,US,egihosting
+66.42.51.60,8443,SG,sgpvultrcust
+3.0.50.69,443,SG,amazon data
+160.22.79.155,443,SG,onidel pty
+152.70.101.24,16667,JP,oracle corporation
+132.145.127.203,2053,JP,oracle public
+45.135.229.93,2053,US,g-core labs
+138.128.247.246,443,US,cloud web
 47.250.59.132,443,MY,alibaba cloud
-47.250.139.59,443,MY,alibaba cloud 2
+47.250.132.147,443,MY,alibaba cloud 2
