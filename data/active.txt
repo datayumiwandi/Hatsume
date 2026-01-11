@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-51.79.158.58,2053,SG,ovh singapore
-20.247.137.183,443,SG,microsoft corporation
-139.99.124.165,443,SG,ovh singapor
-38.180.28.163,8443,JP,3nt solutions
-217.142.236.93,443,JP,oracle svenska
-35.185.54.229,27207,US,google
-104.168.35.194,56393,US,colocrossing
-38.60.193.247,13300,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+138.2.89.238,43254,SG,oracle corporation
+129.150.36.188,53435,SG,oracle corporation 2
+164.52.2.99,443,SG,ucul-sg
+131.186.63.89,11655,JP,oracle public
+152.70.101.24,16666,JP,oracle corporation 3
+23.94.56.111,20338,US,racknerd
+142.171.156.141,21182,US,multacom corporation
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
