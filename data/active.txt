@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
-168.138.170.211,53702,SG,oracle public
-185.81.28.95,30503,SG,akile ltd
-5.34.176.119,81,SG,green floid
-168.138.198.7,27560,JP,oracle public 2
-152.70.101.24,16063,JP,oracle corporation
-172.82.16.38,30387,US,olink cloud
-192.227.178.102,2053,US,racknerd
+138.2.89.238,43254,SG,oracle corporation
+164.52.2.98,443,SG,ucul-sg
+146.235.18.248,45137,SG,oracle corporation 2
+139.162.102.152,7002,JP,akamai connected
+172.104.127.132,443,JP,linode
+34.212.240.129,443,US,amazon technologies
+185.186.245.40,81,US,inxy ltd.
+47.254.255.125,443,MY,alibaba cloud
 58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
