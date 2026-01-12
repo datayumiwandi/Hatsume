@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-31.97.50.106,443,ID,hostinger international
-36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-139.180.159.133,443,SG,sgpvultrcust
-168.138.165.174,443,SG,oracle public
-104.234.233.57,35911,SG,unknown
-147.45.49.164,24443,JP,global connectivity
-150.230.204.21,10243,JP,oracle corporation
-74.48.157.173,443,US,multacom corporation
-45.62.104.107,443,US,it7 networks
-38.60.193.247,13300,MY,kaopu cloud
-45.159.51.121,32199,MY,kaopu cloud 2
+31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+13.212.213.77,8443,SG,amazon data
+91.192.81.154,8443,SG,melbikomas uab
+138.2.95.33,17465,SG,oracle corporation
+140.83.57.20,13118,JP,imported inetnum
+35.78.229.176,443,JP,amazon data 2
+35.175.188.144,9000,US,amazon technologies
+38.180.146.215,443,US,3nt solutions
+58.27.117.24,443,MY,tmnet
+45.159.51.121,32199,MY,kaopu cloud
