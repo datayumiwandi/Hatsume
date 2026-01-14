@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-5.34.176.119,81,SG,green floid
-194.127.193.240,50791,SG,greencloud
-138.2.95.33,17465,SG,oracle corporation
-158.101.154.245,47001,JP,oracle public
-185.18.222.208,2053,JP,jurgita jurgaitiene
-142.171.220.62,16922,US,multacom corporation
-192.210.143.111,28425,US,racknerd
-58.27.117.24,443,MY,tmnet
-45.159.51.121,32199,MY,kaopu cloud
+103.6.207.108,8080,ID,pusat media
+5.223.47.32,443,SG,hetzner online
+150.109.11.223,443,SG,16 collyer
+31.192.238.71,8443,SG,pdk
+35.78.229.176,443,JP,amazon data
+141.147.152.229,23333,JP,oracle corporation
+142.171.220.62,16081,US,multacom corporation
+103.35.188.120,8443,US,worktitans b.v.
+45.89.107.118,443,MY,worktitans b.v. 2
+155.254.60.225,443,MY,evoxt.com
