@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-8.222.220.81,25435,SG,alibaba cloud
-5.34.176.119,81,SG,green floid
+156.244.1.250,8443,ID,lightnode
 164.52.2.100,443,SG,ucul-sg
-193.246.161.65,54310,JP,akile ltd
-8.209.220.50,21273,JP,shiodome sumitomo
-154.21.90.8,2443,US,dmit cloud
-92.118.10.56,443,US,first server
-47.254.255.125,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+129.226.150.167,443,SG,6 collyer
+146.235.19.79,28983,SG,oracle corporation
+202.84.53.85,19999,JP,azumino network
+141.147.178.249,37043,JP,oracle corporation 2
+34.105.49.234,443,US,google
+23.106.155.178,802,US,it7 networks
+45.89.107.118,443,MY,worktitans b.v.
+155.254.60.225,443,MY,evoxt.com
