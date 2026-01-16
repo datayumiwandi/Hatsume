@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
+103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-104.43.91.69,443,SG,microsoft corporation
-43.134.164.53,443,SG,6 collyer
+156.244.1.250,8443,ID,lightnode
+164.52.2.98,443,SG,ucul-sg
 143.42.66.91,443,SG,viewqwest pte
-158.101.146.3,44872,JP,oracle public
-140.238.37.103,14782,JP,oracle public 2
-80.209.242.177,8443,US,hostkey
-198.12.95.66,8443,US,hostpapa
-155.254.60.225,443,MY,evoxt enterprise
-47.250.59.132,443,MY,alibaba cloud
+146.235.19.79,28983,SG,oracle corporation
+141.147.152.229,23333,JP,oracle corporation 2
+35.78.229.176,443,JP,amazon data
+143.42.190.254,443,US,linode
+86.104.72.16,443,US,worktitans b.v.
+58.27.117.24,443,MY,tmnet
+47.250.139.59,443,MY,alibaba cloud
