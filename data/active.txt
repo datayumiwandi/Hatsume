@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
+36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-5.34.176.119,81,SG,green floid
-47.74.254.191,8900,SG,alibaba cloud
-139.99.124.165,443,SG,ovh singapor
-152.70.101.24,16030,JP,oracle corporation
-152.70.101.24,16087,JP,oracle corporation 2
-38.180.40.116,2053,US,3nt solutions
-65.49.203.14,443,US,it7 networks
-45.89.107.118,443,MY,worktitans b.v.
-45.159.51.121,32199,MY,kaopu cloud
+31.97.50.106,443,ID,hostinger international
+213.35.100.31,47112,SG,oracle svenska
+64.235.43.144,443,SG,singapore sg
+168.138.171.70,23280,SG,oracle public
+193.246.161.65,54310,JP,akile ltd
+152.70.101.24,16001,JP,oracle corporation
+65.49.195.163,14828,US,it7 networks
+5.78.84.126,443,US,hetzner online
+38.60.193.247,13300,MY,kaopu cloud
+47.250.59.132,443,MY,alibaba cloud
