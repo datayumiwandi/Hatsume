@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
-66.42.51.60,8443,SG,sgpvultrcust
-168.138.170.211,53702,SG,oracle public
-91.192.81.154,2053,SG,melbikomas uab
-8.209.220.50,21273,JP,shiodome sumitomo
-38.180.28.163,2053,JP,3nt solutions
-95.181.173.131,8443,US,aeza international
-142.171.220.62,16002,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
+138.2.95.33,17465,SG,oracle corporation
+34.143.159.175,443,SG,google
+165.154.203.69,443,SG,scloud pte
+138.2.10.149,45638,JP,oracle corporation 2
+158.101.154.245,47001,JP,oracle public
+31.172.79.194,443,US,m247 ltd
+92.118.10.173,443,US,first server
 45.159.51.121,32199,MY,kaopu cloud
+45.89.107.118,443,MY,worktitans b.v.
