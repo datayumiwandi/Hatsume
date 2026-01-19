@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-5.34.176.119,81,SG,green floid
-139.99.124.165,443,SG,ovh singapor
-47.74.254.191,8900,SG,alibaba cloud
-152.70.101.24,16404,JP,oracle corporation
-152.70.101.24,16054,JP,oracle corporation 2
-107.175.254.239,39128,US,racknerd
-31.59.136.248,2053,US,cgi global
+156.244.1.250,8443,ID,lightnode
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+213.35.100.31,47112,SG,oracle svenska
+47.130.35.116,8888,SG,amazon data
+194.127.193.124,24467,SG,greencloud
+158.101.76.55,21953,JP,oracle public
+172.104.127.132,443,JP,linode
+107.172.201.15,8443,US,racknerd
+37.1.208.111,8443,US,iroko networks
 58.27.117.24,443,MY,tmnet
 45.89.107.118,443,MY,worktitans b.v.
