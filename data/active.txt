@@ -1,13 +1,13 @@
-36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-156.244.1.250,8443,ID,lightnode
-43.134.164.53,443,SG,6 collyer
-5.223.47.32,443,SG,hetzner online
+36.95.152.58,12137,ID,telekomunikasi indonesia
+194.127.193.240,50791,SG,greencloud
+104.234.151.10,8443,SG,moechuang network
 165.154.203.69,443,SG,scloud pte
-132.145.127.203,2053,JP,oracle public
-168.138.197.147,12345,JP,oracle public 2
-154.19.242.20,443,US,starcloud global
-47.89.136.31,36301,US,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
-47.250.139.59,443,MY,alibaba cloud 3
+8.216.121.234,51922,JP,alibaba cloud
+158.101.77.33,443,JP,oracle public
+35.185.54.229,27251,US,google
+47.252.4.59,38181,US,alibaba cloud 2
+47.250.59.132,443,MY,alibaba cloud 3
+58.27.117.24,443,MY,tmnet
