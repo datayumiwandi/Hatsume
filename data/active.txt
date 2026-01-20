@@ -1,13 +1,13 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-104.234.151.10,8443,SG,moechuang network
-165.154.203.69,443,SG,scloud pte
-129.150.35.29,587,SG,oracle corporation
-47.74.8.30,2443,JP,alibaba cloud
-141.147.162.24,1235,JP,oracle corporation 2
-5.78.58.218,443,US,hetzner online
-20.36.131.211,443,US,microsoft corporation
-45.159.51.121,32199,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud 2
+31.97.50.106,443,ID,hostinger international
+13.212.213.77,8443,SG,amazon data
+43.156.116.194,443,SG,6 collyer
+43.134.164.53,443,SG,6 collyer 2
+141.147.185.15,443,JP,oracle corporation
+155.248.181.189,443,JP,oracle public
+172.82.16.38,25953,US,olink cloud
+107.172.137.69,8443,US,racknerd
+58.27.117.24,443,MY,tmnet
+45.89.107.118,443,MY,worktitans b.v.
