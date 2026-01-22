@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-104.234.233.57,35911,SG,unknown
-43.156.116.194,443,SG,6 collyer
-13.250.31.132,443,SG,amazon data
-138.2.48.109,26412,JP,oracle corporation
-158.101.152.6,2919,JP,oracle public
-34.94.2.102,443,US,google
-31.169.125.150,443,US,baykov ilya
-47.254.255.125,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+185.81.28.95,30503,SG,akile ltd
+104.234.151.10,8443,SG,moechuang network
+194.127.193.124,24467,SG,greencloud
+202.84.53.85,12145,JP,azumino network
+141.147.147.180,443,JP,oracle corporation
+129.159.84.71,443,US,oracle corporation 2
+104.168.62.119,443,US,racknerd
+155.254.60.225,443,MY,evoxt enterprise
+47.250.132.147,443,MY,alibaba cloud
