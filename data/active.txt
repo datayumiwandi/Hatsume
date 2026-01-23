@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
+31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
 156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
-194.127.193.124,24467,SG,greencloud
-34.143.159.175,443,SG,google
-146.235.18.248,45137,SG,oracle corporation
-138.2.10.149,45638,JP,oracle corporation 2
-138.3.217.167,587,JP,oracle network
-142.171.220.62,16056,US,multacom corporation
-38.180.40.116,8443,US,3nt solutions
-38.60.193.247,13300,MY,kaopu cloud
+103.6.207.108,8080,ID,pusat media
+140.245.53.45,443,SG,oracle corporation
+168.138.165.174,443,SG,oracle public
+43.134.164.53,443,SG,6 collyer
+103.106.0.123,443,JP,worktitans b.v.
+154.31.114.136,443,JP,unknown
+129.146.6.2,929,US,oracle corporation 2
+91.236.230.121,443,US,bluevps ou
 58.27.117.24,443,MY,tmnet
+47.254.255.125,443,MY,alibaba cloud
