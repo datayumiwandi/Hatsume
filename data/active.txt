@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
 31.97.50.106,443,ID,hostinger international
-164.52.2.100,443,SG,ucul-sg
-43.252.21.100,443,SG,specialist
-47.130.35.116,8888,SG,amazon data
-3.112.21.102,443,JP,amazon data 2
-138.2.59.96,10129,JP,oracle corporation
-142.171.94.100,9960,US,multacom corporation
-185.186.245.42,81,US,inxy ltd.
-155.254.60.225,443,MY,evoxt enterprise
+194.127.193.124,24467,SG,greencloud
+34.143.159.175,443,SG,google
+146.235.18.248,45137,SG,oracle corporation
+138.2.10.149,45638,JP,oracle corporation 2
+138.3.217.167,587,JP,oracle network
+142.171.220.62,16056,US,multacom corporation
+38.180.40.116,8443,US,3nt solutions
 38.60.193.247,13300,MY,kaopu cloud
+58.27.117.24,443,MY,tmnet
