@@ -1,13 +1,13 @@
+31.97.50.106,443,ID,hostinger international
+156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-156.244.1.250,8443,ID,lightnode
-31.97.50.106,443,ID,hostinger international
-64.235.43.144,443,SG,singapore sg
-194.36.179.5,2053,SG,first server
-143.42.66.91,443,SG,viewqwest pte
-138.2.39.24,443,JP,oracle corporation
-45.11.1.118,44004,JP,cegrgo-digitalvm -
-192.9.137.193,8443,US,oracle corporation 2
-129.153.112.108,3966,US,oracle corporation 3
-47.254.255.125,443,MY,alibaba cloud
+138.2.64.229,443,SG,oracle corporation
+31.192.238.71,2053,SG,pdk
+91.192.81.154,2053,SG,melbikomas uab
+168.138.197.147,12345,JP,oracle public
+103.106.0.123,443,JP,worktitans b.v.
+154.40.46.28,46757,US,netlab global
+5.78.84.126,443,US,hetzner online
 45.159.51.121,32199,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
