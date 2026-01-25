@@ -1,13 +1,13 @@
-156.244.1.250,8443,ID,lightnode
-36.95.152.58,12137,ID,telekomunikasi indonesia
-31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-13.250.31.132,443,SG,amazon data
-168.138.165.174,443,SG,oracle public
-194.36.179.5,2053,SG,first server
-217.142.236.93,443,JP,oracle svenska
-138.2.10.149,45638,JP,oracle corporation
-159.69.162.184,42443,US,corporate network
-142.171.3.228,443,US,multacom corporation
-47.250.59.132,443,MY,alibaba cloud
-47.250.139.249,443,MY,alibaba cloud 2
+31.97.50.106,443,ID,hostinger international
+36.95.152.58,12137,ID,telekomunikasi indonesia
+156.244.1.250,8443,ID,lightnode
+43.156.181.203,443,SG,16 collyer
+64.235.43.144,443,SG,singapore sg
+43.134.164.53,443,SG,6 collyer
+154.31.114.136,443,JP,unknown
+158.101.146.3,54516,JP,oracle public
+142.171.220.62,16065,US,multacom corporation
+165.1.65.220,55200,US,oracle corporation
+47.254.255.125,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
