@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
-8.222.220.81,25435,SG,alibaba cloud
-165.154.203.69,443,SG,scloud pte
-140.245.53.45,443,SG,oracle corporation
-152.70.101.24,16054,JP,oracle corporation 2
-153.121.45.101,443,JP,sakura internet
-195.123.240.40,81,US,green floid
-206.223.84.247,443,US,atlantic cellular
-47.250.139.59,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+129.226.150.167,443,SG,6 collyer
+138.2.69.236,23334,SG,oracle corporation
+124.156.202.172,443,SG,16 collyer
+152.70.101.24,16056,JP,oracle corporation 2
+43.165.183.43,443,JP,16 collyer 2
+194.113.37.242,2053,US,cloudbackbone
+142.171.220.62,16667,US,multacom corporation
+47.254.255.125,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
