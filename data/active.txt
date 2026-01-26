@@ -1,13 +1,13 @@
+103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-5.223.47.32,443,SG,hetzner online
-158.178.229.178,443,SG,oracle corporation
-13.250.31.132,443,SG,amazon data
-23.106.132.54,443,JP,it7 networks
-168.138.197.147,12345,JP,oracle public
-185.186.245.22,81,US,inxy ltd.
-44.217.235.114,2053,US,amazon data 2
-47.254.255.125,443,MY,alibaba cloud
+5.34.176.119,81,SG,green floid
+129.150.36.188,53435,SG,oracle corporation
+47.74.254.191,8900,SG,alibaba cloud
+150.230.204.21,10243,JP,oracle corporation 2
+8.209.220.50,21273,JP,shiodome sumitomo
+15.204.205.208,449,US,ovh us
+47.90.181.148,443,US,alibaba cloud 2
+45.159.51.121,32199,MY,kaopu cloud
 58.27.117.24,443,MY,tmnet
