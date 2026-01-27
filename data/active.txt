@@ -1,12 +1,12 @@
-156.244.1.250,8443,ID,lightnode
+31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-104.43.91.69,443,SG,microsoft corporation
-5.34.176.119,81,SG,green floid
-138.2.64.229,443,SG,oracle corporation
-168.138.212.80,443,JP,oracle public
-172.104.117.43,12452,JP,linode
-142.171.220.62,16002,US,multacom corporation
-198.160.7.51,443,US,perfecto mobile
+5.223.47.32,443,SG,hetzner online
+3.0.50.69,443,SG,amazon data
+13.212.213.77,8443,SG,amazon data 2
+152.70.101.24,16096,JP,oracle corporation
+202.84.53.85,12145,JP,azumino network
+144.34.228.162,443,US,cluster logic
+107.174.121.46,443,US,racknerd
+45.159.51.121,32199,MY,kaopu cloud
 47.254.255.125,443,MY,alibaba cloud
-58.27.117.24,443,MY,tmnet
