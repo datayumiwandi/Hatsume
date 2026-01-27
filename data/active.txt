@@ -1,12 +1,12 @@
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-138.2.78.38,1443,SG,oracle corporation
-194.127.193.240,50791,SG,greencloud
-43.134.164.53,443,SG,6 collyer
-158.101.76.55,21953,JP,oracle public
-103.106.0.123,443,JP,worktitans b.v.
-18.216.55.100,443,US,amazon technologies
-74.48.179.37,10725,US,multacom corporation
-155.254.60.225,443,MY,evoxt enterprise
-47.254.255.125,443,MY,alibaba cloud
+146.235.18.248,45137,SG,oracle corporation
+5.223.47.32,443,SG,hetzner online
+164.52.2.100,443,SG,ucul-sg
+138.2.39.24,443,JP,oracle corporation 2
+158.101.146.3,44872,JP,oracle public
+31.57.118.168,2053,US,cgi global
+65.49.218.243,443,US,it7 networks
+47.250.59.132,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
