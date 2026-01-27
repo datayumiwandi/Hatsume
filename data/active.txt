@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-47.74.254.191,8900,SG,alibaba cloud
+47.130.35.116,8888,SG,amazon data
 194.36.179.17,2053,SG,first server
-138.2.64.229,443,SG,oracle corporation
-140.238.50.134,443,JP,oracle public
-202.84.53.85,19999,JP,azumino network
-193.122.195.166,52557,US,oracle public 2
-154.9.227.100,443,US,netlab
-45.159.51.121,32199,MY,kaopu cloud
-47.250.139.59,443,MY,alibaba cloud 2
+164.52.2.98,443,SG,ucul-sg
+141.147.147.180,443,JP,oracle corporation
+103.125.216.22,8443,JP,vpsserver.com 24
+47.90.181.148,443,US,alibaba cloud
+142.171.220.62,16055,US,multacom corporation
+47.250.139.249,443,MY,alibaba cloud 2
+47.250.59.132,443,MY,alibaba cloud 3
