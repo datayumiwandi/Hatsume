@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
-213.35.108.135,12596,SG,oracle svenska
-43.134.164.53,443,SG,6 collyer
-139.99.124.165,443,SG,ovh singapor
-8.209.220.50,21273,JP,shiodome sumitomo
-217.142.236.93,443,JP,oracle svenska 2
-142.171.220.62,16992,US,multacom corporation
-89.36.163.29,2053,US,melbikomas uab
+164.52.2.98,443,SG,ucul-sg
+194.36.179.5,2053,SG,first server
+168.138.189.91,443,SG,oracle public
+150.230.214.172,16957,JP,oracle corporation
+202.84.53.85,19999,JP,azumino network
+198.251.81.70,443,US,frantech solutions
+107.173.80.146,2059,US,racknerd
 45.159.51.121,32199,MY,kaopu cloud
-155.254.60.225,443,MY,evoxt enterprise
+38.60.193.247,13300,MY,kaopu cloud 2
