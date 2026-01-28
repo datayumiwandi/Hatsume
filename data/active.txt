@@ -1,12 +1,12 @@
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-146.235.18.248,45137,SG,oracle corporation
-5.223.47.32,443,SG,hetzner online
-164.52.2.100,443,SG,ucul-sg
-138.2.39.24,443,JP,oracle corporation 2
-158.101.146.3,44872,JP,oracle public
-31.57.118.168,2053,US,cgi global
-65.49.218.243,443,US,it7 networks
-47.250.59.132,443,MY,alibaba cloud
-47.250.132.147,443,MY,alibaba cloud 2
+194.36.179.5,2053,SG,first server
+104.234.233.57,35911,SG,unknown
+66.42.51.60,8443,SG,sgpvultrcust
+138.2.10.149,45638,JP,oracle corporation
+140.83.57.114,25965,JP,imported inetnum
+38.180.91.119,2053,US,3nt solutions
+104.225.153.70,443,US,cluster logic
+47.250.139.59,443,MY,alibaba cloud
+47.254.255.125,443,MY,alibaba cloud 2
