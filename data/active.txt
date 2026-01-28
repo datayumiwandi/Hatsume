@@ -1,12 +1,12 @@
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
-194.36.179.5,2053,SG,first server
-104.234.233.57,35911,SG,unknown
-66.42.51.60,8443,SG,sgpvultrcust
+54.255.217.120,8192,SG,amazon data
+34.143.159.175,443,SG,google
+164.52.2.100,443,SG,ucul-sg
 138.2.10.149,45638,JP,oracle corporation
-140.83.57.114,25965,JP,imported inetnum
-38.180.91.119,2053,US,3nt solutions
-104.225.153.70,443,US,cluster logic
-47.250.139.59,443,MY,alibaba cloud
-47.254.255.125,443,MY,alibaba cloud 2
+45.11.1.118,44004,JP,cegrgo-digitalvm -
+141.148.1.34,38589,US,oracle corporation 2
+18.216.55.100,443,US,amazon technologies
+45.159.51.121,32199,MY,kaopu cloud
+47.250.132.147,443,MY,alibaba cloud
