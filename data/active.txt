@@ -2,11 +2,11 @@
 31.97.50.106,443,ID,hostinger international
 36.95.152.58,12137,ID,telekomunikasi indonesia
 194.127.193.124,24467,SG,greencloud
-64.235.43.144,443,SG,singapore sg
-146.235.19.79,28983,SG,oracle corporation
-152.70.101.24,16048,JP,oracle corporation 2
-158.101.76.55,21953,JP,oracle public
-141.148.1.34,38589,US,oracle corporation 3
-159.69.162.184,10020,US,corporate network
-47.250.139.59,443,MY,alibaba cloud
-155.254.60.225,443,MY,evoxt enterprise
+43.156.116.194,443,SG,6 collyer
+194.36.179.17,8443,SG,first server
+141.147.178.249,37043,JP,oracle corporation
+141.147.152.229,23333,JP,oracle corporation 2
+159.60.146.82,443,US,f5 networks
+170.130.40.20,443,US,eonix corporation
+58.27.117.24,443,MY,tmnet
+47.250.139.249,443,MY,alibaba cloud
