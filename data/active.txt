@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-213.35.108.135,12596,SG,oracle svenska
-167.88.172.224,443,SG,routerhosting
-129.150.36.188,53435,SG,oracle corporation
-202.84.53.85,12145,JP,azumino network
-138.2.59.96,10129,JP,oracle corporation 2
-172.82.16.38,27053,US,olink cloud
-23.95.252.186,8443,US,hostpapa
+146.235.19.79,28983,SG,oracle corporation
+51.79.158.58,8443,SG,ovh singapore
+194.36.179.17,8443,SG,first server
+132.145.127.203,8443,JP,oracle public
+109.123.231.212,443,JP,contabo gmbh
+154.40.46.28,46757,US,netlab global
+87.107.104.140,443,US,host4nerd
 58.27.117.24,443,MY,tmnet
-47.250.139.59,443,MY,alibaba cloud
+155.254.60.225,443,MY,evoxt enterprise
