@@ -1,12 +1,12 @@
 103.6.207.108,8080,ID,pusat media
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
+91.192.81.154,8443,SG,melbikomas uab
+3.0.50.69,443,SG,amazon data
 129.150.58.86,57621,SG,oracle corporation
-52.76.110.129,20001,SG,amazon technologies
-91.192.81.154,2053,SG,melbikomas uab
-103.125.216.22,8443,JP,vpsserver.com 24
-152.69.199.70,8443,JP,oracle corporation 2
-142.171.140.152,443,US,multacom corporation
-38.180.40.72,8443,US,3nt solutions
-47.254.255.125,443,MY,alibaba cloud
-45.159.51.121,32199,MY,kaopu cloud
+185.18.222.208,2053,JP,jurgita jurgaitiene
+64.110.101.31,8443,JP,oracle corporation 2
+147.135.10.209,443,US,ovh us
+172.82.16.38,25122,US,olink cloud
+58.27.117.24,443,MY,tmnet
+38.60.193.247,13300,MY,kaopu cloud
