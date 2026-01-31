@@ -1,12 +1,12 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-167.88.172.224,443,SG,routerhosting
-168.138.189.91,443,SG,oracle public
-150.109.11.223,443,SG,16 collyer
-43.133.10.236,33405,JP,6 collyer
-35.78.229.176,443,JP,amazon data
-47.88.15.127,443,US,alibaba cloud
-142.171.220.62,16080,US,multacom corporation
-45.159.51.121,32199,MY,kaopu cloud
-47.254.255.125,443,MY,alibaba cloud 2
+66.42.51.60,8443,SG,sgpvultrcust
+43.156.181.203,443,SG,16 collyer
+168.138.171.70,23280,SG,oracle public
+158.101.146.3,54516,JP,oracle public 2
+140.83.83.65,9872,JP,oracle corporation
+74.48.142.15,6061,US,multacom corporation
+154.40.46.28,46757,US,netlab global
+155.254.60.225,443,MY,evoxt enterprise
+58.27.117.24,443,MY,tmnet
