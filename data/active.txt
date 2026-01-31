@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-31.192.238.71,8443,SG,pdk
-140.245.53.45,443,SG,oracle corporation
-31.192.238.71,2053,SG,pdk 2
-138.2.49.197,587,JP,oracle corporation 2
-141.147.159.250,443,JP,oracle corporation 3
-159.69.162.184,42424,US,corporate network
-107.172.137.69,8443,US,racknerd
+3.0.50.69,443,SG,amazon data
+164.52.2.98,443,SG,ucul-sg
+139.99.124.165,443,SG,ovh singapor
+158.101.146.3,44872,JP,oracle public
+43.165.183.43,443,JP,16 collyer
+38.180.91.119,2053,US,3nt solutions
+89.116.171.101,443,US,ethernet servers
 155.254.60.225,443,MY,evoxt enterprise
-58.27.117.24,443,MY,tmnet
+45.159.51.121,32199,MY,kaopu cloud
