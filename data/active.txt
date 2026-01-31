@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 36.95.152.58,12137,ID,telekomunikasi indonesia
 103.6.207.108,8080,ID,pusat media
-194.127.193.124,24467,SG,greencloud
-168.138.165.174,443,SG,oracle public
-5.34.176.119,81,SG,green floid
-3.112.21.102,443,JP,amazon data
-202.84.53.85,12145,JP,azumino network
-45.156.24.61,2053,US,as56971 network
-162.220.13.14,8443,US,xl
+64.235.43.144,443,SG,singapore sg
+138.2.95.61,1111,SG,oracle corporation
+164.52.2.98,443,SG,ucul-sg
+138.2.32.76,15821,JP,oracle corporation 2
+217.142.236.93,443,JP,oracle svenska
+142.171.220.62,16077,US,multacom corporation
+143.20.207.45,8443,US,internet utilities
 58.27.117.24,443,MY,tmnet
 45.159.51.121,32199,MY,kaopu cloud
