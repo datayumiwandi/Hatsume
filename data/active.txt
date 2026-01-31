@@ -1,12 +1,12 @@
 36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 103.6.207.108,8080,ID,pusat media
-43.252.21.100,443,SG,specialist
-185.81.28.95,30503,SG,akile ltd
-150.109.11.223,443,SG,16 collyer
-140.83.57.183,22735,JP,imported inetnum
-139.162.102.152,7002,JP,akamai connected
+31.192.238.71,2053,SG,pdk
+47.130.35.116,8888,SG,amazon data
+194.36.179.5,2053,SG,first server
+158.101.76.55,21953,JP,oracle public
+158.101.77.33,443,JP,oracle public 2
+38.180.82.166,2053,US,3nt solutions
 65.49.216.135,8443,US,it7 networks
-129.159.84.71,443,US,oracle corporation
-47.254.255.125,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud
 47.250.59.132,443,MY,alibaba cloud 2
