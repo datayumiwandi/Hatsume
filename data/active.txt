@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
+194.127.193.124,24467,SG,greencloud
 129.150.35.29,587,SG,oracle corporation
-104.234.151.10,8443,SG,moechuang network
-91.192.81.154,2053,SG,melbikomas uab
-3.112.21.102,443,JP,amazon data
-141.147.161.249,51037,JP,oracle corporation 2
-51.81.209.10,443,US,ovh us
-193.233.204.4,443,US,baxet group
-38.60.193.247,13300,MY,kaopu cloud
-47.250.59.132,443,MY,alibaba cloud
+104.234.233.57,35911,SG,unknown
+138.2.18.82,8880,JP,oracle corporation 2
+138.2.49.197,587,JP,oracle corporation 3
+65.49.195.163,14828,US,it7 networks
+142.171.220.62,16094,US,multacom corporation
+45.159.51.121,32199,MY,kaopu cloud
+155.254.60.225,443,MY,evoxt enterprise
