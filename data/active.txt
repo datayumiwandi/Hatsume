@@ -1,12 +1,12 @@
 156.244.1.250,8443,ID,lightnode
 103.6.207.108,8080,ID,pusat media
 31.97.50.106,443,ID,hostinger international
-51.79.158.58,8443,SG,ovh singapore
 164.52.2.100,443,SG,ucul-sg
-158.178.229.178,443,SG,oracle corporation
-152.70.101.24,16059,JP,oracle corporation 2
-193.123.161.116,443,JP,oracle corporation 3
-107.173.181.236,7700,US,racknerd
-142.171.220.62,16044,US,multacom corporation
-47.250.139.249,443,MY,alibaba cloud
-38.60.193.247,13300,MY,kaopu cloud
+138.2.89.238,43254,SG,oracle corporation
+164.52.2.98,443,SG,ucul-sg 2
+140.83.57.20,13118,JP,imported inetnum
+141.147.159.250,443,JP,oracle corporation 2
+38.180.40.72,2053,US,3nt solutions
+148.135.76.112,443,US,brander group
+45.159.51.121,32199,MY,kaopu cloud
+38.60.193.247,13300,MY,kaopu cloud 2
