@@ -1,13 +1,12 @@
 103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
 156.244.1.250,8443,ID,lightnode
-124.156.202.172,443,SG,16 collyer
-51.79.158.58,8443,SG,ovh singapore
-164.52.2.98,443,SG,ucul-sg
-8.209.220.50,21273,JP,shiodome sumitomo
-168.138.198.7,27560,JP,oracle public
-194.213.18.85,8443,US,bluevps ou
-142.171.220.62,16881,US,multacom corporation
-47.250.132.147,443,MY,alibaba cloud
-47.250.59.132,443,MY,alibaba cloud 2
+164.52.2.100,443,SG,ucul-sg
+194.127.193.124,24467,SG,greencloud
+138.2.78.38,1443,SG,oracle corporation
+38.180.28.163,2053,JP,3nt solutions
+138.2.10.217,27446,JP,oracle corporation 2
+91.149.239.198,443,US,bg-network
+142.171.220.62,16089,US,multacom corporation
+47.250.59.132,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
