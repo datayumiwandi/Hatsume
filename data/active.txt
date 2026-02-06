@@ -1,13 +1,13 @@
 31.97.50.106,443,ID,hostinger international
-156.244.1.250,8443,ID,lightnode
 43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-129.226.150.167,443,SG,6 collyer
-51.79.158.58,8443,SG,ovh singapore
-194.36.179.17,2053,SG,first server
-172.104.127.132,443,JP,linode
-45.76.100.173,443,JP,vultr holdings
-158.51.125.177,8443,US,quickpacket
-8.221.126.227,443,US,aliyun computing
-38.60.193.247,13300,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
+91.192.81.154,8443,SG,melbikomas uab
+47.74.157.194,443,SG,alibaba cloud
+45.76.183.217,49292,SG,vultr holdings
+45.76.198.248,443,JP,vultr holdings 2
+140.238.50.134,443,JP,oracle public
+38.180.40.69,8443,US,3nt solutions
+45.82.161.142,8443,US,gcore labs
+58.27.117.24,443,MY,tmnet
+47.250.139.249,443,MY,alibaba cloud 2
