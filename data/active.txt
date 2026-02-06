@@ -1,13 +1,13 @@
-31.97.50.106,443,ID,hostinger international
-43.218.77.16,1443,ID,amazoncom inc
+43.218.77.16,443,ID,amazoncom inc
 156.244.1.250,8443,ID,lightnode
-103.6.207.108,8080,ID,pusat media
-51.79.158.58,2053,SG,ovh singapore
-167.99.73.22,443,SG,digitalocean
-51.79.158.58,8443,SG,ovh singapore 2
-132.145.127.203,2053,JP,oracle public
-8.216.121.234,51922,JP,alibaba cloud
-104.207.151.11,8443,US,vultr holdings
-193.233.87.9,8443,US,vdskanet
-47.250.59.132,443,MY,alibaba cloud 2
-38.60.193.247,13300,MY,kaopu cloud
+36.95.152.58,12137,ID,telekomunikasi indonesia
+43.218.77.16,1443,ID,amazoncom inc 2
+43.134.164.53,443,SG,6 collyer
+129.150.35.29,587,SG,oracle corporation
+129.150.36.188,53435,SG,oracle corporation 2
+140.83.59.158,15805,JP,imported inetnum
+138.3.217.167,587,JP,oracle network
+199.119.137.109,2053,US,extravm
+142.171.140.152,443,US,multacom corporation
+47.250.132.147,443,MY,alibaba cloud
+45.159.51.121,32199,MY,kaopu cloud
