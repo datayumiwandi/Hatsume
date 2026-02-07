@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
 36.95.152.58,12137,ID,telekomunikasi indonesia
-43.218.77.16,1443,ID,amazoncom inc 2
 156.244.1.250,8443,ID,lightnode
-194.156.163.45,443,SG,misaka network
-150.109.11.223,443,SG,16 collyer
-139.180.159.133,443,SG,sgpvultrcust
-138.2.5.136,443,JP,cloudflare london
-45.77.25.6,48828,JP,vultr holdings
-148.135.118.112,5000,US,brander group
-18.236.13.188,443,US,amazon technologies
+43.218.77.16,1443,ID,amazoncom inc 2
+139.162.4.242,8443,SG,linode
+146.235.18.248,45137,SG,oracle corporation
+47.74.157.194,443,SG,alibaba cloud
+149.28.18.161,443,JP,vultr holdings
+132.145.127.203,2053,JP,oracle public
+198.251.81.70,443,US,frantech solutions
+67.226.220.10,443,US,securly inc
+47.250.132.147,443,MY,alibaba cloud 2
 45.159.51.121,32199,MY,kaopu cloud
-47.250.139.249,443,MY,alibaba cloud
