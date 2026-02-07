@@ -1,13 +1,13 @@
 43.218.77.16,443,ID,amazoncom inc
-31.97.50.106,443,ID,hostinger international
+103.6.207.108,8080,ID,pusat media
 43.218.77.16,1443,ID,amazoncom inc 2
 36.95.152.58,12137,ID,telekomunikasi indonesia
-3.0.50.69,443,SG,amazon data
-104.234.151.10,8443,SG,moechuang network
-152.42.236.151,2053,SG,digitalocean
-103.75.118.144,2053,JP,oneprovidercom japan
-210.231.178.90,443,JP,server hosting
-103.35.188.157,443,US,worktitans
-82.117.252.189,81,US,green floid
+194.36.179.5,2053,SG,first server
+194.36.179.17,8443,SG,first server 2
+138.2.69.236,23334,SG,oracle corporation
+38.180.28.163,2053,JP,3nt solutions
+158.101.146.3,54516,JP,oracle public
+47.88.15.127,443,US,alibaba cloud
+193.233.204.4,443,US,baxet group
 38.60.193.247,13300,MY,kaopu cloud
-47.250.132.147,443,MY,alibaba cloud
+47.250.132.147,443,MY,alibaba cloud 2
