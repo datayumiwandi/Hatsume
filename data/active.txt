@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
 156.244.1.250,8443,ID,lightnode
-43.218.77.16,443,ID,amazoncom inc
+103.6.207.108,8080,ID,pusat media
+36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-158.178.229.178,443,SG,oracle corporation
-165.154.203.69,443,SG,scloud pte
-213.35.108.135,12596,SG,oracle svenska
+104.43.91.69,443,SG,microsoft corporation
+164.52.2.100,443,SG,uculsg
+194.156.163.45,443,SG,misaka network
+140.83.59.158,15805,JP,imported inetnum
 47.74.8.30,2443,JP,alibaba cloud
-103.106.0.123,443,JP,worktitans
-67.226.221.120,80,US,securly inc
-91.149.239.206,443,US,bgnetwork
-47.250.139.249,443,MY,alibaba cloud 2
-58.27.117.24,443,MY,tmnet
+67.226.221.102,443,US,securly inc
+143.20.207.5,8443,US,internet utilities
+47.250.59.132,443,MY,alibaba cloud 2
+47.250.139.249,443,MY,alibaba cloud 3
