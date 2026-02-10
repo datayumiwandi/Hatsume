@@ -1,13 +1,13 @@
-103.6.207.108,8080,ID,pusat media
-36.95.152.58,12137,ID,telekomunikasi indonesia
 31.97.50.106,443,ID,hostinger international
-43.218.77.16,1443,ID,amazoncom inc
-168.138.189.91,443,SG,oracle public
-146.235.19.79,28983,SG,oracle corporation
-194.36.179.17,8443,SG,first server
-103.238.129.215,42734,JP,bytevirt
-217.142.250.195,587,JP,oracle corporation 2
-142.171.220.62,16104,US,multacom corporation
-143.198.31.221,443,US,digitalocean
-38.60.193.247,13300,MY,kaopu cloud
-45.159.51.121,32199,MY,kaopu cloud 2
+103.6.207.108,8080,ID,pusat media
+156.244.1.250,8443,ID,lightnode
+43.218.77.16,443,ID,amazoncom inc
+164.52.2.98,443,SG,uculsg
+66.42.51.60,8443,SG,sgpvultrcust
+138.2.89.238,43254,SG,oracle corporation
+45.63.123.176,443,JP,vultr holdings
+132.145.127.203,8443,JP,oracle public
+34.136.112.104,443,US,google
+15.204.10.80,49404,US,ovh us
+47.254.255.125,443,MY,alibaba cloud
+47.250.139.249,443,MY,alibaba cloud 2
